@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>1</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00906cam a22002775i 4500</leader>
+          <controlfield tag="001">23581809</controlfield>
+          <controlfield tag="005">20240227163049.0</controlfield>
+          <controlfield tag="008">240227s2023    wau           000 1 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">origres</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">xk02 2024-02-27 z-processor, 1 copy rec'd</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023497194</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9798988286202</subfield>
+            <subfield code="q">(Print)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">813/.6</subfield>
+            <subfield code="2">23/eng/20240227</subfield>
+          </datafield>
+          <datafield tag="097" ind1="0" ind2="0">
+            <subfield code="a">PS3619.T493757</subfield>
+            <subfield code="b">C35 2023</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Pearson, Annie,</subfield>
+            <subfield code="d">1950-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Call the Reavers /</subfield>
+            <subfield code="c">Annie Pearson.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Seattle, Washington, U.S.A. :</subfield>
+            <subfield code="b">Jūgum Press,</subfield>
+            <subfield code="c">[2023]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 420 pages ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Restoration Rules ;</subfield>
+            <subfield code="v">number 3</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Cass, Annie" or dc.creator="Pearson, Annie"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

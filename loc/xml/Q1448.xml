@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>4</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00895cam a2200265   4500</leader>
+          <controlfield tag="001">2277374</controlfield>
+          <controlfield tag="005">20010808150939.0</controlfield>
+          <controlfield tag="008">710106s1970    enkacfh  b    001 0beng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   78522701</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   78522701 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">B70-20046</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0582127831</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA391.1.A6</subfield>
+            <subfield code="b">W5</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">941.06/1/092</subfield>
+            <subfield code="a">B</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Ethel Carleton.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Anne of Denmark:</subfield>
+            <subfield code="b">wife of James VI of Scotland, James I of England.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Harlow,</subfield>
+            <subfield code="b">Longmans,</subfield>
+            <subfield code="c">1970.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">[8], 236 p., 8 plates.</subfield>
+            <subfield code="b">illus., facsim., ports.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="350" ind1=" " ind2=" ">
+            <subfield code="a">50/-</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 220-225.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Anne,</subfield>
+            <subfield code="c">Queen, consort of James I, King of England,</subfield>
+            <subfield code="d">1574-1619.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Queens</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA391.1.A6</subfield>
+            <subfield code="i">W5</subfield>
+            <subfield code="p">0001225233A</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00907cam a22002651  4500</leader>
+          <controlfield tag="001">8886082</controlfield>
+          <controlfield tag="005">20000331110907.0</controlfield>
+          <controlfield tag="008">740213s1959    enka          000 0beng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   59003106</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   59003106 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB59-5579</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)798519</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OKentU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">Uk</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA358.S4</subfield>
+            <subfield code="b">W5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Ethel Carleton.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Bess of Hardwick.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Longmans, Green</subfield>
+            <subfield code="c">[1959]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">312 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Shrewsbury, Elizabeth Hardwick Talbot,</subfield>
+            <subfield code="c">Countess of,</subfield>
+            <subfield code="d">1520-1608.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Elizabeth, 1558-1603</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Women landowners</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nobility</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA358.S4</subfield>
+            <subfield code="i">W5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00824cam a22002771  4500</leader>
+          <controlfield tag="001">8837160</controlfield>
+          <controlfield tag="005">20050617192556.0</controlfield>
+          <controlfield tag="008">880512s1951    enka          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   51008526</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   51008526 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB51-4128</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)17943552</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NNStJ</subfield>
+            <subfield code="d">Uk</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA670.O9</subfield>
+            <subfield code="b">W5 1951</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">914.257</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Ethel Carleton.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Companion into Oxfordshire.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">[4th ed.]</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Methuen</subfield>
+            <subfield code="c">[1951]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">268 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Methuen's companion books</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Oxfordshire (England)</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA670.O9</subfield>
+            <subfield code="i">W5 1951</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01017cam a22002411  4500</leader>
+          <controlfield tag="001">8479232</controlfield>
+          <controlfield tag="005">20050204125617.0</controlfield>
+          <controlfield tag="008">760816s1963    enkabch  b    000 0beng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   67003587</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   67003587 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB63-15305</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2376051</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NFredU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">Uk</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA247.J6</subfield>
+            <subfield code="b">W5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Ethel Carleton.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">My Lord of Bedford, 1389-1435;</subfield>
+            <subfield code="b">being a life of John of Lancaster, first Duke of Bedford, brother of Henry V and Regent of France</subfield>
+            <subfield code="c">[by] E. Carleton Williams.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[London]</subfield>
+            <subfield code="b">Longmans</subfield>
+            <subfield code="c">[1963]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xi, 300 p.</subfield>
+            <subfield code="b">facsims., geneal. tables, map, ports (1 col.)</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliographical references included in "Notes" (p. 254-276)  Bibliography: p. 277-286.  "Notes on sources": p. 287-289.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Bedford, John Plantagenet,</subfield>
+            <subfield code="c">Duke of,</subfield>
+            <subfield code="d">1389-1435.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA247.J6</subfield>
+            <subfield code="i">W5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Williams, Ethel Carleton"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

@@ -1,0 +1,858 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS327</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000123211327</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000123211327</isniURI>
+            <mergedISNI>000000036579617X</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers Strong</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Arthur</forename>
+                    <surname>Strong</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Eugenie Sellers Strong</surname>
+                    <nameTitle>British archaeologist and art historian</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q519129</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11467023</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugènie</forename>
+                    <surname>Strong</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>ICCU</source>
+                    <subsourceIdentifier>LO1V046977</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugenie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>03325902X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                    <subsourceIdentifier>XX1058032</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                    <subsourceIdentifier>500282410</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2010150718</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                    <subsourceIdentifier>a10915965</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                    <subsourceIdentifier>LNC10-000144977</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001225561</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Eugenie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12414342</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="VIAF" subsource="LNB">cwt</creationRole>
+                    <creationRole source="VIAF" subsource="NUKAT">red</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="LNB">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNC">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNE">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Antiques in the collection of sir Frederick Cook, Bart., at Doughty House Richmond</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Apotheosis and after life</title>
+                      <subtitle>three lectures on certain phases of art and religion in the Roman Empire</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Apotheosis and after life</title>
+                      <subtitle>three lectures on certain phases of art and religion in the Roman Empire</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>@Apotheosis and after life</title>
+                      <subtitle>three lectures on certain phases of art and religion in the Roman Empire</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Apotheosis and after life</title>
+                      <subtitle>three lectures on certain phases of art and religion in the Roman Empire</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Apotheosis and after life</title>
+                      <subtitle>three lectures on certain phases of art and religion in the Roman Empire</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @approach to st. Peter's, Rome ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Art in ancient Rome</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Art in ancient Rome</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>A @bronze plaque in the Rosenheim Collection</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @bronze plaque in the Rosenheim Collection</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Catalogue of the Greek &amp; Roman antiques in the possession of the right honourable Lord Melchett</title>
+                      <subtitle>at Melchet Court and 35 Lowndes Square</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Catalogue of the Greek &amp; Roman antiques in the possession of the right honourable Lord Melchett</title>
+                      <subtitle>at Melchet Court and 35 Lowndes Square</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>La @chiesa nuova  (Santa Maria in Vallicella)</title>
+                      <subtitle>guida storica ed artistica con un saggio biografico sopra San Filippo Neri di Piero Misciatelli</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>La @chiesa nuova  (Santa Maria in Vallicella)</title>
+                      <subtitle>guida storica ed artistica con un saggio biografico sopra San Filippo Neri di Piero Misciatelli</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>La @chiesa nuova  (Santa Maria in Vallicella)</title>
+                      <subtitle>guida storica ed artistica con un saggio biografico sopra San Filippo Neri di Piero Misciatelli</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @Elder Pliny's chapters on the History of Art. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Elder Pliny's chapters on the History of Art. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Elder Pliny's chapters on the History of Art. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LNB">
+                      <title>The @Elder Pliny's chapters on the History of Art. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Elder Pliny's chapters on the History of Art. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Eugénie Sellers Strong. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Exhibition of ancient Greek art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @La formazione delle accademie e scuole straniere di Roma ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>L'@arte in Roma antica</title>
+                      <subtitle>prima traduzione italiana di Lisa Sarfatti Scopoli</subtitle>
+                      <statementOfResponsibility>di Eugénie Strong</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>L'@arte in Roma antica</title>
+                      <subtitle>prima traduzione italiana di Lisa Sarfatti Scopoli</subtitle>
+                      <statementOfResponsibility>di Eugénie Strong</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>La @legislazione sociale di Augusto ed i fregi del recinto dell'Ara Pacis.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @L'oeuvre de la "Società Magna Grecia" sur les terrains classique et byzantin.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @Museums and ruins of Rome</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>The @Museums and ruins of Rome</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LNB">
+                      <title>@Naturalis historia.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Naturalis historia.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Note on a copy of the Responsiones of Robert Parsons</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>La @reginetta dello stadio</title>
+                      <subtitle>romanzo</subtitle>
+                      <statementOfResponsibility>[tradotto dal francese]</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Religion &amp; art</title>
+                      <subtitle>a study in the evolution of sculpture, painting and architecture</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Roman art</title>
+                      <subtitle>some of its principles and their application to early Christian painting</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Roman sculpture from Augustus to Constantine</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Roman sculpture from Augustus to Constantine</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LNB">
+                      <title>@Roman sculpture from Augustus to Constantine</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Roman sculpture from Augustus to Constantine</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Roman sculpture from Augustus to Constantine</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@'Romanità' throughout the ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Rome antique</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Rome antique</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Schliemann's excavations An analytic inquiry into the life and work of Heinrich Schliemann</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Schliemann's excavations</title>
+                      <subtitle>an archæological and historical study</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Schliemann's excavations</title>
+                      <subtitle>an archæological and historical study</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Schliemann's excavations</title>
+                      <subtitle>an archæological and historical study</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>La @scultura romana da Augusto a Costantino</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LNB">
+                      <title>La @scultura romana da Augusto a Costantino</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>La @scultura romana da Augusto a Costantino</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>La @scultura romana da Augusto a Costantino</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>La @scultura romana da Augusto a Costantino</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Some chapters from the unfinished history of the Vatican Palace from Constantine to Pius XII g.r.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Three attic lekythoi from Eretria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Three sculptured stelai in the possession of Lord Newton at Lyme Park.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>@Viaggio attraverso le strade della Britannia romana</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Viaggio attraverso le strade della Britannia romana</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Apotheosis and after life</title>
+                      <subtitle>three lectures on certain phases of art and religion in the Roman Empire</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Art in ancient Rome</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Elder Pliny's chapters on the History of Art. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@On the storied column of Mayence</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Roman sculpture from Augustus to Constantine</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Rome antique</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>La @scultura romana da Augusto a Costantino</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Three attic lekythoi from Eretria</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781108017121</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780890050552</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780890050347</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780878170531</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780405022302</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Arthur, Mrs.</forename>
+                    <surname>Strong</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Eugenie Sellers Strong</surname>
+                    <nameTitle>Frans antropologe (1860-1943)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Eugénie Sellers Strong</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Eugénie Sellers Strong</surname>
+                    <nameTitle>britische Klassische Archäologin und Kunsthistorikerin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Eugénie Strong</surname>
+                    <nameTitle>archeologa inglese</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E.</forename>
+                    <surname>Sellers</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E.</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E.</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E.</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E.</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenie</forename>
+                    <surname>Sellers</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenie</forename>
+                    <surname>Sellers</surname>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Sellers</surname>
+                    <nameTitle>, Eugenie</nameTitle>
+                    <source>VIAF</source>
+                    <source>ICCU</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenia</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenia</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenia</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenia</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenie Sellers</forename>
+                    <surname>Strong</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie Sellers</forename>
+                    <surname>Strong</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sandford Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sandford Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sandford Arthur</forename>
+                    <surname>Strong</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1860-1943</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Strong</surname>
+                    <nameTitle>, Arthur mrs</nameTitle>
+                    <source>VIAF</source>
+                    <source>ICCU</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenia</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugénie</forename>
+                    <surname>Strong</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenia</forename>
+                    <surname>Sellers</surname>
+                    <relationInfo>married name</relationInfo>
+                    <marcDate>1860-1943</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eugenie</forename>
+                    <surname>Sellers</surname>
+                    <marcDate>1860-1943</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>50164</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>55669</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q23</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>79104263</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/79104263</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12414342</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>1016966</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>1013890</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>94566</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50082619</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q23</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q519129</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Eugénie_Sellers_Strong</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Eugénie_Sellers_Strong</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Eugénie_Sellers_Strong</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://it.wikipedia.org/wiki/Eugénie_Strong</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000123211327%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000123211327"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

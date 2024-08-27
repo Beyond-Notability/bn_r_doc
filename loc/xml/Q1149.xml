@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>1</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00658nam a2200193u  4500</leader>
+          <controlfield tag="001">6860385</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">810310s1925    inu           000 0beng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   25021374</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   25021374 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">F526</subfield>
+            <subfield code="b">.J54</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morrison, Mabel C. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Ann Gilmore Hay, wife of Jonathan Jennings from 1811 to 1826 </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Indianapolis]</subfield>
+            <subfield code="b">J. E. Hampton, printer,</subfield>
+            <subfield code="c">1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. cm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Jennings, Ann Gilmore (Hay),</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1792-1826. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">F526</subfield>
+            <subfield code="i">.J54</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Morrison, Mabel" or dc.creator="Chernside, Mabel"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

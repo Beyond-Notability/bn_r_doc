@@ -1,0 +1,187 @@
+---
+title: "BN women's names and the ISNI API"
+format: html
+---
+
+## Using R and project data to send queries and get data from an API
+
+This is an exercise I've carried out a number of times. The specifics vary depending on the input data and the type of API, but the process is always much the same. 
+
+Key R packages (apart from the usual {tidyverse} tools) needed are {here} and {purrr}. A tidyverse-friendly package for reading/writing the API data is also needed (eg {xml2}, {jsonlite}, {httr}); exactly which one is most appropriate depends on the output format of the API.
+
+
+## International Standard Name Identifiers (ISNI) and BN women
+
+
+> [ISNI](https://isni.org/) is the ISO certified global standard number for identifying the millions of contributors to creative works and those active in their distribution, including researchers, inventors, writers, artists, visual creators, performers, producers, publishers, aggregators, and more. 
+
+Project partners in the British Library’s Authority Control team [created ISNI identifiers for several hundred BN women](https://beyondnotability.org/database/isni-creating-identifiers-for-women-without-them/). 
+
+Other name authority resources exist, eg [VIAF](https://viaf.org/). However, the work done for the project meant that ISNI was a more comprehensive resource for our purposes. (I also found the output from ISNI's [API](https://isni.org/page/technical-documentation/) easier to work with than VIAF's.)
+
+
+I wrote the code in the first instance to explore what sort of information was held in the ISNI database. It subsequently became a useful resource for obtaining different names under which BN women might have published in order to create a dataset of their publications in the Library of Congress catalogue. Apart from variations such as full names vs initials, they might use both their birth surnames and married surnames at some stage; some might even publish using their husband's first names. So, for example, ISNI knows that ["Mrs Arthur Strong" and "Eugénie Sellers"](https://beyond-notability.wikibase.cloud/wiki/Item:Q23) are actually the same person.
+
+
+## Standard project setup 
+
+See `workflow.qmd` for background on this.
+
+```{r includes}
+
+# shared libraries, functions etc ####
+
+source(here::here("R/shared.R"))
+
+# standard query strings and queries ####
+
+source(here::here("R/std_queries.R")) 
+
+# additional packages ####
+
+library(xml2) # to read and write XML
+```
+
+
+## Get ISNI IDs from the BN database
+
+```{r fetch-bn-data}
+bn_women_isni_sparql <- '
+SELECT distinct ?person ?personLabel ?isni_ID ?isni_url 
+WHERE {  
+  ?person bnwdt:P3 bnwd:Q3 . #select women
+  FILTER NOT EXISTS {?person bnwdt:P4 bnwd:Q12 .} #filter out project team
+  
+  ?person bnwdt:P125 ?isni_ID .
+  bind(iri(concat("https://isni.org/isni/", ?isni_ID)) as ?isni_url )
+  
+  SERVICE wikibase:label {bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en-gb,en".}
+}
+order by ?personLabel
+'
+
+bn_women_isni_query <-
+  # run the query
+  bn_std_query(bn_women_isni_sparql) |>
+  make_bn_item_id(person) |>
+  # remove any spaces in the ISNI IDs
+  mutate(isni_ID = str_remove_all(isni_ID, " +")) |>
+  # make the ISNI query URL
+  mutate(isni_q_url = glue("http://isni.oclc.org/sru/?query=pica.isn+%3D+%22{isni_ID}%22&operation=searchRetrieve&recordSchema=isni-b")) |>
+  # combine the BN identifier and ISNI identifier into a string to use for file names
+  mutate(bn_isni_id = paste(bn_id, isni_ID, sep="_"))
+
+```
+
+
+
+## Set up the API query
+
+The process has two parts: fetch the data from the API using the query URLs created in the previous step, and then save copies of the downloaded data to files for subsequent processing. (Downloading any significant amount of data from an API is generally a time-consuming process that you do not want to have to repeat any more often than is absolutely necessary.)
+
+The `output_isni_xml()` function for writing files is based on one originally borrowed from [a howto on writing multiple Excel files with purrr](https://martinctc.github.io/blog/vignette-write-and-read-multiple-excel-files-with-purrr/). 
+
+It's a flexible function that can be adapted to write many types of file, whenever you're starting with a dataframe and you want to write data from each row to a single file and name the files using a unique ID column in the same data. Here the function for writing files is [xml2::write_xml(https://xml2.r-lib.org/reference/write_xml.html)], but I've previously done other versions including [CSV](https://readr.tidyverse.org/reference/write_delim.html).
+
+
+```{r set-up-fetch}
+## function to write multiple xml files in a named folder (create the folder if it doesn't already exist)
+
+output_isni_xml <- function(data, names) {
+    folder_path <- here::here("isni/xml") # adjust path as appropriate using here() from the [here](https://here.r-lib.org/) package. Note that if the code is run without making any changes, it will overwrite the existing XML files. 
+    
+    if (!dir.exists(folder_path)) {dir.create(folder_path)}
+    write_xml(data, paste0(folder_path, "/", names, ".xml"), options=c("no_declaration", "format"))
+}
+
+## pull the ISNI query URLS out of bn_women_isni_query ####
+
+bn_isni_urls <-
+  bn_women_isni_query |>
+  pull(isni_q_url)
+
+
+## pull out the BN-ISNI IDs to use for file names ####
+bn_isni_women_names <-
+  bn_women_isni_query |>
+  pull(bn_isni_id)
+
+```
+
+
+### the ISNI API
+
+[Documentation](https://isni.oclc.org:2443/isni/docs/isni-sru-search-api-guidelines.pdf) (PDF).
+
+Technicalities: it's a [Search/Retrieval via URL (SRU)](https://www.loc.gov/standards/sru/) API, which returns data in XML format. 
+
+Caveats: 
+
+- the API appears to be working and unchanged as of August 2024, but it can never be guaranteed that any API will a) continue to work, b) at the same location or c) return the same data (in terms of format or content).
+- the data was quite messy!
+- I don't know how comprehensive (or accurate) it is
+- there were a few issues with what looked like husbands' names in the data; I think in at least some cases the "Mrs" honorific had been stripped from the data at some point. As it was a small number, these were edited manually when spotted.
+
+
+
+## Fetch the XML
+
+This is a very simple fetching procedure; bear in mind that APIs often have limits (eg on number of results that can be fetched at a time) that can complicate matters. 
+
+Initial testing with a small subset of the data is *always* advisable, and read the API documentation carefully!
+
+```{r fetch-xml}
+## this is commented out to avoid accidental execution; if run, it will take a while.
+
+# here I'm using xml2::read_xml() 
+# httr::GET() is a more general purpose alternative
+# if it were a JSON API, I'd use jsonlite::read_json() instead
+
+## slow it down a bit with slowly() to be polite
+## https://purrr.tidyverse.org/reference/slowly.html
+
+# slow_xml <-
+#   slowly(read_xml, rate=rate_delay(3))
+
+# go fetch! 
+# bn_isni_fetch <-
+#   map(bn_isni_urls, slow_xml)
+```
+
+
+
+## Write the API output to XML files 
+
+
+```{r write-xml}
+## note use of purrr::pmap() https://purrr.tidyverse.org/reference/pmap.html
+## invisible() stops printing out of console messages (which get a bit much after the n-hundredth time)
+
+# invisible(
+#   list(
+#     data=bn_isni_fetch, 
+#     names=bn_isni_women_names 
+#   ) |>
+#   pmap(output_isni_xml)
+#  )
+
+```
+
+Copies of the downloaded XML files are in `isni/xml/`
+
+
+## Processing XML
+
+There are decent R packages for working directly with XML if you really want to, but for large amounts of it I tend to use XQuery (or XSLT) first to pull out the data I want to use into a format that's easier to work with in R. 
+
+I wrote an XQuery script (see `isni/xquery/isni_fetch_personalNames.xq`) to selectively extract the data I wanted from the XML files into a single CSV file.
+
+
+
+## Files
+
+- `isni/xml/*.xml` - 593 XML files (one for each person in the BN database with an ISNI identifier)
+- `isni/xquery/isni_fetch_personalNames.xq` - XQuery script to extract variant names from the XML files and save to a single CSV file.
+
+
+

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>5</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00960cam a2200301 i 4500</leader>
+          <controlfield tag="001">360189</controlfield>
+          <controlfield tag="005">19920609150317.9</controlfield>
+          <controlfield tag="008">770330r19771887nyu      b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   77070588</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">opcn</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   77070588 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">040510085X :</subfield>
+            <subfield code="c">$17.00</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">engita</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-it---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PQ4217.A3</subfield>
+            <subfield code="b">B8 1977</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">851/.04</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Busk, Rachel Harriette,</subfield>
+            <subfield code="d">1831-1907.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The folk-songs of Italy /</subfield>
+            <subfield code="c">Rachel Harriette Busk.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Arno Press,</subfield>
+            <subfield code="c">1977.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">290 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="0">
+            <subfield code="a">International folklore</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">English and Italian.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint of the 1887 ed. published by S. Sonnenschein, Lowrey, London.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Music": p. 273-283.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, Italian</subfield>
+            <subfield code="z">Italy</subfield>
+            <subfield code="x">Texts.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PQ4217.A3</subfield>
+            <subfield code="i">B8 1977</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01149cam a22002891  4500</leader>
+          <controlfield tag="001">7261011</controlfield>
+          <controlfield tag="005">20060816122327.0</controlfield>
+          <controlfield tag="008">790213s1887    enk           000 0 ita  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   03016439</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   03016439 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)4650437</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OCl</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">itaeng</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PQ4217.A3</subfield>
+            <subfield code="b">B8 1887</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Busk, Rachel Harriette,</subfield>
+            <subfield code="d">1831-1907.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The folk-songs of Italy.</subfield>
+            <subfield code="c">Specimens, with translations and notes, from each province: and prefatory treatise, by Miss R. H. Busk. The specimens of the canzuni and ciuri of Sicily have been selected expressly for this work by Dr. Giuseppe Pitrè.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">S. Sonnenschein, Lowrey &amp; co.,</subfield>
+            <subfield code="c">1887.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p. l., 290 p.</subfield>
+            <subfield code="c">18 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title vignette.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Music": p. [273]-283.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Italian and English on opposite pages.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, Italian.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Italian poetry</subfield>
+            <subfield code="x">Translations into English.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pitrè, Giuseppe,</subfield>
+            <subfield code="d">1841-1916.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PQ4217.A3</subfield>
+            <subfield code="i">B8 1977</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01026cam a22002417a 4500</leader>
+          <controlfield tag="001">471234</controlfield>
+          <controlfield tag="005">19920721095125.1</controlfield>
+          <controlfield tag="007">hduafa---baca</controlfield>
+          <controlfield tag="007">hdubfa---baaa</controlfield>
+          <controlfield tag="008">830822s1883    enk     a     000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   83190848</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">5</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-genmicro</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   83190848 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 83/5697 (G)</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Busk, Rachel Harriette,</subfield>
+            <subfield code="d">1831-1907.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Sagas from the Far East, or, Kalmouk and Mongolian traditional tales</subfield>
+            <subfield code="h">[microform] :</subfield>
+            <subfield code="b">with historical preface and explanatory notes /</subfield>
+            <subfield code="c">by the author of "Patrañas", "Household stories from the Land of Hoper," &amp;c.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Griffith and Farran,</subfield>
+            <subfield code="c">1883.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xx, 420 p. ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Call number of original: GR330.B8.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Master microform held by: DLC.</subfield>
+          </datafield>
+          <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm.</subfield>
+            <subfield code="b">Washington, D.C. :</subfield>
+            <subfield code="c">Library of Congress Photoduplication Service,</subfield>
+            <subfield code="d">1983.</subfield>
+            <subfield code="e">1 microfilm reel ; 35 mm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 83/5697 (G)</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00887cam a2200265 a 4500</leader>
+          <controlfield tag="001">833606</controlfield>
+          <controlfield tag="005">19831229000000.0</controlfield>
+          <controlfield tag="008">830621r19831874nyuabf        001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   77087725</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbu</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">opcn</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   77087725 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0404165133</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-au---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DB765</subfield>
+            <subfield code="b">.B84 1983</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">914.36/420453</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Busk, Rachel Harriette,</subfield>
+            <subfield code="d">1831-1907.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The valleys of Tirol /</subfield>
+            <subfield code="c">[by R.H. Busk].</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">AMS Press,</subfield>
+            <subfield code="c">[1983]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxix, 453 p., [3] folded leaves of plates :</subfield>
+            <subfield code="b">ill., maps ;</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint. Originally published: London : Longmans, Green, 1874.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Tyrol (Austria)</subfield>
+            <subfield code="x">Guidebooks.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Valleys</subfield>
+            <subfield code="z">Austria</subfield>
+            <subfield code="z">Tyrol.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DB765</subfield>
+            <subfield code="i">.B84 1983</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00603nam a22001937  4500</leader>
+          <controlfield tag="001">9116187</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">910125s1874    enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)ltf91004386</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">ltf91004386 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">4GR It1</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Busk, Rachel Harriette,</subfield>
+            <subfield code="d">1831-1907. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The folk-lore of Rome,</subfield>
+            <subfield code="b">collected by word of mouth from the people.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Longmans, Green,</subfield>
+            <subfield code="c">1874.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">439 p.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="f">cm08</subfield>
+            <subfield code="g">enh</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">4GR It1</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Busk, R. H." or dc.creator="Busk, Rachel Harriete" or dc.creator="Busk, Rachel Harriette"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

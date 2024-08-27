@@ -1,0 +1,394 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS469</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000109537697</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000109537697</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Lucy E.</forename>
+                    <surname>Broadwood</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy E.</forename>
+                    <surname>Broadwood</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a32108679</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2010118131</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>116524057</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>120205998</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001252355</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>xx0156021</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>d. 1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000433960</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Lucy Broadwood</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q6698217</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy Etheldred</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>14820850</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Lucy E.</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationClass source="KBR">cm</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">cm</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">cm</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">cm</creationClass>
+                    <creationClass source="BNF">cm</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="NTA">cm</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Kantate Nr. 67 am Sonntage Quasimodogeniti ""Halt' im Gedaechtnis Jesum Christ!"" (BWV 67) für Alt-, Tenor-, Baß-Solo und Chor</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Cantata for the 16th Sunday after Trinity, c1905:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Cantata for the 16th Sunday after Trinity, c1905:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Cantata for the 16th Sunday after Trinity, c1905:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Cantate No. 67 pour le dimanche Quasimodo</title>
+                      <subtitle>"Garde en mémoire Jésus-Christ!"</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Christmas carols;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@English county songs, words and music</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@English county songs, words and music</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@English county songs, words and music</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@English county songs, words and music</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@English traditional songs and carols</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@English traditional songs and carols</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Halt im Gedächtnis Jesum Christ.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Hold in remembrance Jesus Christ</title>
+                      <subtitle>Cantata No. 67</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Jamaican song and story Annancy stories, digging sings, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Jamaican song and story Annancy stories, digging sings, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Kantate Nr. 67</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Keys of heaven</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Schlage doch, gewünschte Stunde (kantata)</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Songs from Alice in Wonderland and Through the looking-glass;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Sound your knell, blest hour of parting</title>
+                      <subtitle>Cantata No. 53</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Jamaican song and story Annancy stories, digging sings, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English county songs</title>
+                      <subtitle>words and music</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English traditional songs and carols</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Halt im Gedächtnis Jesum Christ.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Jamaican song and story Annancy stories, digging sings, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Schlage doch, gewünschte Stunde (kantata)</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780715810255</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780486437200</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>L. E.</forename>
+                    <surname>Broadwood</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>L. E.</forename>
+                    <surname>Broadwood</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>L. E.</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>L. E.</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>L. E.</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>L. E.</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>d. 1929</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Lucy</forename>
+                    <surname>Broadwood</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Lucy E.</forename>
+                    <surname>Broadwood</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Lucy E.</forename>
+                    <surname>Broadwood</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Lucy E.</forename>
+                    <surname>Broadwood</surname>
+                    <marcDate>1858-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Lucy Broadwood</surname>
+                    <nameTitle>British folk-song collector</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Lucy Broadwood</surname>
+                    <nameTitle>Brits musicologe (1858-1929)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Broadwood</forename>
+                    <surname>Lucy</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>48853</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q811</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>10270457</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/10270457</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>14820850</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>139453873</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  81005084</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14540358</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q811</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q6698217</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Lucy_Broadwood</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000109537697%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000109537697"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

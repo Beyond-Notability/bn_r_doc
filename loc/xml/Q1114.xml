@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>5</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01518cam a2200325 a 4500</leader>
+          <controlfield tag="001">3344874</controlfield>
+          <controlfield tag="005">20130417111619.0</controlfield>
+          <controlfield tag="008">851218s1984    enka     b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   85241576 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0905157095 (pbk.) :</subfield>
+            <subfield code="c">£9.95</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   85241576</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA670.G5</subfield>
+            <subfield code="b">A73 1984</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">936.2/41</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Archaeology in Gloucestershire :</subfield>
+            <subfield code="b">from the earliest hunters to the industrial age : essays dedicated to Helen O'Neil and the late Elsie Clifford /</subfield>
+            <subfield code="c">edited by Alan Saville.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Cheltenham :</subfield>
+            <subfield code="b">Jointly published by Cheltenham Art Gallery and Musuems, and the Bristol and Gloucestershire Archaeological Society,</subfield>
+            <subfield code="c">1984.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">352 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes papers from a one-day symposium on "The Archaeology of Gloucestershire" which was held at the College of St. Paul and St. Mary, the Park, Cheltenham on 9/8/79.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographies and index.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Gloucestershire (England)</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">England</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Excavations (Archaeology)</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">Gloucestershire (England)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">O'Neil, Helen Evangeline,</subfield>
+            <subfield code="d">-1984.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Clifford, Elsie Margaret,</subfield>
+            <subfield code="d">-1976.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Saville, Alan,</subfield>
+            <subfield code="d">1946-</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Cheltenham Art Gallery and Museum.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Bristol and Gloucestershire Archaeological Society.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA670.G5</subfield>
+            <subfield code="i">A73 1984</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01705cam a22004097i 4500</leader>
+          <controlfield tag="001">22018419</controlfield>
+          <controlfield tag="005">20210804104053.0</controlfield>
+          <controlfield tag="008">210501t20202020inu           000 0aeng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rk47 2021-05-01 z-processor to USASH/ART</subfield>
+            <subfield code="i">rk47 2021-05-01 to PresSrvs TW Situational</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2020901295</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781480886643</subfield>
+            <subfield code="q">(hbk.)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)on1142315672</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">YDX</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">YDX</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">BIB</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BR1725</subfield>
+            <subfield code="b">.D65 2020</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Donovan, Helen I.,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A war bride's journey :</subfield>
+            <subfield code="b">a memoir /</subfield>
+            <subfield code="c">Helen I. Donovan.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Bloomington, IN :</subfield>
+            <subfield code="b">Archway Publishing,</subfield>
+            <subfield code="c">[2020]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">97 pages ;</subfield>
+            <subfield code="c">23 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Donovan shares both heartbreaking and heartwarming moments from her life growing up in Germany under Nazi tyranny, where, despite fear and violence, her faith in Jesus helped her perservere.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Donovan, Helen I.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Christian biography</subfield>
+            <subfield code="z">Germany.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">World War, 1939-1945</subfield>
+            <subfield code="z">Germany.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Germany</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">1933-1945</subfield>
+            <subfield code="v">Biography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Christian biography.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00858936</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Germany.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01210272</subfield>
+          </datafield>
+          <datafield tag="647" ind1=" " ind2="7">
+            <subfield code="a">World War</subfield>
+            <subfield code="d">(1939-1945)</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01180924</subfield>
+          </datafield>
+          <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">1933-1945</subfield>
+            <subfield code="2">fast</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Autobiographies.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01919894</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Biographies.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01919896</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">History.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01411628</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Autobiographies.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00874cam a22002531  4500</leader>
+          <controlfield tag="001">8239030</controlfield>
+          <controlfield tag="005">20050715163615.0</controlfield>
+          <controlfield tag="008">860619s1915    ilu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   15008137</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   15008137 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)13749157</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">IHi</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">F547.L3</subfield>
+            <subfield code="b">D68</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Donovan, Helen Martin.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Starved Rock legendary,</subfield>
+            <subfield code="c">by Helen Martin Donovan.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Chicago, Ill.,</subfield>
+            <subfield code="b">The O'Donnell Printing Company,</subfield>
+            <subfield code="c">1915.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 p. l., [9]-44 p.</subfield>
+            <subfield code="c">17 cm.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Lolomi of the Illinois; a legend of Lover's Leap.--Dave and Mary; a tale of Starved Rock twenty years ago.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Starved Rock (Ill.)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Legends</subfield>
+            <subfield code="z">Illinois.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">F547.L3</subfield>
+            <subfield code="i">D68</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00846cam a2200253 i 4500</leader>
+          <controlfield tag="001">800327</controlfield>
+          <controlfield tag="005">19871120000000.0</controlfield>
+          <controlfield tag="008">750811s1975    moua     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   75026845</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   75026845 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0801614236</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RT89</subfield>
+            <subfield code="b">.D66</subfield>
+          </datafield>
+          <datafield tag="060" ind1=" " ind2=" ">
+            <subfield code="a">WY105 D687n</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">658/.91/36216</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Donovan, Helen Murphy,</subfield>
+            <subfield code="d">1916-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Nursing service administration :</subfield>
+            <subfield code="b">managing the enterprise /</subfield>
+            <subfield code="c">Helen M. Donovan.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Saint Louis :</subfield>
+            <subfield code="b">C. V. Mosby Co.,</subfield>
+            <subfield code="c">1975.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xi, 271 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nursing services</subfield>
+            <subfield code="x">Administration.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="2">
+            <subfield code="a">Nursing, Supervisory.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RT89</subfield>
+            <subfield code="i">.D66</subfield>
+            <subfield code="p">00026794894</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00777cam a22002291  4500</leader>
+          <controlfield tag="001">2642384</controlfield>
+          <controlfield tag="005">19880425000000.0</controlfield>
+          <controlfield tag="008">731212s1967    pauac    b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   66022867</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   66022867 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC682</subfield>
+            <subfield code="b">.W43</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">616.1/2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">White, Paul Dudley,</subfield>
+            <subfield code="d">1886-1973.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Hearts; their long follow-up</subfield>
+            <subfield code="c">[by] Paul Dudley White [and] Helen Donovan.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia,</subfield>
+            <subfield code="b">Saunders,</subfield>
+            <subfield code="c">1967.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxv, 357 p.</subfield>
+            <subfield code="b">illus., ports.</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Bibliography of Paul Dudley White, 1913-1964": p. 327-349.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Heart</subfield>
+            <subfield code="x">Diseases.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Donovan, Helen,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RC682</subfield>
+            <subfield code="i">.W43</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="O'Neil, Helen" or dc.creator="Donovan, Helen" or dc.creator="O'Neil, Helen Evangeline"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

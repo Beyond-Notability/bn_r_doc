@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>4</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01047cam a22002891  4500</leader>
+          <controlfield tag="001">9273682</controlfield>
+          <controlfield tag="005">20030708093228.0</controlfield>
+          <controlfield tag="008">820922m19099999enk      b    000 0 eng c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  45003060</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  45003060 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)8797890</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Newberry Library</subfield>
+            <subfield code="c">KU</subfield>
+            <subfield code="d">KU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">englatroa</subfield>
+            <subfield code="h">latroa</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA880.O5</subfield>
+            <subfield code="b">C3</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Diplomatarium katanense et sutherlandense.</subfield>
+            <subfield code="b">Caithness and Sutherland records.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Printed for the Viking Society for Northern Research,</subfield>
+            <subfield code="c">1909-</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Viking Club. Old-lore series,</subfield>
+            <subfield code="v">v. 10</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Editors: 1909-     A.W. Johnston, Amy Johnston.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In Latin or Anglo-Norman and English.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Highland (Scotland)</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="v">Sources.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Johnston, Alfred W.</subfield>
+            <subfield code="q">(Alfred Wintle)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Johnston, Amy.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA880.O5</subfield>
+            <subfield code="i">C3</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01191cam a22003011  4500</leader>
+          <controlfield tag="001">7770195</controlfield>
+          <controlfield tag="005">20050730200818.0</controlfield>
+          <controlfield tag="008">770310m19079999enk           001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   15006521</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   15006521 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2790693</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">GEU</subfield>
+            <subfield code="d">GEU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">englaticeenm</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA880.O5</subfield>
+            <subfield code="b">O5</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Diplomatarium orcadense et hialtlandense.</subfield>
+            <subfield code="b">Fornbréfasafn orkneyinga og hjaltlendinga. Orkney and Shetland records,</subfield>
+            <subfield code="c">collected and ed. by Alfred W. Johnstone and Amy Johnston.  vol. I-</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Printed for the Viking Society for northern research,</subfield>
+            <subfield code="c">1907-</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">   v.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">[Viking club, or Society for Northern Research] Old-lore series. vol. VII</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Orkney (Scotland)</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Shetland (Scotland)</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Johnston, Alfred Wintle,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Johnston, Amy,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Viking Society for Northern Research.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Orkney and Shetland records.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA880.O5</subfield>
+            <subfield code="i">O5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01284cas a2200337u| 4500</leader>
+          <controlfield tag="001">7770214</controlfield>
+          <controlfield tag="005">20000608114257.0</controlfield>
+          <controlfield tag="008">821206m19079999enkab|||||||||||| ||eng| </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   15006731</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   15006731 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-st</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA880.O5</subfield>
+            <subfield code="b">O4</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Old-lore miscellany of Orkney, Shetland, Caithness and Sutherland ...</subfield>
+          </datafield>
+          <datafield tag="249" ind1="3" ind2=" ">
+            <subfield code="i">SERLOC variant entry</subfield>
+            <subfield code="a">Orkney &amp; Shetland miscellany, Jan. 1907-Jan. 1909</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Printed for the Viking club,</subfield>
+            <subfield code="c">1907-</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v.</subfield>
+            <subfield code="b">illus., plates, ports.., fold. map, plans, facsims.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="310" ind1=" " ind2=" ">
+            <subfield code="a">Quarterly</subfield>
+          </datafield>
+          <datafield tag="590" ind1=" " ind2=" ">
+            <subfield code="a">PREMARC/SERLOC merged record</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Orkney (Scotland)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Shetland (Scotland)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Caithness (Scotland)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Sutherland (Scotland)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Johnston, Alfred Wintle, [from old catalog]</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Johnston, Amy, [from old catalog]</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Viking club, or Society for northern research, London. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="890" ind1=" " ind2=" ">
+            <subfield code="a">Old-lore miscellany of Orkney, Shetland, Caithness and Sutherland ...</subfield>
+            <subfield code="i">15-6731</subfield>
+          </datafield>
+          <datafield tag="920" ind1=" " ind2=" ">
+            <subfield code="a">Keep 1</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA880.O5</subfield>
+            <subfield code="i">O4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+          <datafield tag="992" ind1=" " ind2=" ">
+            <subfield code="b">Unk</subfield>
+            <subfield code="h">DA880.O5O4</subfield>
+            <subfield code="w">SERLOC</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01091cam a22002654a 4500</leader>
+          <controlfield tag="001">13353295</controlfield>
+          <controlfield tag="005">20160928133813.0</controlfield>
+          <controlfield tag="008">030926s2004    nyua          001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="925" ind1="1" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">jg02 2003-09-26</subfield>
+            <subfield code="c">jg02 2003-09-26 to subj.</subfield>
+            <subfield code="d">jg12 2003-09-26</subfield>
+            <subfield code="e">jg07 2003-09-26 to Dewey</subfield>
+            <subfield code="a">aa07 2003-10-03</subfield>
+            <subfield code="a">ps11 2004-06-02 2 copies rec'd., to CIP ver.</subfield>
+            <subfield code="f">pv14 2004-06-04 CIP ver. 2 copies to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2003021291</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">044669083X (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">TH4816</subfield>
+            <subfield code="b">.J6256 2004</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">690/.837</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Johnston, Amy.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">What the "experts" may not tell you about building or renovating your home /</subfield>
+            <subfield code="c">Amy Johnston.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Warner Books,</subfield>
+            <subfield code="c">c2004.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xvi, 299 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Dwellings</subfield>
+            <subfield code="x">Remodeling</subfield>
+            <subfield code="v">Popular works.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/ecip049/2003021291.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Johnston, Amy" or dc.creator="Johnston, A. Wintle"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

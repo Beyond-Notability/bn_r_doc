@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>1</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01213cam a2200277 a 4500</leader>
+          <controlfield tag="001">16857107</controlfield>
+          <controlfield tag="005">20110705142323.0</controlfield>
+          <controlfield tag="008">110705s1884    enkaf         001 0deng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">he03 2011-07-05</subfield>
+            <subfield code="i">he03 2011-07-05</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2011658244</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA690.U76</subfield>
+            <subfield code="b">L39 1884</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lawson, Emily M.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The nation in the parish, or, Records of Upton-on-Severn :</subfield>
+            <subfield code="b">with a supplemental chapter on the castle of Hanley /</subfield>
+            <subfield code="c">by Emily M. Lawson ; fourteen full-page illustrations by Charles Cattermole and George R. Clarke, and a glossary of more than eight hundred local words and phrases by Robert Lawson, M.A.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">Nation in the parish</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">Records of Upton-on-Severn</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Houghton &amp; Gunn :</subfield>
+            <subfield code="b">W.E. Cooper,</subfield>
+            <subfield code="c">1884.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiv, 211, lxi p., [14] leaves of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="561" ind1=" " ind2=" ">
+            <subfield code="a">LC copy from the library of Oliver Wendell Holmes.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Upton upon Severn (England)</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Hanley Castle (England)</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Oliver Wendell Holmes Collection (Library of Congress)</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Lawson, Emily M." or dc.creator="Lawson, Emily Margaret" or dc.creator="Malcolm, Emily Margaret"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

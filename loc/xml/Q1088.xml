@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>10</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00817cam a22002411  4500</leader>
+          <controlfield tag="001">8237406</controlfield>
+          <controlfield tag="005">20060804100216.0</controlfield>
+          <controlfield tag="008">720724s1914    enka          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   14017237</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   14017237 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)363271</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OKentU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA745.E7</subfield>
+            <subfield code="b">W5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy Cust,</subfield>
+            <subfield code="d">1857-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Chronicles of Erthig on the Dyke,</subfield>
+            <subfield code="c">by Albinia Lucy Cust (Mrs. Wherry) ... with thirty-three illustrations.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">John Lane;</subfield>
+            <subfield code="a">New York;</subfield>
+            <subfield code="b">John Lane company; [etc.,etc.]</subfield>
+            <subfield code="c">1914.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 v.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Erthig Hall.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Yorke family.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA745.E7</subfield>
+            <subfield code="i">W5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00951pam a2200265   4500</leader>
+          <controlfield tag="001">3613026</controlfield>
+          <controlfield tag="005">19730710000000.0</controlfield>
+          <controlfield tag="008">730105r19731905paua     b    000 0beng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   73000070</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   73000070 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0841413967 (lib. bdg.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR3406</subfield>
+            <subfield code="b">.W35 1973</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy (Cust)</subfield>
+            <subfield code="d">1857-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Daniel Defoe.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Folcroft, Pa.]</subfield>
+            <subfield code="b">Folcroft Library Editions,</subfield>
+            <subfield code="c">1973.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">128 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint of the 1905 ed. published by G. Bell, London, in series: Bell's miniature series of great writers.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Abbreviated list of Defoe's works": p. 125-128.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 123-124.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Defoe, Daniel,</subfield>
+            <subfield code="d">1661-1731.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Bell's miniature series of great writers.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PR3406</subfield>
+            <subfield code="i">.W35 1973</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01045pam a2200277 i 4500</leader>
+          <controlfield tag="001">1775422</controlfield>
+          <controlfield tag="005">19780206000000.0</controlfield>
+          <controlfield tag="008">770810r19771905pauaf    b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   77011909</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   77011909 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0849229103 :</subfield>
+            <subfield code="c">$17.50</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR3406</subfield>
+            <subfield code="b">.W35 1977</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy Cust,</subfield>
+            <subfield code="d">1857-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Daniel Defoe /</subfield>
+            <subfield code="c">Albinia Wherry.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia :</subfield>
+            <subfield code="b">R. West,</subfield>
+            <subfield code="c">1977.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">128 p., [7] leaves of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint of the 1905 ed. published by G. Bell, London, in series: Bell's miniature series of great writers.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Abbreviated list of Defoe's most important works": p. 125-128.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographies.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Defoe, Daniel,</subfield>
+            <subfield code="d">1661?-1731.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Authors, English</subfield>
+            <subfield code="y">18th century</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Bell's miniature series of great writers.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PR3406</subfield>
+            <subfield code="i">.W35 1977</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01069pam a2200277 i 4500</leader>
+          <controlfield tag="001">1763117</controlfield>
+          <controlfield tag="005">19770816000000.0</controlfield>
+          <controlfield tag="008">761001r19761905pauaf    b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76047589</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76047589 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0848228960</subfield>
+            <subfield code="b">lib bdg. :</subfield>
+            <subfield code="c">$15.00</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR3406</subfield>
+            <subfield code="b">.W35 1976</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy Cust,</subfield>
+            <subfield code="d">1857-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Daniel Defoe /</subfield>
+            <subfield code="c">by Albinia Wherry.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Norwood, Pa. :</subfield>
+            <subfield code="b">Norwood Editions,</subfield>
+            <subfield code="c">1976.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">128 p., [7] leaves of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint of the 1905 ed. published by G. Bell, London, in series: Bell's miniature series of great writers.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Abbreviated list of Defoe's most important works" : p. 125-128.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 123-124.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Defoe, Daniel,</subfield>
+            <subfield code="d">1661?-1731.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Authors, English</subfield>
+            <subfield code="y">18th century</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Bell's miniature series of great writers.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PR3406</subfield>
+            <subfield code="i">.W35 1976</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00973nam a22002537i 4500</leader>
+          <controlfield tag="001">1925348</controlfield>
+          <controlfield tag="005">19851120000000.0</controlfield>
+          <controlfield tag="007">hdrafa---baca</controlfield>
+          <controlfield tag="007">hdrbfa---baaa</controlfield>
+          <controlfield tag="008">851023|1898    |||           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   85219809</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">5</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-genmicro</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   85219809 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 85/8389 (N) &lt;MicRR&gt;</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy Cust,</subfield>
+            <subfield code="d">1857- </subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Greek sculpture with story and song [microform] /</subfield>
+            <subfield code="c">by Albinia Wherry.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">J.M. Dent,</subfield>
+            <subfield code="c">1898.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 322 p., [3] leaves of plates : ill. ; 22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Illustrated material preserved in MicRR.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Call number of original: NB90.W56.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Master microform held by : DLC.</subfield>
+          </datafield>
+          <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm. Washington, D.C. : Library of Congress Photoduplication Service, 1985. 1 microfilm reel ; 35 mm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 85/8389 (N) &lt;MicRR&gt;</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00895cam a22002411  4500</leader>
+          <controlfield tag="001">9599870</controlfield>
+          <controlfield tag="005">20110613073734.0</controlfield>
+          <controlfield tag="008">770219s1901    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   02014143</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   02014143 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2750369</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">O</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">N6919.T9</subfield>
+            <subfield code="b">W4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy Cust,</subfield>
+            <subfield code="d">1857-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Stories of the Tuscan artists,</subfield>
+            <subfield code="c">by Albina Wherry ... with fifty-three illustrations from their works in photogravure and half-tones.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">J.M. Dent &amp; co.;</subfield>
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">E.P. Dutton &amp; co.,</subfield>
+            <subfield code="c">1901.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xvi, 145, [1] p.</subfield>
+            <subfield code="b">front., plates, port.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Art</subfield>
+            <subfield code="z">Italy</subfield>
+            <subfield code="z">Tuscany</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Artists</subfield>
+            <subfield code="z">Italy</subfield>
+            <subfield code="z">Tuscany.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">N6919.T9</subfield>
+            <subfield code="i">W4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00624nam a2200205u  4500</leader>
+          <controlfield tag="001">6591420</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">810114s1929    enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   65058575</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   65058575 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS438</subfield>
+            <subfield code="b">.W5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy (Cust)</subfield>
+            <subfield code="d">1857- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Albinia book; </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">M. Hughes and Clarke,</subfield>
+            <subfield code="c">1929.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">Genealogy. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CS438</subfield>
+            <subfield code="i">.W5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00846cam a22002412  4500</leader>
+          <controlfield tag="001">9135151</controlfield>
+          <controlfield tag="005">20140904143852.0</controlfield>
+          <controlfield tag="008">911001s1898    enkaf         000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   03027420</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   03027420 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="0">
+            <subfield code="a">NB90</subfield>
+            <subfield code="b">.W56</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm</subfield>
+            <subfield code="b">85/8389 (NB)</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy Cust,</subfield>
+            <subfield code="d">1857- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Greek sculpture with story and song,</subfield>
+            <subfield code="c">by Albinia Wherry, with 110 illustrations.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">J.M. Dent &amp; co.,</subfield>
+            <subfield code="c">1898.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, [2], 322 p.</subfield>
+            <subfield code="b">front., illus., plates.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="590" ind1=" " ind2=" ">
+            <subfield code="a">LC copy replaced by microfilm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sculpture</subfield>
+            <subfield code="z">Greece</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sculpture, Greco-Roman.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="f">ce05</subfield>
+            <subfield code="g">enh</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm</subfield>
+            <subfield code="i">85/8389 (NB)</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00644cam a2200193u  4500</leader>
+          <controlfield tag="001">10073088</controlfield>
+          <controlfield tag="005">20080718131413.0</controlfield>
+          <controlfield tag="008">860205s1903    enkf          000 0beng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04007322 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04007322</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">ND497.T8</subfield>
+            <subfield code="b">W5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy (Cust),</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1857- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Turner,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">G. Bell &amp; sons,</subfield>
+            <subfield code="c">1903.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p.l., 79, [1] p.</subfield>
+            <subfield code="b">front., plates.</subfield>
+            <subfield code="c">16 cm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Turner, J. M. W.</subfield>
+            <subfield code="q">(Joseph Mallord William),</subfield>
+            <subfield code="d">1775-1851.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">ND497.T8</subfield>
+            <subfield code="i">W5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00829cam a22002291  4500</leader>
+          <controlfield tag="001">13962958</controlfield>
+          <controlfield tag="005">20050617172633.0</controlfield>
+          <controlfield tag="008">050512s1905    enkech   b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">bi00 2005-05-12; th10 06-17-2005</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   09023530 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR3406</subfield>
+            <subfield code="b">.W35</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wherry, Albinia Lucy (Cust)</subfield>
+            <subfield code="c">Mrs.  [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">... Daniel Defoe,</subfield>
+            <subfield code="c">by Albinia Wherry ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">G. Bell &amp; sons,</subfield>
+            <subfield code="c">1905.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">128 p.</subfield>
+            <subfield code="b">2 pl., 3 port. (incl. front.) 2 facsim.</subfield>
+            <subfield code="c">16 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Bell's miniature series of great writers</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 123-124.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Abbreviated list of Defoe's most important works": p. 125-128.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Defoe, Daniel,</subfield>
+            <subfield code="d">1661-1731.</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="b">Record input for BIP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Wherry, Albinia" or dc.creator="Cust, Albina Lucy Cust" or dc.creator="Wherry, Albina Lucy Cust"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

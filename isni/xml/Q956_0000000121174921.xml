@@ -1,0 +1,462 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS143</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000121174921</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000121174921</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLIlat</source>
+                    <subsourceIdentifier>000083933</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11359631</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>085982768</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>11697236X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>RERO</source>
+                    <subsourceIdentifier>vtls009508065</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Agnes Smith</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="VIAF" subsource="DNB">aut</creationRole>
+                    <creationRole source="VIAF" subsource="NLIlat">edt</creationRole>
+                    <creationRole source="VIAF" subsource="DNB">edt</creationRole>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <creationClass source="VIAF" subsource="RERO">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLIlat">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>A @Palestinian Syriac lectionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>@Bible.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Bible.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @old Syriac Gospels, or Evangelion da-Mepharreshe being the text of the Sinai or Syro-Antiochene palimpsest, including the latest additions and emendations, with the variants of the Curetonian text, corroborations from many other mss., and a list of quotations from ancient authors.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>The @old Syriac Gospels, or Evangelion da-Mepharreshe being the text of the Sinai or Syro-Antiochene palimpsest, including the latest additions and emendations, with the variants of the Curetonian text, corroborations from many other mss., and a list of quotations from ancient authors.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Glimpses of Greek life and scenery.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Glimpses of Greek life and scenery.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Acta mythologica apostolorum</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Acta mythologica apostolorum</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>The @story of Aḥiḳar from the Aramaic, Syriac, Arabic, Armenian, Ethiopic, Old Turkish, Greek and Slavonic versions</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @story of Aḥiḳar from the Aramaic, Syriac, Arabic, Armenian, Ethiopic, Old Turkish, Greek and Slavonic versions</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>The @four Gospels in Syriac</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>The @forty martyrs of the Sinai desert</title>
+                      <subtitle>and The story of Eulogios, from a Palestinian Syriac and Arabic palimpsest</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @forty martyrs of the Sinai desert</title>
+                      <subtitle>and The story of Eulogios, from a Palestinian Syriac and Arabic palimpsest</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Forty-one facsimiles of dated Christian Arabic manuscripts</title>
+                      <subtitle>with text and English translation</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Forty-one facsimiles of dated Christian Arabic manuscripts</title>
+                      <subtitle>with text and English translation</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>@Codex Climaci rescriptus</title>
+                      <subtitle>fragments of sixth century Palestinian Syriac texts of the Gospels, of the Acts of the apostles, and of St. Paul's Epistles. Also fragments of an early Palestinian lectionary of the Old Testament, etc.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>The @mythological acts of the apostles</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @mythological acts of the apostles</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Mythological acts of the Apostles.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Mythological acts of the Apostles.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>A @translation of the four Gospels from the Syriac of the Sinaitic palimpsest</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @forty martyrs of the Sinai desert and the story of Eulogios, from a Palestinian Syriac and Arabic palimpsest</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Story of Ahikar, from the Syriac, Arabic, Armenian, Ethiopic, Greek and Slawnic versions, by F. C. Conybeare, J. Rendel Harris and Agnes Smith Lewis</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>Die @altsyrischen Evangelien in ihrem Verhältnis zu Tatians Diatessaron Zu H. J. Vogels Schrift</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @Palestinian Syriac lectionarycontaining lessons from the Pentateuch, Job, Proverbs, Prophets, Acts and Epistles...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @Lady's impressions of Cyprus in 1893, by Mrs. Lewis</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>the @story of ahikar</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>the @forty martyrs of the sinai desert and the story of eulogios</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@in the shadow of sinai a story of travel and reseach from 1895 to 1897</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Zu H. J. Vogels Schrift</title>
+                      <subtitle>"Die altsyrischen Evangelien in ihrem Verhältniss zu Tatians Diatessaron", von Agnes Smith Lewis</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Through Cyprus, by Agnes Smith,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>The @Palestinian Syriac lectionary of the Gospels.</title>
+                      <subtitle>Re-edited from two Sinai Mss. and from P. de Lagarde's edition of the "Evangeliarium Hierosolymitanum"</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>@Select narratives of holy women from the syro-antiochene or sinai palimpsest as written above the old syriac gospels by John the Stylite, of beth-mari-qanūn in a.d. 778</title>
+                      <subtitle>syriac text</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>@Select narratives of holy women from the syro-antiochene or sinai palimpsest ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Select narratives of holy women from the Syro-Antiochene or Sinai palimpsest, as written above the old Syriac Gospels, by John the Stylite, of Beth-Mari-Quanūn in a. D. 778. Edited [and translated] by Agnes Smith Lewis,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Select narratives of holy women from the Syro-Antiochene or Sinai Palimpsest, as written above the old Syriac gospels by John the Stylite, of Beth-Mari-Qanūn in A.D. 778</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Select narratives of holy women</title>
+                      <subtitle>from the Syro-Antiochene or Sinai palimpsest as written above the old Syriac Gospels by John Stylite, of Beth-mari-qanūn in A.D. 778</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Sagesse d'Ahikar</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Palestinian Syriac texts from palimpsest fragments in the Taylor-Schechter collection.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Palestinian Syriac texts from palimpsest fragments</title>
+                      <subtitle>London 1900</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Palestinian Syriac lectionary of the Gospels</title>
+                      <subtitle>London 1899</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Observations on Arabic calligraphy</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Light on the 4 Gospels from the Sinai palimpsest, by Agnes Smith Lewis,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Leaves from three ancient Qurâns, possibly pre-'Othmânic, with a list of their variants. Edited by rev. Alphonse Mingana... and Agnes Smith Lewis...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@In the shadow of Sinai, a story of travel and reseach from 1895 to 1897, by Agnes Smith Lewis,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@How the codex was found, a narrative of two visits to Sinai, from Mrs. Lewis's journals 1892-1893, by Margaret Dunlop Gibson</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Glimpses of Greek life and scenery, by Agnes Smith,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Forty-one facsimiles of dated Christian Arabic manuscripts</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Coran. Arabe. 1914</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Codex climaci rescriptus</title>
+                      <subtitle>fragments of sixth century palestinian Syriac texts of the Gospel's, of the Acts of the apostles and of St Paul's epistles [...]</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Codex Climaci rescriptus, fragments of sixth century Palestinian Syriac texts of the Gospels, of the Acts of the Apostles...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Codex Climaci rescriptus</title>
+                      <subtitle>Cambridge 1909. The forty martyrs of the Sinai desert</subtitle>
+                      <subtitle>Cambridge 1912</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Catalogue of the Syriac mss. in the Convent of S. Catharine on Mount Sinai</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Catalogue of the Syriac manuscripts in the Convent of Saint Catharine on Mount Sinai</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Biblia.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>@Bible. N.T. Gospels, Liturgical. Syriac (Palestinian) 1971.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Appendix of Palestianian Syriac texts</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>@Apocryphal Books (New Testament).</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Apocrypha Syriaca</title>
+                      <subtitle>the Protevangelium Jacobi and Transitus Mariae</subtitle>
+                      <subtitle>with texts from the Septuagint, the Corân, the Peshitta, and from a Syriac hymn in a syro-arabic palimpsest of the fifth and other centuries</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Acta mythologica apostolorum, transcribed from an Arabic ms in the Convent of Deyr-es-Suriani, Egypt, and from mss in the Convent of St Catherine, on Mount Sinai</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLIlat">
+                      <title>@Acta mythologica apostolorum</title>
+                      <subtitle>transcribed from an Arabic ms. in the convent of Deyr-es-Suriani, Egypt, and from mss. in the convent of St. Catherine, on Mount Sinai</subtitle>
+                      <subtitle>with two legends from a Vatican ms. by Ignazio Guidi, and an appendix of Syriac palimpsest fragments of the Acts of Judas Thomas from Cod. Sin. Syr. 30</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Acta apostolorum apocrypha.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@"Apocrypha syriaca"</title>
+                      <subtitle>the "Protevangelium Jacobi" and "Transitus Mariae", with texts from the Septuagint, the Corân, the Peshitta, and from a Syriac hymn in a Syro-Arabic palimpsest of the fifth and other centuries. Edited and translated by Agnes Smith Lewis,... with appendix of Palestinian Syriac texts from the Taylor-Schecter collection</subtitle>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Smith</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes S.</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Smith Lewis</surname>
+                    <source>VIAF</source>
+                    <source>RERO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Smith Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>VIAF</source>
+                    <source>NLIlat</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Smith Lewis</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes Lewis</forename>
+                    <surname>Smith</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>VIAF</source>
+                    <source>NLIlat</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Smith</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Smith</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Agnes</forename>
+                    <surname>Smith</surname>
+                    <marcDate>1843-1926</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>51365</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca01231418</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q956</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>243764</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/243764</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>14514198</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90610399</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  84125149</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q956</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q1300112</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000121174921%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000121174921"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

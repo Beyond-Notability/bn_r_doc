@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>6</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00935cam a22002531  4500</leader>
+          <controlfield tag="001">6992564</controlfield>
+          <controlfield tag="005">20050821185119.0</controlfield>
+          <controlfield tag="008">780818s1951    le a          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   55057064</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   55057064 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)4152299</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CtY</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS56</subfield>
+            <subfield code="b">.A64</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">913.56</subfield>
+            <subfield code="a">956*</subfield>
+          </datafield>
+          <datafield tag="110" ind1="2" ind2=" ">
+            <subfield code="a">American University of Beirut.</subfield>
+            <subfield code="b">University Museum.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="2">
+            <subfield code="a">A guide to the archaeological collections in the University Museum.</subfield>
+            <subfield code="b">(American University of Beirut)</subfield>
+            <subfield code="c">by Dorothy Mackay, curator.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Beirut,</subfield>
+            <subfield code="b">Printed for the American University of Beirut by the Impr. catholique,</subfield>
+            <subfield code="c">1951.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">105 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Middle East</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Mackay, Dorothy Mary Simmons.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS56</subfield>
+            <subfield code="i">.A64</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00802cam a22002291  4500</leader>
+          <controlfield tag="001">10165105</controlfield>
+          <controlfield tag="005">20050307155808.0</controlfield>
+          <controlfield tag="008">930114s1933    dcu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   34004382</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   34004382 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)27414799</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">MdBJ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Q11</subfield>
+            <subfield code="b">.S66 1932</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Mackay, Dorothy.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mohenjo-Daro and the ancient civilization of the Indus valley,</subfield>
+            <subfield code="c">by Dorothy Mackay ...</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Reprinted, with slight changes in text and illustrations ... from Asia, vol. 33, no. 3, March, 1932."</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Mohenjo-Daro Site (Pakistan)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Indus River Valley</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">fcd</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Q11</subfield>
+            <subfield code="i">.S66 1932</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01087cam a22002771  4500</leader>
+          <controlfield tag="001">8327174</controlfield>
+          <controlfield tag="005">20160923153037.0</controlfield>
+          <controlfield tag="008">760525s1943    xx            000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   43003467 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   43003467</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2192570</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">ScRhW</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PN57.D7</subfield>
+            <subfield code="b">M25</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">MacKay, Dorothy Epplen</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The double invitation in the legend of Don Juan,</subfield>
+            <subfield code="c">by Dorothy Epplen MacKay.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Stanford University, Calif.,</subfield>
+            <subfield code="b">Stanford University Press ;</subfield>
+            <subfield code="a">London,</subfield>
+            <subfield code="b">H. Milford, Oxford University Press</subfield>
+            <subfield code="c">[1943]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xx, 244 p.</subfield>
+            <subfield code="b">incl. tables.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"The folktales and ballads containing the theme of the double invitation": p. 117-236.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes music (unaccompaied melodies).</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Reference key and bibliography": p. xi-xx.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Juan,</subfield>
+            <subfield code="c">Don (Legendary character)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk literature</subfield>
+            <subfield code="x">Themes, motives</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Dead</subfield>
+            <subfield code="x">Folklore.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PN57.D7</subfield>
+            <subfield code="i">M25</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00899cam a22002891  4500</leader>
+          <controlfield tag="001">6386300</controlfield>
+          <controlfield tag="005">20050903212446.0</controlfield>
+          <controlfield tag="008">820221s1923    xx            000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   23011945</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   23011945 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)14810856</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DNLM</subfield>
+            <subfield code="d">ICAH</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-fr---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RA989.F7</subfield>
+            <subfield code="b">M25</subfield>
+          </datafield>
+          <datafield tag="060" ind1="0" ind2="0">
+            <subfield code="a">WX 27 GF7</subfield>
+            <subfield code="b">M1h 1923</subfield>
+          </datafield>
+          <datafield tag="060" ind1="0" ind2="0">
+            <subfield code="a">Film 6999 no. 3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Mackay, Dorothy Louise.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">Les hôpitaux et la charité à Paris au XIIIe siècle.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Paris,</subfield>
+            <subfield code="b">E. Champion,</subfield>
+            <subfield code="c">1923.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">168 p., V pl.</subfield>
+            <subfield code="b">ill.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Documents": p. [139]-156.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Bibliographie": p. [133]-137.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Microfilmed for preservation</subfield>
+            <subfield code="5">DNLM</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RA989.F7</subfield>
+            <subfield code="i">M25</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00823cam a22002771  4500</leader>
+          <controlfield tag="001">8793506</controlfield>
+          <controlfield tag="005">20031020075100.0</controlfield>
+          <controlfield tag="008">790412s1926    iq bef   b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   42041346</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   42041346 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)4849418</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">MnU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">a-iq---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS78</subfield>
+            <subfield code="b">.M2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Mackay, Dorothy Mary Simmons.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The ancient cities of Iraq.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Baghdad,</subfield>
+            <subfield code="b">K. Mackenzie,</subfield>
+            <subfield code="c">1926.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiv, 82 p.</subfield>
+            <subfield code="b">plates, map, plans.</subfield>
+            <subfield code="c">16 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Added t. p.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">On cover: A practical handbook.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 73-78.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Iraq</subfield>
+            <subfield code="v">Guidebooks.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Iraq</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS78</subfield>
+            <subfield code="i">.M2</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01056cam a22003011  4500</leader>
+          <controlfield tag="001">10229861</controlfield>
+          <controlfield tag="005">20050415212430.0</controlfield>
+          <controlfield tag="008">740508s1948    enkbef   b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   49002682</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   49002682 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)881053</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">MBU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS486.M6</subfield>
+            <subfield code="b">M25 1948</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">913.34</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Mackay, Ernest John Henry,</subfield>
+            <subfield code="d">1880-1943.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Early Indus civilizations.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2d ed., rev. and enl.</subfield>
+            <subfield code="b">by Dorothy Mackay.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Luzac,</subfield>
+            <subfield code="c">1948.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiv, 169 p.</subfield>
+            <subfield code="b">plates, maps, plans.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"First published as The Indus civilization, 1935."</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography at end of "Addendum" (p. 159-160) Bibliography: p. 161-162.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Indus River Valley</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Mohenjo-Daro Site (Pakistan)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Mackay, Dorothy Mary Simmons,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS486.M6</subfield>
+            <subfield code="i">M25 1948</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Mackay, Dorothy" or dc.creator="Mackay, Dorothy Mary" or dc.creator="Simmons, Dorothy Mary"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

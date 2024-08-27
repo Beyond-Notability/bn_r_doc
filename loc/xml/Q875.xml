@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>2</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01496cam a2200373 a 4500</leader>
+          <controlfield tag="001">1059088</controlfield>
+          <controlfield tag="005">20090515163316.0</controlfield>
+          <controlfield tag="008">930112s1988    enkabe   b    110 0 eng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   90144125</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nc32/tl 12-09-92; nc10/co 12-21-92; nf05 01-12-93; lh06 02-04-93; nc08/sl 05-18-93</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   90144125 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0860545555 :</subfield>
+            <subfield code="c">£25.00</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)20562011</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+            <subfield code="d">TxHR</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="4">
+            <subfield code="a">DA670.Y6</subfield>
+            <subfield code="b">R354 1988</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">936.2/8104</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Recent research in Roman Yorkshire :</subfield>
+            <subfield code="b">studies in honour of Mary Kitson Clark (Mrs. Derwas Chitty) /</subfield>
+            <subfield code="c">edited by J. Price and P.R. Wilson with C.S. Briggs and S.J. Hardman.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford, England :</subfield>
+            <subfield code="b">B.A.R.,</subfield>
+            <subfield code="c">1988.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xi, 406 p. :</subfield>
+            <subfield code="b">ill., maps, plans ;</subfield>
+            <subfield code="c">30 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="0">
+            <subfield code="a">BAR British series ;</subfield>
+            <subfield code="v">193</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Result of a conference held in Leeds in Sept. 1985 to honour the work of Mary Kitson Clark (Mrs. Derwas Chitty)</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Spine title: Roman Yorkshire.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographies.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Yorkshire (England)</subfield>
+            <subfield code="x">Antiquities, Roman</subfield>
+            <subfield code="x">Congresses.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Romans</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">Yorkshire</subfield>
+            <subfield code="x">Congresses.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Clark, Mary Kitson.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Price, J.</subfield>
+            <subfield code="q">(Jennifer)</subfield>
+            <subfield code="c">Dr.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wilson, P. R.</subfield>
+            <subfield code="q">(Peter R.)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Clark, Mary Kitson.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Roman Yorkshire.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA670.Y6</subfield>
+            <subfield code="i">R354 1988</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01271cam a22003011  4500</leader>
+          <controlfield tag="001">7831622</controlfield>
+          <controlfield tag="005">20050901145209.0</controlfield>
+          <controlfield tag="008">770407s1935    enkb          100 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   36008731</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   36008731 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2867858</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">TNJ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA147.Y67</subfield>
+            <subfield code="b">C6</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">913.4274</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Clark, Mary Kitson.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="2">
+            <subfield code="a">A gazetteer of Roman remains in east Yorkshire,</subfield>
+            <subfield code="c">collected and arranged by Mary Kitson Clark, M. A., with an introductory essay and map ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Leeds,</subfield>
+            <subfield code="b">Roman antiquities committee of the Yorkshire archaelological society,</subfield>
+            <subfield code="c">1935.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p. l., [7]-142 p., 1 l.</subfield>
+            <subfield code="b">2 fold. maps (1 in pocket)</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">[Yorkshire archaeological society.  Roman antiquities committee]  Roman Malton and district.  Report</subfield>
+            <subfield code="v">no. 5</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. [7]-10.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Yorkshire (England)</subfield>
+            <subfield code="x">Antiquities, Roman.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">East Riding of Yorkshire (England)</subfield>
+            <subfield code="x">Antiquities, Roman.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Romans</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">East Riding of Yorkshire.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Romans</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">Yorkshire.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Roman remains in east Yorkshire.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA147.Y67</subfield>
+            <subfield code="i">C6</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Clark, Mary Kitson" or dc.creator="Kitson Clark, Mary" or dc.creator="Chitty, Mary Kitson"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

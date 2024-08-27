@@ -1,0 +1,1126 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS424</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000110310035</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000110310035</isniURI>
+            <dataConfidence>70</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <source>BAnQ</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NSK</source>
+                    <subsourceIdentifier>000170618</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a22144389</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  94203966</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                    <subsourceIdentifier>XX1030078</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>1031288651</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>B2Q</source>
+                    <subsourceIdentifier>0000050391</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000054577</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>03314737X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10261048</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>jn19990002127</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>00990495</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>328276</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Joan Evans</surname>
+                    <nameTitle>Art historian</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q3179580</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12404363</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Joan</forename>
+                    <surname>Evans</surname>
+                    <marcDate>1893-1977</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>A.</forename>
+                    <surname>Evans</surname>
+                    <source>ZETO</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="BAnQ">cre</creationRole>
+                    <creationRole source="VIAF" subsource="NKC">aut</creationRole>
+                    <creationRole source="VIAF" subsource="NKC">com</creationRole>
+                    <creationRole source="VIAF" subsource="NKC">edt</creationRole>
+                    <creationRole source="VIAF" subsource="NLP">red</creationRole>
+                    <creationRole source="VIAF" subsource="NUKAT">red</creationRole>
+                    <creationRole source="ZETO">aut</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="BAnQ">as</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="B2Q">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="NKC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NDL">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNE">am</creationClass>
+                    <creationClass source="VIAF" subsource="NSK">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNE">gm</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">ma</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="ZETO">article</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>A @history of jewellery, 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>La @civilisation en France au moyen âge</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Monastic iconography in France, from the Renaissance to the Revolution</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Monastic life at Cluny, 910-1157</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Pattern. A study of ornament in Western Europe from 1180 to 1900</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@1835-1847</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@1848-1873</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@1874-1889</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Anglo-Norman lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Anglo-Norman lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Anglo-Norman lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Art in the mediaevil France, 987-1498.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>La @baja Edad Media</title>
+                      <subtitle>El florecimiento de la Europa medieval</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Biog. ind., 1964-1967:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Biog. ind., 1964-1967:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Blüte des Mittelalters.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Chateaubriand;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>La @civilisation en France au Moyen âge;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>La @civilisation en France au Moyen âge;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>La @civilisation en France au Moyen âge;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>La @civilisation en France au Moyen âge;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>La @civilisation en France au Moyen âge;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Columna al sur</title>
+                      <parallelTitle>Column south</parallelTitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Contemp. auth., v. 73-76:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Contemp. auth., v. 73-76:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Conways: a history of three generations.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @endless web</title>
+                      <subtitle>John Dickinson &amp; Co. Ltd., 1804-1954</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@English jewellery ... 1921.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@English jewellery ... 1921.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@English mediaeval lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@English mediaeval lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@English mediaeval lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@English mediaeval lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@English mediaeval lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NSK">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Histoire des civilisations.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@History of saint Louis, by John, Lord of Joinville,... translated from the French text edited by Natalis de Wailly, by Joan Evans. [Armorial ornaments engraved in wood by Reynolds Stone. Maps drawn by Berthold Wolpe.]</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>A @history of the Society of Antiquaries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>A @history of the Society of Antiquaries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @history of the Society of Antiquaries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @history of the Society of Antiquaries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Index to The palace of Minos</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Index to The palace of Minos</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>Das @Leben im mittelalterlichen Frankreich</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>L'@iconographie clunisienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Life in Medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Life in Medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Life in Medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Life in Medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@Life in Medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Life in Medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Life in Medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Monastic life at Cluny, 910-1157.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Monastic life at Cluny, 910-1157.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Monastic life at Cluny, 910-1157.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@n50010868</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Nature in design; a study of naturalism in decorative art from the bronze age to the Renaissance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Nature in design; a study of naturalism in decorative art from the bronze age to the Renaissance</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Nature in design; a study of naturalism in decorative art from the bronze age to the Renaissance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>The @Oxford history of English Art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>The @Oxford history of English Art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @palace of Minos; a comparative account of the successive stages of the early Cretan civilization as illustrated by the discoveries at Knossos</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @palace of Minos; a comparative account of the successive stages of the early Cretan civilization as illustrated by the discoveries at Knossos</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @palace of Minos; a comparative account of the successive stages of the early Cretan civilization as illustrated by the discoveries at Knossos</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Pattern</title>
+                      <subtitle>a study of ornament in Western Europe, from 1180 to 1900.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="B2Q">
+                      <title>@Pattern</title>
+                      <subtitle>a study of ornament in Western Europe, from 1180 to 1900.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Pattern</title>
+                      <subtitle>a study of ornament in Western Europe, from 1180 to 1900.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Prelude &amp; fugue, an autobiography.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @romanesque architecture of the Order of Cluny</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @romanesque architecture of the Order of Cluny</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @romanesque architecture of the Order of Cluny</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>The @romanesque architecture of the Order of Cluny</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @romanesque architecture of the Order of Cluny</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Romanesque wall paintings in France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Saint Joan of Orleans; scenes from the fifteenth century Mystère du siège d'Orleans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Saint Joan of Orleans; scenes from the fifteenth century Mystère du siège d'Orleans</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Saint Joan of Orleans; scenes from the fifteenth century Mystère du siège d'Orleans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Splendeurs et rayonnement du Moyen Âge</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Splendeurs et rayonnement du Moyen Âge</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @Statue from the Minories</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @statue of Christ from the ruins of Mercers' Hall</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Style in ornament.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Taste and temperament</title>
+                      <subtitle>a brief study of psychological types in their relation to the visual arts</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Taste and temperament</title>
+                      <subtitle>a brief study of psychological types in their relation to the visual arts</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Time and chance; the story of Arthur Evans and his forebears.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Time and chance; the story of Arthur Evans and his forebears.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Time and chance; the story of Arthur Evans and his forebears.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>The @unconquered knight</title>
+                      <subtitle>a chronicle of the deeds of Don Pero Niño, count of Buelna</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @unconquered knight</title>
+                      <subtitle>a chronicle of the deeds of Don Pero Niño, count of Buelna</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @unconquered knight</title>
+                      <subtitle>a chronicle of the deeds of Don Pero Niño, count of Buelna</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Unselfish egoist, a life of Joseph Joubert, by Joan Evans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>The @Victorians;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Victorians;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Victorians;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@ジュエリーの歴史</title>
+                      <subtitle>ヨーロッパの宝飾770年</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Anglo-Norman lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Chateaubriand;</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>La @civilisation en France au Moyen âge;</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Cluniac art of the romanesque period, by Joan Evans,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @endless web</title>
+                      <subtitle>John Dickinson &amp; Co. Ltd., 1804-1954</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@English mediaeval lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@History of saint Louis, by John, Lord of Joinville,... translated from the French text edited by Natalis de Wailly, by Joan Evans. [Armorial ornaments engraved in wood by Reynolds Stone. Maps drawn by Berthold Wolpe.]</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Huguenot Goldsmiths in England and Ireland, by Joan Evans,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Index to The palace of Minos</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Life in medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Magical jewels of the middle ages and the Renaissance, particularly in England, by Joan Evans,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Monastic life at Cluny, 910-1157</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Pattern</title>
+                      <subtitle>a study of ornament in Western Europe, from 1180 to 1900.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Préface</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @romanesque architecture of the Order of Cluny</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Splendeurs et rayonnement du Moyen Âge</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Style in ornament.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Taste and temperament</title>
+                      <subtitle>a brief study of psychological types in their relation to the visual arts</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Time and chance; the story of Arthur Evans and his forebears.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Unselfish egoist, a life of Joseph Joubert, by Joan Evans</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Anglo-Norman lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Blüte des Mittelalters.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>La @civilisation en France au Moyen âge;</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Conways: a history of three generations.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@diaries of John Ruskin</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @endless web</title>
+                      <subtitle>John Dickinson &amp; Co. Ltd., 1804-1954</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English art, 1307-1461</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English jewellery ... 1921.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English mediaeval lapidaries</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Flowering of the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>De @glorie der Middeleeuwen</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@History of jewellery 1100-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @history of the Society of Antiquaries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@lamp of beauty writings on art</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Life in medieval France</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Monastic architecture in France</title>
+                      <subtitle>from the Renaissance to the Revolution</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Monastic life at Cluny, 910-1157</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Nature in design; a study of naturalism in decorative art from the bronze age to the Renaissance</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @palace of Minos; a comparative account of the successive stages of the early Cretan civilization as illustrated by the discoveries at Knossos</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Pattern</title>
+                      <subtitle>a study of ornament in Western Europe, from 1180 to 1900.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @romanesque architecture of the Order of Cluny</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Style in ornament.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Taste and temperament</title>
+                      <subtitle>a brief study of psychological types in their relation to the visual arts</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Time and chance; the story of Arthur Evans and his forebears.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @unconquered knight</title>
+                      <subtitle>a chronicle of the deeds of Don Pero Niño, count of Buelna</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Victorians;</title>
+                    </titleOfWork>
+                    <titleOfWork source="ZETO">
+                      <title>@Preface</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714813745</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714813745</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571046935</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571046935</identifierValue>
+                      <source>VIAF</source>
+                      <source>NKC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571046935</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNE</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521069601</identifierValue>
+                      <source>VIAF</source>
+                      <source>BAV</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521069601</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521069601</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782857042167</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782857042167</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNE</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781843831013</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781843831013</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780878172603</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780878171514</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780878171514</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714821047</identifierValue>
+                      <source>VIAF</source>
+                      <source>PTBNP</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714821047</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNE</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500040126</identifierValue>
+                      <source>VIAF</source>
+                      <source>NKC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500040126</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780486233673</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9784896948387</identifierValue>
+                      <source>VIAF</source>
+                      <source>NDL</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781107620186</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782857042167</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780878172603</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714813745</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571046935</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521069601</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781843831013</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780878172603</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780878171514</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714821047</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500040126</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780486233673</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISSN</identifierType>
+                      <identifierValue>0378-4320</identifierValue>
+                      <source>ZETO</source>
+                    </identifier>
+                    <contributedToOrPerformed source="ZETO">
+                      <title>@ANIMAL REPRODUCTION SCIENCE</title>
+                    </contributedToOrPerformed>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Joan, Dame</forename>
+                    <surname>Evans</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Joan Evans</surname>
+                    <nameTitle>Brits kunsthistorica (1893-1977)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Джоан</forename>
+                    <surname>Эванс</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>ジョーン</forename>
+                    <surname>エヴァンズ</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>24983</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q275</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>ZETO</codeOfSource>
+                <sourceIdentifier>ETOCRN133146751-001</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>91409570</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/91409570</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12404363</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>067845959</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BAnQ</codeOfSource>
+                <sourceIdentifier>0000050391</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90060474</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50010868</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>13911836</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q275</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q3179580</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Joan_Evans_(art_historian)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://es.wikipedia.org/wiki/Joan_Evans</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Joan_Evans_(historienne_d'art)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Эванс,_Джоан</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000110310035%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000110310035"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

@@ -1,0 +1,384 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS349</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000080819868</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000080819868</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Frances G.</forename>
+                    <surname>Davenport</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances G.</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances G.</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001271684</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances G.</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000449601</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2011106794</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>1055173331</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10207905</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>067042406</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances G.</forename>
+                    <surname>Davenport</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>270059</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Frances Gardiner Davenport</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q5478663</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12381948</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">pbd</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@European treaties bearing on the history of the United States and its dependencies</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in minor London archives, and in the libraries of Oxford and Cambridge</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @classified list of printed original materials for English manorial and agrarian history during the middle ages....</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @classified list of printed original materials for English manorial and agrarian history during the middle ages....</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @economic development of a Norfolk manor, 1086-1565</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @economic development of a Norfolk manor, 1086-1565</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @economic development of a Norfolk manor, 1086-1565</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@European treaties bearing on the history of the United States and its dependencies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@European treaties bearing on the history of the United States and its dependencies</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@European treaties bearing on the history of the United States and its dependencies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@European treaties bearing on the history of the United States and its dependencies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@European treaties bearing on the history of the United States and its dependencies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in Minor London Archives, and in the libraries of Oxford and Cambridge, 1965 (a.e.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in Minor London Archives, and in the libraries of Oxford and Cambridge, 1965 (a.e.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in Minor London Archives, and in the libraries of Oxford and Cambridge, 1965 (a.e.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in Minor London Archives, and in the libraries of Oxford and Cambridge, 1965 (a.e.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in Minor London Archives, and in the libraries of Oxford and Cambridge, 1965 (a.e.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in Minor London Archives, and in the libraries of Oxford and Cambridge, 1965 (a.e.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in Minor London Archives, and in the libraries of Oxford and Cambridge, 1965 (a.e.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @provisional list of printed lists of ambassadors and other diplomatic representatives ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@[to 1648]. ed. by Charles Oscar Paullin</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@1650-1697</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@1698-1715</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@1716-1815</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@European treaties bearing on the history of the United States and its dependencies ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Classified list of printed original materials for English manorial and agrarian history during the middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @economic development of a Norfolk manor 1086-1565</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@European treaties bearing on the history of the United States and its dependencies</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Guide to the manuscript materials for the history of the United States to 1783, in the British Museum, in minor London archives, and in the libraries of Oxford and Cambridge</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781584774228</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780844611488</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780548568958</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Frances G.</forename>
+                    <surname>Davenport</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Frances Gardiner</forename>
+                    <surname>Davenport</surname>
+                    <marcDate>1870-1927</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Davenport</surname>
+                    <nameTitle>Frances Gardiner</nameTitle>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Frances Gardiner Davenport</surname>
+                    <nameTitle>American historian</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Frances Gardiner Davenport</surname>
+                    <nameTitle>Amerikaans historicus (-1927)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Frances</forename>
+                    <surname>Gardiner Davenport</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Frances</forename>
+                    <surname>Gardiner Davenport</surname>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>52701</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q843</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>2553125</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/2553125</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12381948</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>079543081</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>7056167</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  82215008</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14357406</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q843</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q5478663</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Frances_Gardiner_Davenport</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000080819868%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000080819868"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

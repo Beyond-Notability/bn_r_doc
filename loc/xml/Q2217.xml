@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>1</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00758cam a2200217u  4500</leader>
+          <controlfield tag="001">5855595</controlfield>
+          <controlfield tag="005">20170928121113.0</controlfield>
+          <controlfield tag="008">860225s1889    mauf          000 1 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   03004388 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   03004388</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ3.S8112</subfield>
+            <subfield code="b">G</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Stebbing, Grace.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Graham McCall's victory;</subfield>
+            <subfield code="b">a tale of the covenanters,</subfield>
+            <subfield code="c">by Grace Stebbing ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston,</subfield>
+            <subfield code="b">I. Bradley &amp; co.</subfield>
+            <subfield code="c">[1889]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., [vii]-viii, [9]-383 p.</subfield>
+            <subfield code="b">front., pl.</subfield>
+            <subfield code="c">18 cm.</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00023036940</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ3.S8112</subfield>
+            <subfield code="i">G</subfield>
+            <subfield code="p">00023036939</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">massdig</subfield>
+            <subfield code="e">kaia</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Stebbing, Grace"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

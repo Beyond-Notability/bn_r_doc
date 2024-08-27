@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>5</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03022cam a2200565 i 4500</leader>
+          <controlfield tag="001">18621832</controlfield>
+          <controlfield tag="005">20150714121612.0</controlfield>
+          <controlfield tag="008">150519s2013    ko a     b    000 0 kor d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-nonroman</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">SL 2015-03-03</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">cf21 2015-05-19 z-processor JACKPHY</subfield>
+            <subfield code="i">cf03 2015-06-09 to Asian</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2015423305</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788952228161</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8952228162</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn881603434</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">STF</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">STF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">CLU</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">kor</subfield>
+            <subfield code="h">fre</subfield>
+            <subfield code="h">eng</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">a-ko---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS902.3</subfield>
+            <subfield code="b">.P36164 2013</subfield>
+          </datafield>
+          <datafield tag="066" ind1=" " ind2=" ">
+            <subfield code="c">$1</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="6">880-01</subfield>
+            <subfield code="a">P'ŭrangsŭ yŏksa hakcha ŭi Hanbando yŏhaenggi K'oria esŏ /</subfield>
+            <subfield code="c">Chang tŭ P'angju chiŭm ; Sim Chae-jung omgim. Sŭk'ot'ŭllaendŭ yŏsŏng hwaga ŭi nun ŭro pon Han'guk ŭi ilsang / K'onsŭt'ansŭ T'eillŏ chiŭm ; Hwang Hye-jo omgim.</subfield>
+          </datafield>
+          <datafield tag="880" ind1="0" ind2="0">
+            <subfield code="6">245-01/$1</subfield>
+            <subfield code="a">프랑스 역사 학자 의 한반도 여행기 코리아 에서 /</subfield>
+            <subfield code="c">장 드 팡주 지음 ; 심 재중 옮김. 스코틀랜드 여성 화가 의 눈 으로 본 한국 의 일상 / 콘스탄스 테일러 지음 ; 황 혜조 옮김.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="6">880-02</subfield>
+            <subfield code="a">Ch'op'an.</subfield>
+          </datafield>
+          <datafield tag="880" ind1=" " ind2=" ">
+            <subfield code="6">250-02/$1</subfield>
+            <subfield code="a">초판.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="6">880-03</subfield>
+            <subfield code="a">Kyŏnggi-do P'aju-si :</subfield>
+            <subfield code="b">Sallim,</subfield>
+            <subfield code="c">2013.</subfield>
+          </datafield>
+          <datafield tag="880" ind1=" " ind2="1">
+            <subfield code="6">264-03/$1</subfield>
+            <subfield code="a">경기도 파주시 :</subfield>
+            <subfield code="b">살림,</subfield>
+            <subfield code="c">2013.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">219 pages :</subfield>
+            <subfield code="b">illustrations (some color) ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="6">880-04</subfield>
+            <subfield code="a">Kŭdŭl i pon uri =</subfield>
+            <subfield code="a">Korean heritage books ;</subfield>
+            <subfield code="v">021</subfield>
+          </datafield>
+          <datafield tag="880" ind1="1" ind2=" ">
+            <subfield code="6">490-04/$1</subfield>
+            <subfield code="a">그들 이 본 우리 =</subfield>
+            <subfield code="a">Korean heritage books ;</subfield>
+            <subfield code="v">021</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Korea</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Korea</subfield>
+            <subfield code="x">Social life and customs.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="6">880-05</subfield>
+            <subfield code="a">Hwang, Hye-jo,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="880" ind1="1" ind2=" ">
+            <subfield code="6">700-05/$1</subfield>
+            <subfield code="a">황 혜조,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="6">880-06</subfield>
+            <subfield code="a">Sim, Chae-jung,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="880" ind1="1" ind2=" ">
+            <subfield code="6">700-06/$1</subfield>
+            <subfield code="a">심 재중,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Pange, Jean de,</subfield>
+            <subfield code="d">1881-1957.</subfield>
+            <subfield code="t">En Corée.</subfield>
+            <subfield code="l">Korean.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Coulson, Constance J. D.</subfield>
+            <subfield code="q">(Constance Jane Dorothy),</subfield>
+            <subfield code="d">1868-1948.</subfield>
+            <subfield code="t">Koreans at home.</subfield>
+            <subfield code="l">Korean.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="6">880-07</subfield>
+            <subfield code="a">Coulson, Constance J. D.</subfield>
+            <subfield code="q">(Constance Jane Dorothy),</subfield>
+            <subfield code="d">1868-1948.</subfield>
+            <subfield code="t">Sŭk'ot'ŭllaendŭ yŏsŏng hwaga ŭi nun ŭro pon Han'guk ŭi ilsang.</subfield>
+          </datafield>
+          <datafield tag="880" ind1="1" ind2="2">
+            <subfield code="6">700-07/$1</subfield>
+            <subfield code="a">Coulson, Constance J. D.</subfield>
+            <subfield code="q">(Constance Jane Dorothy),</subfield>
+            <subfield code="d">1868-1948.</subfield>
+            <subfield code="t">스코틀랜드 여성 화가 의 눈 으로 본 한국 의 일상.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2="2">
+            <subfield code="6">880-08</subfield>
+            <subfield code="a">Sŭk'ot'ŭllaendŭ yŏsŏng hwaga ŭi nun ŭro pon Han'guk ŭi ilsang.</subfield>
+          </datafield>
+          <datafield tag="880" ind1="0" ind2="2">
+            <subfield code="6">740-08/$1</subfield>
+            <subfield code="a">스코틀랜드 여성 화가 의 눈 으로 본 한국 의 일상.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="6">880-09</subfield>
+            <subfield code="a">Kŭdŭl i pon uri ;</subfield>
+            <subfield code="v">021.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents only</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/fy15pdf02/2015423305.html</subfield>
+          </datafield>
+          <datafield tag="880" ind1=" " ind2="0">
+            <subfield code="6">830-09/$1</subfield>
+            <subfield code="a">그들 이 본 우리 ;</subfield>
+            <subfield code="v">021.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="d">20150319</subfield>
+            <subfield code="n">150319</subfield>
+            <subfield code="s">Eulyoo</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00915cam a22002411  4500</leader>
+          <controlfield tag="001">7285691</controlfield>
+          <controlfield tag="005">20141015130623.0</controlfield>
+          <controlfield tag="008">770516s1910    enkabf        000 0 eng c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  10002549</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  10002549 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2970798</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Lynn, Mass. Pub. Libr.</subfield>
+            <subfield code="c">ODa</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS904</subfield>
+            <subfield code="b">.C7</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Coulson, Constance J. D.</subfield>
+            <subfield code="q">(Constance Jane Dorothy),</subfield>
+            <subfield code="d">1868-1948.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Korea,</subfield>
+            <subfield code="c">by Constance J. D. Coulson, with twelve full-page illustrations in colour by the author and E. H. Fitchew.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">A. and C. Black,</subfield>
+            <subfield code="c">1910.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v p., 1 l., 84, [1] p. incl. map. col. front., 11 col. pl.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Peeps at many lands</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Korea</subfield>
+            <subfield code="x">Social life and customs.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS904</subfield>
+            <subfield code="i">.C7</subfield>
+            <subfield code="p">00015114794</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00919cam a22002291  4500</leader>
+          <controlfield tag="001">7264819</controlfield>
+          <controlfield tag="005">20050811192423.0</controlfield>
+          <controlfield tag="008">750806s1904    enkf          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04027139</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04027139 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1517833</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">FJ</subfield>
+            <subfield code="d">MH</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS904</subfield>
+            <subfield code="b">.T2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tayler, Constance J. D.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Koreans at home;</subfield>
+            <subfield code="b">the impressions of a Scotswoman,</subfield>
+            <subfield code="c">by Constance J. D. Tayler.  With five plates in colour and twenty-five illustrations from original  drawings and photographs by the author.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Paris, New York and Melbourne, Cassell and company, limited,</subfield>
+            <subfield code="c">1904.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, [9]-80 p.</subfield>
+            <subfield code="b">col. front., 25 pl. [1 fold.]</subfield>
+            <subfield code="c"> 22cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Korea</subfield>
+            <subfield code="x">Social life and customs.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS904</subfield>
+            <subfield code="i">.T2</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00720nam a2200217u  4500</leader>
+          <controlfield tag="001">9296757</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">821105s1904    enkcf         000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   49042560</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   49042560 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">a-ko---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS904</subfield>
+            <subfield code="b">.T2 1904a</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tayler, Constance J. D. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Koreans at home;</subfield>
+            <subfield code="b">the impressions of a Scotswoman. </subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2d ed. </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Cassell,</subfield>
+            <subfield code="c">1904.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">80 p.</subfield>
+            <subfield code="b">plates (part col.) ports.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Korea</subfield>
+            <subfield code="x">Social life and customs. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS904</subfield>
+            <subfield code="i">.T2 1904a</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00688nam a22002057  4500</leader>
+          <controlfield tag="001">6773971</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">910109s1904    enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)ltf90039255</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">ltf90039255 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">4DS 339</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tayler, Constance J. D. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Koreans at home, the impressions of a Scotswoman.</subfield>
+            <subfield code="b">With 5 plates in colour and 25 illus. from original drawings and photos.</subfield>
+            <subfield code="c">by the author.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2d ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Cassell,</subfield>
+            <subfield code="c">1904.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">80 p.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="f">cc25</subfield>
+            <subfield code="g">enh</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">4DS 339</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Tayler, Constance" or dc.creator="Coulson, Constance" or dc.creator="Coulson, Constance J. D."</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

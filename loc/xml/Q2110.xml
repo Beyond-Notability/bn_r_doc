@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>5</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01619cam a22003854a 4500</leader>
+          <controlfield tag="001">14606971</controlfield>
+          <controlfield tag="005">20070720115027.0</controlfield>
+          <controlfield tag="008">061023s2007    sz a     b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">jc02 2006-10-24</subfield>
+            <subfield code="d">jc02 2006-10-24</subfield>
+            <subfield code="e">jc02 2006-10-24 to Dewey</subfield>
+            <subfield code="a">aa27 2006-10-24</subfield>
+            <subfield code="a">ps13 2007-05-22 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">sc02 2007-07-20 Z-CipVer</subfield>
+            <subfield code="g">sc02 2007-07-20 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2006035387</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">101290506</subfield>
+            <subfield code="2">DNLM</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9783805582186 (hard cover : alk. paper)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">3805582188 (hard cover : alk. paper)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm74460042</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)74460042</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DNLM/DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">BAKER</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">OHX</subfield>
+            <subfield code="d">NLM</subfield>
+            <subfield code="d">C#P</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RL241</subfield>
+            <subfield code="b">.S55 2007</subfield>
+          </datafield>
+          <datafield tag="060" ind1="0" ind2="0">
+            <subfield code="a">W1</subfield>
+            <subfield code="b">CU804L v.34 2007</subfield>
+          </datafield>
+          <datafield tag="060" ind1="1" ind2="0">
+            <subfield code="a">WR 140</subfield>
+            <subfield code="b">S6285 2007</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">616.5</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Skin protection :</subfield>
+            <subfield code="b">practical applications in the occupational setting /</subfield>
+            <subfield code="c">volume editors, S. Schliemann, P. Elsner.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Basel ;</subfield>
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Karger,</subfield>
+            <subfield code="c">2007.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 182 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="0">
+            <subfield code="a">Current problems in dermatology,</subfield>
+            <subfield code="x">1421-5721 ;</subfield>
+            <subfield code="v">v. 34</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and indexes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Occupational dermatitis.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Skin</subfield>
+            <subfield code="x">Safety measures.</subfield>
+          </datafield>
+          <datafield tag="650" ind1="1" ind2="2">
+            <subfield code="a">Skin Diseases</subfield>
+            <subfield code="x">prevention &amp; control.</subfield>
+          </datafield>
+          <datafield tag="650" ind1="2" ind2="2">
+            <subfield code="a">Occupational Exposure</subfield>
+            <subfield code="x">prevention &amp; control.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, S.</subfield>
+            <subfield code="q">(Sybille)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Elsner, Peter,</subfield>
+            <subfield code="d">1955-</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents only</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/ecip073/2006035387.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00771cam a2200241u  4500</leader>
+          <controlfield tag="001">6466409</controlfield>
+          <controlfield tag="005">20150108114200.0</controlfield>
+          <controlfield tag="008">821119s1939    gw ac         000 0bger  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   45029355</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   45029355 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DF212.S4</subfield>
+            <subfield code="b">A3 1939</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Heinrich,</subfield>
+            <subfield code="d">1822-1890.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Heinrich Schliemann.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3. aufl.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Leipzig,</subfield>
+            <subfield code="b">F. A. Brockhaus,</subfield>
+            <subfield code="c">1939.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">135, [1] p.</subfield>
+            <subfield code="b">front. (port.) illus.</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Troy (Extinct city)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Mycenae (Extinct city)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Sophie Kastromenos,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brueckner, Alfred,</subfield>
+            <subfield code="d">1861-1936.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DF212.S4</subfield>
+            <subfield code="i">A3 1939</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00993cam a22002651  4500</leader>
+          <controlfield tag="001">9839273</controlfield>
+          <controlfield tag="005">20050507162557.0</controlfield>
+          <controlfield tag="008">761022s1961    gw a          001 0 ger  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   61033903</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   61033903 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2519869</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">KyLoU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DF212.S4</subfield>
+            <subfield code="b">A3 1961</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Heinrich,</subfield>
+            <subfield code="d">1822-1890.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Heinrich Schliemann.</subfield>
+            <subfield code="b">Selbstbiographie, bis zu seinem Tode vervollständigt.</subfield>
+            <subfield code="c">Hrsg. von Sophie Schliemann.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">9. Aufl.</subfield>
+            <subfield code="b">neubearbeitet und mit einem Nachwort hrsg. von Ernst Meyer.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Wiesbaden,</subfield>
+            <subfield code="b">F. A. Brockhaus,</subfield>
+            <subfield code="c">1961.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">144 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Completed by Alfred Brückner. Cf. Vorwort zur 1. Aufl.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Sophie Kastromenos.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bruückner, Alfred,</subfield>
+            <subfield code="d">1861-1936.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DF212.S4</subfield>
+            <subfield code="i">A3 1961</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01043cam a22002651  4500</leader>
+          <controlfield tag="001">8863391</controlfield>
+          <controlfield tag="005">20150108114417.0</controlfield>
+          <controlfield tag="008">800529s1955    gw acef       000 0ager  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   55032536</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   55032536 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)6370159</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NcRS</subfield>
+            <subfield code="d">NcRS</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DF212.S4</subfield>
+            <subfield code="b">A3 1955</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Heinrich,</subfield>
+            <subfield code="d">1822-1890.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Heinrich Schliemann.</subfield>
+            <subfield code="b">Selbstbiographie, bis zu seinem Tode vervollständigt,</subfield>
+            <subfield code="c">hrsg. von Sophie Schliemann. Mit 40 Abbildungen und Karten neubearb. und mit winem Nachwort hrsg. von Ernst Meyer.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">8. Aufl.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Wiesbaden,</subfield>
+            <subfield code="b">F. A. Brockhaus,</subfield>
+            <subfield code="c">1955.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">143 p.</subfield>
+            <subfield code="b">illus., plans, plates, port.</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Completed by Alfred Bruckner (cf. Vorswort zur 1. Aufl.)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Sophie Kastromenos.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brueckner, Alfred,</subfield>
+            <subfield code="d">1861-1936.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DF212.S4</subfield>
+            <subfield code="i">A3 1955</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01040cam a22002771  4500</leader>
+          <controlfield tag="001">6465778</controlfield>
+          <controlfield tag="005">20150108114400.0</controlfield>
+          <controlfield tag="008">780529s1944    gw abc        000 0bger  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   45020685</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   45020685 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3935410</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NBuU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DF212.S4</subfield>
+            <subfield code="b">A3 1944</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">925.7</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Heinrich,</subfield>
+            <subfield code="d">1822-1890.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Heinrich Schliemann.</subfield>
+            <subfield code="b">Selbstbiographie, bis zu seinem Tode vervollständigt,</subfield>
+            <subfield code="c">hrsg. von Sophie Schliemann. Mit einem Nachwort von Ernst Meyer, 38 Abbildungen und 2 Karten.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">6. Aufl.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Leipzig,</subfield>
+            <subfield code="b">F. A. Brockhaus,</subfield>
+            <subfield code="c">1944.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">135, [1] p.</subfield>
+            <subfield code="b">illus., port., maps</subfield>
+            <subfield code="c">17 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Completed by Alfred Brückner.  cf. Vorwort zur ersten Auflage.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Schliemann, Sophie Kastromenos.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brueckner, Alfred,</subfield>
+            <subfield code="d">1861-1936.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DF212.S4</subfield>
+            <subfield code="i">A3 1944</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Schliemann, S." or dc.creator="Schliemann, Sophia" or dc.creator="Schliemann, Sophie" or dc.creator="Engastromenou, Sophia" or dc.creator="Schliemann, Sophie Kastromenos"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

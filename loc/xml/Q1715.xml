@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>2</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>04258cam a22003855a 4500</leader>
+          <controlfield tag="001">16603320</controlfield>
+          <controlfield tag="005">20190206095303.0</controlfield>
+          <controlfield tag="008">110107s2009    ne a     b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">hh01 2011-01-07 z-processor</subfield>
+            <subfield code="a">hh12 2011-01-24 - C. Zimmerman phoned. Will pick up book outside BCJ's office.  As requested, book was not processed or cataloged.</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2017392108</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBA939334</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">015116838</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780750682015 (hbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0750682019 (hbk.)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn319209755</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKM</subfield>
+            <subfield code="c">UKM</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">BWKUK</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">CDX</subfield>
+            <subfield code="d">C#P</subfield>
+            <subfield code="d">TXI</subfield>
+            <subfield code="d">UBY</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CC135</subfield>
+            <subfield code="b">.C625 2009</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">363.69</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="097" ind1="0" ind2="0">
+            <subfield code="a">CC135</subfield>
+            <subfield code="b">.C66 2009</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Conservation :</subfield>
+            <subfield code="b">principles, dilemmas and uncomfortable truths /</subfield>
+            <subfield code="c">edited by Alison Richmond and Alison Bracker.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Amsterdam ;</subfield>
+            <subfield code="a">Boston :</subfield>
+            <subfield code="b">Elsevier/Butterworth-Heinemann ;</subfield>
+            <subfield code="a">London :</subfield>
+            <subfield code="b">In Association with the Victoria &amp; Albert Museum,</subfield>
+            <subfield code="c">2009.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xviii, 250 p. :</subfield>
+            <subfield code="b">col. ill. ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Auto-icons / Jonathan Ree -- The basis of conservation ethics / Jonathan Ashley-Smith -- The aims of conservation / Chris Caple -- The reconstruction of ruins: principles and practice / Nicholas Stanley-Price -- Minimal intervention revisited / Salvador Munoz Vinas -- Practical ethics v2.0 / Jonathan Kemp -- Conservation principles in the international context / Jukka Jokilehto -- The concept of authenticity expressed in the treatment of wall paintings in Denmark / Isabelle Brajer -- The development of principles in paintings conservation: case studies from the restoration of Raphael's art / Cathleen Hoeniger -- A critical reflection on Czechoslovak conservation-restoration: its theory and methodological approach / Zuzana Bauerova -- The problem of Patina: thoughts on changing attitudes to old and new things / Helen Clifford -- Archaeological conservation: scientific practice or social process? / Elizabeth Pye -- Conservation and cultural significance / Miriam Clavir -- The cultural dynamics of conservation principles in reported practice / Dinah Eastop -- Why do we conserve? Developing understanding of conservation as a cultural construct / Simon Cane -- Heritage, values, and sustainability / Erica Avrami -- Ethics and practice: Australian and New Zealand conservation contexts / Catherine Smith and Marcelle Scott -- Conservation, access and use in a museum of living cultures / Marian A. Kaminitz and W. Richard West -- The challenge of installation art / Glenn Wharton and Harvey Molotch -- Contemporary museums of contemporary art / Jill Sterrett -- White walls: installations, absence, iteration and difference / Tina Fiske.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"Conservation: Principles, Dilemmas, and Uncomfortable Truths presents multi-perspective critical analyses of the ethics and principles that guide the conservation of works of art and design, archaeological artefacts, buildings, monuments, and heritage sites on behalf of society. Contributors from the fields of philosophy, sociology, history, art and design history, museology, conservation, architecture, and planning and public policy address a wide range of conservation principles, practices, and theories from the US, Canada, Europe, Australia and New Zealand, encouraging the reader to make comparisons across subjects and disciplines. By wrestling with and offering ways of disentangling the ethical dilemmas confronting those who maintain and sustain cultural heritage for today and tomorrow, 'Conservation: Principles, Dilemmas, and Uncomfortable Truths' provides an essential reference text for conservation professionals, museum and heritage professionals, art and cultural historians, lecturers and students, and all others invested in cultural heritage theories and practices."--Publisher's description.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Historic preservation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cultural property</subfield>
+            <subfield code="x">Protection.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Richmond, Alison.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bracker, Alison Lee.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Victoria and Albert Museum.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="d">20110108</subfield>
+            <subfield code="n">286844</subfield>
+            <subfield code="s">Alibris</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00589nam a22001935a 4500</leader>
+          <controlfield tag="001">80786</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">950328s1994    enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   95133101</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">RB13   03/28/95</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   95133101 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">ACQUISITION IN PROCESS</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Richmond, Alison.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Modern works, modern problems /</subfield>
+            <subfield code="c">edited by Alison Richmond.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Leigh Lodge, Leigh, Worcester, England :</subfield>
+            <subfield code="b">Institute of Paper Conservation,</subfield>
+            <subfield code="c">1994.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 v.</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">ap</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Richmond, Alison" or dc.creator="Nugent Young, Alison" or dc.creator="Young, Alison Nugent"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

@@ -1,0 +1,3565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>41</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>04161cam a2200697 i 4500</leader>
+          <controlfield tag="001">21305851</controlfield>
+          <controlfield tag="005">20191227062635.0</controlfield>
+          <controlfield tag="008">191125s2019    mau           000 0 eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rn45 2019-11-25 z-processor 1 copy to USASH</subfield>
+            <subfield code="i">rm04 2019-12-27 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2018278343</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781946511454</subfield>
+            <subfield code="q">paperback</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1946511455</subfield>
+            <subfield code="q">paperback</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)on1112252890</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NRC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NRC</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">OBE</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">YDXIT</subfield>
+            <subfield code="d">TOH</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">330.12/2</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HB95</subfield>
+            <subfield code="b">.E267 2019</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Economics after neoliberalism /</subfield>
+            <subfield code="c">Joshua Cohen, editor.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cambridge, MA :</subfield>
+            <subfield code="b">Boston Review,</subfield>
+            <subfield code="c">[2019]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">173 pages ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Boston review forum ;</subfield>
+            <subfield code="v">11 (44.3)</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="g">Editor's note /</subfield>
+            <subfield code="r">Joshua Cohen --</subfield>
+            <subfield code="t">Economics after neoliberalism /</subfield>
+            <subfield code="r">Suresh Naidu - Economics is the materiality of moral choice /</subfield>
+            <subfield code="r">Corey Robin ---</subfield>
+            <subfield code="t">Economics after partnership /</subfield>
+            <subfield code="r">Oren Cass -</subfield>
+            <subfield code="t">In defense of neoliberalism /</subfield>
+            <subfield code="r">William Easterly --</subfield>
+            <subfield code="t">Markets are political /</subfield>
+            <subfield code="r">Debra Satz --</subfield>
+            <subfield code="t">What about developing countries? /</subfield>
+            <subfield code="r">Arvind Subramanian --</subfield>
+            <subfield code="t">Trade restrictions will not achieve ethical globalism /</subfield>
+            <subfield code="r">Margaret E. Peters --</subfield>
+            <subfield code="t">Inclusive prosperity for global supply chains /</subfield>
+            <subfield code="r">Alice Evans --</subfield>
+            <subfield code="t">A transdisciplinary approach /</subfield>
+            <subfield code="r">Complexity Economists --</subfield>
+            <subfield code="t">"Illiberal" economics /</subfield>
+            <subfield code="r">Caleb Orr --</subfield>
+            <subfield code="t">The perils of quantification /</subfield>
+            <subfield code="r">Ethan Bueno de Mesquita --</subfield>
+            <subfield code="t">Empiricism's implicit bias /</subfield>
+            <subfield code="r">Marshall Steinbaum --</subfield>
+            <subfield code="t">Economists should enable democratic priorities /</subfield>
+            <subfield code="r">Suresh Naidu, Dani Rodik, Gabriel Zucman --</subfield>
+            <subfield code="t">Selling Keynesianism /</subfield>
+            <subfield code="r">Robert Manduca --</subfield>
+            <subfield code="t">Everyday economists /</subfield>
+            <subfield code="r">Samuel Bowles --</subfield>
+            <subfield code="t">Who owns corporations? /</subfield>
+            <subfield code="r">Lenore Palladino --</subfield>
+            <subfield code="t">The false promise of enlightenment /</subfield>
+            <subfield code="r">Quinn Slobodian --</subfield>
+            <subfield code="t">Free speech, incorporated /</subfield>
+            <subfield code="r">Amy Kapcyznski</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Economics is in a state of "creative ferment," according to lead authors Suresh Naidu, Dani Rodrik, and Gabriel Zucman. A decade after the Great Recession, they argue for a new brand of economics, one divorced from market fundamentalism and focused instead on a more inclusive society. Responses to their ideas--which come from economists, philosophers, political scientists, and policymakers across the political spectrum--showcase just how passionate the debate over the future of economics has become. -- Publishers website</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neoliberalism.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neoliberalism</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">21st century.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neoliberalism</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">20th century.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neoliberalism</subfield>
+            <subfield code="x">Social aspects</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Radical economics.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">POLITICAL SCIENCE / General.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Neoliberalism.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01737382</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Radical economics.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01087011</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">United States.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01204155</subfield>
+          </datafield>
+          <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">1900-2099</subfield>
+            <subfield code="2">fast</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">History.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01411628</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cohen, Joshua,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bowles, Samuel,</subfield>
+            <subfield code="e">interviewee.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bueno de Mesquita, Ethan,</subfield>
+            <subfield code="d">1974-</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cass, Oren,</subfield>
+            <subfield code="d">1983-</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Complexity Economists</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Easterly, William,</subfield>
+            <subfield code="d">1957-</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice</subfield>
+            <subfield code="e">contributor</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kapcyznski, Amy</subfield>
+            <subfield code="e">contributor</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Manduca, Robert</subfield>
+            <subfield code="e">contributor</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Naidu, Suresh,</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Orr, Caleb</subfield>
+            <subfield code="e">contributor</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Palladino, Lenore</subfield>
+            <subfield code="e">contributor</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Peters, Margaret E.,</subfield>
+            <subfield code="d">1980-</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Robin, Corey,</subfield>
+            <subfield code="d">1967-</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rodrik, Dani,</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Satz, Debra,</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Slobodian, Quinn,</subfield>
+            <subfield code="d">1978-</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Steinbaum, Marshall,</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Subramanian, Arvind,</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Zucman, Gabriel,</subfield>
+            <subfield code="e">contributor.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Forum (Cambridge, Mass.) ;</subfield>
+            <subfield code="v">11.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01103pam a2200301 a 4500</leader>
+          <controlfield tag="001">1579188</controlfield>
+          <controlfield tag="005">19940311104839.3</controlfield>
+          <controlfield tag="008">930618s1993    nyua     b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   93024374</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc01 to SC00 06-18-93; sh10 06-19-93; sh04 06-21-93; aa00 06-22-93; CIP ver. ta06; to SL 03-11-94</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   93024374 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0883449188 (pbk.) :</subfield>
+            <subfield code="c">$18.95</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BV4022</subfield>
+            <subfield code="b">.G57 1993</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">207</subfield>
+            <subfield code="2">20</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Globalization of theological education /</subfield>
+            <subfield code="c">Alice Frazer Evans, Robert A. Evans, David A. Roozen, editors.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Maryknoll, N.Y. :</subfield>
+            <subfield code="b">Orbis Books,</subfield>
+            <subfield code="c">c1993.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xvii, 366 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Theology</subfield>
+            <subfield code="x">Study and teaching.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Christianity and culture.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Missions</subfield>
+            <subfield code="x">Theory.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Christian union.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice F.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Robert A.,</subfield>
+            <subfield code="d">1937-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Roozen, David A.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BV4022</subfield>
+            <subfield code="i">.G57 1993</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01026cam a2200277 a 4500</leader>
+          <controlfield tag="001">3751483</controlfield>
+          <controlfield tag="005">19900106164617.6</controlfield>
+          <controlfield tag="008">820920s1983    nyu      b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   82018780</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   82018780 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0883441942 (pbk.) :</subfield>
+            <subfield code="c">$9.95</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">d------</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BT738.15</subfield>
+            <subfield code="b">.H85 1983</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">261.7</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Human rights :</subfield>
+            <subfield code="b">a dialogue between the First and Third Worlds /</subfield>
+            <subfield code="c">Robert A. Evans and Alice Frazer Evans.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Maryknoll, N.Y. :</subfield>
+            <subfield code="b">Orbis Books ;</subfield>
+            <subfield code="a">Guildford, Surrey :</subfield>
+            <subfield code="b">Lutterworth Press,</subfield>
+            <subfield code="c">c1983.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 264 p. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographies.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Civil rights</subfield>
+            <subfield code="x">Religious aspects</subfield>
+            <subfield code="x">Christianity.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Christianity</subfield>
+            <subfield code="z">Developing countries.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Human rights</subfield>
+            <subfield code="x">Religious aspects</subfield>
+            <subfield code="x">Christianity.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Robert A.,</subfield>
+            <subfield code="d">1937-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice F.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BT738.15</subfield>
+            <subfield code="i">.H85 1983</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01072nam a2200325 a 4500</leader>
+          <controlfield tag="001">3740505</controlfield>
+          <controlfield tag="005">19880628143229.1</controlfield>
+          <controlfield tag="008">810715s1981    nz af         000 0aeng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   81161900</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">fc14 10-5-87</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   81161900 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0340245441 :</subfield>
+            <subfield code="c">$12.95</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">u-nz---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CT2888.E45</subfield>
+            <subfield code="b">A3 1981</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">993.12/2</subfield>
+            <subfield code="a">B</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice,</subfield>
+            <subfield code="d">1911- </subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mount Camel calling /</subfield>
+            <subfield code="c">by Alice Evans.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Auckland :</subfield>
+            <subfield code="b">Hodder and Stoughton,</subfield>
+            <subfield code="c">1981.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">192 p., [16] p. of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Evans, Alice,</subfield>
+            <subfield code="d">1911- </subfield>
+            <subfield code="x">Childhood and youth.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Evans, Alice,</subfield>
+            <subfield code="d">1911- </subfield>
+            <subfield code="x">Family.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Wagner family.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Subritzky family.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Camel, Mount, Region (N.Z.)</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">New Zealand</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Frontier and pioneer life</subfield>
+            <subfield code="z">New Zealand</subfield>
+            <subfield code="z">Camel, Mount, Region.</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">ap</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CT2888.E45</subfield>
+            <subfield code="i">A3 1981</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01080ccm a22003133i 4500</leader>
+          <controlfield tag="001">22208612</controlfield>
+          <controlfield tag="005">20231207164718.0</controlfield>
+          <controlfield tag="008">210827s1893    xx uul|        n  | |||  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">22208612</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2016732776</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DLC)musm1508.10074647</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M1508</subfield>
+            <subfield code="b">.Africa</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice,</subfield>
+            <subfield code="d">active 1893</subfield>
+            <subfield code="e">composer.</subfield>
+            <subfield code="0">https://id.loc.gov/authorities/names/n2016048132</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Little roguish rose :</subfield>
+            <subfield code="b">.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="c">1893.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 score</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">notated music</subfield>
+            <subfield code="b">ntm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">From: Africa.</subfield>
+          </datafield>
+          <datafield tag="546" ind1=" " ind2=" ">
+            <subfield code="b">Staff notation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="4">
+            <subfield code="a">Africa</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Coleman, John A.</subfield>
+            <subfield code="c">(Songwriter)</subfield>
+            <subfield code="e">lyricist.</subfield>
+            <subfield code="0">https://id.loc.gov/authorities/names/n2009066246</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">https://hdl.loc.gov/loc.music/musm1508.10074647</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Other songs from show</subfield>
+            <subfield code="u">https://hdl.loc.gov/loc.music/musm1508callno.2016732776</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">M1508project</subfield>
+            <subfield code="d">2017</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">musm1508</subfield>
+            <subfield code="d">2017</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00895cam a22002651a 4500</leader>
+          <controlfield tag="001">7329288</controlfield>
+          <controlfield tag="005">20020617084001.0</controlfield>
+          <controlfield tag="008">880909s1925    dcua     b   f000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   25027449</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   25027449 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)18465561</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">ABAU</subfield>
+            <subfield code="d">ABAU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RA421</subfield>
+            <subfield code="b">.U4 no. 143</subfield>
+          </datafield>
+          <datafield tag="051" ind1=" " ind2=" ">
+            <subfield code="a">QR201.U5</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice C.</subfield>
+            <subfield code="q">(Alice Catherine),</subfield>
+            <subfield code="d">1881-1975.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Studies on Brucella (alkaligenes) melitensis /</subfield>
+            <subfield code="c">by Alice C. Evans.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington :</subfield>
+            <subfield code="b">G.P.O.,</subfield>
+            <subfield code="c">1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 67 p., [1] leaf of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="0">
+            <subfield code="a">Hygienic Laboratory bulletin ;</subfield>
+            <subfield code="v">no. 143</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 60-67.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucella melitensis.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucellosis.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RA421</subfield>
+            <subfield code="i">.U4 no. 143</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00862cam a2200229u  4500</leader>
+          <controlfield tag="001">5894725</controlfield>
+          <controlfield tag="005">20070316145109.0</controlfield>
+          <controlfield tag="008">810428s1914    dcua          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr14001198</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr14001198 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">S21</subfield>
+            <subfield code="b">.A75 vol. II, no. 3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice C. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Bacteria concerned in the production of the characteristic flavor in cheese of the cheddar type.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="c">1914.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vol. II, no. 3, p. 167-192 incl. tables. 26 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cheese</subfield>
+            <subfield code="x">Microbiology.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cheddar cheese.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hastings, Edwin George, [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hart, E. B.</subfield>
+            <subfield code="q">(Edwin Bret),</subfield>
+            <subfield code="d">1874-1953,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">S21</subfield>
+            <subfield code="i">.A75 vol. II, no. 3</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00936cam a22002771  4500</leader>
+          <controlfield tag="001">9745350</controlfield>
+          <controlfield tag="005">20050518194423.0</controlfield>
+          <controlfield tag="008">850515s1945    dcu          f000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   45037613</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   45037613 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12035757</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NhD</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RA11</subfield>
+            <subfield code="b">.B154 no. 34</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">614.54</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine,</subfield>
+            <subfield code="d">1881-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Brucellosis (undulant fever)</subfield>
+            <subfield code="c">by Alice C. Evans ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Washington,</subfield>
+            <subfield code="b">U.S. Govt. Print. Off.,</subfield>
+            <subfield code="c">1945]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., 3 p.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">[U.S. Public health service] Miscellaneous publication</subfield>
+            <subfield code="v">no. 34</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"From the National institute of health."-p. 1.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucellosis.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Public Health Service.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RA11</subfield>
+            <subfield code="i">.B154 no. 34</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00732caa a22002291  4500</leader>
+          <controlfield tag="001">9183178</controlfield>
+          <controlfield tag="005">20000519074809.0</controlfield>
+          <controlfield tag="008">940909s1918    dcu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr18000490</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr18000490 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)31841268</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NNM</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">S21</subfield>
+            <subfield code="b">.A75 vol XIII, no. 4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine,</subfield>
+            <subfield code="d">1881-1975</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Bacterial flora of Roquefort cheese.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Contribution from Bureau of Animal Industry (A--37)</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Literature cited": p. 233.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cheese</subfield>
+            <subfield code="x">Microbiology.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cheese.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">S21</subfield>
+            <subfield code="i">.A75 vol XIII, no. 4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00995cam a22002291  4500</leader>
+          <controlfield tag="001">15257703</controlfield>
+          <controlfield tag="005">20110902131506.0</controlfield>
+          <controlfield tag="008">080411s1935    dcu      b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">th16 2008-04-11</subfield>
+            <subfield code="e">th14 2008-04-15 Copies 1-2 to CALM</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   35026122 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QR185</subfield>
+            <subfield code="b">.E83</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine,</subfield>
+            <subfield code="d">1881-1975.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Streptococcus bacteriophage;</subfield>
+            <subfield code="b">a study of four serological types,</subfield>
+            <subfield code="c">by Alice C. Evans, senior bacteriologist, United States Public health service.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">U. S. Govt. print. off.,</subfield>
+            <subfield code="c">1935.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., 16 p. incl. tables.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint no. 1658 from the Public health reports, v. 49, no. 47, November 23, 1934 (p. 1386-1401)</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"References": p. 15-16.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Bacteriophages.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Streptococcus.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Public health service.</subfield>
+            <subfield code="t">Public health reports. Reprint 1658. [from old catalog]</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00751caa a22002291  4500</leader>
+          <controlfield tag="001">7778089</controlfield>
+          <controlfield tag="005">19980421190903.0</controlfield>
+          <controlfield tag="008">940909s1918    dcu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr18000491</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr18000491 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)31841288</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NNM</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">S21</subfield>
+            <subfield code="b">.A75 vol. xiii, no.4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine,</subfield>
+            <subfield code="d">1881-1975</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A study of the streptococci concerned in cheese ripening.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Contributions from Bureau of Animal Industry (A--38)</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Literature cited": p. 251-252.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cheese.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Streptococcus.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">S21</subfield>
+            <subfield code="i">.A75 vol. xiii, no.4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>11</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00716cam a2200205u  4500</leader>
+          <controlfield tag="001">9287391</controlfield>
+          <controlfield tag="005">20080828134550.0</controlfield>
+          <controlfield tag="008">810612s1948    dcu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">med48000130 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)med48000130</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RA11</subfield>
+            <subfield code="b">.B154 no. 34b</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine,</subfield>
+            <subfield code="d">1881- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Brucellosis: undulant fever.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Washington,</subfield>
+            <subfield code="b">U. S. Govt. Print. Off.,</subfield>
+            <subfield code="c">1948]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucellosis.</subfield>
+          </datafield>
+          <datafield tag="810" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Public Health Service.</subfield>
+            <subfield code="t">Miscellaneous publication</subfield>
+            <subfield code="v">no. 34. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RA11</subfield>
+            <subfield code="i">.B154 no. 34b</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>12</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00905cam a2200253u  4500</leader>
+          <controlfield tag="001">9234444</controlfield>
+          <controlfield tag="005">20110902131441.0</controlfield>
+          <controlfield tag="008">811204s1935    dcua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   35026360 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   35026360</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QR181</subfield>
+            <subfield code="b">.E85</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine,</subfield>
+            <subfield code="d">1881- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A comparative study of streptococcal immunity,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">U. S. Govt. print. off.,</subfield>
+            <subfield code="c">1935.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., 17 p. incl. tables.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Streptococcus.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Immunity.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Bacteriophages.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Rabbits.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Public health service.</subfield>
+            <subfield code="t">Public health reports. Reprint 1674. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Streptoccal immunity produced by bacteriophage.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QR181</subfield>
+            <subfield code="i">.E85</subfield>
+            <subfield code="p">00055843995</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>13</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00840cam a2200229u  4500</leader>
+          <controlfield tag="001">6900158</controlfield>
+          <controlfield tag="005">20080828134556.0</controlfield>
+          <controlfield tag="008">820430s1937    dcua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   37026544 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   37026544</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC200.U5</subfield>
+            <subfield code="b">E78</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine,</subfield>
+            <subfield code="d">1881- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The distribution of Brucella melitensis variety melitensis in the United States,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">U. S. Govt. print. off.,</subfield>
+            <subfield code="c">1937.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., 9 p.</subfield>
+            <subfield code="b">incl. tables.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucella melitensis.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucellosis.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Goats.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health service. Public health reports. Reprint 1807. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RC200.U5</subfield>
+            <subfield code="i">E78</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>14</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00808cam a2200217u  4500</leader>
+          <controlfield tag="001">6386969</controlfield>
+          <controlfield tag="005">20110308093312.0</controlfield>
+          <controlfield tag="008">820611s1923    dcu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   23026485 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   23026485</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SF871</subfield>
+            <subfield code="b">.E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Experimental abortion in a cow produced by inoculation with Bacterium melitensis,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1923.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p.</subfield>
+            <subfield code="b">incl. tab.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Abortion in animals.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health service. Public health reports. Reprint 830. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="740" ind1=" " ind2=" ">
+            <subfield code="a">Bacterium melitensis.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">SF871</subfield>
+            <subfield code="i">.E8</subfield>
+            <subfield code="p">00028409497</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>15</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00866cam a2200229u  4500</leader>
+          <controlfield tag="001">8289980</controlfield>
+          <controlfield tag="005">20110902131417.0</controlfield>
+          <controlfield tag="008">821020s1933    dcua          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   33026517</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   33026517 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QR185</subfield>
+            <subfield code="b">.E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Inactivation of antistreptococcus bacteriophage by animal fluids,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">U. S. Govt. print. off.,</subfield>
+            <subfield code="c">1933.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., 16 p.</subfield>
+            <subfield code="b">incl. tables.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Bacteriophages.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Streptococcus.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Public health service,</subfield>
+            <subfield code="t">Public health reports. Reprint 1566. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Antistreptococcus bacteriophage by animal fluids.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QR185</subfield>
+            <subfield code="i">.E8</subfield>
+            <subfield code="p">0005583412A</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>16</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00712cam a2200217u  4500</leader>
+          <controlfield tag="001">8728346</controlfield>
+          <controlfield tag="005">20140417160253.0</controlfield>
+          <controlfield tag="008">820929s1923    dcua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   23026716 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   23026716</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RA421</subfield>
+            <subfield code="b">.U4 no. 134</subfield>
+          </datafield>
+          <datafield tag="051" ind1=" " ind2=" ">
+            <subfield code="a">QR82.S8</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The influence of complement upon the tropins in antistreptococcic serums.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1923.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. 21-24. incl. tables. 23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Streptococcus.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Serotherapy.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RA421</subfield>
+            <subfield code="i">.U4 no. 134</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>17</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00747cam a2200217u  4500</leader>
+          <controlfield tag="001">9667748</controlfield>
+          <controlfield tag="005">20080828134551.0</controlfield>
+          <controlfield tag="008">830210s1924    dcua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   24026483 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   24026483</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC200.U5</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Malta fever.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1924.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., 18 p.</subfield>
+            <subfield code="b">incl. tables.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucellosis.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health service. Public health reports. Reprint 906. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="740" ind1=" " ind2=" ">
+            <subfield code="a">Cattle as a source of Malta fever.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RC200.U5</subfield>
+            <subfield code="i">E8</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>18</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00791cam a2200205u  4500</leader>
+          <controlfield tag="001">8754631</controlfield>
+          <controlfield tag="005">20140417160254.0</controlfield>
+          <controlfield tag="008">821206s1932    dcu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   32028126 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   32028126</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QR82.S8</subfield>
+            <subfield code="b">E77</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The metamorphoses of streptococci into spore-bearing rods and into filterable forms,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">U. S. Govt. print. off.,</subfield>
+            <subfield code="c">1932.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., 16 p.</subfield>
+            <subfield code="b">iv pl. on 2 l.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Streptococcus.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health Service. Public health reports. Reprint 1543. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QR82.S8</subfield>
+            <subfield code="i">E77</subfield>
+            <subfield code="p">00055851311</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>19</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00847cam a2200217u  4500</leader>
+          <controlfield tag="001">8751246</controlfield>
+          <controlfield tag="005">20010129080808.0</controlfield>
+          <controlfield tag="008">821207s1931    dcu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   31028286</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   31028286 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QR82.A5</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A new subspecies, radicans, of Alcaligenes faecalis,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">U. S. Govt. print. off.,</subfield>
+            <subfield code="c">1931.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., 4 p.</subfield>
+            <subfield code="b">incl. tab.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Alcaligenes faecalis. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health service. Public health reports. Reprint 1493. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Radicans, of Alcaligenes faecalis, A new subspecies.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QR82.A5</subfield>
+            <subfield code="i">E8</subfield>
+            <subfield code="p">00057118337</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>20</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00955cam a2200229u  4500</leader>
+          <controlfield tag="001">9196789</controlfield>
+          <controlfield tag="005">20010614153915.0</controlfield>
+          <controlfield tag="008">830324s1923    dcua          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   23026950</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   23026950 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QR82.B95</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The nomenclature of the Melitensis-abortus group of bacterial organisms.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1923.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">24 p.</subfield>
+            <subfield code="b">incl. tables, diagr.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucella melitensis.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health service. Public health reports. Reprint 861. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Serological classification of Brucella melitensis from human, bovine, caprine, porcine and queine sources.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Melitensis-abortus bacterial organisms.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QR82.B95</subfield>
+            <subfield code="i">E8</subfield>
+            <subfield code="p">00055752801</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>21</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00793nam a2200205u  4500</leader>
+          <controlfield tag="001">8726399</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">830302s1922    dcu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   22026756</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   22026756 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QR201.M6</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The serological grouping meningococcus strains isolated in New York city in 1921 and 1922, </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1922.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., 4 p.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Meningococcus. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health service. Public health reports. Reprint 752. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QR201.M6</subfield>
+            <subfield code="i">E8</subfield>
+            <subfield code="p">00055759029</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>22</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00857cam a2200217u  4500</leader>
+          <controlfield tag="001">5927430</controlfield>
+          <controlfield tag="005">20091008171921.0</controlfield>
+          <controlfield tag="008">830523s1926    dcua          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   26027418</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   26027418 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC141.E6</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Studies on the etiology of epidemic encephalitis.</subfield>
+            <subfield code="b">I. The streptococcus,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1926.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">24 p.</subfield>
+            <subfield code="b">incl. tables, iv pl. on 2 l.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Epidemic encephalitis.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Freeman, Walter Jackson,</subfield>
+            <subfield code="d">1895- [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Public health service.</subfield>
+            <subfield code="t">Public health reports. Reprint 1085. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RC141.E6</subfield>
+            <subfield code="i">E8</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>23</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00697cam a2200205u  4500</leader>
+          <controlfield tag="001">6386988</controlfield>
+          <controlfield tag="005">20140417160234.0</controlfield>
+          <controlfield tag="008">830506s1923    dcua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   23026715 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   23026715</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RA421</subfield>
+            <subfield code="b">.U4 no. 134</subfield>
+          </datafield>
+          <datafield tag="051" ind1=" " ind2=" ">
+            <subfield code="a">QR82.S8</subfield>
+            <subfield code="b">E8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A study of the alpha type of streptococcus from a variety of sources,</subfield>
+            <subfield code="c">By Alice C. Evans.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1923.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. 1-19 incl. tables. 23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Streptococcus.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RA421</subfield>
+            <subfield code="i">.U4 no. 134</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>24</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00962cam a2200229u  4500</leader>
+          <controlfield tag="001">8723709</controlfield>
+          <controlfield tag="005">20170504111458.0</controlfield>
+          <controlfield tag="008">830623s1920    dcua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   21026066 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   21026066</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RA421</subfield>
+            <subfield code="b">.U4 no. 124</subfield>
+          </datafield>
+          <datafield tag="051" ind1=" " ind2=" ">
+            <subfield code="a">RM758</subfield>
+            <subfield code="b">.B8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The tropin reactions of antimeningococcus serum.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1920.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. 43-87 incl. tables, diagrs.</subfield>
+            <subfield code="b">pl.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="501" ind1=" " ind2=" ">
+            <subfield code="a">RM758 .B8 With : Differentiation between various strains of meningococci by means of the agglutination and the absorption of agglutinins tests / C. T. Butterfield and M. H. Neill. Washington : Govt. print. off., 1920.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Serum.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Antimeningococcus serum, The tropin reactions of.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RA421</subfield>
+            <subfield code="i">.U4 no. 124</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>25</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00800pam a2200241 i 4500</leader>
+          <controlfield tag="001">4647401</controlfield>
+          <controlfield tag="005">19800707000000.0</controlfield>
+          <controlfield tag="008">791003s1980    gau      b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   79087752</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">opcn</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   79087752 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0804213143</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BT60</subfield>
+            <subfield code="b">.E9</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">209</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice F.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Introduction to Christianity :</subfield>
+            <subfield code="b">a case method approach /</subfield>
+            <subfield code="c">Alice F. Evans and Robert A. Evans.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Atlanta :</subfield>
+            <subfield code="b">John Knox Press,</subfield>
+            <subfield code="c">c1980.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xi, 226 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. [224]-226.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Christianity</subfield>
+            <subfield code="x">Essence, genius, nature.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Robert A.,</subfield>
+            <subfield code="d">1937-</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BT60</subfield>
+            <subfield code="i">.E9</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>26</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01511cam a22003494a 4500</leader>
+          <controlfield tag="001">12154965</controlfield>
+          <controlfield tag="005">20151231145142.0</controlfield>
+          <controlfield tag="008">000825s2001    cau      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="925" ind1="1" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">sh18 08-25-00; sh33 09-05-00; sh43 to Dewey 09-06-00; aa17 09-07-00; CIP ver. sh18 03-14-01; sh42 to BCCD 03-20-01; Copy 2 to BCCD sa55 04-09-01</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   00011143 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0787948004 (alk. paper)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BF637.N4</subfield>
+            <subfield code="b">E93 2001</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">303.6/9</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice F.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Peace skills :</subfield>
+            <subfield code="b">leaders' guide /</subfield>
+            <subfield code="c">Alice Frazer Evans and Robert A. Evans with Ronald S. Kraybill.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">San Francisco :</subfield>
+            <subfield code="b">Jossey-Bass,</subfield>
+            <subfield code="c">c2001.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xviii, 203 p. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 183-187) and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Negotiation</subfield>
+            <subfield code="x">Study and teaching.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Mediation</subfield>
+            <subfield code="x">Study and teaching.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Conflict management</subfield>
+            <subfield code="x">Study and teaching.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Robert A.,</subfield>
+            <subfield code="d">1937-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kraybill, Ronald S.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Contributor biographical information</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/bios/wiley042/00011143.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Publisher description</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/description/wiley034/00011143.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2=" ">
+            <subfield code="3">Table of Contents</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/onix06/00011143.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>27</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00960pam a2200277 a 4500</leader>
+          <controlfield tag="001">2406133</controlfield>
+          <controlfield tag="005">19861224000000.0</controlfield>
+          <controlfield tag="008">860821s1987    nyu      b    100 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   86021831</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   86021831 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0883444097 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HN31</subfield>
+            <subfield code="b">.E895 1987</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">303.4</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice F.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Pedagogies for the non-poor /</subfield>
+            <subfield code="c">Alice Frazer Evans, Robert A. Evans, William Bean Kennedy.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Maryknoll, N.Y. :</subfield>
+            <subfield code="b">Orbis Books,</subfield>
+            <subfield code="c">c1987.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiv, 286 p. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographies.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Church and social problems</subfield>
+            <subfield code="x">Congresses.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Social change</subfield>
+            <subfield code="x">Study and teaching</subfield>
+            <subfield code="x">Congresses.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Education, Humanistic</subfield>
+            <subfield code="x">Congresses.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Robert A.,</subfield>
+            <subfield code="d">1937-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kennedy, William Bean.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">HN31</subfield>
+            <subfield code="i">.E895 1987</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>28</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01215cam a22002415i 4500</leader>
+          <controlfield tag="001">23232186</controlfield>
+          <controlfield tag="005">20231109152131.0</controlfield>
+          <controlfield tag="008">230717s2023    vtu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">Sel/rjc, 2023-10-12</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">xd06 2023-07-17</subfield>
+            <subfield code="a">xn16 2023-11-09 1 copy rec'd., to USASH</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023913220</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781937667337</subfield>
+            <subfield code="q">(trade paperback)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice M,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Our suffering brave :</subfield>
+            <subfield code="b">Waitsfield boys and men in the Civil War /</subfield>
+            <subfield code="c">Alice M Evans.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Waitsfield :</subfield>
+            <subfield code="b">Distinction Press,</subfield>
+            <subfield code="c">2023.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">pages cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"One hundred and sixty-five boys and men from Waitsfield, Vermont joined the Union Army and fought in the Civil War. Their individual stories of bravery as well as suffering-from wounds, sickness, and/or deprivation during imprisonment- tell quite a story of the fight to save the United States. Some made it home unscathed, many were not so fortunate. They should not be forgotten"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>29</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00685cam a22002171  4500</leader>
+          <controlfield tag="001">8740250</controlfield>
+          <controlfield tag="005">20050702175055.0</controlfield>
+          <controlfield tag="008">840914s1927    enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   28008756</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   28008756 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)11154921</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">ScU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3509.V25</subfield>
+            <subfield code="b">A6 1927</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Mary.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">And did you wonder, and other verse,</subfield>
+            <subfield code="c">by Alice Mary Evans.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New Haven,</subfield>
+            <subfield code="b">Tuttle, Morehouse &amp; Taylor,</subfield>
+            <subfield code="c">1927.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">55 p.</subfield>
+            <subfield code="b">port.</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PS3509.V25</subfield>
+            <subfield code="i">A6 1927</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>30</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00652cam a22002051  4500</leader>
+          <controlfield tag="001">16752532</controlfield>
+          <controlfield tag="005">20110427121710.0</controlfield>
+          <controlfield tag="008">110427s1925    paua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">bi00 2011-04-27</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">tmp96026062 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS107.3</subfield>
+            <subfield code="b">.E85</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Pickford.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Sunny lands and blue waters /</subfield>
+            <subfield code="c">by Alice Pickford Brockway.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia :</subfield>
+            <subfield code="b">Judson Press,</subfield>
+            <subfield code="c">c1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">114 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Palestine</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Egypt</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="b">Record input for RHIP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>31</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00680cam a22002051  4500</leader>
+          <controlfield tag="001">7811514</controlfield>
+          <controlfield tag="005">20020530114726.0</controlfield>
+          <controlfield tag="008">790618s1930    pauaf         000 1 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   30029911</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   30029911 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)5078267</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">IWW</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ3.E9206</subfield>
+            <subfield code="b">Ca</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Pickford,</subfield>
+            <subfield code="d">1868-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Cadet Stephens,</subfield>
+            <subfield code="c">by Alice Pickford Evans ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia,</subfield>
+            <subfield code="a">Boston [etc.]</subfield>
+            <subfield code="b">The Judson press</subfield>
+            <subfield code="c">[c1930]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">7 p. l., 3-173 p.</subfield>
+            <subfield code="b">front., plates.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ3.E9206</subfield>
+            <subfield code="i">Ca</subfield>
+            <subfield code="p">00022151083</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>32</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00777cam a22002411  4500</leader>
+          <controlfield tag="001">6898070</controlfield>
+          <controlfield tag="005">20050820161012.0</controlfield>
+          <controlfield tag="008">801113s1936    pauaf         000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   37003374</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   37003374 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)6932706</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">IWW</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BV2087</subfield>
+            <subfield code="b">.E8</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">266</subfield>
+            <subfield code="a">275.1</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Pickford,</subfield>
+            <subfield code="d">1868-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Lee Chung: a son of Cathay,</subfield>
+            <subfield code="c">by Alice Pickford Evans ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia,</subfield>
+            <subfield code="a">Boston [etc.]</subfield>
+            <subfield code="b">The Judson Press</subfield>
+            <subfield code="c">[c1936]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">8 p. l., 3-174 p.</subfield>
+            <subfield code="b">incl. front., plates.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Missionary stories.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BV2087</subfield>
+            <subfield code="i">.E8</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>33</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00965cam a22002891  4500</leader>
+          <controlfield tag="001">6367377</controlfield>
+          <controlfield tag="005">20190111100855.0</controlfield>
+          <controlfield tag="007">cr_|||||||||||</controlfield>
+          <controlfield tag="008">960626s1915    pauf          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   15027885 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   15027885</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)34992674</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NNC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS710</subfield>
+            <subfield code="b">.E8</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">915.1</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Pickford,</subfield>
+            <subfield code="d">1868-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A trip to the Orient;</subfield>
+            <subfield code="b">leaves from the note-book of Alice Pickford Brockway.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia,</subfield>
+            <subfield code="a">Boston [etc.]</subfield>
+            <subfield code="b">The Griffith &amp; Rowland Press</subfield>
+            <subfield code="c">[c1915]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">83 p.</subfield>
+            <subfield code="b">front., plates.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">China</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00096551447</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS710</subfield>
+            <subfield code="i">.E8</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">massdig</subfield>
+            <subfield code="e">sloan</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>34</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00839cam a2200253u  4500</leader>
+          <controlfield tag="001">9187213</controlfield>
+          <controlfield tag="005">20190217105322.0</controlfield>
+          <controlfield tag="007">cr_|||||||||||</controlfield>
+          <controlfield tag="008">821108s1919    pauf          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   19017030 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   19017030</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">ae-----</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS508</subfield>
+            <subfield code="b">.E85</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice (Pickford),</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1868- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Letters from the Far East,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia,</subfield>
+            <subfield code="a">Boston [etc.]</subfield>
+            <subfield code="b">The Judson press</subfield>
+            <subfield code="c">[c1919]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">75 p.</subfield>
+            <subfield code="b">front., plates.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">East Asia</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00299257356</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS508</subfield>
+            <subfield code="i">.E85</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">massdig</subfield>
+            <subfield code="e">sloan</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>35</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00705nam a2200217u  4500</leader>
+          <controlfield tag="001">9138735</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">830524s1903    mau     a     000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04035820</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04035820 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="0">
+            <subfield code="a">CS71.S547</subfield>
+            <subfield code="b"> 1903</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 57730 CS</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice (Pickford),</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1868- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Ralph Shepard and some of his descendants. </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Dedham, Mass.,</subfield>
+            <subfield code="c">1903]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Shepard family (Ralph Shepard, 1603-1693) [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">pmosl</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 57730 CS</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>36</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00826nam a2200217u  4500</leader>
+          <controlfield tag="001">9673511</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">801220s1926    dcu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   26027403</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   26027403 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC186.T85</subfield>
+            <subfield code="b">F65</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Francis, Edward,</subfield>
+            <subfield code="d">1872- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Agglutination, cross-agglutination and agglutinin absorption in tularæmia, </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">Govt. print. off.,</subfield>
+            <subfield code="c">1926.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Tularemia. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice Catherine, [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="t">Public health service. Public health reports. Reprint 1089. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">RC186.T85</subfield>
+            <subfield code="i">F65</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>37</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00904cam a2200241u  4500</leader>
+          <controlfield tag="001">8235943</controlfield>
+          <controlfield tag="005">20070316152941.0</controlfield>
+          <controlfield tag="008">830324s1914    dcua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr14001197</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr14001197 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">S21</subfield>
+            <subfield code="b">.A75 vol. II, no. 3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hart, E. B.</subfield>
+            <subfield code="q">(Edwin Bret),</subfield>
+            <subfield code="d">1874-1953.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Relation of the action of certain bacteria to the ripening of cheese of the cheddar type.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="c">1914.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. 193-216 incl. tables. 26 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cheese</subfield>
+            <subfield code="x">Microbiology.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cheddar cheese.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hastings, Edwin George, [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Flint, E. M., [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice C., [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">S21</subfield>
+            <subfield code="i">.A75 vol. II, no. 3</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>38</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01072cam a22002774a 4500</leader>
+          <controlfield tag="001">12269904</controlfield>
+          <controlfield tag="005">20020830070446.0</controlfield>
+          <controlfield tag="008">010104s1999    ilua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">to ASCD pb19 01-04-01; (desc.) jc09 01-17-01;</subfield>
+            <subfield code="d">jc01 2002-06-19</subfield>
+            <subfield code="e">jc03 2002-07-09 to Dewey</subfield>
+            <subfield code="a">aa03 2002-08-30</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   98093943 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0964941996</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">096491996</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RJ507.A54</subfield>
+            <subfield code="b">H95 1999</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">618.92/8</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hyman, Julie.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Angelman Syndrome A to Z :</subfield>
+            <subfield code="b">everything you ever wanted to know about Angelman Syndrome ... and then some! /</subfield>
+            <subfield code="c">developed by Julie Hyman and Alice Evans with support from the Angelman Syndrome Foundation.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Westmont, Ill. :</subfield>
+            <subfield code="b">Angelman Syndrome Foundation,</subfield>
+            <subfield code="c">c1999.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">137 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Angelman syndrome</subfield>
+            <subfield code="v">Popular works.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Angelman Syndrome Foundation.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>39</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01488cam a22003494a 4500</leader>
+          <controlfield tag="001">12153890</controlfield>
+          <controlfield tag="005">20151231145440.0</controlfield>
+          <controlfield tag="008">000824s2001    cau      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="925" ind1="1" ind2=" ">
+            <subfield code="a">Acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">se42 08-24-00; se10 to RPP 08-25-00; sh33 08-29-00; sh42 to Dewey 09-01-00; aa11 09-01-00; CIP ver. yj03 05-04-01; yj12 to BCCD 05-07-01; Copy 2 to BCCD sa55 07-10-01</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   00011082 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0787947997 (perm paper)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BF637.N4</subfield>
+            <subfield code="b">K73 2001</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">303.6/9</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Kraybill, Ronald S.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Peace skills :</subfield>
+            <subfield code="b">a manual for community mediators /</subfield>
+            <subfield code="c">Ronald S. Kraybill with Alice Frazer Evans and Robert A. Evans.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">San Francisco :</subfield>
+            <subfield code="b">Jossey-Bass,</subfield>
+            <subfield code="c">c2001.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xviii, 137 p. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 123) and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Negotiation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Mediation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Conflict management.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice F.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Robert A.,</subfield>
+            <subfield code="d">1937-</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Contributor biographical information</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/bios/wiley046/00011082.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Publisher description</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/description/wiley0310/00011082.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2=" ">
+            <subfield code="3">Table of Contents</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/onix07/00011082.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>40</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02079cam a2200553 i 4500</leader>
+          <controlfield tag="001">23163448</controlfield>
+          <controlfield tag="005">20230601092956.0</controlfield>
+          <controlfield tag="006">m     o  d f      </controlfield>
+          <controlfield tag="007">cr cn|||||||||</controlfield>
+          <controlfield tag="008">071213s1925    dcua    o    f000 0 eng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DGPO)001154337</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2022694293</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1065903313</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">WYU</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">pn</subfield>
+            <subfield code="c">WYU</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KF12</subfield>
+          </datafield>
+          <datafield tag="086" ind1="0" ind2=" ">
+            <subfield code="a">69-1:H.DOC.17</subfield>
+          </datafield>
+          <datafield tag="086" ind1="0" ind2=" ">
+            <subfield code="a">Y 1.1/2:8592</subfield>
+          </datafield>
+          <datafield tag="110" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Congress.</subfield>
+            <subfield code="b">House.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Studies on Brucella (Alkaligenes) melitensis, by Alice C. Evans. [U.S. Hygienic Laboratory Bulletin No. 143. August 1925.].</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Washington, D.C.] :</subfield>
+            <subfield code="b">[U.S. Government Printing Office],</subfield>
+            <subfield code="c">1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource (74 pages) :</subfield>
+            <subfield code="b">illustrations, tables.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">House document / 69th Congress, 1st session. House ;</subfield>
+            <subfield code="v">no. 17</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">[United States congressional serial set ];</subfield>
+            <subfield code="v">[serial no. 8592]</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Table of contents, p. III.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Bacteria.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Brucellosis.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cattle.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Epidemiology.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Medicine</subfield>
+            <subfield code="x">Research.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Medical research personnel.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Swine.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Legislative materials.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Alice C.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Hygienic Laboratory (1891-1930)</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">House document (United States. Congress. House) ;</subfield>
+            <subfield code="v">69th Congress, no. 17.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">United States congressional serial set ;</subfield>
+            <subfield code="v">serial no. 8592.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="d">llserialsetce</subfield>
+            <subfield code="f">08592_00_00-003-0017-0000</subfield>
+            <subfield code="u">https://hdl.loc.gov/loc.law/llserialsetce.08592_00_00-003-0017-0000</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="u">https://purl.fdlp.gov/GPO/gpo164321</subfield>
+            <subfield code="7">0</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">SERIALSETDELIVERY2</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">ll/llserialset/mono</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">ll/llserialset/69-1</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">ll/llserialset/H.DOC.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">ll/llserialset/v8592</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="h">Electronic Resource</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>41</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Evans, Alice" or dc.creator="Minet, Alice"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

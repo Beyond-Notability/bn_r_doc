@@ -1,0 +1,744 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS419</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000080846129</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000080846129</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie L.</forename>
+                    <surname>Weston</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Jessie Weston</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q3808161</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie L.</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a19590611</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie L.</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  97060514</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie L.</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>131250620</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>00460671</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>050683063</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000003716</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000404040</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>mub2011653467</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11148459</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>13537987</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="NDL">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @apple mystery in Arthurian romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Arthurian romances unrepresented in Malory's "Morte d'Arthur."</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @chief Middle English poets;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @chief Middle English poets;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Germany's crime against France, by Jessie L. Weston</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Germany's literary debt to France</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Guingamor, Lanval, Tyolet, le Bisclaveret</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Guingamor, Lanval, Tyolet, le Bisclaveret</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@King Arthur and his knights; a survey of Arthurian romance.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@King Arthur and his knights; a survey of Arthurian romance.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Lai de Guingamor.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Legend of Sir Perceval, studies upon its origin, development and position in the Arthurian cycle</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Legend of Sir Perceval, studies upon its origin, development and position in the Arthurian cycle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Legend of Sir Perceval, studies upon its origin, development and position in the Arthurian cycle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Legenda o Graalu</title>
+                      <statementOfResponsibility>Jessie L. Weston. - Warszawa, 1974.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Legenda o Graalu</title>
+                      <statementOfResponsibility>Jessie L. Weston. - Warszawa, 1974.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Legenda o Graalu</title>
+                      <subtitle>od starożytnego obrzędu do romansu średniowiecznego</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Legenda o Graalu</title>
+                      <subtitle>od starożytnego obrzędu do romansu średniowiecznego</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @legends of the Wagner drama.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @legends of the Wagner drama.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @legends of the Wagner drama.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @legends of the Wagner drama.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @legends of the Wagner drama.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Morien;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Morien; a metrical romance rendered into English prose from the mediæval Dutch</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Parzival.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Parzival.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Parzival.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Perceval en prose</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Popular studies in mythology, romance [and] folklore.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @quest of the Holy Grail</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @quest of the Holy Grail</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @romance cycle of Charlemagne and his peers.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @romance cycle of Charlemagne and his peers.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @romance cycle of Charlemagne and his peers.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @romance cycle of Charlemagne and his peers.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @romance of Perlesvaus, 1988:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @romance of Perlesvaus, 1988:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @romance of Perlesvaus, 1988:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @romance of Perlesvaus, 1988:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Romance, vision &amp; satire;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Romance, vision &amp; satire;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@Saishi kara romansu e</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sir Cleges. Sir Libeaus Desconus.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sir Gawain and the Green Knight, a Middle-English Arthurian romance retold in modern prose</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sir Gawain and the Lady of Lys;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Sir Gawain and the Lady of Lys;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Sir Gawain at the Grail castle.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sir Gawain at the Grail castle.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Three days' Tournament, a study in romance and folk-lore, being an appendix to the author's "Legend of Sir Lancelot"</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Three days' Tournament, a study in romance and folk-lore, being an appendix to the author's "Legend of Sir Lancelot"</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Three days' Tournament, a study in romance and folk-lore, being an appendix to the author's "Legend of Sir Lancelot"</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Tristan and Iseult.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Tristan and Iseult.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Tristan Ménestrel. Extrait de la continuation de "Perceval" par Gerbert [pub par J[essie] L. Weston et Joseph Bedier].</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Volsungasaga</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Weston papers</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Who was Brian des Illes ?</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@祭祀からロマンスへ</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Germany's crime against France, by Jessie L. Weston</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Legend of Sir Perceval, studies upon its origin, development and position in the Arthurian cycle</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Legenda o Graalu</title>
+                      <statementOfResponsibility>Jessie L. Weston. - Warszawa, 1974.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @legends of the Wagner drama.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Morien;</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Morien; a metrical romance rendered into English prose from the mediæval Dutch</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Perceval en prose</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @quest of the Holy Grail</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Sir Cleges. Sir Libeaus Desconus.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Sir Gawain and the Lady of Lys;</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Sir Gawain at the Grail castle.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Three days' Tournament, a study in romance and folk-lore, being an appendix to the author's "Legend of Sir Lancelot"</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @chief Middle English poets;</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@From ritual to romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Guingamor, Lanval, Tyolet, le Bisclaveret</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@King Arthur and his knights a survey of Arthurian romance</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Lais.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Legend of Sir Perceval, studies upon its origin, development and position in the Arthurian cycle</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Libeaus Disconus. English. 1970.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Morien;</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Quest of the holy grail</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Romance cycle of Charlemagne and his peers</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @romance of Perlesvaus, 1988</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Romance, vision &amp; satire;</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sir Cleges. English.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sir Cleges. Sir Libeaus Desconus.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sir Gawain and the Lady of Lys;</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sir Gawain at the Grail Castle.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Three days' tournament a study in romance and folk-lore, being an appendix to the author's legend of sir lancelot</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Tristan and Iseult.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Volsunga saga</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780691021072</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780691021072</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004767</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780844631622</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404535100</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404535100</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404131326</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404131326</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004781</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004774</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004743</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004712</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9788387662004</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781849024150</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781596053236</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780862205058</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780691021072</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004767</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780844631622</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004781</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004774</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004743</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404004712</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Jessie</forename>
+                    <surname>Laidlay Weston</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Jessie Weston</surname>
+                    <nameTitle>British folklorist</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Jessie Weston</surname>
+                    <nameTitle>Brits essayist (-)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Jessie Weston</surname>
+                    <nameTitle>saggista britannica</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jessie</forename>
+                    <surname>Laidlay Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jessie</forename>
+                    <surname>Laidley Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jessie L.</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jessie L.</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <marcDate>1850-1928</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jessie Laidlay</forename>
+                    <surname>Weston</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>J. L</forename>
+                    <surname>ウェストン</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>48772</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1085</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>5094048</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/5094048</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>13537987</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>068416296</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>99040945</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50018102</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1085</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q3808161</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Jessie_Weston</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://it.wikipedia.org/wiki/Jessie_Weston</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pl.wikipedia.org/wiki/Jessie_Weston</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000080846129%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000080846129"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

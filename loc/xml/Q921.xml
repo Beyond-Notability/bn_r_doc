@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>4</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01024pam a22002775a 4500</leader>
+          <controlfield tag="001">15431662</controlfield>
+          <controlfield tag="005">20081014162443.0</controlfield>
+          <controlfield tag="008">080828s2008    at            000 p eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nb09 2008-08-28 z-processor (Copy 1) forwarded to HLCD for processing;</subfield>
+            <subfield code="c">lk13 2008-09-10 (rev. lk50)</subfield>
+            <subfield code="d">rg13 2008-10-14 to BCCD (Dewey completed)</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2008426278</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780702236778 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">ANL</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">ANL</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">u-at---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR9619.4.H635</subfield>
+            <subfield code="b">S55 2008</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">821/.92</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hodgson, Elizabeth.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Skin painting  /</subfield>
+            <subfield code="c">Elizabeth Hodgson.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">St Lucia, Qld. :</subfield>
+            <subfield code="b">University of Queensland Press,</subfield>
+            <subfield code="c">2008.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">61 p. ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Black Australian writing</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Children, Aboriginal Australian</subfield>
+            <subfield code="v">Poetry.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Aboriginal Australians, Treatment of</subfield>
+            <subfield code="v">Poetry.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="d">20080801</subfield>
+            <subfield code="n">ASO190507</subfield>
+            <subfield code="s">Bennett</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02879cam a2200385 i 4500</leader>
+          <controlfield tag="001">18314048</controlfield>
+          <controlfield tag="005">20150504103459.0</controlfield>
+          <controlfield tag="008">140924s2015    nyu      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">xk14 2014-09-24</subfield>
+            <subfield code="c">xk14 2014-09-24 ONIX holding for info</subfield>
+            <subfield code="d">xk14 2014-10-01</subfield>
+            <subfield code="w">xk14 2014-10-01 to CIP</subfield>
+            <subfield code="a">xn12 2015-01-29 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">xk04 2015-05-04 to CALM</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2014037192</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781107079984 (hardback)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR113</subfield>
+            <subfield code="b">.H59 2015</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">820.9/928709031</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">LIT004120</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hodgson, Elizabeth,</subfield>
+            <subfield code="d">1962-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Grief and women writers in the English renaissance /</subfield>
+            <subfield code="c">Elizabeth Hodgson, University of British Columbia.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Cambridge University Press,</subfield>
+            <subfield code="c">2015.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, 196 pages ;</subfield>
+            <subfield code="c">24 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"Grief and Women Writers in the English Renaissance anatomizes the era's powerful but troubling links between the forgettable dead and the living mourners who are implicated in the same oblivion. Four major women writers from 1570 to 1670 construct these difficult bonds between the spectral dead and the liminal mourner. Mary Sidney Herbert, Countess of Pembroke, reinvents the controversial substitutions of aristocratic funerals. New Protestant ideologies of the sainted dead connect devotional mourning and patronage in Aemelia Lanyer's writing. Mary Wroth's verse enacts a uniquely exalted, imaginative melancholy in which Jacobean subjects dissolve into their mourning artifacts. Among the precarious political mourners of the later half of the period, Katherine Philips's lyric verse plays the shell game of private grief. Forgetting, being forgotten, and being dead are risks that the dead and the living ironically share in these central texts by the English Renaissance's most illustrious women writers"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (pages 180-194) and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="8" ind2=" ">
+            <subfield code="a">Machine generated contents note: 1. Inheriting loss: Mary Sidney Herbert, Countess of Pembroke; 2. The golden chain: Aemelia Lanyer; 3. 'This testament of me': Mary Wroth's melancholic sonnets; 4. 'In every breast her monument': Katherine Philips.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">English literature</subfield>
+            <subfield code="y">Early modern, 1500-1700</subfield>
+            <subfield code="x">History and criticism.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">English literature</subfield>
+            <subfield code="x">Women authors</subfield>
+            <subfield code="x">History and criticism.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Grief in literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Renaissance</subfield>
+            <subfield code="z">England.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">LITERARY CRITICISM / European / English, Irish, Scottish, Welsh.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Cover image</subfield>
+            <subfield code="u">http://assets.cambridge.org/97811070/79984/cover/9781107079984.jpg</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02190cam a22004098i 4500</leader>
+          <controlfield tag="001">22677806</controlfield>
+          <controlfield tag="005">20220720170746.0</controlfield>
+          <controlfield tag="008">220625s2022    enk      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">LBSOR 2022-06-25</subfield>
+            <subfield code="e">xk33 2022-07-18 (telework) to PTCP/CLED</subfield>
+            <subfield code="a">jr12 2022-07-20 to Dewey</subfield>
+            <subfield code="w">xm13 2022-07-20</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2022022859</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781009223584</subfield>
+            <subfield code="q">(hardback)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781009223577</subfield>
+            <subfield code="q">(ebook)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">LBSOR/DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR3592.M35</subfield>
+            <subfield code="b">H64 2022</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">821/.4</subfield>
+            <subfield code="2">23/eng/20220720</subfield>
+          </datafield>
+          <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">LIT004120</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hodgson, Elizabeth,</subfield>
+            <subfield code="d">1962-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The masculinities of John Milton :</subfield>
+            <subfield code="b">cultures and constructs of manhood in the major works /</subfield>
+            <subfield code="c">Elizabeth Hodgson.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">2210</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cambridge, United Kingdom ;</subfield>
+            <subfield code="a">New York, NY :</subfield>
+            <subfield code="b">Cambridge University Press,</subfield>
+            <subfield code="c">2022.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">pages cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Peer review : the Ludlow masque -- Nearly headless husbands : the divorce tracts -- Chatting up : Paradise lost -- True warfaring Christian : Aereopagitica &amp; Paradise regained -- Lean on me : Samson Agonistes -- Postlude : pity the tale of Milton.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"The first published book on John Milton's masculinities, this study shows how a revolutionary poet preached liberty yet elevated manly authority. Building on his era's practices of war, education, socialization, and political marriage, Milton's aggressive, ambivalent masculinities are exposed as strategically and emphatically self-serving"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Milton, John,</subfield>
+            <subfield code="d">1608-1674</subfield>
+            <subfield code="x">Criticism and interpretation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Masculinity in literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Men in literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">English poetry</subfield>
+            <subfield code="y">Early modern, 1500-1700</subfield>
+            <subfield code="x">History and criticism.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Literary criticism.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">LITERARY CRITICISM / European / English, Irish, Scottish, Welsh</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">LBSORCIP</subfield>
+            <subfield code="d">2022-07-01</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01164cam a2200301 a 4500</leader>
+          <controlfield tag="001">2144191</controlfield>
+          <controlfield tag="005">19991221123546.0</controlfield>
+          <controlfield tag="008">980902s1999    nju      b   s001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DLC)   98042689</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc01 to LA00 09-03-98; lk50 09-04-98; lh06 09-04-98; lh37 09-08-98; CIP ver. lk50 09-27-99; to BCCD 09-27-99</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   98042689 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0874136741 (alk. paper)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR2248</subfield>
+            <subfield code="b">.H56 1999</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">821/.3</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hodgson, Elizabeth M. A.,</subfield>
+            <subfield code="d">1962-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Gender and the sacred self in John Donne /</subfield>
+            <subfield code="c">Elizabeth M.A. Hodgson.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Newark :</subfield>
+            <subfield code="b">University of Delaware Press ;</subfield>
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Associated University Presses,</subfield>
+            <subfield code="c">c1999.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">223 p. ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 208-217) and index.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Donne, John,</subfield>
+            <subfield code="d">1572-1631</subfield>
+            <subfield code="x">Criticism and interpretation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Gender identity in literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Holy, The, in literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sex role in literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Self in literature.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">GAP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Cookson, Elizabeth" or dc.creator="Hodgson, Elizabeth"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

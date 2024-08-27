@@ -1,0 +1,430 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS706</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000120172262</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000120172262</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophie</forename>
+                    <surname>Schliemann</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>S.</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                    <subsourceIdentifier>RU NLR AUTH 7778985</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a29077400</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>118759418</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852 1932</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>ola2008366008</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>14379597X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophie Kastromenos</forename>
+                    <surname>Schliemann</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophie Kastromenos</forename>
+                    <surname>Schliemann</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001100819</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Sophia Schliemann</surname>
+                    <nameTitle>Ehefrau des Troja-Entdeckers Heinrich Schliemann</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q532638</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="VIAF" subsource="DNB">ctb</creationRole>
+                    <creationRole source="VIAF" subsource="DNB">edt</creationRole>
+                    <creationRole source="VIAF" subsource="NLP">red</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Bericht über die Ausgrabungen in Troja im Jahre 1890. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Bericht über die Ausgrabungen in Troja im Jahre 1890. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Grammata ston Herriko</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Heinrich Schliemann.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Psyche, c1993:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Psyche, c1993:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Sammlung</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Selbstbiographie Bis zu seinem Tode vervollständigt</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Selbstbiographie Bis zu seinem Tode vervollständigt</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Selbstbiographie Bis zu seinem Tode vervollständigt</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Selbstbiographie Bis zu seinem Tode vervollständigt</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Selbstbiographie Bis zu seinem Tode vervollständigt</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Sophia Enkastrōmenou-Slēman, 2005:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sophia Enkastrōmenou-Slēman, 2005:</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783863472504</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9789600338973</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783902096418</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Engastromenos</surname>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Engastromenos</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Engastromenos</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Engastromenos</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Engastromenos</surname>
+                    <nameTitle>S.</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Enkastrōmenou-Slēman</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Enkastrōmenu-Slēman</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Enkastrōenu-Slēman</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Enkastrōmenou-Slēman</surname>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Kastromenos</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Kastromenos</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Kastromenos</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Kastromenos</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie</forename>
+                    <surname>Kastromenos</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Schliemann</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie</forename>
+                    <surname>Schliemann</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie Kastromenos</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie Kastromenos</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852 1932</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie</forename>
+                    <surname>Schliemann</surname>
+                    <marcDate>1852-1932</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Schliemann</surname>
+                    <nameTitle>S. K.</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia Enkastrōmenou-</forename>
+                    <surname>Slēman</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia Enkastrōmenou-</forename>
+                    <surname>Slēman</surname>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Sophia Engastromenou</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Σοφία Σλήμαν</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Софія Шліман</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>София</forename>
+                    <surname>Шлиман</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q2110</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>13103045</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/13103045</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90919850</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>345214</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  92115223</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q2110</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q532638</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Sophia_Schliemann</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://it.wikipedia.org/wiki/Sophia_Engastromenou</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Шлиман,_София</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://uk.wikipedia.org/wiki/Софія_Шліман</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000120172262%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000120172262"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

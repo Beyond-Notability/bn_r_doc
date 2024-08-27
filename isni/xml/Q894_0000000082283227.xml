@@ -1,0 +1,334 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS151</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000082283227</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000082283227</isniURI>
+            <mergedISNI>0000000398994236</mergedISNI>
+            <mergedISNI>0000000369727809</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Alice Gomme</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q4725883</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000460673</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000007320</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <marcDate>1853-1938</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>1051929970</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <marcDate>18..-...</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>032684797</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>1204025</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <marcDate>1853-1938</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12366688</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice Bertha</forename>
+                    <surname>Gomme</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">com</creationRole>
+                    <creationRole source="KBR">edt</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLI">cm</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Children's singing games with the tunes to which they are sung</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>The @traditional games of England, Scotland, and Ireland with tunes, singing-rhymes, and methods of playing according to the variants extant and recorded in different parts of the Kingdom</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Children's singing games, with the tunes to which they are sung;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Children's singing games, with the tunes to which they are sung;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Gentleman's magazine library; being a classified collection of the chief contents of the Gentleman's magazine from 1731-1868.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Literary curiosities and notes</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Old English singing games</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @traditional games of England, Scotland, and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @traditional games of England, Scotland, and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>The @traditional games of England, Scotland, and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @traditional games of England, Scotland, and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @traditional games of England, Scotland, and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @traditional games of England, Scotland and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Children's singing games</title>
+                      <subtitle>with the tunes to which they are sung</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @dictionary of British folk-lore</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @traditional games of England, Scotland and Ireland</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780486217956</identifierValue>
+                      <source>KBR</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500273166</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500273166</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780405079214</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500273166</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <surname>Alice Gomme</surname>
+                    <nameTitle>British folklorist</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice B.</forename>
+                    <surname>Gomme</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice B.</forename>
+                    <surname>Gomme</surname>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice B.</forename>
+                    <surname>Gomme</surname>
+                    <marcDate>1853-1938</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice Bertha Merck</forename>
+                    <surname>Gomme</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice Bertha Merck</forename>
+                    <surname>Gomme</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice Bertha Merck</forename>
+                    <surname>Gomme</surname>
+                    <marcDate>1853-1938</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice Bertha</forename>
+                    <surname>Merck Gomme</surname>
+                    <marcDate>1853-1938</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice Bertha</forename>
+                    <surname>Merck</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alice Bertha</forename>
+                    <surname>Merck</surname>
+                    <marcDate>1853-1938</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>48801</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q894</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>49302412</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/49302412</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12366688</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>070144427</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  84058826</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14786242</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q894</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q4725883</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Alice_Gomme</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000082283227%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000082283227"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

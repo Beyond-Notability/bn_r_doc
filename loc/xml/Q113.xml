@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>13</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02769cam a22003494a 4500</leader>
+          <controlfield tag="001">15163185</controlfield>
+          <controlfield tag="005">20080311152323.0</controlfield>
+          <controlfield tag="008">080131s2002    dcua     b    000 0 eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pv11 2008-01-31 z-processor 2 copies to SSCD</subfield>
+            <subfield code="i">sg77 2008-03-07</subfield>
+            <subfield code="e">sg77 2008-03-07 to BCCD</subfield>
+            <subfield code="e">sg77 2008-03-11 to BCCD copy 2</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2008271145</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1573700975</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm51537601</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">WMM</subfield>
+            <subfield code="c">WMM</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KF4819.A2</subfield>
+            <subfield code="b">C655 2002</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Coming to America :</subfield>
+            <subfield code="b">entry issues in the current immigration landscape /</subfield>
+            <subfield code="c">Michael Turansick, Kathleen Campbell Walker, editors ; Carol Hobson, managing editor.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">Entry issues in the current immigration landscape</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington, DC :</subfield>
+            <subfield code="b">American Immigration Lawyers Association,</subfield>
+            <subfield code="c">c2002.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 229 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Prepared as the conference materials for AILA's 2002 Midyear Conference"--P. vii.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Try to remember /</subfield>
+            <subfield code="r">by Robert P. Deasy --</subfield>
+            <subfield code="t">Immigration meets the border /</subfield>
+            <subfield code="r">by Kathleen Campbell Walker --</subfield>
+            <subfield code="t">NAFTA admission of Canadian citizens after October 1999 /</subfield>
+            <subfield code="r">by David H. Paruch --</subfield>
+            <subfield code="t">Nonimmigrant entry/border crossing /</subfield>
+            <subfield code="r">by Kathrine Urban --</subfield>
+            <subfield code="t">Understanding the new paradigm: dealing with the "visa lookout" list /</subfield>
+            <subfield code="r">by Charles H. Kuck, Stephen Yale-Loehr and Layli Eskandart --</subfield>
+            <subfield code="t">Review of State Department and INS lookout systems /</subfield>
+            <subfield code="r">by Mark T. Kenmore and Stephen Yale-Loehr --</subfield>
+            <subfield code="t">Seeking relief for expedited removal and other disasters /</subfield>
+            <subfield code="r">by Mark T. Kenmore --</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Expedited removal : the basics /</subfield>
+            <subfield code="r">by Roxana C. Bacon ... [et al.] --</subfield>
+            <subfield code="t">Expedited removal : too much authority in too few hands /</subfield>
+            <subfield code="r">by Jonathan D. Montag --</subfield>
+            <subfield code="t">Nonimmigrant waivers and parole /</subfield>
+            <subfield code="r">by Robert Pauw --</subfield>
+            <subfield code="t">Abandonment of permanent resident status /</subfield>
+            <subfield code="r">by Roxana C. Bacon ... [et al.] --</subfield>
+            <subfield code="t">Vehicle seizures and forfeitures for immigration violations /</subfield>
+            <subfield code="r">by Robert Pauw --</subfield>
+            <subfield code="t">Secrecy, guilty by association, and the terrorist profile /</subfield>
+            <subfield code="r">by David Cole --</subfield>
+            <subfield code="t">Immigration and national security after September 11, 2001 /</subfield>
+            <subfield code="r">by Royal F. Berg and Ronald Ng --</subfield>
+            <subfield code="t">Strategic TN planning /</subfield>
+            <subfield code="r">by Kim M. Solar --</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Technology alert list /</subfield>
+            <subfield code="r">compiled by the U.S. Department of State --</subfield>
+            <subfield code="t">USA Patriot Act boosts government powers while cutting back on traditional checks and balances /</subfield>
+            <subfield code="r">by the American Civil Liberties Union.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Emigration and immigration law</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Turnasick, Michael,</subfield>
+            <subfield code="d">1957-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen Campbell,</subfield>
+            <subfield code="d">1960-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hobson, Carol P.M.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">American Immigration Lawyers Association.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01344cam a22003014a 4500</leader>
+          <controlfield tag="001">15145694</controlfield>
+          <controlfield tag="005">20090527182932.0</controlfield>
+          <controlfield tag="008">080117s2001    dcu      b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pv11 2008-01-17, 2 copies to SSCD</subfield>
+            <subfield code="i">sg77 2008-01-25</subfield>
+            <subfield code="e">sg77 2008-01-25 to BCCD copies 1-2</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2008270838</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1573700878 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KF4829</subfield>
+            <subfield code="b">.I888 2001</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="1">
+            <subfield code="a">"It's a border thing" :</subfield>
+            <subfield code="b">a compilation of writings and resources /</subfield>
+            <subfield code="c">Janet H. Cheetham, Mark Kenmore, Kathleen Campbell Walker, editors ; Carol P.M. Hobson, managing editor.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington, DC :</subfield>
+            <subfield code="b">American Immigration Lawyers Association,</subfield>
+            <subfield code="c">c2001.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 252 p. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">At head of title: 2001 Fall CLE Conference.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Emigration and immigration law</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Foreign workers</subfield>
+            <subfield code="x">Legal status, laws, etc.</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cheetham, Janet H.</subfield>
+            <subfield code="q">(Janet Holste),</subfield>
+            <subfield code="d">1954-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kenmore, Mark.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen Campbell,</subfield>
+            <subfield code="d">1960-</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">American Immigration Lawyers Association.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/fy0803/2008270838.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02730cim a2200601 a 4500</leader>
+          <controlfield tag="001">12797214</controlfield>
+          <controlfield tag="005">20240209110530.0</controlfield>
+          <controlfield tag="007">ss lunjlcmnnue</controlfield>
+          <controlfield tag="008">000315s2000    utunnn         i    eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="e">do not retain if CD copy is acquired</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vn00 2002-05-31</subfield>
+            <subfield code="i">vn37 2002-05-31</subfield>
+            <subfield code="e">vn37 2002-05-31 to MBRS</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm43637923</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2002560479</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1573456446 :</subfield>
+            <subfield code="c">$14.95</subfield>
+          </datafield>
+          <datafield tag="024" ind1="3" ind2=" ">
+            <subfield code="a">9781573456449</subfield>
+            <subfield code="d">51495</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">SKU 3954710</subfield>
+            <subfield code="b">Eagle Gate</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UUC</subfield>
+            <subfield code="c">UUC</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RZA 6047</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Sunshine for the Latter-day Saint mother's soul.</subfield>
+            <subfield code="k">Selections.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Sunshine for the Latter-day Saint mother's soul</subfield>
+            <subfield code="h">[sound recording].</subfield>
+          </datafield>
+          <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="i">Subtitle on container:</subfield>
+            <subfield code="a">Stories to brighten your day and gladden your life.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City, Utah :</subfield>
+            <subfield code="b">Eagle Gate,</subfield>
+            <subfield code="c">p2000.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 sound cassettes (ca. 120 min.) :</subfield>
+            <subfield code="b">analog.</subfield>
+          </datafield>
+          <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">020000</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="0">
+            <subfield code="a">Deseret Book audio library.</subfield>
+            <subfield code="p">Book on cassette</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">An abridged recording of the book.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In container (14 cm.).</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Authors include: Janene Wolsey Baadsgaard, Anita R. Canfield, Elaine Cannon, George D. Durrant, Jaroldeen Asplund Edwards, Michaelene P. Grassli, Marion D. Hanks, Ardeth G. Kapp, Harold B. Lee, Marilynne Todd Linford, Kathleen "Casey" Null, Virginia H. Pearce, and Barbara B. Smith.</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Produced and edited by Kenny Hodges ; additional recordings by Mike Hollister and Marvin Payne.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Selections read by Kathleen H. Barnes, Elaine Cannon, George D. Durrant ... [et al.].</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In container (14 cm.).</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Presents excerpts from the collection of inspirational stories that celebrate the love and wisdom of mothers in the Church of Jesus Christ of Latter-day Saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Mothers</subfield>
+            <subfield code="x">Religious life.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Latter Day Saint women</subfield>
+            <subfield code="x">Religious life.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Latter Day Saint women</subfield>
+            <subfield code="x">Spiritual life.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Spiritual life</subfield>
+            <subfield code="x">Church of Jesus Christ of Latter-day Saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Audiobooks.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Baadsgaard, Janene Wolsey.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Canfield, Anita,</subfield>
+            <subfield code="d">1946-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cannon, Elaine.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Durrant, George D.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Edwards, Jaroldeen.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Grassli, Michaelene P.,</subfield>
+            <subfield code="d">1940-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hanks, Marion D.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kapp, Ardeth G.</subfield>
+            <subfield code="q">(Ardeth Greene),</subfield>
+            <subfield code="d">1931-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lee, Harold B.,</subfield>
+            <subfield code="d">1899-1973.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Linford, Marilynne Todd.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Null, Kathleen.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Barbara B.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01240cam a22003254a 4500</leader>
+          <controlfield tag="001">12645270</controlfield>
+          <controlfield tag="005">20040114102643.0</controlfield>
+          <controlfield tag="008">020115s2002    azua          001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DLC)  2002100707</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc24 2002-01-15</subfield>
+            <subfield code="a">pv06 2002-11-06 to ASCD</subfield>
+            <subfield code="a">jh12 2003-03-07 to HLCD AA</subfield>
+            <subfield code="c">sh21 2003-06-02</subfield>
+            <subfield code="d">sh13 2003-06-11;</subfield>
+            <subfield code="e">sh42 2003-06-12 to Dewey</subfield>
+            <subfield code="a">aa05 2003-07-22;</subfield>
+            <subfield code="a">Copy 2 to BCCD sp55 2004-01-14</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2002100707</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1893860655</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us-ca</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BV2190</subfield>
+            <subfield code="b">.W35 2002</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">280/.79496</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mission San Juan Capistrano :</subfield>
+            <subfield code="b">a place of peace /</subfield>
+            <subfield code="c">text by Kathleen Walker ; photographs by Marc Muench.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Phoenix, AZ :</subfield>
+            <subfield code="b">Azurite Books,</subfield>
+            <subfield code="c">c2002.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">95 p. :</subfield>
+            <subfield code="b">col. ill. ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Mission San Juan Capistrano.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Missions</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">California</subfield>
+            <subfield code="x">Church history.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Catholic Church</subfield>
+            <subfield code="x">Missions</subfield>
+            <subfield code="z">California</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Mission San Juan Capistrano</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Muench, Marc.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01229cam a2200289 i 4500</leader>
+          <controlfield tag="001">1744815</controlfield>
+          <controlfield tag="005">20240205151220.0</controlfield>
+          <controlfield tag="008">760319s1975    utua   j      000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   75028899</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   75028899 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0877476039</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcac</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BX8641</subfield>
+            <subfield code="b">.B3</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">234/.165</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Forever and ever :</subfield>
+            <subfield code="b">a book for LDS children about temple marriage /</subfield>
+            <subfield code="c">by Kathleen H. Barnes, Virginia H. Pearce ; photos. by Don O. Thorpe.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City :</subfield>
+            <subfield code="b">Deseret Book Co.,</subfield>
+            <subfield code="c">1975.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">[30] p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Brief text, photographs, and scripture help convey the significance of temple marriage in the Church of Jesus Christ of Latter Day Saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Marriage</subfield>
+            <subfield code="x">Religious aspects</subfield>
+            <subfield code="x">Church of Jesus Christ of Latter-Day Saints</subfield>
+            <subfield code="v">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Marriage</subfield>
+            <subfield code="x">Religious aspects</subfield>
+            <subfield code="x">Church of Jesus Christ of Latter-Day Saints.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="1">
+            <subfield code="a">Church of Jesus Christ of Latter-Day Saints.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Thorpe, Don O.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BX8641</subfield>
+            <subfield code="i">.B3</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01472cam a2200337 a 4500</leader>
+          <controlfield tag="001">12849866</controlfield>
+          <controlfield tag="005">20240209105427.0</controlfield>
+          <controlfield tag="008">020711s2002    utua   a      000 0 eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">Acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">ps04 2002-07-11to SSCD</subfield>
+            <subfield code="c">sh16 2002-07-31</subfield>
+            <subfield code="d">sh13 2002-08-02;</subfield>
+            <subfield code="e">sh42 2002-08-10 to Children's Lit.;</subfield>
+            <subfield code="a">Copy 2 to BCCD sp55 2002-09-03</subfield>
+            <subfield code="d">lb18 2004-04-09</subfield>
+            <subfield code="a">aa23 2004-06-04</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2002510125</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">157008792X</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm50141748</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">OQX</subfield>
+            <subfield code="c">OQX</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcac</subfield>
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BX8643.T4</subfield>
+            <subfield code="b">B37 2002</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">246/.9589332</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">I love to see the temple /</subfield>
+            <subfield code="c">written by Kathleen H. Barnes, Virginia H. Pearce ; illustrated by Dilleen Marsh.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City :</subfield>
+            <subfield code="b">Bookcraft,</subfield>
+            <subfield code="c">c2002.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 v. (unpaged) :</subfield>
+            <subfield code="b">col. ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">On board pages.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Brief stories, facts, and illustrations about Mormon temples around the world help convey the importance of temples.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Latter Day Saint temples</subfield>
+            <subfield code="v">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Latter Day Saint church buildings</subfield>
+            <subfield code="v">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Church of Jesus Christ of Latter-Day Saints</subfield>
+            <subfield code="v">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Latter Day Saint temples.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Latter Day Saint churches</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Marsh, Dilleen,</subfield>
+            <subfield code="d">1952-</subfield>
+            <subfield code="e">ill.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01044cam a22002774a 4500</leader>
+          <controlfield tag="001">12275855</controlfield>
+          <controlfield tag="005">20240205151229.0</controlfield>
+          <controlfield tag="008">010110s2001    utua   j      000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc22 01-10-01; to SSCD</subfield>
+            <subfield code="a">pb24 2001-07-31</subfield>
+            <subfield code="c">sh21 2002-03-05;</subfield>
+            <subfield code="d">sh50 2002-09-24</subfield>
+            <subfield code="e">sh38 2002-10-08 to Children's Lit.; lb00 2002-10-16</subfield>
+            <subfield code="d">lb10 2003-02-21</subfield>
+            <subfield code="a">aa05 2003-04-03</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2001086290</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1573459542</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+            <subfield code="a">lcac</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BV265</subfield>
+            <subfield code="b">.B37 2001</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">248.3/2</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Prayer time /</subfield>
+            <subfield code="c">written by Kathleen H. Barnes, Virginia H. Pearce ; illustrated by Dilleen Marsh.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City, Utah :</subfield>
+            <subfield code="b">Bookcraft,</subfield>
+            <subfield code="c">c2001.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 v. (unpaged) :</subfield>
+            <subfield code="b">col. ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">On board pages.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Children</subfield>
+            <subfield code="v">Prayers and devotions.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Prayer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Marsh, Dilleen,</subfield>
+            <subfield code="d">1952-</subfield>
+            <subfield code="e">ill.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01247cam a2200337   4500</leader>
+          <controlfield tag="001">1253571</controlfield>
+          <controlfield tag="005">20240205151238.0</controlfield>
+          <controlfield tag="008">740201s1973    utua   j      000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">opcn</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   73089224</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   73089224 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">087747513X</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcac</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BX8655.A1</subfield>
+            <subfield code="b">B37</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">234/.16</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Sacrament time,</subfield>
+            <subfield code="c">by Kathleen H. Barnes [and] Virginia H. Pearce. Photos. by Don O. Thorpe.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City,</subfield>
+            <subfield code="b">Deseret Book Co.,</subfield>
+            <subfield code="c">1973.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">[32] p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="350" ind1=" " ind2=" ">
+            <subfield code="a">$3.95</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="2">
+            <subfield code="a">A Book for LDS children</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Brief text, photographs, and Bible verses help convey the significance of the sacrament in the Church of Jesus Christ of Latter-day Saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Children</subfield>
+            <subfield code="x">Religious life.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sacraments</subfield>
+            <subfield code="x">Latter Day Saint churches</subfield>
+            <subfield code="x">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Sacraments</subfield>
+            <subfield code="x">Mormon Church.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Christian life.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="1">
+            <subfield code="a">Church of Jesus Christ of Latter-Day Saints.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Thorpe, Don O.,</subfield>
+            <subfield code="e">illus.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BX8655.A1</subfield>
+            <subfield code="i">B37</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01249cam a2200325 i 4500</leader>
+          <controlfield tag="001">790727</controlfield>
+          <controlfield tag="005">20240205151246.0</controlfield>
+          <controlfield tag="008">741216s1974    utua   j      000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">opcn</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   74080585</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   74080585 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0877475253 :</subfield>
+            <subfield code="c">$4.95</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcac</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BV4870</subfield>
+            <subfield code="b">.B28</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">242/.6/2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Testimony /</subfield>
+            <subfield code="c">by Kathleen H. Barnes, Virginia H. Pearce ; photos. by Don O. Thorpe.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City, Utah :</subfield>
+            <subfield code="b">Deseret Book Co.,</subfield>
+            <subfield code="c">1974.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">[32] p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="2">
+            <subfield code="a">A Book for Latter-day Saint children</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">The analogy of an apple seed is used to explain the meaning of testimony in the Church of Jesus Christ of Latter-Day Saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Children</subfield>
+            <subfield code="v">Prayers and devotions.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Christian education</subfield>
+            <subfield code="x">Textbooks for children</subfield>
+            <subfield code="x">Latter Day Saint.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="1">
+            <subfield code="a">Church of Jesus Christ of Latter-Day Saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Christian life.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Religious education.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Latter Day Saint churches.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BV4870</subfield>
+            <subfield code="i">.B28</subfield>
+            <subfield code="p">00001141442</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01162cam a2200301 i 4500</leader>
+          <controlfield tag="001">3192616</controlfield>
+          <controlfield tag="005">20240205151254.0</controlfield>
+          <controlfield tag="008">770323s1977    utua   j      000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   77004986</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   77004986 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0877476462 :</subfield>
+            <subfield code="c">$4.95</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcac</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BX8643.P7</subfield>
+            <subfield code="b">B37</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">230/.9/3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Today I saw a prophet /</subfield>
+            <subfield code="c">Kathleen H. Barnes &amp; Virginia H. Pearce.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City :</subfield>
+            <subfield code="b">Deseret Book Co.,</subfield>
+            <subfield code="c">c1977.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">30 p. :</subfield>
+            <subfield code="b">col. ill. ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Identifies Biblical prophets from Moses to Peter, explains the role of prophet and lists the men who have served in this capacity for the Church of Jesus Christ of Latter-Day Saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Prophets (Mormon theology)</subfield>
+            <subfield code="x">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Prophets</subfield>
+            <subfield code="x">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Prophets (Mormonism)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Prophets.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="1">
+            <subfield code="a">Church of Jesus Christ of Latter-Day Saints.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BX8643.P7</subfield>
+            <subfield code="i">B37</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01012cam a2200289 i 4500</leader>
+          <controlfield tag="001">2688221</controlfield>
+          <controlfield tag="005">20240205151302.0</controlfield>
+          <controlfield tag="008">751204s1975    utua   j      000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   75005177</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   75005177 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">087747544X :</subfield>
+            <subfield code="c">$4.95</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcac</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BT97.2</subfield>
+            <subfield code="b">.B34</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">231/.73</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">What is a miracle? /</subfield>
+            <subfield code="c">Kathleen H. Barnes, Virginia H. Pearce ; photos. by Don O. Thorpe.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City, Utah :</subfield>
+            <subfield code="b">Deseret Book Co.,</subfield>
+            <subfield code="c">1975.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">[32] p. :</subfield>
+            <subfield code="b">ill. (some col.) ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="2">
+            <subfield code="a">A Book for Latter-day Saint children</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">A child with a sick mother finds out about many kinds of miracles.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Miracles</subfield>
+            <subfield code="x">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Miracles.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pearce, Virginia H.,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Thorpe, Don O.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BT97.2</subfield>
+            <subfield code="i">.B34</subfield>
+            <subfield code="p">00033575907</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>11</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01564cam a22003134a 4500</leader>
+          <controlfield tag="001">16141522</controlfield>
+          <controlfield tag="005">20230826083942.0</controlfield>
+          <controlfield tag="008">100317s2010    utua     b    001 0 eng c</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="925" ind1="1" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+            <subfield code="e">claim1  2010-11-15</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">UPB</subfield>
+            <subfield code="e">rc06 2010-03-18 to Dewey (telework)</subfield>
+            <subfield code="w">rd08 2010-03-18</subfield>
+            <subfield code="a">xe10 2010-12-10 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">re06 2011-01-13 (telework) to BCCD</subfield>
+            <subfield code="t">rh04 2011-04-15 copy 2 added</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2010011131</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781606411018 (hardbound : alk. paper)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UPB/DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BX8643.T4</subfield>
+            <subfield code="b">W35 2010</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">264/.093</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Richard,</subfield>
+            <subfield code="d">1937-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">House of learning :</subfield>
+            <subfield code="b">getting more from your temple experience /</subfield>
+            <subfield code="c">Richard and Kathleen Walker.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Salt Lake City, Utah :</subfield>
+            <subfield code="b">Deseret Book,</subfield>
+            <subfield code="c">c2010.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xv, 128 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">It begins in the heart -- The power of love -- Lovingkindness -- Reverence the house of the Lord -- The principle, the Savior, and me -- A place of personal revelation -- Seeing yourself as the Lord sees you -- Receiving the fulness of the Holy Ghost -- The temple : our key to happiness.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Latter Day Saint temples.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Temple work (Latter Day Saint doctrine)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Temple endowments (Latter Day Saint doctrine)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">UPBCIP</subfield>
+            <subfield code="d">2010-03-17</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>12</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01081cam a22003014a 4500</leader>
+          <controlfield tag="001">16158591</controlfield>
+          <controlfield tag="005">20100331164831.0</controlfield>
+          <controlfield tag="008">100329s1961    nyu           000 0aeng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">cc11 2010-03-29</subfield>
+            <subfield code="i">cc11 2010-03-29</subfield>
+            <subfield code="e">cc17 2010-03-31 to AAPIC, Asian Div. (Copy 1 &amp; 2)</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2010384219</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us-ca</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">NK4210.W55</subfield>
+            <subfield code="b">A2 1961</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Wong, Jade Snow.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Fifth Chinese daughter /</subfield>
+            <subfield code="c">Jade Snow Wong ; adapted by Kathleen Walker.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="i">Subtitle on cover:</subfield>
+            <subfield code="a">True story of a Chinese girl in America.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Ladder ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Ballantine Books,</subfield>
+            <subfield code="c">1961.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">128 p. ;</subfield>
+            <subfield code="c">18 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Ladder series</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Wong, Jade Snow.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Potters</subfield>
+            <subfield code="z">California</subfield>
+            <subfield code="v">Biography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Walker, Kathleen.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Jade Snow Wong Collection (Library of Congress)</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Asian American Pacific Islander Collection (Library of Congress)</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="s">USG</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>13</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Walker, Kathleen"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

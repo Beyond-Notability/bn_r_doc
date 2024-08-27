@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>1</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02471cjcaa22004817a 4500</leader>
+          <controlfield tag="001">15416844</controlfield>
+          <controlfield tag="005">20170410124130.0</controlfield>
+          <controlfield tag="007">st ||n|m|||n|e</controlfield>
+          <controlfield tag="008">080818i19741974wiusg||  d          eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-folklife</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">mkru 2008-08-18</subfield>
+            <subfield code="a">mkru 2017-04-10</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2008700363</subfield>
+          </datafield>
+          <datafield tag="033" ind1="2" ind2="0">
+            <subfield code="a">197201--</subfield>
+            <subfield code="a">197209--</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="e">dacs</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="d">eng</subfield>
+            <subfield code="d">nor</subfield>
+            <subfield code="a">eng</subfield>
+            <subfield code="a">nor</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us-wi</subfield>
+            <subfield code="a">e-no---</subfield>
+          </datafield>
+          <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">LWO 7223</subfield>
+          </datafield>
+          <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">AFS 15424</subfield>
+          </datafield>
+          <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">AFC 1973/004</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Margaret Anderson collection of Norwegian American songs from Wisconsin</subfield>
+            <subfield code="h">[sound recording].</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="c">1972.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound cassette :</subfield>
+            <subfield code="b">analog +</subfield>
+            <subfield code="e">documentation.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Norah Anderson, vocals.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="a">Recorded in January and September, 1972.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Sound recording of Norah Anderson from Iola, Wisconsin, performing songs in Norwegian and English from her songbook, and one song from her husband Alfred's songbook.  Photocopies of the two songbooks, which include folksongs, ballads, and popular songs, in Norwegian and in English, were donated as part of the collection by their granddaughter, Margaret Anderson.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="2" ind2=" ">
+            <subfield code="a">Contents of sound cassette:  Jeg var 17 aar -- Det var en lørdag aften -- Reisen til Amerika -- Lille Svale -- Efter at ballet var over -- Reisen til Amerika -- Den første frier -- The farmer's boy -- Florella.</subfield>
+          </datafield>
+          <datafield tag="524" ind1="8" ind2=" ">
+            <subfield code="a">Margaret Anderson collection of Norwegian American songs from Wisconsin (AFC 1973/004), Archive of Folk Culture, American Folklife Center, Library of Congress, Washington, D.C.</subfield>
+          </datafield>
+          <datafield tag="540" ind1=" " ind2=" ">
+            <subfield code="a">Duplication of sound recordings may be governed by copyright and other restrictions.</subfield>
+          </datafield>
+          <datafield tag="541" ind1=" " ind2=" ">
+            <subfield code="a">Margaret Anderson;</subfield>
+            <subfield code="c">Donation;</subfield>
+            <subfield code="d">1972.</subfield>
+          </datafield>
+          <datafield tag="546" ind1=" " ind2=" ">
+            <subfield code="a">Songs and texts in English and in Norwegian.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, English</subfield>
+            <subfield code="z">Wisconsin.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, Norwegian</subfield>
+            <subfield code="z">Wisconsin.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, Norwegian</subfield>
+            <subfield code="z">Norway.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Ballads, English</subfield>
+            <subfield code="z">Wisconsin</subfield>
+            <subfield code="v">Texts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Norwegian Americans</subfield>
+            <subfield code="z">Wisconsin</subfield>
+            <subfield code="v">Music.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Popular music</subfield>
+            <subfield code="z">Wisconsin.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Songbooks</subfield>
+            <subfield code="z">Wisconsin.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Personal recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Ballads.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Songs.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Anderson, Norah,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+          <datafield tag="852" ind1=" " ind2=" ">
+            <subfield code="a">Library of Congress</subfield>
+            <subfield code="b">Archive of Folk Culture, American Folklife Center,</subfield>
+            <subfield code="e">101 Independence Ave. S.E., Washington, DC USA 20540-4610</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">afc/coll</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Gracey, Norah" or dc.creator="Anderson, Norah"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

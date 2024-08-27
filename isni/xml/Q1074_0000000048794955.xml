@@ -1,0 +1,223 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS502</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000048794955</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000048794955</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Margaret Maria</forename>
+                    <surname>Verney</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Margaret Verney</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q6759988</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Maria Williams-Hay</forename>
+                    <surname>Verney</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>1844-1930</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000000081</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Maria</forename>
+                    <surname>Verney</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>117389730</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Maria</forename>
+                    <surname>Verney</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>1844-1930</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Maria</forename>
+                    <surname>Hay Williams</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Memoirs of the Verney family during the seventeenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Memoirs of the Verney family during the seventeenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Verney, Edmund (1616-1649) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Verney, Ralph (1712?-1791) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Verney letters of the eighteenth century from the mss. at Claydon House</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Lady</forename>
+                    <surname>Verney</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Maria Williams-</forename>
+                    <surname>Hay</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Margaret Maria Verney</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Margaret Verney</surname>
+                    <nameTitle>Welsh educationalist</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret M.</forename>
+                    <surname>Verney</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Maria</forename>
+                    <surname>Williams-Hay</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Maria Hay Williams</forename>
+                    <surname>Verney</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Maria Williams-Hay</forename>
+                    <surname>Verney</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Maria</forename>
+                    <surname>Verney</surname>
+                    <marcDate>1844-1930</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>43245</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>47711</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1074</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>32772763</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/32772763</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>301885303</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>no2004085320</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1074</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q6759988</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://cy.wikipedia.org/wiki/Margaret_Verney</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Margaret_Verney</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000048794955%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000048794955"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>1</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01518cam a2200325 a 4500</leader>
+          <controlfield tag="001">3344874</controlfield>
+          <controlfield tag="005">20130417111619.0</controlfield>
+          <controlfield tag="008">851218s1984    enka     b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   85241576 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0905157095 (pbk.) :</subfield>
+            <subfield code="c">£9.95</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   85241576</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA670.G5</subfield>
+            <subfield code="b">A73 1984</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">936.2/41</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Archaeology in Gloucestershire :</subfield>
+            <subfield code="b">from the earliest hunters to the industrial age : essays dedicated to Helen O'Neil and the late Elsie Clifford /</subfield>
+            <subfield code="c">edited by Alan Saville.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Cheltenham :</subfield>
+            <subfield code="b">Jointly published by Cheltenham Art Gallery and Musuems, and the Bristol and Gloucestershire Archaeological Society,</subfield>
+            <subfield code="c">1984.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">352 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes papers from a one-day symposium on "The Archaeology of Gloucestershire" which was held at the College of St. Paul and St. Mary, the Park, Cheltenham on 9/8/79.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographies and index.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Gloucestershire (England)</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">England</subfield>
+            <subfield code="x">Antiquities.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Excavations (Archaeology)</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">Gloucestershire (England)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">O'Neil, Helen Evangeline,</subfield>
+            <subfield code="d">-1984.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Clifford, Elsie Margaret,</subfield>
+            <subfield code="d">-1976.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Saville, Alan,</subfield>
+            <subfield code="d">1946-</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Cheltenham Art Gallery and Museum.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Bristol and Gloucestershire Archaeological Society.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA670.G5</subfield>
+            <subfield code="i">A73 1984</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Chambers, Elsie Margaret" or dc.creator="Clifford, Elise Margaret" or dc.creator="Clifford, Elsie Margaret"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

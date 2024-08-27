@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>10</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01034cam a2200301 a 4500</leader>
+          <controlfield tag="001">1850142</controlfield>
+          <controlfield tag="005">20190808084346.0</controlfield>
+          <controlfield tag="008">820119s1980    ie       b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   81162459</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   81162459 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">Ir***</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0902027158</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">engiri</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-ie---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KDK1225.A7</subfield>
+            <subfield code="b">O73</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">342.417</subfield>
+            <subfield code="a">344.1702</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">O'Reilly, James.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Cases and materials on the Irish constitution /</subfield>
+            <subfield code="c">by James O'Reilly and Mary Redmond ; with a foreword by Brian Walsh.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Dublin :</subfield>
+            <subfield code="b">Incorporated Law Society of Ireland,</subfield>
+            <subfield code="c">1980.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">lv, 712 p. ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes text of the constitution in English and Irish.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Constitutional law</subfield>
+            <subfield code="z">Ireland</subfield>
+            <subfield code="v">Cases.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="1" ind2="2">
+            <subfield code="a">Ireland.</subfield>
+            <subfield code="t">Constitution.</subfield>
+            <subfield code="f">1980.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-LL</subfield>
+            <subfield code="h">KDK1225.A7</subfield>
+            <subfield code="i">O73</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01268cam a2200337 i 4500</leader>
+          <controlfield tag="001">20532424</controlfield>
+          <controlfield tag="005">20190808083819.0</controlfield>
+          <controlfield tag="008">180607s2017    ie       b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origres</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">CF</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">hf12 2018-06-07 z-processor</subfield>
+            <subfield code="i">xg05 2018-10-22</subfield>
+            <subfield code="a">xg05 2018-10-23 to LL</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2017492246</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781780434988 (HB)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781780436289 (epub)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781526507211 (epdf)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-ie---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KDK820</subfield>
+            <subfield code="b">.R42 2017</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ryan, Desmond</subfield>
+            <subfield code="c">(Barrister-at-law),</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Redmond on dismissal law /</subfield>
+            <subfield code="c">by Dr Desmond Ryan, LLB (Dub), BCL, MA (Oxon), PhD (Dub), barrister-at-law.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Third edition.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Dublin :</subfield>
+            <subfield code="b">Bloomsbury Professional,</subfield>
+            <subfield code="c">[2017]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">lxxxviii, 641 pages ;</subfield>
+            <subfield code="c">26 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Employees</subfield>
+            <subfield code="x">Dismissal of</subfield>
+            <subfield code="x">Law and legislation</subfield>
+            <subfield code="z">Ireland.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary.</subfield>
+            <subfield code="t">Dismissal law in Ireland.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="a">purchase</subfield>
+            <subfield code="d">20180518</subfield>
+            <subfield code="n">LIB3506</subfield>
+            <subfield code="s">Kennys Bookshop &amp; Art Galleries Ltd.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01038cam a22002774a 4500</leader>
+          <controlfield tag="001">14987332</controlfield>
+          <controlfield tag="005">20200526083644.0</controlfield>
+          <controlfield tag="008">070830s2007    enk      bl   001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origres</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nb05 2007-08-30 z-processor ; nb05 2007-08-30 to SSCD for processing</subfield>
+            <subfield code="i">sg08 2007-09-17</subfield>
+            <subfield code="e">sg15 2007-09-18 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2007532564</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781845922993</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1845922999</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-ie---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KDK820</subfield>
+            <subfield code="b">.R42 2007</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Dismissal law in Ireland /</subfield>
+            <subfield code="c">Mary Redmond.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Haywards Heath, West Sussex ;</subfield>
+            <subfield code="a">Dublin :</subfield>
+            <subfield code="b">Tottel Pub.,</subfield>
+            <subfield code="c">2007.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">lxxxi, 700 p. ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">""Formerly published by LexisNexis Butterworths" -- T.p. verso.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 651-659) and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Employees</subfield>
+            <subfield code="x">Dismissal of</subfield>
+            <subfield code="x">Law and legislation</subfield>
+            <subfield code="z">Ireland.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="d">20070801</subfield>
+            <subfield code="n">I-913930</subfield>
+            <subfield code="s">Coutts UK</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00848cam a2200253 a 4500</leader>
+          <controlfield tag="001">3300916</controlfield>
+          <controlfield tag="005">20190808084305.0</controlfield>
+          <controlfield tag="008">830607s1982    ie a     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   83128056</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   83128056 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0902027220 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-ie---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KDK820</subfield>
+            <subfield code="b">.R42 1982</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">344.415/012596</subfield>
+            <subfield code="a">344.150412596</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Dismissal law in the Republic of Ireland /</subfield>
+            <subfield code="c">by Mary Redmond.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Dublin] :</subfield>
+            <subfield code="b">Incorporated Law Society of Ireland,</subfield>
+            <subfield code="c">1982.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xliii, 296 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 274-284.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes indexes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Employees</subfield>
+            <subfield code="x">Dismissal of</subfield>
+            <subfield code="x">Law and legislation</subfield>
+            <subfield code="z">Ireland.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-LL</subfield>
+            <subfield code="h">KDK820</subfield>
+            <subfield code="i">.R42 1982</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01411cam a22003977i 4500</leader>
+          <controlfield tag="001">21105629</controlfield>
+          <controlfield tag="005">20190802080749.0</controlfield>
+          <controlfield tag="008">190727t20182018ie a          000 0 eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">Acquire</subfield>
+            <subfield code="b">1 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rk07 2019-07-27 z-processor</subfield>
+            <subfield code="i">rk07 2019-08-02 tele. to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2019300146</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB913640</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">019099907</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781782183488</subfield>
+            <subfield code="q">hardcover</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1782183485</subfield>
+            <subfield code="q">hardcover</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)on1023548766</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">YDX</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">YDX</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">UKMGB</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">YDXIT</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">242/.4</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BV4909</subfield>
+            <subfield code="b">.U87 2018</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Following the pink ribbon path /</subfield>
+            <subfield code="c">Mary Redmond Ussher.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Pink ribbon path</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Dublin, Ireland :</subfield>
+            <subfield code="b">Columba Press,</subfield>
+            <subfield code="c">2018.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2018</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">161 pages :</subfield>
+            <subfield code="b">illustration ;</subfield>
+            <subfield code="c">21 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Breast</subfield>
+            <subfield code="x">Cancer</subfield>
+            <subfield code="v">Meditations.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cancer</subfield>
+            <subfield code="x">Patients</subfield>
+            <subfield code="v">Prayers and devotions.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Breast</subfield>
+            <subfield code="x">Cancer.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00838260</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Cancer</subfield>
+            <subfield code="x">Patients.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00845411</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Meditations.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01423849</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Prayers and devotions.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01423909</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01063cam a2200277 a 4500</leader>
+          <controlfield tag="001">3323789</controlfield>
+          <controlfield tag="005">20190808084239.0</controlfield>
+          <controlfield tag="008">840718s1984    ie a     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   84187686</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   84187686 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-ie---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KDK802</subfield>
+            <subfield code="b">.R43 1984</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">344.415/01</subfield>
+            <subfield code="a">344.15041</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Labour law and industrial relations in Ireland /</subfield>
+            <subfield code="c">Mary Redmond.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Dublin :</subfield>
+            <subfield code="b">Bridgefoot Press,</subfield>
+            <subfield code="c">1984.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">188 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"This guide is concerned with the Republic of Ireland only."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">A reprint of the author's contribution on Ireland in the International encyclopaedia for labour law and industrial relations.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 59-61.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Labor laws and legislation</subfield>
+            <subfield code="z">Ireland.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">International encyclopaedia for labour law and industrial relations.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-LL</subfield>
+            <subfield code="h">KDK802</subfield>
+            <subfield code="i">.R43 1984</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00956cam a22002777i 4500</leader>
+          <controlfield tag="001">18100344</controlfield>
+          <controlfield tag="005">20171026135103.0</controlfield>
+          <controlfield tag="008">140402s2013    ie            000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rk05 2014-04-02</subfield>
+            <subfield code="h">ti43 2017-10-20 to CALM</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2013454286</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781782180852 (hbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">MLCS 2017/47194 (R)</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The pink ribbon path /</subfield>
+            <subfield code="c">Mary Ussher, pilgrim.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Blackrock, Co., Dublin :</subfield>
+            <subfield code="b">The columba Press</subfield>
+            <subfield code="c">2013.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">156 pages ;</subfield>
+            <subfield code="c">19 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Minimal Level Cataloging Plus.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Breast</subfield>
+            <subfield code="x">Cancer</subfield>
+            <subfield code="v">Meditations.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cancer</subfield>
+            <subfield code="x">Patients</subfield>
+            <subfield code="v">Prayers and devotions.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">English (SS/Tech) Contract</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01542cam a22004215a 4500</leader>
+          <controlfield tag="001">23252039</controlfield>
+          <controlfield tag="005">20230809170249.0</controlfield>
+          <controlfield tag="008">230729s2010    enk           001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">* shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">hf06 2023-07-29 z-processor to Law</subfield>
+            <subfield code="a">xg11 2023-08-09 received by Law Section</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023445843</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB061123</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">015551516</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781847665485</subfield>
+            <subfield code="q">(pbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1847665489</subfield>
+            <subfield code="q">(pbk.)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn615905912</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKM</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">UKM</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">CDX</subfield>
+            <subfield code="d">UKMGB</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">ukblcatcopy</subfield>
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-ie---</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">344.41701</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="097" ind1="0" ind2="0">
+            <subfield code="a">KD</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ussher, Mary.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Strikes :</subfield>
+            <subfield code="b">an essential guide to industrial action and the law /</subfield>
+            <subfield code="c">Mary Redmond and Tom Mallon.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Haywards Heath :</subfield>
+            <subfield code="b">Bloomsbury Professional,</subfield>
+            <subfield code="c">©2010.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxxii, 362 pages ;</subfield>
+            <subfield code="c">25 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Labor laws and legislation</subfield>
+            <subfield code="z">Ireland.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Labor disputes</subfield>
+            <subfield code="z">Ireland.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="6">
+            <subfield code="a">Travail</subfield>
+            <subfield code="x">Conflits</subfield>
+            <subfield code="z">Irlande.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Labor disputes.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00989929</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Labor laws and legislation.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00989967</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Ireland.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01205427</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Mallon, Tom.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="a">purchase</subfield>
+            <subfield code="d">20230713</subfield>
+            <subfield code="n">202</subfield>
+            <subfield code="s">Kennys</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00938cam a2200265   4500</leader>
+          <controlfield tag="001">3161801</controlfield>
+          <controlfield tag="005">20020822142901.0</controlfield>
+          <controlfield tag="008">701113r19701900pk bc         001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   75018096</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   75018096 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">a-ii---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS479</subfield>
+            <subfield code="b">.W25 1970</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">954.03/5/0924</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Warburton, Robert,</subfield>
+            <subfield code="c">Sir,</subfield>
+            <subfield code="d">1842-1899.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Eighteen years in the Khyber, 1879-1898.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Lahore,</subfield>
+            <subfield code="b">Oxford University Press, Pakistan Branch</subfield>
+            <subfield code="c">[1970]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">16, 351 p.</subfield>
+            <subfield code="b">fold. col. map, port.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Edited by Mary Cecil, Lady Warburton.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint of the 1900 ed.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Warburton, Robert,</subfield>
+            <subfield code="c">Sir,</subfield>
+            <subfield code="d">1842-1899.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">India</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">British occupation, 1765-1947</subfield>
+            <subfield code="v">Biography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Warburton, Mary (Cecil)</subfield>
+            <subfield code="c">Lady,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS479</subfield>
+            <subfield code="i">.W25 1970</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03081cam a22002891  4500</leader>
+          <controlfield tag="001">5862364</controlfield>
+          <controlfield tag="005">20211013181203.0</controlfield>
+          <controlfield tag="008">800718s1900    enkabc        001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   05010968 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)6528454</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">IaGG</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS479</subfield>
+            <subfield code="b">.W25</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Warburton, Robert,</subfield>
+            <subfield code="c">Sir,</subfield>
+            <subfield code="d">1842-1899.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Eighteen years in the Khyber, 1879-1898,</subfield>
+            <subfield code="c">by Colonel Sir Robert Warburton.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">J. Murray,</subfield>
+            <subfield code="c">1900.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., [18], 351 p.</subfield>
+            <subfield code="b">front., plates, ports., fold. map.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"1st. ed. January 1900, reprinted April 1900."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Ed. by his widow, Mary (Cecil) lady Warburton.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Sir Robert Warburton (1842-99) was a British army officer who served for 18 years as the political officer, or warden, of the Khyber Pass, the most important of the mountain passes connecting Afghanistan and present-day Pakistan. He was born in Afghanistan, the son of a British officer and his wife, a noble Afghan woman who was the niece of Amir Dost Mohammad Khan. Warburton was educated in England, commissioned an officer, and served at posts in British India and in Abyssinia (present-day Ethiopia) before being appointed, in 1879, to his post in the Khyber. Home to the fiercely independent Pushtun Afridi people who resisted external control, the pass frequently had been blocked by the Afridis or by fighting among the hill tribes. Warburton is credited with keeping the frontier peaceful and the pass open, mainly though diplomacy rather than force. He drew upon his Afghan background and his fluent Persian and Pushto to gradually win the trust of tribesmen whose traditions made them deeply suspicious of outsiders. In August 1897, one month after Warburton's retirement, unrest broke out among the Afridis, who seized the pass and held it for several months. Warburton was called back into service and participated in the Tirah expedition of 1897-98, in which Anglo-Indian forces reopened the pass. Warburton was especially proud of the role played in the expedition by the Khyber Rifles, a paramilitary force recruited from Afridi tribesmen that he had raised and commanded. Eighteen Years in the Khyber, 1879-1898 is Warburton's account of his education and career. It touches upon virtually every individual and event that played a role in relations between Afghanistan and British India during the last quarter of the 19th century. Long in poor health, Warburton returned to England and died before the book was completed. Posthumously published, it is illustrated with a number of striking photographs and includes a detailed fold-out map of the Khyber.</subfield>
+            <subfield code="c">World Digital Library.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Warburton, Robert,</subfield>
+            <subfield code="c">Sir,</subfield>
+            <subfield code="d">1842-1899.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">India</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">British occupation, 1765-1947</subfield>
+            <subfield code="v">Biography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Warburton, Mary Cecil,</subfield>
+            <subfield code="c">Lady,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="d">gdclccn</subfield>
+            <subfield code="f">05010968</subfield>
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/gdclccn.05010968</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">gdc/wdl</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS479</subfield>
+            <subfield code="i">.W25</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Ussher, Mary" or dc.creator="Warburton, Mary"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

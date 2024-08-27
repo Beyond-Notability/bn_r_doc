@@ -1,0 +1,2838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>33</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01357cam a22003131  4500</leader>
+          <controlfield tag="001">7729338</controlfield>
+          <controlfield tag="005">20221026115100.0</controlfield>
+          <controlfield tag="008">790124s1902    enk           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="u">ma02 2022-10-26</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   03019021 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   03019021</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)4581592</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OCl</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">engsyr</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PJ3081</subfield>
+            <subfield code="b">.S8</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Apocryphal books.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Apocrypha syriaca;</subfield>
+            <subfield code="b">the Protevangelium Jacobi and Transitus Mariae, with texts from the Septuagint, the Corân, the Peshiṭta, and from a Syriac hymm in a Syro-Arabic palimpsest of the fifth and other centuries;</subfield>
+            <subfield code="c">ed. and tr. by Agnes Smith Lewis. With an appendix of Palestinian Syriac texts from the Taylor-Schechter collection.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">C.J. Clay and sons,</subfield>
+            <subfield code="c">1902.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">lxxii, 71, [157] p.</subfield>
+            <subfield code="b">VIII double facsim.</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Studia sinaitica no. XI</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">A translation of both books precedes the text.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Syriac language</subfield>
+            <subfield code="x">Texts.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926,</subfield>
+            <subfield code="e">editor,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2="2">
+            <subfield code="a">Protevangelium Jacobi.</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2="2">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Apocryphal books.</subfield>
+            <subfield code="p">Transitus Mariæ.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PJ3081</subfield>
+            <subfield code="i">.S8</subfield>
+            <subfield code="p">00034609196</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">11</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01559nam a2200277 a 4500</leader>
+          <controlfield tag="001">3364048</controlfield>
+          <controlfield tag="005">19861009000000.0</controlfield>
+          <controlfield tag="008">861008s1981    oncc     b    011 0 eng c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   86673546</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   86673546 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0889200971</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">MH</subfield>
+            <subfield code="c">MH</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-fr---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="4">
+            <subfield code="a">DC142</subfield>
+            <subfield code="b">.B68x 1981</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Bourgeois, sans-culottes, and other Frenchmen :</subfield>
+            <subfield code="b">essays on the French Revolution in honor of John Hall Stewart /</subfield>
+            <subfield code="c">edited by Morris Slavin and Agnes M. Smith.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Waterloo, Ont., Canada :</subfield>
+            <subfield code="b">Wilfrid Laurier University Press,</subfield>
+            <subfield code="c">c1981.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, 139 p. :</subfield>
+            <subfield code="b">port. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Publications by John Hall Stewart": p. [131]-133.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">When and why Lafayette became a revolutionary / Stanley J. Idzerda -- Conrad-Alexandre Gérard and the coming of the Revolution in Alsace / Ruth Strong Hudson -- Marriage, divorce, and the status of women during the terror / Themistocles Rodis -- Section Roi-de-Sicile and the fall of the monarchy / Morris Slavin -- The intellectual origins of Babouvism / James R. Harkins -- François Emmanuel Toulongeon / Agnes M. Smith -- The ardent historian of an ardent history, Albert Mathiez / James Friguglietti.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">France</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Revolution, 1789-1799.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Stewart, John Hall,</subfield>
+            <subfield code="d">1904- </subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Stewart, John Hall,</subfield>
+            <subfield code="d">1904- </subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Slavin, Morris,</subfield>
+            <subfield code="d">1913- </subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes M.</subfield>
+            <subfield code="q">(Agnes Monroe),</subfield>
+            <subfield code="d">1920- </subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01085cam a2200265u  4500</leader>
+          <controlfield tag="001">6347828</controlfield>
+          <controlfield tag="005">20160223070640.0</controlfield>
+          <controlfield tag="008">820803s1909    enkh    a     000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   09027435</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   09027435 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="0">
+            <subfield code="a">BS1993</subfield>
+            <subfield code="b">.C6 1909</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 82/5920 (BS)</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Bible. Syriac (Palestinian) Selections. 1909. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Codex Climaci rescriptus;</subfield>
+            <subfield code="b">fragments of sixth century Palestinian Syriac texts of the Gospels,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Cambridge [Eng.]</subfield>
+            <subfield code="b">University press,</subfield>
+            <subfield code="c">1909.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 p. l., [vii]-xxxi, 201 p. vii fold. facsim.</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible. Syriac (Palestinian)</subfield>
+            <subfield code="v">Translations into Greek.</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2="2">
+            <subfield code="a">Bible. Greek. Selections. 1909. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2=" ">
+            <subfield code="a">Bible. Manuscripts, Syriac. Codex Climaci rescriptus. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nestle, Eberhard,</subfield>
+            <subfield code="d">1851-1913,</subfield>
+            <subfield code="e">tr.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">pmosl</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 82/5920 (BS)</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01205cam a22002771  4500</leader>
+          <controlfield tag="001">6829824</controlfield>
+          <controlfield tag="005">20130506123827.0</controlfield>
+          <controlfield tag="008">760915s1894    enk           000 0 syr  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   13020454 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   13020454</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2433500</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">AzU</subfield>
+            <subfield code="d">AzU</subfield>
+            <subfield code="d">TQG</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">syreng</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BS2550</subfield>
+            <subfield code="b">.A2 1894</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Gospels.</subfield>
+            <subfield code="l">Syriac.</subfield>
+            <subfield code="f">1894.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The four Gospels in Syriac,</subfield>
+            <subfield code="c">transcribed from the Sinaitic palimpsest by the late Robert L. Bensly and by J. Rendel Harris and by F. Crawford Burkitt, with an introduction by Agnes Smith Lewis.  Edited for the syndics of the University Press.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Cambridge [Eng.]</subfield>
+            <subfield code="b">The University Press,</subfield>
+            <subfield code="c">1894.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xlvi, [2], 318 p., 1 l.</subfield>
+            <subfield code="b">front. (facsims.)</subfield>
+            <subfield code="c">30 cm.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bensly, Robert L.</subfield>
+            <subfield code="q">(Robert Lubbock),</subfield>
+            <subfield code="d">1831-1893.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Harris, J. Rendel</subfield>
+            <subfield code="q">(James Rendel),</subfield>
+            <subfield code="d">1852-1941.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Burkitt, F. Crawford</subfield>
+            <subfield code="q">(Francis Crawford),</subfield>
+            <subfield code="d">1864-1935.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BS2550</subfield>
+            <subfield code="i">.A2 1894</subfield>
+            <subfield code="p">00001449552</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01760cam a22003974a 4500</leader>
+          <controlfield tag="001">729013</controlfield>
+          <controlfield tag="005">20130408170653.0</controlfield>
+          <controlfield tag="008">981125s1999    enk      b    000 0deng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc01 to ye91 11-25-98; ye03 11-25-98; ye18 11-27-98 to DCD; CIP ver. pv08 to BCCD 03-15-00; copy 2 added jf16 to BCCD 07-06-00</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   98053888 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1898595232 (pbk. : alk. paper)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   98053888</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">f-ua---</subfield>
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BS2351.A1</subfield>
+            <subfield code="b">I5 1999</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">220/.0953/1</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">In the shadow of Sinai :</subfield>
+            <subfield code="b">stories of travel and biblical research /</subfield>
+            <subfield code="c">Agnes Smith Lewis and Margaret Dunlop Gibson.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">How the codex was found</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Brighton ;</subfield>
+            <subfield code="a">Portland :</subfield>
+            <subfield code="b">Alpha Press,</subfield>
+            <subfield code="c">[1999].</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, 194 p. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Cover title.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">How the codex was found / by Margaret Dunlop Gibson -- In the shadow of Sinai / by Agnes Smith Lewis.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926</subfield>
+            <subfield code="x">Travel</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Sinai, Mount.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Gibson, Margaret Dunlop,</subfield>
+            <subfield code="d">1843-1920</subfield>
+            <subfield code="x">Travel</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Sinai, Mount.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Sinai, Mount (Egypt)</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926</subfield>
+            <subfield code="v">Diaries.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">New Testament scholars</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="v">Diaries.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Gospels.</subfield>
+            <subfield code="l">Syriac</subfield>
+            <subfield code="x">Versions</subfield>
+            <subfield code="x">Codex palimpsestus Sinaiticus.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Saint Catherine (Monastery : Mount Sinai)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Gibson, Margaret Dunlop,</subfield>
+            <subfield code="d">1843-1920.</subfield>
+            <subfield code="t">How the codex was found.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+            <subfield code="t">In the shadow of Sinai.</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="a">gsl</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01030cam a22002051i 4500</leader>
+          <controlfield tag="001">1768346</controlfield>
+          <controlfield tag="005">20130411130431.0</controlfield>
+          <controlfield tag="008">770817q19001977xx fh    b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76398079 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76398079</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BS2550</subfield>
+            <subfield code="b">.A2 1900z</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Gospels.</subfield>
+            <subfield code="l">Syriac.</subfield>
+            <subfield code="s">Codex palimpsestus Sinaiticus.</subfield>
+            <subfield code="f">19--.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Old Syriac Gospels :</subfield>
+            <subfield code="b">or, Evangelion da-Mepharreshê : being the text of the Sinai or Syro-Antiochene Palimpsest, including the latest additions and emendations, with the variants of the Curetonian text, corroborations from many other mss., and a list of quotations from ancient authors /</subfield>
+            <subfield code="c">edited by Agnes Smith Lewis.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[s.l. :</subfield>
+            <subfield code="b">s.n.,</subfield>
+            <subfield code="c">19--]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">433 p. in various pagings, [4] leaves of plates :</subfield>
+            <subfield code="b">facsims. ;</subfield>
+            <subfield code="c">31 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BS2550</subfield>
+            <subfield code="i">.A2 1900z</subfield>
+            <subfield code="p">00002075271</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01638cam a22003011  4500</leader>
+          <controlfield tag="001">7724540</controlfield>
+          <controlfield tag="005">20230911202849.0</controlfield>
+          <controlfield tag="008">730614s1898    enk           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   01025161 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   01025161</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)643061</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OCH</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">TQG</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">eng</subfield>
+            <subfield code="a">ara</subfield>
+            <subfield code="a">arm</subfield>
+            <subfield code="a">grc</subfield>
+            <subfield code="a">syr</subfield>
+            <subfield code="h">ara</subfield>
+            <subfield code="a">arm</subfield>
+            <subfield code="a">gez</subfield>
+            <subfield code="a">sla</subfield>
+            <subfield code="a">syr</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PJ3087</subfield>
+            <subfield code="b">.A5 1898</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Ahikar (Folktale)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The story of Aḥiḳar from the Syriac, Arabic, Armenian, Ethiopic, Greek and Slavonic versions,</subfield>
+            <subfield code="c">by F.C. Conybeare, J. Rendel Harris, and Agnes Smith Lewis.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London [etc.]</subfield>
+            <subfield code="b">C.J. Clay and Sons,</subfield>
+            <subfield code="c">1898.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">lxxxviii, 162 p., 1 l., [72] p.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">The introduction, by J. Rendel Harris, deals with the relation of the story of Aḥiḳar, found in the "Arabian nights" and elsewhere, to the apocryphal Book of Tobit; it also discusses the resemblance of Aḥiḳar to Loḳman and to Aesop, "two characters ... already shown to be identical".</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Introduction.--Slavonic translation.--Armenian translation.--Syriac translation.--Æthiopic translation.--Arabic translation.--Greek text.--Armenian text.--Syriac text.--Arabic text.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Comparative literature.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Conybeare, F. C.</subfield>
+            <subfield code="q">(Frederick Cornwallis),</subfield>
+            <subfield code="d">1856-1924,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Harris, J. Rendel</subfield>
+            <subfield code="q">(James Rendel),</subfield>
+            <subfield code="d">1852-1941,</subfield>
+            <subfield code="e">joint ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926,</subfield>
+            <subfield code="e">joint ed.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PJ3087</subfield>
+            <subfield code="i">.A5 1898</subfield>
+            <subfield code="p">00012662026</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00779cam a2200205u  4500</leader>
+          <controlfield tag="001">6741187</controlfield>
+          <controlfield tag="005">20130506113339.0</controlfield>
+          <controlfield tag="008">830701s1896    enkh          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">unk83020495 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)unk83020495</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BS2550</subfield>
+            <subfield code="b">.A3 1896</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Gospels.</subfield>
+            <subfield code="l">English.</subfield>
+            <subfield code="s">Lewis.</subfield>
+            <subfield code="f">1896.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="2">
+            <subfield code="a">A translation of the four Gospels from the Syriac of the Sinaitic palimpsest,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">C. J. Clay and sons,</subfield>
+            <subfield code="c">1896.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxiii, [1], 138, [2] p.</subfield>
+            <subfield code="b">front. (facsims.)</subfield>
+            <subfield code="c">29 cm.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible. Syriac</subfield>
+            <subfield code="x">Translations into English. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BS2550</subfield>
+            <subfield code="i">.A3 1896</subfield>
+            <subfield code="p">00002075246</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00620cam a2200205u  4500</leader>
+          <controlfield tag="001">7826395</controlfield>
+          <controlfield tag="005">20171016113706.0</controlfield>
+          <controlfield tag="008">830106s1894    enk           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   34037761 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   34037761</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ3.C167</subfield>
+            <subfield code="b">My</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Cantacuzène-Altieri, Olga,</subfield>
+            <subfield code="c">princesse,</subfield>
+            <subfield code="d">1843-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">My Indian summer,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">A. and C. Black.</subfield>
+            <subfield code="c">1894.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 p.l., 292 p.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Euan-Smith, Agnes,</subfield>
+            <subfield code="e">tr.</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="a">gsl</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ3.C167</subfield>
+            <subfield code="i">My</subfield>
+            <subfield code="p">00014631744</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03769cam a2200397 a 4500</leader>
+          <controlfield tag="001">14522110</controlfield>
+          <controlfield tag="005">20070725164036.0</controlfield>
+          <controlfield tag="008">060828s2007    cau      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">sb39 2006-08-28</subfield>
+            <subfield code="i">sb39 2006-08-28</subfield>
+            <subfield code="e">sb21 2006-09-01 to Dewey</subfield>
+            <subfield code="a">aa11 2006-09-02</subfield>
+            <subfield code="a">ps12 2007-05-01 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">sc02 2007-05-25 Z-CipVer</subfield>
+            <subfield code="g">sc02 2007-05-25 to BCCD</subfield>
+            <subfield code="a">aa23 2007-06-26</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2006028263</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBA6A6361</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">013629702</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1412927528 (cloth : alk. paper)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781412927529 (cloth : alk. paper)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1412927536 (pbk. :alk. paper)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781412927536 (pbk. :alk. paper)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm71245984</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)71245984</subfield>
+            <subfield code="z">(OCoLC)77257451</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">BAKER</subfield>
+            <subfield code="d">UKM</subfield>
+            <subfield code="d">C#P</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">LB2805</subfield>
+            <subfield code="b">.G684 2007</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">371.2/011</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Gray, David L.,</subfield>
+            <subfield code="d">1948-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Case studies in 21st century school administration :</subfield>
+            <subfield code="b">addressing challenges for educational leadership /</subfield>
+            <subfield code="c">David L. Gray, Agnes E. Smith.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Case studies in twenty-first century school administration</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Thousand Oaks :</subfield>
+            <subfield code="b">Sage Publications,</subfield>
+            <subfield code="c">c2007.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiv, 208 p. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 181-182) and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Preface -- Acknowledgments -- A guide to using case studies -- A matrix of case studies -- Case 1: A teacher's absences create problems: holding teachers accountable for excessive absences -- Case 2: A good teacher turns bad: stress at home creates problems at school -- Case 3: Experienced teachers need clear expectations, too: handling conflicts with practiced educators -- Case 4: Grandmother's medicine: a medical emergency at school -- Case 5: Is dismissal justified? An effective teacher faces a moral issue -- Case 6: School property is missing: an employee is caught stealing -- Case 7: Who has the missing crayons? Dealing with chronic theft -- Case 8: A good student earns detention: poor grades for misbehavior at school -- Case 9: Copyright and the computer: regulations governing technology -- Case 10: Too much parent involvement! Organizations need boundaries -- Case 11: Double promotion? Parents want child to skip a grade -- Case 12: A problem with inclusion: inadequate resources for special education -- Case 13: Poor evaluations for a teacher: reassigning an ineffective educator -- Case 14: Missing booster club funds: athletic funds are missing -- Case 15: Mentoring new teachers: a transition to the classroom -- Case 16: A gift for the principal: "fringe" benefits? -- Case 17: Unprofessional behavior: a teacher retains a student who didn't fail -- Case 18: It all depends on the numbers: teacher success is based on test scores -- Case 19: All a's are not enough: rewards must be earned -- Case 20: The community won't understand: diversity becomes unpopular -- Case 21: Every day counts: school attendance is important -- Case 22: Illegal drugs at school: zero tolerance policies -- Case 23: Internet use violations: threats over the world wide web -- Bibliography -- Appendix A: ISLLC standards -- Appendix B: Annotated suggested readings -- Index -- About the authors.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">School management and organization</subfield>
+            <subfield code="v">Case studies.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">School administrators</subfield>
+            <subfield code="x">Training of.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes E.,</subfield>
+            <subfield code="d">1949-</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents only</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/ecip0620/2006028263.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Publisher description</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/enhancements/fy0728/2006028263-d.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Contributor biographical information</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/enhancements/fy0734/2006028263-b.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00728cam a2200205u  4500</leader>
+          <controlfield tag="001">10100498</controlfield>
+          <controlfield tag="005">20160105154420.0</controlfield>
+          <controlfield tag="008">830701s1911    mau           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   11015052</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   11015052 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PN1101</subfield>
+            <subfield code="b">.H2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Haliburton, Margaret Winifred. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Teaching poetry in the grades,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston,</subfield>
+            <subfield code="a">New York [etc.]</subfield>
+            <subfield code="b">Houghton Mifflin company</subfield>
+            <subfield code="c">[c1911]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vi p., 1 l., 167, [1] p., 1 l.</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Poetry</subfield>
+            <subfield code="x">Study and teaching.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes G., [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PN1101</subfield>
+            <subfield code="i">.H2</subfield>
+            <subfield code="p">00032132753</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>11</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00638cam a22002291  4500</leader>
+          <controlfield tag="001">10266906</controlfield>
+          <controlfield tag="005">20050422181016.0</controlfield>
+          <controlfield tag="008">771024s1955    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   55013592</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   55013592 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3365419</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3523.E8466</subfield>
+            <subfield code="b">P6</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">811.5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes I.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Poetry time.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston,</subfield>
+            <subfield code="b">Christopher Pub. House</subfield>
+            <subfield code="c">[1955]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">232 p.</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PS3523.E8466</subfield>
+            <subfield code="i">P6</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>12</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00758cam a2200241u  4500</leader>
+          <controlfield tag="001">6796778</controlfield>
+          <controlfield tag="005">20190113103729.0</controlfield>
+          <controlfield tag="008">820513s1870    enk           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04030824 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04030824</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">aw-----</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS48</subfield>
+            <subfield code="b">.L67</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Eastern pilgrims;</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Hurst and Blackett,</subfield>
+            <subfield code="c">1870.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 p. l., 328 p.</subfield>
+            <subfield code="b">front.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Middle East</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00195460796</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS48</subfield>
+            <subfield code="i">.L67</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">massdig</subfield>
+            <subfield code="e">sloan</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>13</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01039cam a2200265u  4500</leader>
+          <controlfield tag="001">9164171</controlfield>
+          <controlfield tag="005">20230117092027.0</controlfield>
+          <controlfield tag="008">830107s1907    enkfh         000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="u">ma02 2023-01-17</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   11020010</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   11020010 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PJ3081</subfield>
+            <subfield code="b">.S8 no. 12</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926,</subfield>
+            <subfield code="e">editor,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Forty-one facsimiles of dated Christian Arabic manuscripts.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Cambridge,</subfield>
+            <subfield code="b">University press,</subfield>
+            <subfield code="c">1907.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p.l., [vii]-xxii, 82 p.</subfield>
+            <subfield code="b">42 facsim. on 41 plates (incl. front.)</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Manuscripts, Arabic</subfield>
+            <subfield code="v">Facsimiles.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Manuscripts, Arabic</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Sinai.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Saint Catherine (Monastery : Mount Sinai).</subfield>
+            <subfield code="b">Library.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Paleography, Arabic.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Gibson, Margaret Dunlop,</subfield>
+            <subfield code="d">1843-1920,</subfield>
+            <subfield code="e">editor,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Margoliouth, D. S.</subfield>
+            <subfield code="q">(David Samuel),</subfield>
+            <subfield code="d">1858-1940.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PJ3081</subfield>
+            <subfield code="i">.S8 no. 12</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>14</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00778cam a22002411  4500</leader>
+          <controlfield tag="001">8670427</controlfield>
+          <controlfield tag="005">20050701190219.0</controlfield>
+          <controlfield tag="008">790822s1884    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04034976</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04034976 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)5298483</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">FTaSU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DF725</subfield>
+            <subfield code="b">.S64</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Glimpses of Greek life and scenery.</subfield>
+            <subfield code="c">By Agnes Smith.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Hurst and Blackett,</subfield>
+            <subfield code="c">1884.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, 352 p.</subfield>
+            <subfield code="b">front., plates, fold. map.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title vignette (port.)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Greece</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DF725</subfield>
+            <subfield code="i">.S64</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>15</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00988cam a22002651  4500</leader>
+          <controlfield tag="001">7297507</controlfield>
+          <controlfield tag="005">20130507113157.0</controlfield>
+          <controlfield tag="008">750709s1893    xx            000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   13011899 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   13011899</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1437773</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">PInU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BS1994</subfield>
+            <subfield code="b">.L4</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">225.43</subfield>
+            <subfield code="a">[226]</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">How the codex was found;</subfield>
+            <subfield code="b">a narrative of two visits to Sinai, from Mrs. Lewis's journals 1892-1893,</subfield>
+            <subfield code="c">by Margaret Dunlop Gibson.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Cambridge [Mass.]</subfield>
+            <subfield code="b">Macmillan and Bowes,</subfield>
+            <subfield code="c">1893.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 p. 1., 141 p.</subfield>
+            <subfield code="b">front. (facsim.) 1 illus.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible</subfield>
+            <subfield code="x">Manuscripts, Syriac.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Gospels.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Saint Catherine (Monastery : Mount Sinai)</subfield>
+            <subfield code="x">Library.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Gibson, Margaret Dunlop,</subfield>
+            <subfield code="d">1843-1920,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BS1994</subfield>
+            <subfield code="i">.L4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>16</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00823cam a22002291  4500</leader>
+          <controlfield tag="001">9606714</controlfield>
+          <controlfield tag="005">20130514125527.0</controlfield>
+          <controlfield tag="008">770518s1898    enka          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04029633 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04029633</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2974482</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NNU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS110.5</subfield>
+            <subfield code="b">.L67</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">In the shadow of Sinai;</subfield>
+            <subfield code="b">a story of travel and research from 1895 to 1897,</subfield>
+            <subfield code="c">by Agnes Smith Lewis.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Cambridge,</subfield>
+            <subfield code="b">Macmillan &amp; Bowes,</subfield>
+            <subfield code="c">1898.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xvi, 261 p.</subfield>
+            <subfield code="b">front., illus.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Sinai (Egypt)</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">New Testament.</subfield>
+            <subfield code="l">Syriac</subfield>
+            <subfield code="x">Versions.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS110.5</subfield>
+            <subfield code="i">.L67</subfield>
+            <subfield code="p">00025201991</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>17</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00853cam a22002411  4500</leader>
+          <controlfield tag="001">5896845</controlfield>
+          <controlfield tag="005">20130502141446.0</controlfield>
+          <controlfield tag="008">780525s1913    enkafh        000 0 eng c</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  15000078 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  15000078</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3926951</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Springfield, Mass. City Library</subfield>
+            <subfield code="c">MiGrC</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BS2555</subfield>
+            <subfield code="b">.L4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Light on the four Gospels from the Sinai palimpsest,</subfield>
+            <subfield code="c">by Agnes Smith Lewis.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Williams &amp; Norgate,</subfield>
+            <subfield code="c">1913.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ix, 226 p.</subfield>
+            <subfield code="b">front. (facsim.) pl.</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Gospels</subfield>
+            <subfield code="x">Criticism, interpretation, etc.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible</subfield>
+            <subfield code="x">Manuscripts, Syriac.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BS2555</subfield>
+            <subfield code="i">.L4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>18</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01036cam a2200253 a 4500</leader>
+          <controlfield tag="001">13393798</controlfield>
+          <controlfield tag="005">20130529121431.0</controlfield>
+          <controlfield tag="008">031104r20021913gau      b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pv19 2003-11-04 to SSCD</subfield>
+            <subfield code="c">sh48 2003-12-02 (rev. sh13)</subfield>
+            <subfield code="d">sh13 2004-08-16</subfield>
+            <subfield code="e">sh04 2004-08-24 to Dewey</subfield>
+            <subfield code="a">aa25 2004-09-17</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2003279727</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BS2555</subfield>
+            <subfield code="b">.L4 2002</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">226/.0436</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Light on the four gospels from the Sinai palimpsest /</subfield>
+            <subfield code="c">by Agnes Smith Lewis ; with introduction and commentary by Harvey J. Martin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Savannah, GA :</subfield>
+            <subfield code="b">Metamind Publications,</subfield>
+            <subfield code="c">c2002].</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">69, [19] leaves ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Cover title.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (leaf [19]).</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible.</subfield>
+            <subfield code="p">Gospels</subfield>
+            <subfield code="x">Criticism, interpretation, etc.</subfield>
+          </datafield>
+          <datafield tag="630" ind1="0" ind2="0">
+            <subfield code="a">Bible</subfield>
+            <subfield code="x">Manuscripts, Syriac.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Martin, Harvey,</subfield>
+            <subfield code="d">1950-</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>19</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00988cam a22002537a 4500</leader>
+          <controlfield tag="001">482196</controlfield>
+          <controlfield tag="005">19930830170321.0</controlfield>
+          <controlfield tag="007">hd|afa---baca</controlfield>
+          <controlfield tag="007">hd|bfa---baaa</controlfield>
+          <controlfield tag="008">840105s1913    enkaf   a     000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   84100808</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">5</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-genmicro</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   84100808 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 83/6744 (B)</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Light on the four Gospels from the Sinai palimpsest</subfield>
+            <subfield code="h">[microform] /</subfield>
+            <subfield code="c">by Agnes Smith Lewis.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Williams &amp; Norgate,</subfield>
+            <subfield code="c">1913.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ix, 226, 52 p., [1] leaf of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Call number of original: BS2555.L4.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Master microform held by: DLC.</subfield>
+          </datafield>
+          <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm.</subfield>
+            <subfield code="b">Washington, D.C. :</subfield>
+            <subfield code="c">Library of Congress Photoduplication Service,</subfield>
+            <subfield code="d">1983.</subfield>
+            <subfield code="e">1 microfilm reel ; 35 mm.</subfield>
+          </datafield>
+          <datafield tag="590" ind1=" " ind2=" ">
+            <subfield code="a">Illustrated material preserved in MicRR.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 83/6744 (B)</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>20</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00508cam a2200181u  4500</leader>
+          <controlfield tag="001">10015033</controlfield>
+          <controlfield tag="005">20120207141321.0</controlfield>
+          <controlfield tag="008">830118s1900    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)unk82080033</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">unk82080033 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PJ5249</subfield>
+            <subfield code="b">.L5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Palestinian Syriac texts...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[n.p.]</subfield>
+            <subfield code="c">1900.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 v.</subfield>
+            <subfield code="b">cm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PJ5249</subfield>
+            <subfield code="i">.L5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>21</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00882cam a2200241u  4500</leader>
+          <controlfield tag="001">7759031</controlfield>
+          <controlfield tag="005">20130509103022.0</controlfield>
+          <controlfield tag="008">830419s1900    enkh          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   11020011 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   11020011</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PJ3081</subfield>
+            <subfield code="b">.S8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Select narrations of holy women, from the Syro-Antiochene or Sinai palimpsest as written above the old Syriae Gospels,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">C. J. Clay and sons,</subfield>
+            <subfield code="c">1900.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 v.</subfield>
+            <subfield code="b">fronts., facsims.</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Christian saints.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Syriac language</subfield>
+            <subfield code="v">Texts.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">John,</subfield>
+            <subfield code="c">the Stylite, of Beth-Mari,</subfield>
+            <subfield code="d">active 778.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Burkitt, F. Crawford</subfield>
+            <subfield code="q">(Francis Crawford),</subfield>
+            <subfield code="d">1864-1935.</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2=" ">
+            <subfield code="a">Acts of Thomas.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PJ3081</subfield>
+            <subfield code="i">.S8</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>22</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00845cam a22002651  4500</leader>
+          <controlfield tag="001">9139645</controlfield>
+          <controlfield tag="005">20050611173413.0</controlfield>
+          <controlfield tag="008">820512s1887    enkbf         000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   05007100</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   05007100 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)8421366</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">Nc</subfield>
+            <subfield code="d">Nc</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">a-cy---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DS54</subfield>
+            <subfield code="b">.S64</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Through Cyprus,</subfield>
+            <subfield code="c">by Agnes Smith ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Hurst and Blackett,</subfield>
+            <subfield code="c">1887.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ix, [1], 351 p.</subfield>
+            <subfield code="b">4 pl. (incl. front.) fold. map.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title in red and black; title vignette.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Cyprus</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Cyprus</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DS54</subfield>
+            <subfield code="i">.S64</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>23</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00966cam a2200253u  4500</leader>
+          <controlfield tag="001">9164170</controlfield>
+          <controlfield tag="005">20190506083626.0</controlfield>
+          <controlfield tag="008">810917s1894    enkh     c    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   11020000</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   11020000 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PJ3081</subfield>
+            <subfield code="b">.S8 no. 1</subfield>
+          </datafield>
+          <datafield tag="110" ind1="2" ind2=" ">
+            <subfield code="a">Saint Catherine (Monastery : Mount Sinai)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Catalogue of the Syriac mss.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">C.J. Clay and sons,</subfield>
+            <subfield code="c">1894.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, [2], 131, [1] p.</subfield>
+            <subfield code="b">vii facsim. (incl. front.)</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Saint Catherine (Monastery : Mount Sinai)</subfield>
+            <subfield code="x">Library</subfield>
+            <subfield code="v">Catalogs.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Manuscripts, Syriac</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Sinai</subfield>
+            <subfield code="v">Catalogs.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Manuscripts</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Sinai</subfield>
+            <subfield code="v">Catalogs.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Manuscripts, Greek</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Sinai</subfield>
+            <subfield code="v">Catalogs.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Agnes Smith,</subfield>
+            <subfield code="d">1843-1926,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Harris, J. Rendel</subfield>
+            <subfield code="q">(James Rendel),</subfield>
+            <subfield code="d">1852-1941.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PJ3081</subfield>
+            <subfield code="i">.S8 no. 1</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>24</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00656nam a2200205 i 4500</leader>
+          <controlfield tag="001">818993</controlfield>
+          <controlfield tag="005">19770818000000.0</controlfield>
+          <controlfield tag="008">770803s1977    wvua          000 1 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76050105</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76050105 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0870122711</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ4.S642</subfield>
+            <subfield code="b">Bl</subfield>
+            <subfield code="a">PS3569.M45</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">811/.5/4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes,</subfield>
+            <subfield code="d">1906-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The bluegreen tree /</subfield>
+            <subfield code="c">by Agnes Smith ; ill. by J. Sharkey Thomas.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Farmington, WV] :</subfield>
+            <subfield code="b">Westwind Press,</subfield>
+            <subfield code="c">1977.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">180 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ4.S642</subfield>
+            <subfield code="i">Bl</subfield>
+            <subfield code="p">00021366870</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>25</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00788cam a2200229 i 4500</leader>
+          <controlfield tag="001">349502</controlfield>
+          <controlfield tag="005">20050301084239.0</controlfield>
+          <controlfield tag="008">760521t19741959wvuaf         000 1 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76362238</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="c">jb09 2005-03-01 a.e. rev.</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76362238 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0870121715</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ4.S642</subfield>
+            <subfield code="b">Ed5</subfield>
+            <subfield code="a">PS3569.M45</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">813/.5/4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes,</subfield>
+            <subfield code="d">1906-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="3">
+            <subfield code="a">An edge of the forest /</subfield>
+            <subfield code="c">by Agnes Smith ; ill. by J. Sharkey Thomas.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Farmington, W. Va.] :</subfield>
+            <subfield code="b">Westwind Press,</subfield>
+            <subfield code="c">1974, c1959.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">202 p., [5] leaves of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Thomas, J. Sharkey</subfield>
+            <subfield code="q">(Janet Sharkey)</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ4.S642</subfield>
+            <subfield code="i">Ed5</subfield>
+            <subfield code="p">00021366882</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>26</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00688cam a22002171  4500</leader>
+          <controlfield tag="001">9822729</controlfield>
+          <controlfield tag="005">20050908163041.0</controlfield>
+          <controlfield tag="008">750620s1959    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   59002113</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   59002113 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1401921</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">FO</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ4.S642</subfield>
+            <subfield code="b">An</subfield>
+            <subfield code="a">PS3569.M45</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes,</subfield>
+            <subfield code="d">1906-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="3">
+            <subfield code="a">An edge of the forest.</subfield>
+            <subfield code="c">Decorations by Roberta Moynihan.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Viking Press</subfield>
+            <subfield code="c">[1959]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">192 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ4.S642</subfield>
+            <subfield code="i">An</subfield>
+            <subfield code="p">00021366857</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>27</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00740cam a2200241 i 4500</leader>
+          <controlfield tag="001">2266202</controlfield>
+          <controlfield tag="005">19970909144221.3</controlfield>
+          <controlfield tag="008">790803s1978    wvua          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   78065831</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">opcn</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   78065831 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0960234209 :</subfield>
+            <subfield code="c">$7.75</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PN149</subfield>
+            <subfield code="b">.S558</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">801/.9</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes,</subfield>
+            <subfield code="d">1906-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Speaking as a writer /</subfield>
+            <subfield code="c">Agnes Smith ; [photography by Howard L. Baumann].</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Farmington, W. Va. :</subfield>
+            <subfield code="b">Westmind Press,</subfield>
+            <subfield code="c">[c1978]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">76 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Authorship.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Books and reading.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Criticism.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PN149</subfield>
+            <subfield code="i">.S558</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>28</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00842cam a22002411  4500</leader>
+          <controlfield tag="001">7840836</controlfield>
+          <controlfield tag="005">20171016113324.0</controlfield>
+          <controlfield tag="008">800114s1938    ilua          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   38029801</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   38029801 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)5868957</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OCl</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PQ2286.A37</subfield>
+            <subfield code="b">S5</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">812.5</subfield>
+            <subfield code="a">[843.78]</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes Irene.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Jean Valjean and the Christmas doll,</subfield>
+            <subfield code="b">a play in one act, adapted from Victor Hugo's "Les miserables,"</subfield>
+            <subfield code="c">by Agnes Irene Smith.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Chicago,</subfield>
+            <subfield code="b">The Dramatic publishing company</subfield>
+            <subfield code="c">[c1938]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">24 p.</subfield>
+            <subfield code="b">diagr.</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hugo, Victor,</subfield>
+            <subfield code="d">1802-1885.</subfield>
+            <subfield code="t">Misérables.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PQ2286.A37</subfield>
+            <subfield code="i">S5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>29</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00926ccm a22002774i 4500</leader>
+          <controlfield tag="001">18694660</controlfield>
+          <controlfield tag="005">20151106095514.0</controlfield>
+          <controlfield tag="008">150710s1896    maudfz|        n  | zxx  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vk08 2014-12-30</subfield>
+            <subfield code="i">vk08 2015-07-10</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2015563522</subfield>
+          </datafield>
+          <datafield tag="028" ind1="2" ind2="2">
+            <subfield code="a">9897=5</subfield>
+            <subfield code="b">White-Smith Music Pub. Co.</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M367</subfield>
+            <subfield code="b">.S</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes M.,</subfield>
+            <subfield code="e">composer.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Lynden schottische /</subfield>
+            <subfield code="c">Agnes M. Smtih.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Boston :</subfield>
+            <subfield code="b">White-Smith Music Pub. Co,</subfield>
+            <subfield code="c">[1896]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 parts ;</subfield>
+            <subfield code="c">36 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">notated music</subfield>
+            <subfield code="b">ntm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="382" ind1="0" ind2="1">
+            <subfield code="a">mandolin</subfield>
+            <subfield code="n">2</subfield>
+            <subfield code="a">guitar</subfield>
+            <subfield code="n">1</subfield>
+            <subfield code="s">3</subfield>
+            <subfield code="2">lcmpt</subfield>
+          </datafield>
+          <datafield tag="546" ind1=" " ind2=" ">
+            <subfield code="b">Staff notation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Plucked instrument trios (Guitar, mandolins (2))</subfield>
+            <subfield code="v">Parts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Schottisches.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>30</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00907cam a2200265 i 4500</leader>
+          <controlfield tag="001">1294739</controlfield>
+          <controlfield tag="005">20001124155432.0</controlfield>
+          <controlfield tag="008">760916s1976    txua     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76368134</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76368134 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS71.R97</subfield>
+            <subfield code="b">1976</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">929/.2/0973</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes Rust Gordon,</subfield>
+            <subfield code="d">1905-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Back when and now :</subfield>
+            <subfield code="b">history of the family of Agnes Rust Gordon Smith.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">San Angelo, Tex. :</subfield>
+            <subfield code="b">Smith,</subfield>
+            <subfield code="c">c1976.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">256 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">29 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Two hundred copies ... privately printed ... no. 62," autographed.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and indexes.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Rust family.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Cook family.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">United States</subfield>
+            <subfield code="x">Genealogy.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CS71.R97</subfield>
+            <subfield code="i">1976</subfield>
+            <subfield code="p">00050341689</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>31</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00852cam a22002651  4500</leader>
+          <controlfield tag="001">7303517</controlfield>
+          <controlfield tag="005">20190118101527.0</controlfield>
+          <controlfield tag="007">cr_|||||||||||</controlfield>
+          <controlfield tag="008">880926s1915    cau           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   15022259 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   15022259</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)18528144</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">RPB</subfield>
+            <subfield code="d">RPB</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3537.M266</subfield>
+            <subfield code="b">G4 1915</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes Smith,</subfield>
+            <subfield code="d">1862-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Gethsemane,</subfield>
+            <subfield code="b">and other peoms,</subfield>
+            <subfield code="c">by Mrs. Agnes Smith.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">San Diego, Cal.</subfield>
+            <subfield code="b">[The Creller Press]</subfield>
+            <subfield code="c">1915.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">69 p.</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00183935719</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PS3537.M266</subfield>
+            <subfield code="i">G4 1915</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">massdig</subfield>
+            <subfield code="e">sloan</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>32</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00867cam a22002531  4500</leader>
+          <controlfield tag="001">10145043</controlfield>
+          <controlfield tag="005">20050503182104.0</controlfield>
+          <controlfield tag="008">880914s1927    ohu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   28003412</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   28003412 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)18481242</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">RPB</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3537.M274</subfield>
+            <subfield code="b">A6 1927</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Alvan.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Selected poems of Alvan Smith,</subfield>
+            <subfield code="b">to which are added a few poems</subfield>
+            <subfield code="c">by Agnes Irene Smith.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Dayton, O.,</subfield>
+            <subfield code="b">United Brethren Publishing House,</subfield>
+            <subfield code="c">1927]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">79 p.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lettered on cover: Verses of an octogenarian.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Poems by Agnes Irene Smith": p. [75]-79.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Agnes Irene.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PS3537.M274</subfield>
+            <subfield code="i">A6 1927</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>33</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Lewis, Agnes" or dc.creator="Smith, Agnes" or dc.creator="Lewis, Agnes Smith"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

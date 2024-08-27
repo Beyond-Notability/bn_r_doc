@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>10</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01158nam a2200277 a 4500</leader>
+          <controlfield tag="001">4301381</controlfield>
+          <controlfield tag="005">19860627000000.0</controlfield>
+          <controlfield tag="008">860305s1984    jm            100 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   86126553</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   86126553 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">nwjm---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HF5549.2.J25</subfield>
+            <subfield code="b">A86 1984</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">658.3/0097292</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Aspects of personnel management in Jamaica :</subfield>
+            <subfield code="b">seminar papers presented by the Evening Personnel Management Group, 1981-1983, of the College of Arts, Science &amp; Technology in April, 1983 /</subfield>
+            <subfield code="c">co-ordinators &amp; compilers, Lola Bailey, Carlton Melbourne &amp; Audrey Williams ; editor, Alex Gradussov.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Kingston, Jamaica :</subfield>
+            <subfield code="b">C.A.S.T.,</subfield>
+            <subfield code="c">c1984.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">100 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Personnel management</subfield>
+            <subfield code="z">Jamaica</subfield>
+            <subfield code="x">Congresses.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Industrial relations</subfield>
+            <subfield code="z">Jamaica</subfield>
+            <subfield code="x">Congresses.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bailey, Lola.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Melbourne, Carlton.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Audrey.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Gradussov, Alex.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">College of Arts, Science &amp; Technology (Kingston, Jamaica)</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">HF5549.2.J25</subfield>
+            <subfield code="i">A86 1984</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01143cjm a22003137a 4500</leader>
+          <controlfield tag="001">5725568</controlfield>
+          <controlfield tag="005">20000303073634.0</controlfield>
+          <controlfield tag="007">sdubumennmpluu</controlfield>
+          <controlfield tag="008">941207s1965    xx uun              eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   94767242</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vn24</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   94767242 </subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="0">
+            <subfield code="a">M 547</subfield>
+            <subfield code="b">Metro</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)31625772</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Metro M 547</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Mr. &amp; Mrs. Hank Williams</subfield>
+            <subfield code="h">[sound recording].</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[S.l.] :</subfield>
+            <subfield code="b">Metro,</subfield>
+            <subfield code="c">[1965?]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc :</subfield>
+            <subfield code="b">analog, 33 1/3 rpm ;</subfield>
+            <subfield code="c">12 in.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Hank and Audrey Williams, vocals.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Dear brother -- Lost on the river -- I dreamed about mama last night -- Jesus remembered me -- The pale horse and his rider -- A home in heaven -- Let me sit alone (and think) -- Parakeet polka -- They're begging me to stay -- Oceans of love.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Brief record.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Country music</subfield>
+            <subfield code="y">1961-1970.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Hank,</subfield>
+            <subfield code="d">1923-1953.</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Audrey,</subfield>
+            <subfield code="d">1923-</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="953" ind1=" " ind2=" ">
+            <subfield code="a">TA28</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">9412</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-RecSound</subfield>
+            <subfield code="h">Metro M 547</subfield>
+            <subfield code="w">MUSIC</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00776cam a22002411  4500</leader>
+          <controlfield tag="001">7013117</controlfield>
+          <controlfield tag="005">20050812173800.0</controlfield>
+          <controlfield tag="008">780124s1959    nyu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   59003904</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   59003904 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3577848</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">MnManS</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us-ny</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">JS1222.A2</subfield>
+            <subfield code="b">D3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Davies, Audrey M.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Political units in the New York metropolitan region.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Institute of Public Administration,</subfield>
+            <subfield code="c">1959.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">12 l.</subfield>
+            <subfield code="c">29 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">New York Metropolitan Area</subfield>
+            <subfield code="x">Administrative and political divisions.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">JS1222.A2</subfield>
+            <subfield code="i">D3</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01313pam a22003011i 4500</leader>
+          <controlfield tag="001">2282639</controlfield>
+          <controlfield tag="005">19890206000000.0</controlfield>
+          <controlfield tag="008">790913s1979    nyu    j      001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   79054681</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   79054681 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0884217833 :</subfield>
+            <subfield code="c">$4.95</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcac</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="0">
+            <subfield code="a">TT507</subfield>
+            <subfield code="b">.G53</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">646</subfield>
+          </datafield>
+          <datafield tag="100" ind1="2" ind2=" ">
+            <subfield code="a">Gieseking-Williams, Audrey G.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Clothing skills for creative living /</subfield>
+            <subfield code="c">consulting author, Audrey G. Gieseking-Williams ; co-developed by Butterick Publishing and Visual Education Corporation.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Butterick Pub.,</subfield>
+            <subfield code="c">c1979.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a"> p. cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Cataloging based on CIP information.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Consists of chapters 10-12, Clothing &amp; textiles, from Creative living.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Discusses basic concepts of selecting, adapting and caring for clothes with sections on design and color, building a wardrobe, judging fabrics, making clothes, washing, cleaning and recycling clothes. Also gives details about careers in clothing and textiles.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Clothing and dress</subfield>
+            <subfield code="x">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="1">
+            <subfield code="a">Clothing and dress.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Butterick Publishing.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Visual Education Corporation.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <!-- Length implementation at offset 22 should hold a number. Assuming 0 -->
+          <leader>01040cam a2200301 a 4500</leader>
+          <controlfield tag="001">13669740</controlfield>
+          <controlfield tag="005">20210729075231.0</controlfield>
+          <controlfield tag="008">040130s2003    enk      b    001 0 eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="x">CF 2004-08-10</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nb05 2004-07-27 to SSCD for processing</subfield>
+            <subfield code="i">sg24 2004-10-06</subfield>
+            <subfield code="e">sg24 2004-10-13 to Dewey</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm54113840</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">AUL</subfield>
+            <subfield code="d">AUL</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2004444209</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0853088403</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KD7960</subfield>
+            <subfield code="b">.G55 2003</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Gillow, Elizabeth.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Harassment at work /</subfield>
+            <subfield code="c">Elizabeth Gillow, Martin Hopkins, Audrey Williams.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Bristol :</subfield>
+            <subfield code="b">Jordans,</subfield>
+            <subfield code="c">2003.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxvi, 313 p. ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Harassment</subfield>
+            <subfield code="x">Law and legislation</subfield>
+            <subfield code="z">Great Britain.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Bullying in the workplace</subfield>
+            <subfield code="x">Law and legislation</subfield>
+            <subfield code="z">Great Britain.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hopkins, Martin W.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Audrey.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="a">copyright</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00892nam a2200277 a 4500</leader>
+          <controlfield tag="001">3355436</controlfield>
+          <controlfield tag="005">19860506000000.0</controlfield>
+          <controlfield tag="008">860219s1986    caua     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   86120316</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   86120316 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0916434214 (loose-leaf)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">TS1765</subfield>
+            <subfield code="b">.J67 1986</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">677/.0286</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Joseph, Marjory L.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Illustrated guide to textiles /</subfield>
+            <subfield code="c">Marjory L. Joseph and Audrey G. Gieseking-Williams.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">4th ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Canoga Park, CA :</subfield>
+            <subfield code="b">Plycon Press,</subfield>
+            <subfield code="c">c1986.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">192 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 173-176.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Textile fabrics.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Textile fibers.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="2" ind2=" ">
+            <subfield code="a">Gieseking-Williams, Audrey G.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">TS1765</subfield>
+            <subfield code="i">.J67 1986</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01025nam a2200289 a 4500</leader>
+          <controlfield tag="001">4683507</controlfield>
+          <controlfield tag="005">19810722000000.0</controlfield>
+          <controlfield tag="008">810720s1981    cauaf    b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   81124702</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   81124702 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0808734350 (Burgess : pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">TS1765</subfield>
+            <subfield code="b">.J67 1981</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">677/.0286</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Joseph, Marjory L.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Illustrated guide to textiles /</subfield>
+            <subfield code="c">Marjory L. Joseph, Audrey G. Gieseking-Williams.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3rd ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Redondo Beach, Calif.] :</subfield>
+            <subfield code="b">Plycon ;</subfield>
+            <subfield code="a">Minneapolis , Minn. :</subfield>
+            <subfield code="b">Order from Burgess,</subfield>
+            <subfield code="c">c1981.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">160 p., [3] p. of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Fabric samples available to accompany this manual.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 155-156.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Textile fabrics.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Textile fibers.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="2" ind2=" ">
+            <subfield code="a">Gieseking-Williams, Audrey G.,</subfield>
+            <subfield code="d">1939-</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">TS1765</subfield>
+            <subfield code="i">.J67 1981</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00566nam a22001817a 4500</leader>
+          <controlfield tag="001">4255155</controlfield>
+          <controlfield tag="005">19840116000000.0</controlfield>
+          <controlfield tag="008">831210|1956    |||           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   83239123</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">5</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   83239123 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">MLCS 83/11178 (D)</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Audrey</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Brampton Bryan, 1643-1956 /</subfield>
+            <subfield code="c">Audrey Williams.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Brampton Bryan, Herefordshire :</subfield>
+            <subfield code="b">A. Williams,</subfield>
+            <subfield code="c">1956.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">32 p. ; 22 cm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">MLCS 83/11178 (D)</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00785nam a2200241 a 4500</leader>
+          <controlfield tag="001">1400124</controlfield>
+          <controlfield tag="005">19821214000000.0</controlfield>
+          <controlfield tag="008">821210s1982    xx af    b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   82217794</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   82217794 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS71.S118</subfield>
+            <subfield code="b"> 1982</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">929/.2/0973</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Audrey Saxon.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Saxon-White family, 1813 to 1921 /</subfield>
+            <subfield code="c">Audrey Saxon Williams.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[S.l.] :</subfield>
+            <subfield code="b">A.S. Williams,</subfield>
+            <subfield code="c">c1982.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">43, [11] p., [14] p. of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. [9]-[11] (2nd group)</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Sachs family.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">White family.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CS71.S118</subfield>
+            <subfield code="i"> 1982</subfield>
+            <subfield code="p">00050340946</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01724njm a2200361 a 4500</leader>
+          <controlfield tag="001">5751448</controlfield>
+          <controlfield tag="005">19950225074357.1</controlfield>
+          <controlfield tag="007">sdubsmennmpluu</controlfield>
+          <controlfield tag="008">860121s1985    nyucyn              eng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   95776316</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vn22</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   95776316 </subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">422-825 551-1 Y-2</subfield>
+            <subfield code="b">Polydor</subfield>
+          </datafield>
+          <datafield tag="033" ind1="2" ind2=" ">
+            <subfield code="a">194708--</subfield>
+            <subfield code="a">194812--</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)13044244 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">IaA</subfield>
+            <subfield code="c">IaA</subfield>
+            <subfield code="d">NRU-Mus</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Polydor 825 551-1 Y-1</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Hank,</subfield>
+            <subfield code="d">1923-1953.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Lovesick blues</subfield>
+            <subfield code="h">[sound recording] /</subfield>
+            <subfield code="c">Hank Williams.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Polydor Records,</subfield>
+            <subfield code="c">p1985.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 sound discs (54 min.) :</subfield>
+            <subfield code="b">analog, 33 1/3 rpm, stereo. ;</subfield>
+            <subfield code="c">12 in.</subfield>
+          </datafield>
+          <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">005400</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Recorded August 1947 through December 1948, some songs previously released.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Hank Williams ; Audrey Williams ; The Drifting Cowboys.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">I'm satisfied with you -- On the banks of the old Pontchartrain -- Fly trouble -- Honky tonkin' -- Rootie tootie -- I'll be a bachelor 'til I die -- A mansion on the hill -- Rockin' chair money -- At the first fall of snow -- I wish I had a nickel -- We live in two different worlds -- I can't get you off of my mind -- I'm a long gone daddy -- My sweet love ain't around -- The blues come around -- Jesus died for me -- Lovesick blues -- Weary blues from waitin' -- The devil's train -- Please don't let me love you -- When God dips his love in my heart.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Country music.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Williams, Audrey,</subfield>
+            <subfield code="d">1923-</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Drifting Cowboys.</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="953" ind1=" " ind2=" ">
+            <subfield code="a">TA28</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">9502</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-RecSound</subfield>
+            <subfield code="h">Polydor 825 551-1 Y-1</subfield>
+            <subfield code="w">MUSIC</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Davies, Audrey" or dc.creator="Williams, Audrey" or dc.creator="Williams, Audrey, Mrs."</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

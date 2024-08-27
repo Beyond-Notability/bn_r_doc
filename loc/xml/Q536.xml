@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>7</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01357cam a2200337 i 4500</leader>
+          <controlfield tag="001">17540813</controlfield>
+          <controlfield tag="005">20200617155643.0</controlfield>
+          <controlfield tag="008">121127t20132013nyua     ab   000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">Sel/ddw, 2015-01-14</subfield>
+            <subfield code="e">claim1  2014-11-24</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">xh00 2012-11-27</subfield>
+            <subfield code="w">rd13 2012-12-04</subfield>
+            <subfield code="i">xh07 2012-12-11 to CIP</subfield>
+            <subfield code="w">rd13 2012-12-11</subfield>
+            <subfield code="a">xn05 2015-01-28 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">rl09 2015-02-10 ; to CALM</subfield>
+            <subfield code="a">td11 2015-04-10 264b changed  to match t.p.</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2012041483</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781621009436 (hardcover)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781621009801</subfield>
+            <subfield code="q">ebook</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1621009432 (hardcover)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC339.5</subfield>
+            <subfield code="b">.N48 2013</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">612.8072</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Neuroscience researcher biographical sketches and research summaries /</subfield>
+            <subfield code="c">Abram A. Chernyovskaya and Graviil F. Klossovsky, editors.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Nova Publishers,</subfield>
+            <subfield code="c">[2013]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2013</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xviii, 430 pages :</subfield>
+            <subfield code="b">illustrations ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Neuroscience research progress</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neurosciences</subfield>
+            <subfield code="x">Research</subfield>
+            <subfield code="v">Abstracts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neurosciences</subfield>
+            <subfield code="v">Bio-bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Chernyovskaya, Abram A.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Klossovsky, Graviil F.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01541cam a2200397 i 4500</leader>
+          <controlfield tag="001">21572137</controlfield>
+          <controlfield tag="005">20201006175326.0</controlfield>
+          <controlfield tag="006">m    |o  d |      </controlfield>
+          <controlfield tag="007">cr |||||||||||</controlfield>
+          <controlfield tag="008">121127t20132013nyu     oab   000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origcop</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="e">ecip ebook</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">ecip ebook 2020-06-18</subfield>
+            <subfield code="f">rm05 2020-08-06 to book rec'd TW Situational</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2020677813</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781621009801</subfield>
+            <subfield code="q">(ebook)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">1621009432</subfield>
+            <subfield code="q">(hardcover)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781621009436</subfield>
+            <subfield code="q">(hardcover)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC339.5</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">612.8072</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Neuroscience researcher biographical sketches and research summaries /</subfield>
+            <subfield code="c">Abram A. Chernyovskaya and Graviil F. Klossovsky, editors.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Nova Publishers,</subfield>
+            <subfield code="c">[2013]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2013</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Neuroscience research progress</subfield>
+          </datafield>
+          <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on print version record.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neurosciences</subfield>
+            <subfield code="x">Research</subfield>
+            <subfield code="v">Abstracts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Neurosciences</subfield>
+            <subfield code="v">Bio-bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Chernyovskaya, Abram A.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Klossovsky, Graviil F.</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Print version:</subfield>
+            <subfield code="t">Neuroscience researcher biographical sketches and research summaries</subfield>
+            <subfield code="d">New York : Nova Publishers, [2013]</subfield>
+            <subfield code="z">9781621009436 (hardcover)</subfield>
+            <subfield code="w">(DLC)  2012041483</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">LC online resource</subfield>
+            <subfield code="d">2020-06-18</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00852cam a22002291  4500</leader>
+          <controlfield tag="001">7764537</controlfield>
+          <controlfield tag="005">20020522132012.0</controlfield>
+          <controlfield tag="008">770128s1913    enkf     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   13001361</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   13001361 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2707964</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">AzU</subfield>
+            <subfield code="d">AzU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">OT</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA185</subfield>
+            <subfield code="b">.A2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Abram, A.</subfield>
+            <subfield code="q">(Annie)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">English life and manners in the later middle ages,</subfield>
+            <subfield code="c">by A. Abram. With 77 illustrations.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">G. Routledge &amp; Sons, limited;</subfield>
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">E.P. Dutton &amp; Co.,</subfield>
+            <subfield code="c">1913.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xv, 352 p. incl. front.</subfield>
+            <subfield code="b">plates.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Authorities": p. 284-336.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">England</subfield>
+            <subfield code="x">Social life and customs</subfield>
+            <subfield code="y">1066-1485.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA185</subfield>
+            <subfield code="i">.A2</subfield>
+            <subfield code="p">00039931655</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00970cam a22002411  4500</leader>
+          <controlfield tag="001">8223151</controlfield>
+          <controlfield tag="005">20020529120713.0</controlfield>
+          <controlfield tag="008">730328s1909    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   10008277</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   10008277 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)592494</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OKentU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HC254</subfield>
+            <subfield code="b">.A2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Abram, A.</subfield>
+            <subfield code="q">(Annie)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Social England in the fifteenth century,</subfield>
+            <subfield code="b">a study of the effects of economic conditions, thesis approval for the degree of doctor of science (economics) in the University of London,</subfield>
+            <subfield code="c">by A. Abram.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">G. Routledge and sons, limited;</subfield>
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">E.P. Dutton &amp; co.,</subfield>
+            <subfield code="c">1909.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">243 p.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The research library</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">England</subfield>
+            <subfield code="x">Social conditions</subfield>
+            <subfield code="y">1066-1485.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">England</subfield>
+            <subfield code="x">Economic conditions</subfield>
+            <subfield code="y">15th century.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">HC254</subfield>
+            <subfield code="i">.A2</subfield>
+            <subfield code="p">00039931679</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00765cam a2200229u  4500</leader>
+          <controlfield tag="001">8747388</controlfield>
+          <controlfield tag="005">20151207140216.0</controlfield>
+          <controlfield tag="008">820428s1926    nyua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   30022466 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   30022466</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QD585</subfield>
+            <subfield code="b">.G7 1926</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Groening, Abram A. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Decomposition potentials and metal overvoltages in liquid ammonia and in water,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Ithaca, N.Y.,</subfield>
+            <subfield code="c">1926]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">cover-title, p. [1597]-1615.</subfield>
+            <subfield code="b">illus., diagrs.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Electrolysis.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Ammonia.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Water.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cady, Hamilton Perkins,</subfield>
+            <subfield code="d">1874-</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QD585</subfield>
+            <subfield code="i">.G7 1926</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00934cam a22002771  4500</leader>
+          <controlfield tag="001">9293922</controlfield>
+          <controlfield tag="005">20050614192115.0</controlfield>
+          <controlfield tag="008">821119s1949    nyu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   49011760</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   49011760 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)8972477</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">ICarbS</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HF3376</subfield>
+            <subfield code="b">.P7</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">382</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Preciado, Abram A.</subfield>
+            <subfield code="d">1887-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">How to sell to Latin America.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Funk &amp; Wagnalls in association with Modern Industry Magazine</subfield>
+            <subfield code="c">[1949]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xx, 341 p.</subfield>
+            <subfield code="b">illus., map.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Modern industry books</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliographical references included in "How to get started" (p. 203-211)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Latin America</subfield>
+            <subfield code="x">Commerce.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Latin America</subfield>
+            <subfield code="x">Economic conditions.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">HF3376</subfield>
+            <subfield code="i">.P7</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02841cpcaa2200505 i 4500</leader>
+          <controlfield tag="001">5807806</controlfield>
+          <controlfield tag="005">20230228111206.0</controlfield>
+          <controlfield tag="008">810119||||||||||||                 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-manuscri</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">mm 80010264 </subfield>
+            <subfield code="b">ms 60000038 </subfield>
+            <subfield code="z">   71206230 </subfield>
+          </datafield>
+          <datafield tag="024" ind1="7" ind2=" ">
+            <subfield code="a">MSS10264</subfield>
+            <subfield code="2">lcmd</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)mm 80010264</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">dacs</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z6616.R88</subfield>
+            <subfield code="b">P5</subfield>
+          </datafield>
+          <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">C</subfield>
+            <subfield code="2">lcmd</subfield>
+          </datafield>
+          <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="b">Microfilm 14,221-2P</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Rutledge, John,</subfield>
+            <subfield code="c">Jr.,</subfield>
+            <subfield code="d">1766-1819.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">John Rutledge Jr., papers,</subfield>
+            <subfield code="f">1782-1872.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">John Rutledge papers</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2</subfield>
+            <subfield code="f">microfilm reels.</subfield>
+          </datafield>
+          <datafield tag="506" ind1="0" ind2=" ">
+            <subfield code="a">Open to research.</subfield>
+          </datafield>
+          <datafield tag="520" ind1="8" ind2=" ">
+            <subfield code="a">Chiefly letters written to Rutledge by his friends, his brothers in Charleston, S.C., political leaders, and government officials relating to his travels in Europe and to his political activities.  Includes material relating to business and personal affairs; letters from Rutledge to his father-in-law, Bishop Robert Smith, written during Rutledge's congressional service; business records of Hugh Rose, a South Carolina planter whose daughter married Rutledge's son; papers of Abram A. Massias, major and paymaster in the U.S. Army; and papers of other members of the Rutledge family.  Correspondents include Harrison Gray Otis and William Short.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm of originals in the Southern Historical Collection, University of North Carolina at Chapel Hill.</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm edition only available,</subfield>
+            <subfield code="d">no. 14,221.</subfield>
+          </datafield>
+          <datafield tag="535" ind1="1" ind2=" ">
+            <subfield code="a">University of North Carolina at Chapel Hill/Southern Historical Collection;</subfield>
+            <subfield code="b">Chapel Hill, N.C.</subfield>
+          </datafield>
+          <datafield tag="541" ind1=" " ind2=" ">
+            <subfield code="c">Purchase,</subfield>
+            <subfield code="d">1968.</subfield>
+          </datafield>
+          <datafield tag="545" ind1="0" ind2=" ">
+            <subfield code="a">U.S. representative and public official of South Carolina, army officer, and plantation owner.</subfield>
+          </datafield>
+          <datafield tag="546" ind1=" " ind2=" ">
+            <subfield code="a">Collection material in English.</subfield>
+          </datafield>
+          <datafield tag="555" ind1="8" ind2=" ">
+            <subfield code="a">Finding aid available in the Library of Congress Manuscript Reading Room.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Otis, Harrison Gray,</subfield>
+            <subfield code="d">1765-1848</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Short, William,</subfield>
+            <subfield code="d">1759-1849</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Smith, Robert,</subfield>
+            <subfield code="d">1732-1801</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Rutledge family</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Plantations</subfield>
+            <subfield code="z">South Carolina.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Europe</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">South Carolina</subfield>
+            <subfield code="x">Politics and government</subfield>
+            <subfield code="y">1775-1865.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">United States</subfield>
+            <subfield code="x">Politics and government</subfield>
+            <subfield code="y">1783-1865.</subfield>
+          </datafield>
+          <datafield tag="656" ind1=" " ind2="7">
+            <subfield code="a">Army officers.</subfield>
+            <subfield code="2">itoamc</subfield>
+          </datafield>
+          <datafield tag="656" ind1=" " ind2="7">
+            <subfield code="a">Plantation owners.</subfield>
+            <subfield code="2">itoamc</subfield>
+          </datafield>
+          <datafield tag="656" ind1=" " ind2="7">
+            <subfield code="a">Public officials</subfield>
+            <subfield code="z">South Carolina.</subfield>
+            <subfield code="2">itoamc</subfield>
+          </datafield>
+          <datafield tag="656" ind1=" " ind2="7">
+            <subfield code="a">Representatives, U.S. Congress</subfield>
+            <subfield code="z">South Carolina.</subfield>
+            <subfield code="2">itoamc</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Massias, Abram A.</subfield>
+            <subfield code="c">(Army officer)</subfield>
+            <subfield code="t">Abram A. Massias papers.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rose, Hugh,</subfield>
+            <subfield code="d">1756-1811.</subfield>
+            <subfield code="t">Hugh Rose business records.</subfield>
+          </datafield>
+          <datafield tag="852" ind1=" " ind2=" ">
+            <subfield code="a">Library of Congress</subfield>
+            <subfield code="b">Manuscript Division</subfield>
+            <subfield code="e">Washington, D.C. 20540 USA</subfield>
+            <subfield code="n">dcu</subfield>
+            <subfield code="u">http://hdl.loc.gov/loc.mss/mss.home</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">MSS.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Abram, A." or dc.creator="Abram, Annie"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

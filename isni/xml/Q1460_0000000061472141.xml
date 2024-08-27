@@ -1,0 +1,256 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS504</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000061472141</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000061472141</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Margaret Ruth</forename>
+                    <surname>Toynbee</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Toynbee</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Toynbee</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>084549599</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Toynbee</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001313885</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Toynbee</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Ruth</forename>
+                    <surname>Toynbee</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Ruth</forename>
+                    <surname>Toynbee</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11311392</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Toynbee</surname>
+                    <source>OCLCT</source>
+                    <subsourceIdentifier>26791076</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="OCLCT">aut</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>@Cropredy Bridge, 1644, 1970</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@King Charles I</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@King Charles I</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Leaders of the Civil Wars, 1642-1648</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@S. Louis of Toulouse and the process of canonisation in the fourteenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@S. Louis of Toulouse and the process of canonisation in the fourteenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@S. Louis of Toulouse and the process of canonisation in the fourteenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@S. Louis of Toulouse and the process of canonisation in the fourteenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Strangers in Oxford a side light on the first civil war, 1642-1646</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Strangers in Oxford a side light on the first civil war, 1642-1646</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Strangers in Oxford a side light on the first civil war, 1642-1646</title>
+                    </titleOfWork>
+                    <titleOfWork source="OCLCT">
+                      <title>@S. Louis of Toulouse and the process of canonisation in the fourteenth century</title>
+                      <statementOfResponsibility>[microform]</statementOfResponsibility>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780850330359</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780850330359</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780850330359</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780249439731</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780249439731</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780900093562</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780900093173</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>M. R.</forename>
+                    <surname>Toynbee</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Ruth</forename>
+                    <surname>Toynbee</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Ruth</forename>
+                    <surname>Toynbee</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>37860</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>VIAF</type>
+                <identifier>37293542</identifier>
+                <source>OCLCT</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1460</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>OCLCT</codeOfSource>
+                <sourceIdentifier>26791076</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>37293542</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/37293542</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>128261625</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>1099854</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  86099303</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1460</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q63307983</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000061472141%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000061472141"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

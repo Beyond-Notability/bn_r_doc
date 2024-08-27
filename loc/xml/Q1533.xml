@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>2</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01731cfm a2200385   4500</leader>
+          <controlfield tag="001">5432714</controlfield>
+          <controlfield tag="005">20060801164416.0</controlfield>
+          <controlfield tag="007">ay|aafzn</controlfield>
+          <controlfield tag="008">761104r19291928enkj      a     0 e eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76697119</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-geogmaps</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76697119 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">G5754.L7A3 1590</subfield>
+            <subfield code="b">.P5 1929</subfield>
+          </datafield>
+          <datafield tag="052" ind1=" " ind2=" ">
+            <subfield code="a">5754</subfield>
+            <subfield code="b">L7</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Plan of the area lying east of St. Katharine's Hospital (now St. Katharine's Dock), circa 1590</subfield>
+            <subfield code="c">(Public Record Office, M.P., B.4). Reproduced from a tracing by Marjorie B. Honeybourne.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="c">[1928?]</subfield>
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Topographical Society</subfield>
+            <subfield code="c">[1929]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">map</subfield>
+            <subfield code="c">70 x 55 cm.</subfield>
+          </datafield>
+          <datafield tag="507" ind1=" " ind2=" ">
+            <subfield code="a">Scale ca. 1:875.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from title sheet.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Facsimile of a manuscript.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Relief shown by land form drawings.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Pictorial map.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Bird's-eye-view.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Cadastral map.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"This plan was drawn for use in a law suit ... Neither the plan nor the papers indicate the draughtsman."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"From a plan, circa 1590, of the area lying east of St. Katharine's Hospital (now St. Katharine's Dock). P.R.O. (map room). M.P., B.4."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Accompanied by title sheet with text. 1 l.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">London (England)</subfield>
+            <subfield code="v">Aerial views</subfield>
+            <subfield code="v">Early works to 1800</subfield>
+            <subfield code="v">Facsimiles.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">London (England)</subfield>
+            <subfield code="v">Maps, Manuscript</subfield>
+            <subfield code="v">Early works to 1800</subfield>
+            <subfield code="v">Facsimiles.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Honeybourne, Marjorie Blanche,</subfield>
+            <subfield code="d">1899-</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">London Topographical Society.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2="2">
+            <subfield code="a">Area lying east of St. Katharine's Hospital (now St. Katharine's Dock), circa 1590.</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">AACR2: 651/1; 650/2; 710/2</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-G&amp;M</subfield>
+            <subfield code="h">G5754.L7A3 1590</subfield>
+            <subfield code="i">.P5 1929</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">MAPS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01346cem a2200349   4500</leader>
+          <controlfield tag="001">5438145</controlfield>
+          <controlfield tag="005">19950202110449.1</controlfield>
+          <controlfield tag="008">770607s1960    enkd      a     1   eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   77695658</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-geogmaps</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   77695658 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">G5754.L7 1399 </subfield>
+            <subfield code="b">.H6</subfield>
+          </datafield>
+          <datafield tag="052" ind1=" " ind2=" ">
+            <subfield code="a">5754</subfield>
+            <subfield code="b">L7</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Honeybourne, Marjorie Blanche,</subfield>
+            <subfield code="d">1899-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A sketch map of London under Richard II.</subfield>
+            <subfield code="c">[By] Marjorie B. Honeybourne, 1940. Redrawn by W. H. Godfrey ... and W. G. Prosser.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London</subfield>
+            <subfield code="b">[London Topographical Society]</subfield>
+            <subfield code="c">1960.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">map</subfield>
+            <subfield code="c">70 x 104 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Publication of the London Topographical Society ;</subfield>
+            <subfield code="v">no. 93</subfield>
+          </datafield>
+          <datafield tag="507" ind1=" " ind2=" ">
+            <subfield code="a">Scale ca. 1:3,900.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Relief shown by hachures.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Shows wards.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Indexed for parish churches.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">London (England)</subfield>
+            <subfield code="x">Maps.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Church buildings</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">London</subfield>
+            <subfield code="x">Maps.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">London (England)</subfield>
+            <subfield code="x">Buildings, structures, etc.</subfield>
+            <subfield code="x">Maps.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Godfrey, Walter Hindes,</subfield>
+            <subfield code="d">1881-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Prosser, William George.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">London Topographical Society.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Publication (London Topographical Society) ;</subfield>
+            <subfield code="v">no. 93.</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">AACR2: 651/1; 650/2; 651/3; 700/1; 710/3; 830/1</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-G&amp;M</subfield>
+            <subfield code="h">G5754.L7 1399 </subfield>
+            <subfield code="i">.H6</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">MAPS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Honeybourne, Marjorie B." or dc.creator="Honeybourne, Marjorie Blanche"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

@@ -1,0 +1,186 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS688</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000069202832</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000069202832</isniURI>
+            <mergedISNI>0000000136188031</mergedISNI>
+            <mergedISNI>0000000361775486</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Renee</forename>
+                    <surname>Marcouse</surname>
+                    <source>OCLCT</source>
+                    <subsourceIdentifier>53570020</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Renee</forename>
+                    <surname>Marcouse</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Renée</forename>
+                    <surname>Marcousé</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Renée</forename>
+                    <surname>Marcousé</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000085268</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Renée</forename>
+                    <surname>Marcousé</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2013150628</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Renée</forename>
+                    <surname>Marcousé</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>149035</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Renee</forename>
+                    <surname>Marcouse</surname>
+                    <source>ETHOS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Renée</forename>
+                    <surname>Marcousé</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="OCLCT">aut</creationRole>
+                    <creationRole source="ETHOS">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="ETHOS">Text</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <titleOfWork source="OCLCT">
+                      <title>The @decoration of Norman baptismal fonts in relation to English XIIth century sculpture</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @listening eye; teaching in an art museum.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @listening eye; teaching in an art museum.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @listening eye; teaching in an art museum.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>The @listening eye; teaching in an art museum.</title>
+                    </titleOfWork>
+                    <titleOfWork source="ETHOS">
+                      <title>The @decoration of Norman baptismal fonts in relation to English XIIth century sculpture</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>VIAF</type>
+                <identifier>99278237</identifier>
+                <source>OCLCT</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1113</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>OCLCT</codeOfSource>
+                <sourceIdentifier>556664986</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>OCLCT</codeOfSource>
+                <sourceIdentifier>53570020</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>99278237</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/99278237</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>304030694</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>ETHOS</codeOfSource>
+                <sourceIdentifier>301404</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>65523</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.301404</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/entity/Q1113</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000069202832%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000069202832"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

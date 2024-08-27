@@ -1,0 +1,491 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS259</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000116213578</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000116213578</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Eleanor Henrietta</forename>
+                    <surname>Hull</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <nameUse>public</nameUse>
+                    <source>NLFIN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Eleanor Hull</surname>
+                    <nameTitle>English writer, journalist and scholar of Old Irish</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q4495104</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>129903647</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1858-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10285303</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000566880</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>132793148</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000409896</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12432548</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Eleanor</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLFIN">aut</creationRole>
+                    <creationRole source="NLFIN">aut</creationRole>
+                    <creationRole source="NLFIN">aut</creationRole>
+                    <creationRole source="NLFIN">aut</creationRole>
+                    <creationRole source="NLFIN">trl</creationRole>
+                    <creationRole source="NLFIN">aut</creationRole>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLFIN">am</creationClass>
+                    <creationClass source="NLFIN">am</creationClass>
+                    <creationClass source="NLFIN">ca</creationClass>
+                    <creationClass source="NLFIN">ca</creationClass>
+                    <creationClass source="NLFIN">ja</creationClass>
+                    <creationClass source="NLFIN">ja</creationClass>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">as</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">cm</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">tc</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">td</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="NLFIN">
+                      <title>@Folklore of the British Isles</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>@Silmäni aukaise</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>@Silmäni aukaise, Jumalani : Be Thou my vision</title>
+                      <isrc>FIVU91900002</isrc>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>The @Cuchullin saga in Irish literature : being a collection of stories relating to the hero Cuchullin</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>@Silmäni aukaise, Jumalani</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>@Silmäni aukaise : virsi 923</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>@Silmäni ole ja sydämeni</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>@Silmäni aukaise ; Oi ihmeellistä armoa</title>
+                      <isrc>FIIDS1600013</isrc>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Be thou my vision</title>
+                      <subtitle>for mixed voices, S.A.T.B., with piano</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @boys' Cuchulain</title>
+                      <subtitle>heroic legends of Ireland</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Cuchulain</title>
+                      <subtitle>the hound of Ulster</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Cuchullin saga in Irish literature</title>
+                      <subtitle>being a collection of stories relating to the hero Cuchullin</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Deirdre of the Sorrows</title>
+                      <subtitle>modernized and transcribed by</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Early Christian Ireland.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Folklore of the British Isles.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Folklore of the British Isles.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>A @history of Ireland and her people</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @history of Ireland and her people</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Irish episodes in Icelandic literature.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Irish Home Reading Magazine</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Letter from Eleanor Hull, of the Irish Texts Society, to Padraic Pearse regarding publishing a cheaper version of lesson outlines and ilustrations for teaching Irish History</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Letter from Eleanor Hull to Colonel Berry, concerning a death, supplying him with copies of volumes which he is missing, Fr. Patrick S. Dinneen's Dictionary and informing she published his paper relating to folklore</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Letter from Eleanor Hull to Colonel Berry, concerning whether he has a copy of their Report, claiming the study of modern Irish essential for the study of the older language and arranging a time to meet for tea</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Letter from Eleanor Hull to Colonel Berry, providing information and encouraging him to look at the lists of books, published and unpublished and their report, in order to illustrate the variety of material</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Letter from Eleanor Hull to Lady Ferguson [Mary Catharine Guinness Ferguson], regarding the publication of work, subjects in it and she will look forward to reading it</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Letter from Eleanor Hull to Thomas MacDonagh requesting to use some of his poetry in a publication, including poems from 'Songs of Myself', the 'Irish Review' and also 'An Bunnán Buidhe', that she is publishing "very soon"</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Northmen in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Pagan Ireland, 1904.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Pagan Ireland, 1904.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Pearse Papers</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @poem-book of the Gael. Translations from Irish Gaelic poetry into English prose and verse.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @poem-book of the Gael. Translations from Irish Gaelic poetry into English prose and verse.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Postcard from Eleanor Hull, London, to Padraic Pearse requesting that Pearse forward the manuscripts for her Lessons in Irish History to Mr. [David James] O'Donoghue without delay</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Printed postcard, addressed to Patrick Pearse, announcing the move of the Irish Texts Society to Hanover Square, London, from Eleanor Hull, Hon. Secretary of the Irish Texts Society</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @soul's desire motet for unaccompanied chorus</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>A @text book of Irish literature ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>A @text book of Irish literature ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Western precursors of Dante.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@From the Stuart period to modern times</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @history of Ireland and her people ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @text book of Irish literature ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Cuchulain, the hound of Ulster</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Pagan Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @poem-book of the Gael</title>
+                      <subtitle>translations from Irish Gaelic poetry into English prose and verse</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sgéalta Thomáis Uí Chathasaigh</title>
+                      <parallelTitle>Mayo stories told by Thomas Casey</parallelTitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Text book of irish literature</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780836969566</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780836969566</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781436610636</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780548821282</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780473221126</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780836969603</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Eibhlín Ní</forename>
+                    <surname>Choill</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eleanor Henrietta</forename>
+                    <surname>Hull</surname>
+                    <nameUse>public</nameUse>
+                    <source>NLFIN</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Eleanor Henrietta Hull</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Eleanor Hull</surname>
+                    <nameTitle>Brits schrijver (-)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Eleanor Hull</surname>
+                    <nameTitle>britische Schriftstellerin und Journalistin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eleanor Henrietta</forename>
+                    <surname>Hull</surname>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eleanor Henrietta</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Элинор Генриетта</forename>
+                    <surname>Халл</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Eleanor Henrietta</forename>
+                    <surname>Hull</surname>
+                    <marcDate>1860-1935</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>48797</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca00076238</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>uri</type>
+                <identifier>http://www.wikidata.org/entity/Q4495104</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>wikidata</type>
+                <identifier>Q4495104</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q928</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>37009119</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/37009119</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12432548</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>06762894X</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>98070538</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50041049</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLFIN</codeOfSource>
+                <sourceIdentifier>(FI-ASTERI-N)000213801</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q928</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q4495104</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://en.wikipedia.org/wiki/Eleanor_Hull</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>(Eleanor Henrietta Hull (15 January 1860 - 13 January 1935); died in Wimbledon)</information>
+                <URI>https://en.wikipedia.org/wiki/Eleanor_Hull</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Eleanor_Hull</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://no.wikipedia.org/wiki/Eleanor_Hull</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Халл,_Элинор_Генриетта</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000116213578%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000116213578"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

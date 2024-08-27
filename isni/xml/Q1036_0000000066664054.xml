@@ -1,0 +1,202 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS319</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000066664054</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000066664054</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>E.M.G.</forename>
+                    <surname>Routh</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>E.M.G.</forename>
+                    <surname>Routh</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>E. M. G.</forename>
+                    <surname>Routh</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a31874423</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>E. M. G.</forename>
+                    <surname>Routh</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>E.M.G.</forename>
+                    <surname>Routh</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Enid M. G.</forename>
+                    <surname>Routh</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>08154233X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>E. M. G.</forename>
+                    <surname>Routh</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>1203594</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Sir Thomas More and his friends 1477-1535</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Lady Margaret</title>
+                      <subtitle>a memoir of Lady Margaret Beaufort, Countess of Richmond &amp; Derby, mother of Henry VII</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Sir Thomas More and his friends</title>
+                      <subtitle>1477-1535</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sir Thomas More and his friends</title>
+                      <subtitle>1477-1535</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Sir Thomas More and his friends</title>
+                      <subtitle>1477-1535</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sir Thomas More and his friends</title>
+                      <subtitle>1477-1535</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@Sir Thomas More and his friends</title>
+                      <subtitle>1477-1535</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Tangier, England's lost Atlantic outpost, 1661-1684</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Tangier, England's lost Atlantic outpost, 1661-1684</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Enid</forename>
+                    <surname>Routh</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Enid M. G.</forename>
+                    <surname>Routh</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Enid M. G.</forename>
+                    <surname>Routh</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Enid</forename>
+                    <surname>Routh</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>52719</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>29904549</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/29904549</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>091383498</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nr 91035784</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1036</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14531288</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/entity/Q1036</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000066664054%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000066664054"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

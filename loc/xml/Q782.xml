@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>2</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01836cam a2200457 i 4500</leader>
+          <controlfield tag="001">22844534</controlfield>
+          <controlfield tag="005">20231222123403.0</controlfield>
+          <controlfield tag="008">210118r20201893ii ab         000 0 eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">wd51 2022-10-28 to SELCOM</subfield>
+            <subfield code="i">wd53 2023-01-11 to ASME</subfield>
+            <subfield code="a">cm10 2023-12-22 Telework to CMD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2022335609</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788121234023</subfield>
+            <subfield code="q">(HB)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8121234026</subfield>
+          </datafield>
+          <datafield tag="025" ind1=" " ind2=" ">
+            <subfield code="a">I-E-2022335609</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)on1232071138</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1232071138</subfield>
+          </datafield>
+          <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="b">Library of Congress -- New Delhi Overseas Office</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DKAGE</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DKAGE</subfield>
+            <subfield code="d">DKAGE</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">F1060.9</subfield>
+            <subfield code="b">.B33 2020</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">266</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Batty, Beatrice,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Forty-two years amongst the Indians and Eskimo :</subfield>
+            <subfield code="b">pictures from the life of the right reverend John Horden, first bishop of Moosonee /</subfield>
+            <subfield code="c">by Beatrice Batty.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd impression.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New Delhi :</subfield>
+            <subfield code="b">Gyan,</subfield>
+            <subfield code="c">2020.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">223 pages :</subfield>
+            <subfield code="b">illustrations (black and white), 1 map (black and white) ;</subfield>
+            <subfield code="c">23 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Reprint: originally published: London : H. Colburn, 1893.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Northwest Territories.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Indians of North America</subfield>
+            <subfield code="x">Missions</subfield>
+            <subfield code="z">Canada.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Horden, John,</subfield>
+            <subfield code="d">1828-1893.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="7">
+            <subfield code="a">Horden, John,</subfield>
+            <subfield code="d">1828-1893.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00197622</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Indians of North America</subfield>
+            <subfield code="x">Missions.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00969849</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Canada.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01204310</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Northwest Territories.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01229661</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">Acquired for the Library of Congress only.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">ODE-nd</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00990cam a2200265u  4500</leader>
+          <controlfield tag="001">9600225</controlfield>
+          <controlfield tag="005">20120709160019.0</controlfield>
+          <controlfield tag="008">900918s1893    enkbcf        000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   02018213</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   02018213 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="0">
+            <subfield code="a">F1060.9</subfield>
+            <subfield code="b">.B33</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 15077 F</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Batty, Beatrice.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Forty-two years amongst the Indians and Eskimos;</subfield>
+            <subfield code="b">pictures from the life of the Right Reverend John Horden, first bishop of Moosonee,</subfield>
+            <subfield code="c">by Beatrice Batty.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">The Religious tract society,</subfield>
+            <subfield code="c">1893.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">223 p. incl. front. (port.) plates, map.</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="583" ind1=" " ind2=" ">
+            <subfield code="a">Replace;</subfield>
+            <subfield code="z">LC copy replaced by preservation microfilm</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Northwest Territories.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Indians of North America</subfield>
+            <subfield code="x">Missions</subfield>
+            <subfield code="z">Canada.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Horden, John,</subfield>
+            <subfield code="d">1828-1893.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">pmosl</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">mvp</subfield>
+            <subfield code="f">zz01</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 15077 F</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Batty, Beatrice" or dc.creator="Batty, Beatrice Braithwaite" or dc.creator="Stebbing, Beatrice Braithwaite"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

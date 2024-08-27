@@ -1,0 +1,3881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>17</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03573cjm a2200673 i 4500</leader>
+          <controlfield tag="001">23362586</controlfield>
+          <controlfield tag="005">20231101102951.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231025p20072005caumcn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-10-25 z-client</subfield>
+            <subfield code="i">qr27 2023-10-25</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023626978</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">837101320672</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">RNBW038</subfield>
+            <subfield code="b">Bayview Recording Company</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn243701962</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">EYR</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">EYR</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">TXH</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="046" ind1=" " ind2=" ">
+            <subfield code="k">1929</subfield>
+            <subfield code="2">edtf</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 71396</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Broadway musicals of 1929.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Los Angeles, CA :</subfield>
+            <subfield code="b">Bayview Recording Company,</subfield>
+            <subfield code="c">[2007]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗2007</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc (67 min., 8 sec.) ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">011708</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="c">1.4 m/s</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Town Hall Broadway by the year series ;</subfield>
+            <subfield code="v">series five</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Leslie Anderson ; Nancy Anderson ; Christine Andreas ; Bryan Batt ; Ron Bohmer ; Mary Bond Davis ; Jeffry Denman ; Noah Racey ; Emily Skinner ; Ross Patterson Little Big Band (Ross Patterson, musical director, arranger, pianist ; Don Falzone, bass ; Chuck Wilson, woodwinds ; J. McGeehan, guitar, banjo, ukulele ; Gene Lewin, drums).</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Created, written and hosted by Scott Siegel.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded in performance</subfield>
+            <subfield code="d">2005 March 7</subfield>
+            <subfield code="p">at Town Hall, New York.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"This CD is an edited version of the actual concert."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Peter Pinne inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Murray Anderson's Almanac. I can't remember the words -- Show girl. Liza -- Fifty million Frenchmen. You don't know Paree -- Sweet Adeline. My husband's first wife -- Spring is here. Why can't I -- Little show. I guess I'll have to change my plan -- Fifty million Frenchmen. Find me a primitive man -- Sons o' guns. It's you I love -- Little show. Moanin' low -- Great day. Without a song -- Bitter sweet. If love were all -- Murray Anderson's almanac. I may be wrong but I think you're wonderful -- Little show. Can't we be friends -- Heads up. Ship without a sail -- Great day. More than you know -- Follow throu. I want to be bad -- Wake up and dream. I'm a gigolo -- Wake up and dream. What is this thing called love -- Fifty million Frenchmen. You got that thing -- Spring is here. With a song in my heart -- Follow thru. Button up your overcoat.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="x">Excerpts.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01030817</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">author,</subfield>
+            <subfield code="e">speaker.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Anderson, Leslie</subfield>
+            <subfield code="c">(Actor),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Anderson, Nancy</subfield>
+            <subfield code="c">(Actor),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Andreas, Christine,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Batt, Bryan,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bohmer, Ron,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Davis, Mary Bond,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Denman, Jeffry,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Racey, Noah,</subfield>
+            <subfield code="d">1969-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Patterson, Ross,</subfield>
+            <subfield code="e">arranger of music,</subfield>
+            <subfield code="e">instrumentalist,</subfield>
+            <subfield code="e">conductor.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03965cjm a2200745 i 4500</leader>
+          <controlfield tag="001">23378987</controlfield>
+          <controlfield tag="005">20231129151242.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231107p20092006ctumcn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-11-07 z-client</subfield>
+            <subfield code="i">qr27 2023-11-07</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023887053</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">741117624122</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">OC 6241</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+            <subfield code="q">(container spine)</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">6241</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+            <subfield code="q">(label/container verso)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn820170934</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">CFS</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">CFS</subfield>
+            <subfield code="d">TEF</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">TOH</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">UIU</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="046" ind1=" " ind2=" ">
+            <subfield code="k">1930</subfield>
+            <subfield code="2">edtf</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 71466</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">782.1/4</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Broadway musicals of 1930.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Georgetown, Connecticut] :</subfield>
+            <subfield code="b">Original Cast Records,</subfield>
+            <subfield code="c">[2009]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2009</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Town Hall presents Broadway by the year ;</subfield>
+            <subfield code="v">Series six</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Original Off-Broadway cast."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Nancy Anderson, Seán Martin Hingston, Celia Keenan-Bolger, Marc Kudisch, Douglas Ladnier, Shannon Lewis, Deven May, Miles Phillips, Jennifer Simard, Emily Skinner, Mary Testa, Michael Winther, vocalists ; Ross Patterson Little Big Band ; Ross Patterson, piano, arranger, musical director.</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Produced for CD by Peter Pinne. Created, written, and hosted by Scott Siegel.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded in live performance</subfield>
+            <subfield code="p">at the Town Hall, New York,</subfield>
+            <subfield code="d">2006 March 6.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Girl crazy. I got rhythm --</subfield>
+            <subfield code="t">The New Yorkers. Take me back to Manhattan --</subfield>
+            <subfield code="t">Girl crazy. Embraceable you --</subfield>
+            <subfield code="t">Lew Leslie's International revue. On the sunny side of the street --</subfield>
+            <subfield code="t">He came along : cut from Smiles --</subfield>
+            <subfield code="t">Blackberries of 1930. Memories of you --</subfield>
+            <subfield code="t">Smiles. If I were you, love (I'd jump right in the lake) --</subfield>
+            <subfield code="t">Lew Leslie's international revue. I've got a bug in my head --</subfield>
+            <subfield code="t">Girl crazy. But not for me --</subfield>
+            <subfield code="t">Strike up the band. Strike up the band --</subfield>
+            <subfield code="t">The New Yorkers. I happen to like New York --</subfield>
+            <subfield code="t">Three's a crowd. Right at the start of it --</subfield>
+            <subfield code="t">Smiles. Time on my hands --</subfield>
+            <subfield code="t">Nina Rosa. My first love, my last love --</subfield>
+            <subfield code="t">Three's a crowd. Body and soul --</subfield>
+            <subfield code="t">Girl crazy. Barbary coast --</subfield>
+            <subfield code="t">He was too good to me : cut from Simple Simon--</subfield>
+            <subfield code="t">Simple Simon. Ten cents a dance --</subfield>
+            <subfield code="t">Who cares. Who cares? --</subfield>
+            <subfield code="t">The New Yorkers. Love for sale --</subfield>
+            <subfield code="t">Strike up the band. I've got a crush on you --</subfield>
+            <subfield code="t">9:15 revue. Get happy.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Revues.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts, Arranged.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="x">Excerpts, Arranged.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01426046</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Revues.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Arrangements (Music)</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Original cast recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Anderson, Nancy</subfield>
+            <subfield code="c">(Actor),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hingston, Seán Martin,</subfield>
+            <subfield code="d">1965-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Keenan-Bolger, Celia,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kudisch, Marc,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ladnier, Douglas,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Shannon</subfield>
+            <subfield code="c">(Dancer),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">May, Deven,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Phillips, Miles,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Simard, Jennifer,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Testa, Mary,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Winther, Michael,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Patterson, Ross,</subfield>
+            <subfield code="e">conductor,</subfield>
+            <subfield code="e">arranger of music,</subfield>
+            <subfield code="e">instrumentalist.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">author,</subfield>
+            <subfield code="e">speaker.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2=" ">
+            <subfield code="3">View cover art</subfield>
+            <subfield code="u">http://midwesttapes.com/images/movies/000/000/000/010/729/000000000010729114.gif</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03299cjm a2200697 i 4500</leader>
+          <controlfield tag="001">23373066</controlfield>
+          <controlfield tag="005">20231129090922.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231103t20062006caumcn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-11-03 z-client</subfield>
+            <subfield code="i">qr27 2023-11-03</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023887030</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">837101154376</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">RNBW034</subfield>
+            <subfield code="b">Bayview Recording Company</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm79674023</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">MUM</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">MUM</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">TXH</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="045" ind1="0" ind2=" ">
+            <subfield code="b">d1935</subfield>
+          </datafield>
+          <datafield tag="046" ind1=" " ind2=" ">
+            <subfield code="k">1935</subfield>
+            <subfield code="2">edtf</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 71447</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Broadway musicals of 1935.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Los Angeles, CA :</subfield>
+            <subfield code="b">Bayview Recording Company,</subfield>
+            <subfield code="c">[2006]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗2006</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="c">1.4 m/s</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Town Hall presents Broadway by the year ;</subfield>
+            <subfield code="v">Series four</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Bayview: RNBW034.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Songs from musicals.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">The Ross Patterson Little Big Band (Ross Patterson, pianist ; Don Falzone, bass ; Aaron Heick, woodwinds ; J. McGeehan, guitar, banjo, ukulele), with various vocal performers (Gretha Boston, Chuck Cooper, Darius DeHaas, Todd Murray, Douglas Sills, Emily Skinner, Lumiri Tubo, Barbara Walsh, Laure Williamson), with special guest artist, Karen Akers.</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Created, written, hosted, and produced by Scott Siegel. Ross Patterson, musical director, arranger. Peter Pinne, produced for CD.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded live</subfield>
+            <subfield code="d">2004 March 15</subfield>
+            <subfield code="p">Town Hall, New York.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"This CD is an edited version of the actual concert."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Peter Pinne inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">I got plenty o' nuttin' --</subfield>
+            <subfield code="t">I've got to get hot --</subfield>
+            <subfield code="t">Over and over again --</subfield>
+            <subfield code="t">Little girl blue --</subfield>
+            <subfield code="t">A thief in the night --</subfield>
+            <subfield code="t">Just one of those things --</subfield>
+            <subfield code="t">Cigarette --</subfield>
+            <subfield code="t">May I have my gloves --</subfield>
+            <subfield code="t">Bess, you is my woman --</subfield>
+            <subfield code="t">Summertime --</subfield>
+            <subfield code="t">Let's swing it --</subfield>
+            <subfield code="t">The most beautiful girl in the world --</subfield>
+            <subfield code="t">Why shouldn't I --</subfield>
+            <subfield code="t">The Hotentot potentate --</subfield>
+            <subfield code="t">Got a bran' new suit --</subfield>
+            <subfield code="t">Just once around the clock --</subfield>
+            <subfield code="t">Something new is in my heart --</subfield>
+            <subfield code="t">Life could be so beautiful --</subfield>
+            <subfield code="t">Begin the Beguine.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="x">Excerpts.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01030817</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Boston, Gretha,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cooper, Chuck,</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">De Haas, Darius,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Murray, Todd,</subfield>
+            <subfield code="d">1964-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Sills, Douglas,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tubo, Lumiri,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Walsh, Barbara,</subfield>
+            <subfield code="d">1955-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Akers, Karen,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Patterson, Ross,</subfield>
+            <subfield code="e">instrumentalist,</subfield>
+            <subfield code="e">conductor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">author,</subfield>
+            <subfield code="e">speaker,</subfield>
+            <subfield code="e">audio producer.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03401cjm a2200685 i 4500</leader>
+          <controlfield tag="001">23349282</controlfield>
+          <controlfield tag="005">20231030111843.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231012p20082005ctumcn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-10-12 z-client</subfield>
+            <subfield code="i">qr27 2023-10-12</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023626914</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">741117622425</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">OC6224</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn243695645</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">EYR</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">EYR</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">TXH</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="046" ind1=" " ind2=" ">
+            <subfield code="k">1955</subfield>
+            <subfield code="2">edtf</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 70432</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Broadway musicals of 1955.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Georgetown, Conn. :</subfield>
+            <subfield code="b">Original Cast Records,</subfield>
+            <subfield code="c">[2008]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2008</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc (56 min., 51 sec.) ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">005651</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="c">1.4 m/s</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Town Hall presents Broadway by the year series ;</subfield>
+            <subfield code="v">Series five</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Dee Hoty ; Raymond Jaramillo McLeod ; Sal Viviano ; Liz Larsen ; Connie Pachl ; Justin Bohon ; Alexander Gemignani ; Rachelle Rak ; Emily Skinner ; Bryan Batt ; Ross Patterson Little Big Band (Ross Patterson, piano, musical direction ; Don Falzone, bass ; Eric Halvorson, drums ; Chuck Wilson, woodwinds ; James Tsao, violin).</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Arrangements by Ross Patterson.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded in performance</subfield>
+            <subfield code="d">2005 May 2</subfield>
+            <subfield code="p">at Town Hall, New York."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"This CD is an edited version of the actual concert"--Insert.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Peter Pinne inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Silk stockings. Stereophonic sound -- Ankles aweigh. Nothing can replace a man -- Pipe dream. All at once you l ove her -- Ankles aweigh. Kiss me and kill me with love -- Vamp. I've always loved you -- Damn Yankees. Little brains, a little talent -- Ankles aweigh. Honeymoon -- Plain and fancy. Young and foolish -- Ankles aweigh. Headin' for the bottom blues -- Damn yankees. Those were the good old days -- Vamp. Four little misfits -- Damn Yankees. Whatever Lola wants -- Plain and fancy. It's a helluva way to run a love affair -- Vamp. Why does it have to be you -- Silk stockings. Paris loves lovers -- Silk stockings. All of you -- Pipe dream. Everybody's got a home but me -- Plain and fancy. This is all very new to me -- Damn Yankees. Heart.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="x">Excerpts.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01030817</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hoty, Dee,</subfield>
+            <subfield code="d">1952-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McLeod, Raymond Jaramillo,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Viviano, Sal,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Larsen, Liz,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pachl, Connie.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bohon, Justin.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Gemignani, Alexander,</subfield>
+            <subfield code="d">1979-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rak, Rachelle.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Batt, Bryan,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Patterson, Ross,</subfield>
+            <subfield code="e">conductor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">speaker.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03805cjm a2200745 i 4500</leader>
+          <controlfield tag="001">23412415</controlfield>
+          <controlfield tag="005">20240102094950.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231204p20092006ctumcn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-12-04 z-client</subfield>
+            <subfield code="i">qr27 2023-12-04</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023887189</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">741117624221</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">OC 6242</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+            <subfield code="q">(container)</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">6242</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+            <subfield code="q">(disc label)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn436682978</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">VVW</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">VVW</subfield>
+            <subfield code="d">VP@</subfield>
+            <subfield code="d">TEF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 72314</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">782.14</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Broadway musicals of 1956.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="i">At head of title:</subfield>
+            <subfield code="a">Town Hall Broadway by the year series presents</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Georgetown, CT] :</subfield>
+            <subfield code="b">Original Cast Records,</subfield>
+            <subfield code="c">[2009]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2009</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The Town Hall Broadway by the year series presents ;</subfield>
+            <subfield code="v">Series six</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Original Off-Broadway cast."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Christine Andreas, Brent Barrett, Ashley Brown, Brandon Cutrell, John Treacy Egan, Marc Kudisch, Connie Pachl, Rachelle Rak, Devin Richards, Emily Skinner, vocalists ; Ross Patterson Little Big Band ; Ross Patterson, piano, arranger, musical director.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Created, written and hosted by Scott Siegel.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded in live performance</subfield>
+            <subfield code="d">2006 April 3</subfield>
+            <subfield code="p">at the Town Hall, New York.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"This CD is an edited version of the actual concert."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Peter Pinne inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Most happy fella.</subfield>
+            <subfield code="t">Standing on the corner ;</subfield>
+            <subfield code="t">Somebody, somewhere --</subfield>
+            <subfield code="t">Li'l Abner.</subfield>
+            <subfield code="t">If I had my druthers --</subfield>
+            <subfield code="t">My fair lady.</subfield>
+            <subfield code="t">I've grown accustomed to her face --</subfield>
+            <subfield code="t">New faces of 1956.</subfield>
+            <subfield code="t">April in Fairbanks --</subfield>
+            <subfield code="t">Bells are ringing.</subfield>
+            <subfield code="t">I met a girl --</subfield>
+            <subfield code="t">My fair lady.</subfield>
+            <subfield code="t">On the street where you live ;</subfield>
+            <subfield code="t">Show me --</subfield>
+            <subfield code="t">Li'l Abner.</subfield>
+            <subfield code="t">Past my prime --</subfield>
+            <subfield code="t">Most happy fella.</subfield>
+            <subfield code="t">My heart is so full of you --</subfield>
+            <subfield code="t">Candide.</subfield>
+            <subfield code="t">Glitter and be gay ;</subfield>
+            <subfield code="t">My love --</subfield>
+            <subfield code="t">Happy hunting.</subfield>
+            <subfield code="t">Don't tell me --</subfield>
+            <subfield code="t">Candide.</subfield>
+            <subfield code="t">It must be so --</subfield>
+            <subfield code="t">Mr. Wonderful.</subfield>
+            <subfield code="t">Too close for comfort ;</subfield>
+            <subfield code="t">Mr. Wonderful ;</subfield>
+            <subfield code="t">I'm available --</subfield>
+            <subfield code="t">My fair lady.</subfield>
+            <subfield code="t">I could have danced all night --</subfield>
+            <subfield code="t">Bells are ringing.</subfield>
+            <subfield code="t">Just in time --</subfield>
+            <subfield code="t">Most happy fella.</subfield>
+            <subfield code="t">Joey, Joey, Joey --</subfield>
+            <subfield code="t">Bells are ringing.</subfield>
+            <subfield code="t">Party's over --</subfield>
+            <subfield code="t">Candide.</subfield>
+            <subfield code="t">Make our garden grow.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts, Arranged.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Live sound recordings.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="6">
+            <subfield code="a">Enregistrements sonores live.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01000613</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="x">Excerpts, Arranged.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01426046</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Arrangements (Music)</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cutrell, Brandon,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Andreas, Christine,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Barrett, Brent,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brown, Ashley</subfield>
+            <subfield code="c">(Singer),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Egan, John Treacy,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kudisch, Marc,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pachl, Connie,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rak, Rachelle,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Richards, Devin,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Patterson, Ross,</subfield>
+            <subfield code="e">conductor,</subfield>
+            <subfield code="e">arranger of music,</subfield>
+            <subfield code="e">instrumentalist.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">author,</subfield>
+            <subfield code="e">speaker.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03690cjm a2200673 i 4500</leader>
+          <controlfield tag="001">23350223</controlfield>
+          <controlfield tag="005">20231023165206.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231013p20062005caumcn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-10-13 z-client</subfield>
+            <subfield code="i">qr27 2023-10-13</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023626930</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">837101259712</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">RNBW037</subfield>
+            <subfield code="b">Bayview Recording Company</subfield>
+          </datafield>
+          <datafield tag="033" ind1="0" ind2=" ">
+            <subfield code="a">20050919</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm79672954</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">MUM</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">MUM</subfield>
+            <subfield code="d">SINLB</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 70405</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">782.14</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Broadway unplugged.</subfield>
+            <subfield code="n">2.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Broadway unplugged.</subfield>
+            <subfield code="n">Two</subfield>
+          </datafield>
+          <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="i">At head of title on container:</subfield>
+            <subfield code="a">Scott Siegel presents</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Los Angeles, Calif. :</subfield>
+            <subfield code="b">Bayview Recording Company,</subfield>
+            <subfield code="c">[2006]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗2006</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="c">1.4 m/s</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Bayview: RNBW037.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Songs from musicals.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">The Ross Patterson Little Big Band (Don Falzone, bass ; Gene Lewin, drums ; James Tsao, violin ; Chuck Wilson, woodwinds ; Ross Patterson, piano), produced and hosted by Scott Siegel, with various vocalists.</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Created and written by Scott Siegel; Ross Patterson, musical director, arranger.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded in performance</subfield>
+            <subfield code="d">2005 September 19</subfield>
+            <subfield code="p">Town Hall, New York.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"A handful of show-stopping numbers cut in order to get this CD producted at less than eighty minutes."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Scott Siegel inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">South Pacific. Some enchanted evening</subfield>
+            <subfield code="r">(William Michals) --</subfield>
+            <subfield code="t">On a clear day you can see forever. What did I have that I don't have?</subfield>
+            <subfield code="r">(Bill Daugherty) --</subfield>
+            <subfield code="t">110 in the shade. Raunchy</subfield>
+            <subfield code="r">(Emily Skinner) --</subfield>
+            <subfield code="t">A new brain. I'd rather be sailing</subfield>
+            <subfield code="r">(Norm Lewis) --</subfield>
+            <subfield code="t">Chess. I know him so well</subfield>
+            <subfield code="r">(Jenifer Kruskamp, Anne Steele) --</subfield>
+            <subfield code="t">The Carroll vanities. I gotta right to sing the blues</subfield>
+            <subfield code="r">(Mary Bond Davis) --</subfield>
+            <subfield code="t">The most happy fella. Joey, Joey, Joey</subfield>
+            <subfield code="r">(Cheyenne Jackson) --</subfield>
+            <subfield code="t">The Wiz. Be a lion</subfield>
+            <subfield code="r">(Liz Callaway) --</subfield>
+            <subfield code="t">Kismet. Fate</subfield>
+            <subfield code="r">(Marc Kudisch) --</subfield>
+            <subfield code="t">Anne get your gun. Anything you can do</subfield>
+            <subfield code="r">(Marc Kudisch, Sutton Foster) --</subfield>
+            <subfield code="t">My fair lady. On the street where you live</subfield>
+            <subfield code="r">(Euan Morton) --</subfield>
+            <subfield code="t">Annie. It's a hard knock life</subfield>
+            <subfield code="r">(Bobby Belfry, Brandon Cutrell, Peter Gonyo, Steven Ray Watkins, Lennie Watts) --</subfield>
+            <subfield code="t">Company. Being alive</subfield>
+            <subfield code="r">(Deven May) --</subfield>
+            <subfield code="t">Street scene. Lonely house</subfield>
+            <subfield code="r">(Ron Bohmer) --</subfield>
+            <subfield code="t">Babes in arms. Where or when</subfield>
+            <subfield code="r">(Sutton Foster) --</subfield>
+            <subfield code="t">Follies. Losing my mind</subfield>
+            <subfield code="r">(Barbara Walsh) --</subfield>
+            <subfield code="t">Brigadoon. There but for you go I</subfield>
+            <subfield code="r">(Eddie Korbich) --</subfield>
+            <subfield code="t">Ragtime. Back to before</subfield>
+            <subfield code="r">(Christiane Noll).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="x">Excerpts.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01030817</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">author,</subfield>
+            <subfield code="e">speaker,</subfield>
+            <subfield code="e">audio producer,</subfield>
+            <subfield code="e">writer of supplementary textual content.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Norm,</subfield>
+            <subfield code="d">1963-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Jackson, Cheyenne,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Callaway, Liz,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kudisch, Marc,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Foster, Sutton,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Noll, Christiane,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03850cjm a2200757 i 4500</leader>
+          <controlfield tag="001">23349564</controlfield>
+          <controlfield tag="005">20231023165242.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231013p20082007ctumcn|  i        | eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-10-13 z-client</subfield>
+            <subfield code="i">qr27 2023-10-13</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023626921</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">741117623729</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">OC 6237</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">6237</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)on1198397811</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">AU@</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">AU@</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 70458</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Broadway unplugged.</subfield>
+            <subfield code="n">4.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="i">At head of title on container:</subfield>
+            <subfield code="a">Scott Siegal presents</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Georgetown, CT] :</subfield>
+            <subfield code="b">Original Cast Records,</subfield>
+            <subfield code="c">[2008]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Original Off-Broadway cast."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Created, written &amp; hosted by Scott Siegel."</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Various singers (Sarah Uriarte Berry, David Burnham, Bill Daugherty, Darius De Haas, Max Von Essen, Marc Kudisch, Aaron Lazar, Beth Leavel, Lorinda Lisitza, Andrea McArdle, Michael McElroy, Sarah Jane McMahon, William Michals, Paul Schoeffler, Emily Skinner, Martin Vidnovic, Barbara Walsh) ; The Ross Patterson Little Big Band (Ross Patterson, piano ; Gene Lewin, drums ; Randy Landau, bass).</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Ross Patterson, musical director; produced for CD by Peter Pinne.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded in performance</subfield>
+            <subfield code="d">2007 November 19</subfield>
+            <subfield code="p">Town Hall, New York.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"4th annual Broadway Unplugged"--Insert.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Scott Siegel inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">West Side story. Something's coming -- Anyone can whistle. Everybody says don't -- Kiss me Kate. Were thine that special face -- Guys and dolls. Sit down you're rockin' the boat -- Baby. Patterns cut -- Steel pier. Winning cut -- West Side story. Somewhere -- South Pacific. This nearly was mine -- West Side story. Tonight -- Jesus Christ superstar. Heaven on their minds -- The gay life. Magic moment -- Big river. Free at last -- Happy end. Surabaya Johnny -- Fine and dandy. Nobody breaks my heart -- Camelot. If ever I would leave you -- Side show. Who will love me as I am -- Great day. More than you know -- The glorious ones. I was here -- Spring is here. With a song in my heart.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Original cast recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Berry, Sarah Uriarte,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Burnham, David</subfield>
+            <subfield code="c">(Actor),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Daugherty, Bill,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">De Haas, Darius,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Von Essen, Max,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kudisch, Marc,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lazar, Aaron,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Leavel, Beth,</subfield>
+            <subfield code="d">1955-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lisitza, Lorinda,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McArdle, Andrea,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McElroy, Michael,</subfield>
+            <subfield code="d">1967-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McMahon, Sarah Jane,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Michals, William,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Schoeffler, Paul,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Vidnovic, Martin,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Walsh, Barbara,</subfield>
+            <subfield code="d">1955-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">writer of supplementary textual content,</subfield>
+            <subfield code="e">author,</subfield>
+            <subfield code="e">speaker.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Patterson, Ross,</subfield>
+            <subfield code="e">conductor,</subfield>
+            <subfield code="e">arranger of music.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>04527cjm a2200601 i 4500</leader>
+          <controlfield tag="001">23349504</controlfield>
+          <controlfield tag="005">20231023165253.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231013p20102009ctumcn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-10-13 z-client</subfield>
+            <subfield code="i">qr27 2023-10-13</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023626919</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">741117678729</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">OC 6787</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">6787</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn688621431</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UUC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">UUC</subfield>
+            <subfield code="d">TDF</subfield>
+            <subfield code="d">TEF</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 70452</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">782.1/4</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Broadway unplugged.</subfield>
+            <subfield code="n">6.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Broadway unplugged.</subfield>
+            <subfield code="n">Six</subfield>
+          </datafield>
+          <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="i">At head of title on container:</subfield>
+            <subfield code="a">Scott Siegel presents</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Georgetown, CT] :</subfield>
+            <subfield code="b">Original Cast Records,</subfield>
+            <subfield code="c">[2010]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗2010</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Songs from musicals; original Off-Broadway cast recording.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Various vocalists (Bill Daugherty, David Brian Colbert, Jeffrey Denman, John Easterlin, Kelsey Fowler, Lisa Howard, Marc Kudisch, Sarah Jane McMahon, Janet Metz, William Michals, Manu Narayan, Jill Paice, Daniel Reichard, Emily Skinner, Terri White) ; the Ross Patterson Little Big Band (Ross Patterson, piano ; Joe Dennison, violin ; Randy Landau, bass), hosted by Scott Siegel.</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Produced by Scott Siegel. Ross Patterson, musical director. Produced for CD by Peter Pinne.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded live</subfield>
+            <subfield code="d">2009 November 16</subfield>
+            <subfield code="p">The Town Hall, NYC.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Live recording of the off-Broadway show, sung with no mikes except for recording purposes.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Rob Lester inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Man of La Mancha (Man of La Mancha) (William Michals, Bill Daugherty) (3:29) -- The impossible dream (Man of La Mancha) (William Michals) (2:35) -- Linking intro (0:18) -- Something's coming (West side story) (Daniel Reichard) (2:37) -- Linking intro (0:15) -- The other side of the tracks (Little me) (Lisa Howard) (2:47) -- Linking intro (0:25) -- Joey, Joey, Joey (The most happy fella) (Manu Marayan) (3:34) -- Tell me on a Sunday (Song and dance) (Janet Metz) (5:04) -- What kind of fool am I (Stop the world, I want to get off) (David Brian Colbert) (3:15) -- Not a day goes by (Merrily we roll along) (Jill Paice) (2:33) -- Linking intro (0:35) -- Distant melody (Peter Pan) (Emily Skinner) (2:01) -- Linking intro (0:22) -- My heart is so full of you (The most happy fella) (Marc Kudisch, Sarah Jane McMahon) (2:51) -- Linking intro (0:25) -- Dein ist mein ganzes Herz = You are my heart's delight (John Easterlin) (4:27) -- Linking intro (0:15) -- Tomorrow (Annie) (Kelsey Fowler) (2:47) -- Linking intro (0:21) -- Have yourself a merry little Christmas (Meet me in St. Louis) (3:50) -- Linking intro (0:18) -- The light in the piazza (The light in the piazza) (Sarah Jane McMahon) (3:21) -- Linking intro (0:18) -- When you're good to mama (Chicago) (Emily Skinner) (3:11) -- Linking intro (0:24) -- Come to me, bend to me (Brigadoon) (Daniel Richard) (2:55) -- Linking intro (0:21) -- Let things be like they always was (Street scene) (Marc Kudisch) (2:58) -- Linking intro (0:19) -- Could you use me ; Shall we dance (Crazy for you) (Jeffrey Denman, Jill Paice) (4:43) -- Linking intro (0:28) -- Brother, can you spare a dime (Americana) (Bill Daugherty) (3:34) -- Linking intro (0:11) -- Mama a rainbow (Minnie's boys) (Terri White) (2:39) -- Linking intro (0:13) -- Deep in my heart (The student prince) (Sarah Jane McMahon, John Easterlin) (3:33) -- Linking intro (0:26) -- What I did for love (A chorus line) (Janet Metz and Company) (3:52).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Original cast recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, Scott,</subfield>
+            <subfield code="e">author,</subfield>
+            <subfield code="e">speaker,</subfield>
+            <subfield code="e">producer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Howard, Lisa</subfield>
+            <subfield code="c">(Singer),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kudisch, Marc,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ross Patterson Little Big Band,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03674cjm a2200649 i 4500</leader>
+          <controlfield tag="001">21333116</controlfield>
+          <controlfield tag="005">20191212165112.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">191211s2006    caumun|           | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2019-12-11 z-client</subfield>
+            <subfield code="i">qr27 2019-12-11</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2019656417</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">852752001107</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">KR 20011-0</subfield>
+            <subfield code="b">Kritzerland</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn862784091</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">EYM</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">EYM</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">ZMS</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="047" ind1=" " ind2=" ">
+            <subfield code="a">mc</subfield>
+            <subfield code="a">pp</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 31388</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Raw at Town Hall /</subfield>
+            <subfield code="c">[performed by Emily] Skinner/Ripley.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Valley Village, CA :</subfield>
+            <subfield code="b">Kritzerland,</subfield>
+            <subfield code="c">[2006]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="c">℗2006</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 audio discs :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Principally songs from musicals.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Arr. by Bruce Kimmel and Todd Ellison, orchestrated by David Siegel (1st-2nd, 7th, 10th, and 15th-17th works).</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Emily Skinner, Alice Ripley, vocals ; Ross Patterson, Tom Kitt (6th work), piano ; Randy Landau, bass ; Shannon Ford, drums ; Jack Bashkow, reeds.</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Album produced by Bruce Kimmel; Danny Lawrence, engineer; Mike Russi, assistant engineer; mixed by Vincent Cirilli; mastered by James Nelson, Digital Outland.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded live</subfield>
+            <subfield code="p">Town Hall, New York City,</subfield>
+            <subfield code="d">2006 October 21.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Two's company : from The magic show / Stephen Schwartz -- Little me : from Little me / Coleman, Leigh -- I'd rather wake up by myself : from By the beautiful sea / Schwartz, Fields -- Cigarette dream/The last smoker in America : from Little fish/The last smoker in America / Michael John LaChiusa, Bill Russell, Peter Melnick -- Sleepy man / Waldman, Uhry -- I miss the mountains : from Feeling electric / Tom Kitt, Brian Yorkey -- Every day a little death : from A little night music / Stephen Sondheim -- No one is alone : from Into the woods / Stephen Sondheim -- Broadway baby : from Follies / Stephen Sondheim -- Sisters/Ohio : from White Christmas/Wonderful town / Irving Berlin, Bernstein, Comden and Green -- Trouble / Leiber and Stoller -- Poor unfortunate souls : from The little mermaid / Menken/Ashman -- You have to be there : from Kristina / Andersson and Ulvaeus, Kretzmer -- Come up and see me some time / A. Swanstrom, L. Alter -- Past my prime : from Li'l Abner / Mercer, de Paul -- Lazy afternoon : from The golden apple / Moross, Latouche -- She's gone ; Who will love me as I am? ; I will never leave you : from Side show / Russell, Krieger.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Popular music</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="x">Excerpts.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01030817</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Popular music.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01071422</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">United States.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01204155</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01726308</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Live sound recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ripley, Alice.</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kimmel, Bruce.</subfield>
+            <subfield code="4">arr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ellison, Todd.</subfield>
+            <subfield code="4">arr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Siegel, David,</subfield>
+            <subfield code="d">1973-</subfield>
+            <subfield code="4">arr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Patterson, Ross.</subfield>
+            <subfield code="4">itr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kitt, Tom.</subfield>
+            <subfield code="4">itr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Landau, Randy.</subfield>
+            <subfield code="4">itr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ford, Shannon.</subfield>
+            <subfield code="4">itr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bashkow, Jack.</subfield>
+            <subfield code="4">itr</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03438cjm a2200673 i 4500</leader>
+          <controlfield tag="001">23579748</controlfield>
+          <controlfield tag="005">20240226165654.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">240226t20032003nyumcn|  iz       | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2024-02-26 z-client</subfield>
+            <subfield code="i">qr27 2024-02-26</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2024617273</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">803607031329</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">PS-313</subfield>
+            <subfield code="b">PS Classics</subfield>
+          </datafield>
+          <datafield tag="033" ind1="0" ind2="0">
+            <subfield code="a">20030401</subfield>
+            <subfield code="b">3804</subfield>
+            <subfield code="c">N4</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm54387281</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">IMD</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">IMD</subfield>
+            <subfield code="d">JED</subfield>
+            <subfield code="d">CPL</subfield>
+            <subfield code="d">OCLCG</subfield>
+            <subfield code="d">YUS</subfield>
+            <subfield code="d">HALAN</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">FWR</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">ELW</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">TJC</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">TJCBL</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">JTB</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCL</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 73513</subfield>
+          </datafield>
+          <datafield tag="055" ind1="1" ind2="3">
+            <subfield code="a">M1500.G6645</subfield>
+            <subfield code="b">M9 CD</subfield>
+          </datafield>
+          <datafield tag="082" ind1="1" ind2="4">
+            <subfield code="a">782.14</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Gordon, Ricky Ian,</subfield>
+            <subfield code="e">composer,</subfield>
+            <subfield code="e">lyricist.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">My life with Albertine :</subfield>
+            <subfield code="b">world premiere recording /</subfield>
+            <subfield code="c">book &amp; lyrics by Richard Nelson ; music &amp; lyrics by Ricky Ian Gordon ; [based on the "Albertine" sections of Remembrance of things past by Marcel Proust].</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Bronxville, NY :</subfield>
+            <subfield code="b">PS Classics,</subfield>
+            <subfield code="c">[2003]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗2003</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc (64 min.) ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">010400</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="c">1.4 m/s</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Brent Carver, Chad Kimball, Kelli O'Hara, Donna Lynne Champlin, Emily Skinner, with supporting performers ; instrumental ensemble ; Charles Prince, conductor.</subfield>
+          </datafield>
+          <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Produced by Tommy Krasker; executive producer, Philip Chaffin.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded</subfield>
+            <subfield code="d">2003 April 1</subfield>
+            <subfield code="p">at Avatar Studios, New York City.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Interview with the composer and librettist by Tim Sanford and synopsis (16 unnumbered pages : illustrations) inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Is it too late? --</subfield>
+            <subfield code="t">Balbec-by-the-Sea --</subfield>
+            <subfield code="t">Lullaby --</subfield>
+            <subfield code="t">Ferret song --</subfield>
+            <subfield code="t">My soul weeps --</subfield>
+            <subfield code="t">Talk about the weather --</subfield>
+            <subfield code="t">The different Albertines --</subfield>
+            <subfield code="t">Sad Balbec --</subfield>
+            <subfield code="t">My soul weeps (tango) --</subfield>
+            <subfield code="t">But what I say --</subfield>
+            <subfield code="t">Song of solitude --</subfield>
+            <subfield code="t">I want you --</subfield>
+            <subfield code="t">I need me a girl --</subfield>
+            <subfield code="t">But what I say (reprise) --</subfield>
+            <subfield code="t">Sometimes --</subfield>
+            <subfield code="t">The street --</subfield>
+            <subfield code="t">The letters --</subfield>
+            <subfield code="t">Albertine's last letter --</subfield>
+            <subfield code="t">If it is true.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01030814</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01726680</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Interviews.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Comédies musicales.</subfield>
+            <subfield code="2">rvmgf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nelson, Richard,</subfield>
+            <subfield code="d">1950-</subfield>
+            <subfield code="e">librettist,</subfield>
+            <subfield code="e">lyricist,</subfield>
+            <subfield code="e">interviewee.</subfield>
+            <subfield code="1">https://id.oclc.org/worldcat/entity/E39PBJyhfYfBdg6dtVPmG983cP</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Carver, Brent,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kimball, Chad,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">O'Hara, Kelli,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Champlin, Donna Lynne,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Prince, Charles</subfield>
+            <subfield code="c">(Conductor),</subfield>
+            <subfield code="e">conductor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="i">Musical theatre adaptation of (work):</subfield>
+            <subfield code="a">Proust, Marcel,</subfield>
+            <subfield code="d">1871-1922.</subfield>
+            <subfield code="t">Albertine disparue.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Playwrights Horizons (Theater : New York, N.Y.),</subfield>
+            <subfield code="e">production company.</subfield>
+          </datafield>
+          <datafield tag="758" ind1=" " ind2=" ">
+            <subfield code="i">has work:</subfield>
+            <subfield code="a">My life with Albertine (Music)</subfield>
+            <subfield code="1">https://id.oclc.org/worldcat/entity/E39PCGrMRtVbRB7BpRFxMfvhtq</subfield>
+            <subfield code="4">https://id.oclc.org/worldcat/ontology/hasWork</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02567cjm a2200481 a 4500</leader>
+          <controlfield tag="001">18352595</controlfield>
+          <controlfield tag="005">20141103120852.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">141029r20121997nyumcn|  dz       | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2014-10-29 z-client</subfield>
+            <subfield code="i">qr27 2014-10-29</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2014625726</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">886919748727</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">88691 97487 2</subfield>
+            <subfield code="b">Masterworks Broadway</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="0">
+            <subfield code="a">SK 60258</subfield>
+            <subfield code="b">Columbia</subfield>
+          </datafield>
+          <datafield tag="033" ind1="0" ind2=" ">
+            <subfield code="a">19971103</subfield>
+            <subfield code="b">3804</subfield>
+            <subfield code="c">N4</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn800120733</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">BTCTA</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">BTCTA</subfield>
+            <subfield code="d">TEF</subfield>
+            <subfield code="d">NYP</subfield>
+            <subfield code="d">CPL</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDC 43202</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">782.14</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Krieger, Henry.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Side show</subfield>
+            <subfield code="h">[sound recording] /</subfield>
+            <subfield code="c">book and lyrics by Bill Russell ; music by Henry Krieger.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York, NY :</subfield>
+            <subfield code="b">Masterworks Broadway :</subfield>
+            <subfield code="b">Distributed by Sony Music Entertainment,</subfield>
+            <subfield code="c">[2012], p1997.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Alice Ripley (Violet Hilton) ; Emily Skinner (Daisy Hilton) ; Jeff McCarthy (Terry Connor) ; Hugh Panaro (Buddy Foster) ; Norm Lewis (Jake) ; Ken Jennings (the Boss) ; with supporting performers and orchestra ; David Chase, conductor.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="a">Recorded Nov. 3, 1997, at Clinton Recording Studios, New York.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally released in 1997 as SK 60258.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Compact disc.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Synopsis and libretto (35 p. : ports.) bound in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Come look at the freaks --</subfield>
+            <subfield code="t">Happy birthday to you and you --</subfield>
+            <subfield code="t">I'm Daisy, I'm Violet --</subfield>
+            <subfield code="t">Like everyone else --</subfield>
+            <subfield code="t">The devil you know --</subfield>
+            <subfield code="t">More than we bargained for --</subfield>
+            <subfield code="t">Feelings you've got to hide --</subfield>
+            <subfield code="t">When I'm by your side --</subfield>
+            <subfield code="t">Say goodbye to the freak show --</subfield>
+            <subfield code="t">Leave me alone --</subfield>
+            <subfield code="t">We share everything --</subfield>
+            <subfield code="t">Buddy kissed me --</subfield>
+            <subfield code="t">Who will love me as I am? --</subfield>
+            <subfield code="t">Rare songbirds on display --</subfield>
+            <subfield code="t">New Year's Day --</subfield>
+            <subfield code="t">Private conversation --</subfield>
+            <subfield code="t">One plus one equals three --</subfield>
+            <subfield code="t">You should be loved --</subfield>
+            <subfield code="t">Tunnel of love --</subfield>
+            <subfield code="t">Beautiful day for a wedding --</subfield>
+            <subfield code="t">Buddy's confession --</subfield>
+            <subfield code="t">Marry me, Terry --</subfield>
+            <subfield code="t">I will never leave you --</subfield>
+            <subfield code="g">Finale.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Hilton, Daisy,</subfield>
+            <subfield code="d">1908-1969</subfield>
+            <subfield code="v">Drama.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Hilton, Violet,</subfield>
+            <subfield code="d">1908-1969</subfield>
+            <subfield code="v">Drama.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Russell, Bill,</subfield>
+            <subfield code="d">1949-</subfield>
+            <subfield code="4">lbt</subfield>
+            <subfield code="4">lyr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ripley, Alice.</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McCarthy, Jeff.</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Panaro, Hugh.</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Norm,</subfield>
+            <subfield code="d">1963-</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Jennings, Ken.</subfield>
+            <subfield code="4">sng</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Chase, David</subfield>
+            <subfield code="c">(Conductor)</subfield>
+            <subfield code="4">cnd</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>11</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02353cjm a2200457 a 4500</leader>
+          <controlfield tag="001">17371352</controlfield>
+          <controlfield tag="005">20130607141408.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">120702s1997    nyumcn|  di       | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2012-07-02 z-client</subfield>
+            <subfield code="i">qr27 2012-07-02</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2012620779</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">074646025826</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">SK 60258</subfield>
+            <subfield code="b">Columbia</subfield>
+          </datafield>
+          <datafield tag="033" ind1="0" ind2=" ">
+            <subfield code="a">19971103</subfield>
+            <subfield code="b">3804</subfield>
+            <subfield code="c">N4</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm38489206</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">JED</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">JED</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">SDE</subfield>
+            <subfield code="d">BGU</subfield>
+            <subfield code="d">IXA</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">MTG</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDC 15430</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Krieger, Henry.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Side show</subfield>
+            <subfield code="h">[sound recording] :</subfield>
+            <subfield code="b">original Broadway cast recording /</subfield>
+            <subfield code="c">book and lyrics by Bill Russell ; music by Henry Krieger.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Sony Classical,</subfield>
+            <subfield code="c">p1997.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Alice Ripley, Emily Skinner, Jeff McCarthy, Hugh Panaro, Norm Lewis, Ken Jennings, vocals ; orchestra ; David Chase, conductor.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="a">Recorded Nov. 3, 1997, at Clinton Recording Studio, New York City.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Compact disc.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes and lyrics (33 p. : ill.) inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Come look at the freaks --</subfield>
+            <subfield code="t">Happy birthday to you and to you --</subfield>
+            <subfield code="t">I'm Daisy, I'm Violet --</subfield>
+            <subfield code="t">Like everyone else --</subfield>
+            <subfield code="t">The Devil you know --</subfield>
+            <subfield code="t">More than we bargained for --</subfield>
+            <subfield code="t">Feelings you've got to hide --</subfield>
+            <subfield code="t">When I'm by your side --</subfield>
+            <subfield code="t">Say goodbye to the freak show --</subfield>
+            <subfield code="t">Leave me alone --</subfield>
+            <subfield code="t">We share everything --</subfield>
+            <subfield code="t">Buddy kissed me --</subfield>
+            <subfield code="t">Who will love me as I am? --</subfield>
+            <subfield code="t">Rare songbirds on display --</subfield>
+            <subfield code="t">New Year's Day --</subfield>
+            <subfield code="t">Private conversation --</subfield>
+            <subfield code="t">One plus one equals three --</subfield>
+            <subfield code="t">You should be loved --</subfield>
+            <subfield code="t">Tunnel of love --</subfield>
+            <subfield code="t">Beautiful day for a wedding --</subfield>
+            <subfield code="t">Buddy's confession --</subfield>
+            <subfield code="t">Marry me, Terry --</subfield>
+            <subfield code="t">I will never leave you --</subfield>
+            <subfield code="t">Finale.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Freak shows</subfield>
+            <subfield code="v">Drama.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Hilton, Daisy,</subfield>
+            <subfield code="d">1908-1969</subfield>
+            <subfield code="v">Drama.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Hilton, Violet,</subfield>
+            <subfield code="d">1908-1969</subfield>
+            <subfield code="v">Drama.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Russell, Bill,</subfield>
+            <subfield code="d">1949-</subfield>
+            <subfield code="4">lyr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ripley, Alice.</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McCarthy, Jeff.</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Panaro, Hugh.</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lewis, Norm,</subfield>
+            <subfield code="d">1963-</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Jennings, Ken.</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Chase, David</subfield>
+            <subfield code="c">(Conductor)</subfield>
+            <subfield code="4">cnd</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>12</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03643cjm a2200757 i 4500</leader>
+          <controlfield tag="001">23414405</controlfield>
+          <controlfield tag="005">20231206145307.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231206t20032003xxumpn|  i        | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-12-06 z-client</subfield>
+            <subfield code="i">qr27 2023-12-06</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023887202</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">030206217827</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">302 062 178 2</subfield>
+            <subfield code="b">Fynsworth Alley</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">FA-2178</subfield>
+            <subfield code="b">Fynsworth Alley</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm52382128</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">OWL</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">OWL</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">IXA</subfield>
+            <subfield code="d">XYZ</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 72248</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">782.81</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ost, Bob,</subfield>
+            <subfield code="e">composer,</subfield>
+            <subfield code="e">lyricist,</subfield>
+            <subfield code="e">librettist,</subfield>
+            <subfield code="e">arranger of music.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Everybody's gettin' into the act :</subfield>
+            <subfield code="b">a musical vaudeville.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">Everybody's getting into the act</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[United States] :</subfield>
+            <subfield code="b">Fynsworth Alley,</subfield>
+            <subfield code="c">[2003]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="2">
+            <subfield code="a">Universal City, CA :</subfield>
+            <subfield code="b">Universal Music and Video Distribution</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗2003</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Fynsworth Alley: 302 062 178 2 (additional no.: FA-2178).</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Book, music &amp; lyrics by Bob Ost.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Various artists ; with instrumental ensemble.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded</subfield>
+            <subfield code="p">PPI Studios, NYC.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Released in cooperation with Varese Sarabande Records."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes and synopsis by Peter Filichia on insert in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Everybody's gettin' into the act (James Judy, Francine Lobis, Steven Stein-Grainger, Mary Stout) -- That first hello (Bryan Batt) -- Perfection (Evan Pappas) -- Too good (Emily Skinner) -- Look at me (James Judy, Francine Lobis, Steven Stein-Grainger, Mary Stout) -- I'm available (Stephanie Pope) -- Looks like love (Rebecca Luker, Danny Burstein) -- A helluva state (James Judy, Francine Lobis, Steven Stein-Grainger, Mary Stout) -- Yes, I see the woman (Robert Cuccioli) -- To wit (James Judy, Francine Lobis, Steven Stein-Grainger, Mary Stout) -- A party in Southhampton (Jana Robbins) -- It always seems to rain (Christiane Noll, with Emily Bindiger, Peter Davis) -- Never, never (James Delisco Beeks, with Emily Bindiger, Peter Davis) -- Keepin' it together (Mark Nadler) -- Ballad of the victim (Nancy Opel) -- Valse triste (David Sabella) -- I gotta sing! (Mary Testa) -- And I'm there (Marc Kudisch) -- Don't I know you? (Karen Mason).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Revues.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Revues.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Judy, James,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lobis, Francine,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Stein-Grainger, Steven,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Stout, Mary,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Batt, Bryan,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pappas, Evan,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pope, Stephanie,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Luker, Rebecca,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Burstein, Danny,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cuccioli, Robert,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Robbins, Jana,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Noll, Christiane,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Beeks, James Delisco,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nadler, Mark,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Opel, Nancy,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Sabella, David.</subfield>
+            <subfield code="4">prf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Testa, Mary,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kudisch, Marc,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Mason, Karen</subfield>
+            <subfield code="c">(Singer),</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>13</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>04022cjm a2200781 i 4500</leader>
+          <controlfield tag="001">17199073</controlfield>
+          <controlfield tag="005">20230831093903.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">120307t19991999ctumcn|  efiz     | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2012-03-07 z-client</subfield>
+            <subfield code="i">qr27 2012-03-07</subfield>
+            <subfield code="t">qr28 2023-08-31 copy 2 added</subfield>
+            <subfield code="r">qr28 2023-08-31 (RDA revisions)</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2012617470</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">741117873728</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">OC-8737</subfield>
+            <subfield code="b">Original Cast Records</subfield>
+          </datafield>
+          <datafield tag="033" ind1="2" ind2=" ">
+            <subfield code="a">19990927</subfield>
+            <subfield code="a">19991001</subfield>
+            <subfield code="b">3804</subfield>
+            <subfield code="c">N4</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm54366580</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">FMM</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">FMM</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCG</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">WSDBL</subfield>
+            <subfield code="d">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDC 12413</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schocker, Gary,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="e">composer.</subfield>
+          </datafield>
+          <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="k">Selections</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Far from the madding crowd ;</subfield>
+            <subfield code="b">Dusky Sally ; The awakening /</subfield>
+            <subfield code="c">[music by Gary Schocker ; book and lyrics by Barbara Campbell].</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Georgetown, CT :</subfield>
+            <subfield code="b">Original Cast Records,</subfield>
+            <subfield code="c">[1999]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗1999</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Excerpts from three musicals; songs from the 1st are based on the novel by Thomas Hardy; the 2nd work, a musical retelling of the love affair of Thomas Jefferson and Sally Hemings; the 3rd work is based on the novella by Kate Chopin.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Ann Hampton Callaway, Liz Callaway, Victoria Clark, Brian d'Arcy James, Doug LaBrecque, LaChanze, Peter Lockyer, David Masenheimer, Judy McLane, Christiane Noll, Emily Skinner, vocalists ; musicians ; Bradley Vieth, conductor.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded</subfield>
+            <subfield code="d">1999 September 27-1999 October 1</subfield>
+            <subfield code="p">Sean Swinney Recordings, New York, N.Y.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes, biographical notes on the creators and performers, and synopses by Barbara Campbell inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Far from the madding crowd. Wonder what she'd tell me now ; An everyday man ; Isn't that the way ; The game begins ; Fanny ; The wheel of the year ; A few hours more ; After all -- Dusky Sally. Weeds ; My wedding day -- Awakening. Always the sea ; Little girls ; Spirit of the summer night ; Dimanche après-midi ; When I touch the keys ; After midnight ; Fairy tales ; You are the sea.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="v">Excerpts.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Songs.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Excerpts.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Theatrical adaptations.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Jefferson, Thomas,</subfield>
+            <subfield code="d">1743-1826</subfield>
+            <subfield code="v">Drama.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Hemings, Sally</subfield>
+            <subfield code="v">Drama.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Campbell, Barbara,</subfield>
+            <subfield code="e">librettist,</subfield>
+            <subfield code="e">lyricist.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Callaway, Ann Hampton,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Callaway, Liz,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Clark, Victoria,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">James, Brian D'Arcy,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">LaBrecque, Doug,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">LaChanze,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lockyer, Peter,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Masenheimer, David,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McLane, Judy,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Noll, Christiane,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Vieth, Bradley,</subfield>
+            <subfield code="e">conductor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="3">1st work</subfield>
+            <subfield code="i">Musical theatre adaptation of (work):</subfield>
+            <subfield code="a">Hardy, Thomas,</subfield>
+            <subfield code="d">1840-1928.</subfield>
+            <subfield code="t">Far from the madding crowd.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="3">3rd work</subfield>
+            <subfield code="i">Musical theatre adaptation of (work):</subfield>
+            <subfield code="a">Chopin, Kate,</subfield>
+            <subfield code="d">1850-1904.</subfield>
+            <subfield code="t">Awakening.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="i">Container of (work):</subfield>
+            <subfield code="a">Schocker, Gary,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="t">Far from the madding crowd.</subfield>
+            <subfield code="k">Selections.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="i">Container of (work):</subfield>
+            <subfield code="a">Schocker, Gary,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="t">Dusky Sally.</subfield>
+            <subfield code="p">Weeds.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="i">Container of (work):</subfield>
+            <subfield code="a">Schocker, Gary,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="t">Dusky Sally.</subfield>
+            <subfield code="p">My wedding day.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="i">Container of (work):</subfield>
+            <subfield code="a">Schocker, Gary,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="t">Awakening.</subfield>
+            <subfield code="k">Selections.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2="2">
+            <subfield code="a">Dusky Sally.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2="2">
+            <subfield code="a">Awakening.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>14</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01395nam a2200385 a 4500</leader>
+          <controlfield tag="001">4464368</controlfield>
+          <controlfield tag="005">19970117091807.4</controlfield>
+          <controlfield tag="008">951012s1995    at a     b    000 0aeng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   95213903</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">ub11 07-18-96 to HLCD; lk50 08-13-96; lk11 08-28-96 to SL (DU); lk18 11-22-96</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">rc09 10-12-95</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   95213903 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0522846521</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)33942165 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="z">MLC 199512</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NN</subfield>
+            <subfield code="c">NN</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">u-at-vi</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DU222.S57</subfield>
+            <subfield code="b">A3 1995</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">994.5/5</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1831-1890.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A woman on the goldfields :</subfield>
+            <subfield code="b">recollections of Emily Skinner, 1854-1878 /</subfield>
+            <subfield code="c">edited by Edward Duyker.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Carlton, Vic. :</subfield>
+            <subfield code="b">Melbourne University Press,</subfield>
+            <subfield code="c">1995.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">129 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1831-1890.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Pioneers</subfield>
+            <subfield code="z">Australia</subfield>
+            <subfield code="z">Victoria</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Women pioneers</subfield>
+            <subfield code="z">Australia</subfield>
+            <subfield code="z">Victoria</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Gold mines and mining</subfield>
+            <subfield code="z">Australia</subfield>
+            <subfield code="z">Victoria</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Ovens River Valley (Vic.)</subfield>
+            <subfield code="x">Social life and customs.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Beechworth (Vic.)</subfield>
+            <subfield code="x">Social life and customs.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Duyker, Edward.</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">ap</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DU222.S57</subfield>
+            <subfield code="i">A3 1995</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>15</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00842cjm a22002655a 4500</leader>
+          <controlfield tag="001">13668393</controlfield>
+          <controlfield tag="005">20040801190528.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">040727s2002    xxuuun                   </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DLC)  2004591654</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">srrepla</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vn09 2004-07-27 to MBRS/RS</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2004591654</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">692863039329</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">692863039329</subfield>
+            <subfield code="b">Emily R. Skinner</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DLC)13668393</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDB 02714</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily R.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Play time</subfield>
+            <subfield code="h">[sound recording] /</subfield>
+            <subfield code="c">Emily R. Skinner.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[United States] :</subfield>
+            <subfield code="b">Emily R. Skinner,</subfield>
+            <subfield code="c">[2002]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Compact disc.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Come to me -- Walking in autumn -- Song for Tim -- etc.</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>16</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03567cjm a2200721 i 4500</leader>
+          <controlfield tag="001">23394791</controlfield>
+          <controlfield tag="005">20231203103040.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">231124t20002000nyumcn|  diz      | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr27 2023-11-24 z-client</subfield>
+            <subfield code="i">qr27 2023-11-24</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023887151</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">090266373925</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2="0">
+            <subfield code="a">09026637392</subfield>
+          </datafield>
+          <datafield tag="024" ind1="1" ind2="0">
+            <subfield code="a">9026637392</subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">09026-63739-2</subfield>
+            <subfield code="b">RCA Victor</subfield>
+          </datafield>
+          <datafield tag="033" ind1="2" ind2="0">
+            <subfield code="a">20001002</subfield>
+            <subfield code="a">20001030</subfield>
+            <subfield code="b">3804</subfield>
+            <subfield code="c">N4</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm45634028</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">JED</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">JED</subfield>
+            <subfield code="d">CPL</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">KSU</subfield>
+            <subfield code="d">NYP</subfield>
+            <subfield code="d">KZV</subfield>
+            <subfield code="d">MTG</subfield>
+            <subfield code="d">SINLB</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">JSE</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">TFW</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">TFW</subfield>
+            <subfield code="d">LNC</subfield>
+            <subfield code="d">CNVPL</subfield>
+            <subfield code="d">JRA</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">TYC</subfield>
+            <subfield code="d">FQG</subfield>
+            <subfield code="d">SNN</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">GZN</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="045" ind1="0" ind2=" ">
+            <subfield code="b">d2000</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 72366</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">781.538</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Yazbek, David,</subfield>
+            <subfield code="d">1960-</subfield>
+            <subfield code="e">composer.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The full monty :</subfield>
+            <subfield code="b">the Broadway musical /</subfield>
+            <subfield code="c">book by Terrence McNally ; music and lyrics by David Yazbek.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New York, N.Y. :</subfield>
+            <subfield code="b">BMG :</subfield>
+            <subfield code="b">RCA Victor,</subfield>
+            <subfield code="c">[2000]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗2000</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc (47 min.) ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">004700</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="c">1.4 m/s</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Broadway cast: Patrick Wilson (Jerry Lukowski) ; John Ellison Conlee (Dave Bukatinsky) ; Romain Frugé (Ethan Girard) ; Jason Danieley (Malcolm MacGregor) ; Emily Skinner (Vicki Nichols) ; André De Shields (Noah "Horse" T. Simmons) ; Marcus Neville (Harold Nichols) ; Kathleen Freeman (Jeanette Burmeister) ; Annie Golden (Georgie Bukatinsky) ; with supporting singers and orchestra ; Kimberly Grigsby and Ted Sperling, conductors.</subfield>
+          </datafield>
+          <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="o">Recorded</subfield>
+            <subfield code="d">2000 October 2-6 and 30</subfield>
+            <subfield code="p">at RPM Studios and Edison Studios, New York City.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program notes by Lindsay Law, synopsis, full list of singers and orchestra members, and lyrics (35 pages : illustrations) inserted in container.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Overture</subfield>
+            <subfield code="g">(1:33) --</subfield>
+            <subfield code="t">Scrap</subfield>
+            <subfield code="g">(3:45) --</subfield>
+            <subfield code="t">It's a woman's world</subfield>
+            <subfield code="g">(2:19) --</subfield>
+            <subfield code="t">Man</subfield>
+            <subfield code="g">(3:12) --</subfield>
+            <subfield code="t">Big-ass rock</subfield>
+            <subfield code="g">(3:42) --</subfield>
+            <subfield code="t">Life with Harold</subfield>
+            <subfield code="g">(2:18) --</subfield>
+            <subfield code="t">Big Black man</subfield>
+            <subfield code="g">(3:51) --</subfield>
+            <subfield code="t">You rule my world</subfield>
+            <subfield code="g">(3:19) --</subfield>
+            <subfield code="t">Michael Jordan's ball</subfield>
+            <subfield code="g">(2:29) --</subfield>
+            <subfield code="t">Jeanette's showbiz number</subfield>
+            <subfield code="g">(3:40) --</subfield>
+            <subfield code="t">Breeze off the river</subfield>
+            <subfield code="g">(2:38) --</subfield>
+            <subfield code="t">The goods</subfield>
+            <subfield code="g">(4:31) --</subfield>
+            <subfield code="t">You walk with me</subfield>
+            <subfield code="g">(3:10) --</subfield>
+            <subfield code="t">You rule my world (reprise)</subfield>
+            <subfield code="g">(1:50) --</subfield>
+            <subfield code="t">Let it go</subfield>
+            <subfield code="g">(3:51).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Musicals.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01030814</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Broadway musical score.</subfield>
+            <subfield code="2">sears</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Original cast recordings</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01919889</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01726680</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Musicals.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Original cast recordings.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Comédies musicales.</subfield>
+            <subfield code="2">rvmgf</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McNally, Terrence,</subfield>
+            <subfield code="e">librettist.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wilson, Patrick,</subfield>
+            <subfield code="d">1973-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Conlee, John Ellison,</subfield>
+            <subfield code="d">1968-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Frugé, Romain,</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Danieley, Jason,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skinner, Emily,</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">De Shields, André,</subfield>
+            <subfield code="d">1946-</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Neville, Marcus,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Freeman, Kathleen,</subfield>
+            <subfield code="d">1919-2001,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Golden, Annie,</subfield>
+            <subfield code="e">singer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Grigsby, Kimberly,</subfield>
+            <subfield code="e">conductor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Sperling, Ted,</subfield>
+            <subfield code="e">conductor.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>17</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Skinner, Emiy" or dc.creator="Skinner, Emily"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

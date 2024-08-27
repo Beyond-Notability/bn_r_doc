@@ -1,0 +1,299 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS338</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000115586313</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000115586313</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Florence Elizabeth</forename>
+                    <surname>Harmer</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence Elizabeth</forename>
+                    <surname>Harmer</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence E.</forename>
+                    <surname>Harmer</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Florence Harmer</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q15616307</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence E.</forename>
+                    <surname>Harmer</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2003070917</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence E.</forename>
+                    <surname>Harmer</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence Elizabeth</forename>
+                    <surname>Harmer</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>081009267</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence Elizabeth</forename>
+                    <surname>Harmer</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10280823</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence Elizabeth</forename>
+                    <surname>Harmer</surname>
+                    <marcDate>1890-1967</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Florence Elizabeth</forename>
+                    <surname>Harmer</surname>
+                    <marcDate>1890-1967</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>11624173</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>F.E.</forename>
+                    <surname>Harmer</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="NLS">edt</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="NLS">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Anglo-Saxon writs</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>An @Anglo-Saxon chronicle from British Museum, Cotton Ms., Tiberius B. IV</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>An @Anglo-Saxon chronicle from British Museum, Cotton Ms., Tiberius B. IV</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Anglo-Saxon writs, 1952:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Anglo-Saxon writs, 1952:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Anglo-Saxon writs, 1952:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Anglo-Saxon writs, 1952:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Anglo-Saxon writs, 1952:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Bromfield and Coventry writ of King Edward the Confessor</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Select English historical documents of the ninth and tenth centuries</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Select English historical documents of the ninth and tenth centuries</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Anglo-Saxon writs</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Select English historical documents of the ninth and tenth centuries</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>An @Anglo-Saxon chronicle from British Museum, Cotton Ms., Tiberius B. IV</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Anglo-Saxon writs</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Select English historical documents of the ninth and tenth centuries</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781871615029</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781871615029</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781871615029</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781107402225</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <surname>Florence Harmer</surname>
+                    <nameTitle>English historian</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>F. E.</forename>
+                    <surname>Harmer</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>F. E.</forename>
+                    <surname>Harmer</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>F. E.</forename>
+                    <surname>Harmer</surname>
+                    <marcDate>1890-1967</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Florence Elizabeth</forename>
+                    <surname>Harmer</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1439</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>4924756</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/4924756</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>11624173</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>07445563X</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90383017</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>7043830</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>254759</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nr 92007218</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>19237136</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1439</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q15616307</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.findmypast.co.uk/transcript?id=TNA%2FR39%2F4445%2F4445E%2F012%2F14</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Florence_Harmer</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000115586313%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000115586313"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

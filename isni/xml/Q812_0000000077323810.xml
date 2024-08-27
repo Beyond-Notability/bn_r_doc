@@ -1,0 +1,254 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS536</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000077323810</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000077323810</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Brodrick</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Brodrick</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Broderick</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000309289</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>M.</forename>
+                    <surname>Brodrick</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Brodrick</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>118181726</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Mary Brodrick</surname>
+                    <nameTitle>British archaeologist and Egyptologist</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q18715540</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Brodrick</surname>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>13608906</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>M.</forename>
+                    <surname>Brodrick</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Broderick</surname>
+                    <source>OCLCT</source>
+                    <subsourceIdentifier>36415328</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="OCLCT">aut</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>@Concise dictionary of egyptian archaeology a handbook for students and travellers</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Concise dictionary of egyptian archaeology a handbook for students and travellers</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Concise dictionary of egyptian archaeology a handbook for students and travellers</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Handbook for travellers in Syria and Palestine ....</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Outlines of ancient Egyptian history.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @trial and crucifixion of Jesus Christ of Nazareth, 1908 :</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Concise dictionary of egyptian archaeology a handbook for students and travellers</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Concise dictionary of egyptian archaeology</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Egypt under the pharaohs</title>
+                      <subtitle>a history derived entirely from the monuments</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="OCLCT">
+                      <title>@Cyclical changes in alkaline phosphatase content in urine specimens of women</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780890053034</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781596052130</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780890053034</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Miss</forename>
+                    <surname>Brodrick</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Broderick</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>M.</forename>
+                    <surname>Brodrick</surname>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Brodrick</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Brodrick</surname>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>55392</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>VIAF</type>
+                <identifier>92283810</identifier>
+                <source>OCLCT</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q812</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>OCLCT</codeOfSource>
+                <sourceIdentifier>36415328</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>92283810</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/92283810</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>13608906</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>10120650X</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>5667</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nb 97079458</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q812</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q18715540</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Mary_Brodrick</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000077323810%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000077323810"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

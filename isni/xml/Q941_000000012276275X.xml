@@ -1,0 +1,723 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS553</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>000000012276275X</isniUnformatted>
+            <isniURI>https://isni.org/isni/000000012276275X</isniURI>
+            <mergedISNI>0000000363029989</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary H.</forename>
+                    <surname>Kingsley</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <source>BAnQ</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a2465503x</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2007140622</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>118777173</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                    <subsourceIdentifier>XX973982</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000453320</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>028937384</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001276436</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>00963928</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>jn20000700892</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>B2Q</source>
+                    <subsourceIdentifier>0000064392</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Mary Kingsley</surname>
+                    <nameTitle>English writer</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q235525</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12173673</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="BAnQ">cre</creationRole>
+                    <creationRole source="NTA">crp</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="BAnQ">as</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLI">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNE">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="NLS">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">as</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="NTA">im</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Notes on the folkflore of the Fjort (French Congo)</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @ascent of Cameroons Peak and travel in French Congo</title>
+                      <subtitle>paper read at a meeting of the Society on th 19th March, 1896</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>The @ascent of Cameroons Peak and travel in French Congo</title>
+                      <subtitle>paper read at a meeting of the Society on th 19th March, 1896</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Cautiva de África</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Dwa życia, dwie miłości</title>
+                      <statementOfResponsibility>Richard Bausch. - Warszawa, 2007.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@grünen Mauern meiner Flüsse Aufzeichnungen aus Westafrika</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Journal of the African Society</title>
+                      <subtitle>founded in memory of Mary Kingsley.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Notes on sport and travel</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Notes on the Folklore of the Fjort (French Congo). -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Notes on the Folklore of the Fjort (French Congo). -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@odyssée africaine une exploratrice victorienne chez les mangeurs d'hommes, 1893-1895</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Reizen in West-Afrika</title>
+                      <subtitle>1893-1895</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@Viajes por el África Occidental</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>@West African studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@West African studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@West African studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@West African studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@odyssée africaine une exploratrice victorienne chez les mangeurs d'hommes, 1893-1895</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Story of West Africa/by Mary H. Kingsley</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@West African studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Notes on the Folklore of the Fjort (French Congo). -</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Reizen in West-Afrika</title>
+                      <subtitle>1893-1895</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Story of West Africa/by Mary H. Kingsley</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Travels in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@West African studies</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780460873949</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780460873949</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780460871693</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782859402235</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782228886444</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780807071052</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780792266389</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9788477023654</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNE</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783865398611</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782859402235</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782228886444</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9789064100598</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780460873949</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9789058312785</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780850671001</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>M. H.</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary H.</forename>
+                    <surname>Kingsley</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary H.</forename>
+                    <surname>Kingsley</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary H.</forename>
+                    <surname>Kingsley</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary H.</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary H.</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary H.</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Henrietta</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mary Henrietta Kingsleyová</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mary Kingsley</surname>
+                    <nameTitle>Brits ontdekkingsreizigster (1862-1900)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mary Kingsley</surname>
+                    <nameTitle>anglická spisovatelka</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mary Kingsley</surname>
+                    <nameTitle>englische Forschungsreisende in Afrika und Autorin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mary Kingsley</surname>
+                    <nameTitle>scrittrice e etnologa inglese</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Meri Kingsli</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Мэри</forename>
+                    <surname>Кингсли</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Мери Кингсли</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>מרי קינגסלי</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ماري كينغسلي</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>مری کینگزلی</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>მერი კინგზლი</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>メアリ</forename>
+                    <surname>キングズリ</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary</forename>
+                    <surname>Kingsley</surname>
+                    <marcDate>1862-1900</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>49031</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca00941125</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>Uk</type>
+                <identifier>001027866</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q941</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>9889559</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/9889559</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12173673</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>072037814</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BAnQ</codeOfSource>
+                <sourceIdentifier>0000064392</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90772999</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>193566</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  83055838</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>20956053</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q941</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q235525</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ar.wikipedia.org/wiki/ماري_كينغسلي</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://cs.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://da.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://es.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://et.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fi.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://he.wikipedia.org/wiki/מרי_קינגסלי</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://it.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ka.wikipedia.org/wiki/მერი_კინგზლი</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://nl.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://no.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pl.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pt.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Кингсли,_Мэри</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sk.wikipedia.org/wiki/Mary_Henrietta_Kingsleyová</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sr.wikipedia.org/wiki/Мери_Кингсли</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sv.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://tl.wikipedia.org/wiki/Mary_Kingsley</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%22000000012276275X%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"000000012276275X"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

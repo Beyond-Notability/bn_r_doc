@@ -1,0 +1,237 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS181</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000066341239</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000066341239</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Annie Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>A. Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>A. Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV12082049</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>A. Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001380404</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>A. Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2007008578</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>A.B. Wallis</forename>
+                    <surname>Chapman</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>A. B. Wallis</forename>
+                    <surname>Chapman</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>108246</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>The @black book of Southampton, 1912:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @black book of Southampton, 1912:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Canary inquisition 1586-1594</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Canary inquisition 1586-1594</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @commercial relations of England and Portugal</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>The @commercial relations of England and Portugal</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @commercial relations of England and Portugal</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@English merchants and the Spanish inquisition in the Canaries</title>
+                      <subtitle>extracts from the archives in possession of the Most Hon. the Marquess of Bute</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English merchants and the Spanish inquisition in the Canaries</title>
+                      <subtitle>extracts from the archives in possession of the Most Hon. the Marquess of Bute</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@English merchants and the Spanish inquisition in the Canaries</title>
+                      <subtitle>extracts from the archives in possession of the Most Hon. the Marquess of Bute</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@English merchants and the Spanish inquisition in the Canaries</title>
+                      <subtitle>extracts from the archives in possession of the Most Hon. the Marquess of Bute</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@English merchants and the Spanish inquisition in the Canaries</title>
+                      <subtitle>extracts from the archives in possession of the Most Hon. the Marquess of Bute</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @status of women under the English law, 1909:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @status of women under the English law, 1909:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @status of women under the English law, 1909:</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Dr.</forename>
+                    <surname>Wallis Chapman</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A. B. Wallis</forename>
+                    <surname>Chapman</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A. B. Wallis</forename>
+                    <surname>Chapman</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A. B. Wallis</forename>
+                    <surname>Chapman</surname>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Annie Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Annie Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Annie Beatrice Wallis</forename>
+                    <surname>Chapman</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>56109</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q825</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>10208109</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/10208109</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>075189445</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>no 99013311</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q825</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q30014776</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000066341239%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000066341239"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

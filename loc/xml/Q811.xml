@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>9</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01998cam a2200397u  4500</leader>
+          <controlfield tag="001">6717267</controlfield>
+          <controlfield tag="005">20131025111002.0</controlfield>
+          <controlfield tag="007">sd bmmennmplue</controlfield>
+          <controlfield tag="008">851025s1980    xxu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qz07 2005-04-28</subfield>
+            <subfield code="e">qz07 2005-04-28 inventoried</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   79750685 </subfield>
+          </datafield>
+          <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">8027</subfield>
+            <subfield code="b">Arabesque Recordings</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   79750685</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Arabesque Recordings 8027</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Arias and songs sung by Dame Clara Butt</subfield>
+            <subfield code="h">[sound recording].</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[n.p.]</subfield>
+            <subfield code="b">Arabesque Recordings 8027. [1980]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc :</subfield>
+            <subfield code="b">analog, 33 1/3 rpm ;</subfield>
+            <subfield code="c">12 in.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Vocal music.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Butt, Clara,</subfield>
+            <subfield code="c">Dame,</subfield>
+            <subfield code="d">1872-1936.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Handel, George Frideric,</subfield>
+            <subfield code="d">1685-1759.</subfield>
+            <subfield code="t">Alessandro.</subfield>
+            <subfield code="p">Lusinghe più care.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Handel, George Frideric,</subfield>
+            <subfield code="d">1685-1759.</subfield>
+            <subfield code="t">Sosarme.</subfield>
+            <subfield code="p">Rendi'l sereno al ciglio.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Donizetti, Gaetano,</subfield>
+            <subfield code="d">1797-1848.</subfield>
+            <subfield code="t">Lucrezia Borgia.</subfield>
+            <subfield code="p">Segreto per esser felici.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Gluck, Christoph Willibald,</subfield>
+            <subfield code="c">Ritter von,</subfield>
+            <subfield code="d">1714-1787.</subfield>
+            <subfield code="t">Orfeo ed Euridice.</subfield>
+            <subfield code="p">Che farò senza Euridice.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Elgar, Edward,</subfield>
+            <subfield code="d">1857-1934.</subfield>
+            <subfield code="t">Dream of Gerontius.</subfield>
+            <subfield code="p">Softly and gently.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Elgar, Edward,</subfield>
+            <subfield code="d">1857-1934.</subfield>
+            <subfield code="t">Sea pictures.</subfield>
+            <subfield code="p">Where corals lie.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Elgar, Edward,</subfield>
+            <subfield code="d">1857-1934.</subfield>
+            <subfield code="t">Pomp and circumstance.</subfield>
+            <subfield code="n">No. 1.</subfield>
+            <subfield code="p">Largamente;</subfield>
+            <subfield code="o">arranged  [Sound recording] 1980. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Lehmann, Liza,</subfield>
+            <subfield code="d">1862-1918.</subfield>
+            <subfield code="t">Birth of the flowers. [Sound recording] 1980. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+            <subfield code="t">Keys of heaven.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Hatton, John Liptrot,</subfield>
+            <subfield code="d">1809-1886.</subfield>
+            <subfield code="t">Enchantress.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Hullah, John,</subfield>
+            <subfield code="d">1812-1884.</subfield>
+            <subfield code="t">Three fishers.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Goodhart, Arthur.</subfield>
+            <subfield code="t">Fairy went a-marketing.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Sullivan, Arthur,</subfield>
+            <subfield code="d">1842-1900.</subfield>
+            <subfield code="t">Light of the world.</subfield>
+            <subfield code="p">God shall wipe away all tears;</subfield>
+            <subfield code="o">arranged.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Dvořák, Antonín,</subfield>
+            <subfield code="d">1841-1904.</subfield>
+            <subfield code="t">Biblické písně.</subfield>
+            <subfield code="k">Selections.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">LPPmusic</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01494ccm a2200301 a 4500</leader>
+          <controlfield tag="001">16980194</controlfield>
+          <controlfield tag="005">20111012121823.0</controlfield>
+          <controlfield tag="008">110928q19401949enkfma|        n  | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vl16 2011-09-28 z-client</subfield>
+            <subfield code="i">vl16 2011-09-28</subfield>
+            <subfield code="e">vl34 2011-10-04 to Music Division</subfield>
+            <subfield code="e">vl39 2011-10-12 to BCCD c.1</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2011567011</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm07452617</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)7452617</subfield>
+            <subfield code="z">(OCoLC)20913407</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">IAZ</subfield>
+            <subfield code="c">IAZ</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">NJR</subfield>
+            <subfield code="d">OCLCG</subfield>
+            <subfield code="d">UPM</subfield>
+            <subfield code="d">YUU</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M1740</subfield>
+            <subfield code="b">.E513 1940z</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">English county songs :</subfield>
+            <subfield code="b">words and music /</subfield>
+            <subfield code="c">collected and edited by Lucy E. Broadwood and J.A. Fuller Maitland.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">J.B. Cramer</subfield>
+            <subfield code="c">[194-?]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 score (viii, 185 p.) ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">For voice and piano.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Songs of the northern counties -- Songs of the north-western counties -- Songs of the midland counties -- Songs of the eastern counties -- Songs of the home counties -- Songs of the south coast -- Songs of the sea.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk music</subfield>
+            <subfield code="z">England.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, English</subfield>
+            <subfield code="z">England.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fuller-Maitland, J. A.</subfield>
+            <subfield code="q">(John Alexander),</subfield>
+            <subfield code="d">1856-1936.</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">When this was cataloged (vl16 2011-09-28), a similar item represented by PREMARC record unk84127614 with call no. M1740.B86E58 1978 could not be located</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00855cam a2200253u  4500</leader>
+          <controlfield tag="001">5854981</controlfield>
+          <controlfield tag="005">20111003143627.0</controlfield>
+          <controlfield tag="008">820603s1893    enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   02027978</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   02027978 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M1740</subfield>
+            <subfield code="b">.B863</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm MUSIC 2587 M</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">English county songs, words and music,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">The Leadenhall press, ltd. [etc.]</subfield>
+            <subfield code="c">1893.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 185 p.</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, English.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fuller-Maitland, J. A.</subfield>
+            <subfield code="q">(John Alexander),</subfield>
+            <subfield code="d">1856-1936,</subfield>
+            <subfield code="e">joint ed.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">pmosl</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-Music</subfield>
+            <subfield code="h">M1740</subfield>
+            <subfield code="i">.B863</subfield>
+            <subfield code="p">00016983305</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm MUSIC 2587 M</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00616ccm a2200205u  4500</leader>
+          <controlfield tag="001">7223915</controlfield>
+          <controlfield tag="005">20110121180545.0</controlfield>
+          <controlfield tag="008">850206                                  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)unk84127614</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">unk84127614 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M1740.B86</subfield>
+            <subfield code="b">E58 1978</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">English county songs : words and music</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[n.p.,</subfield>
+            <subfield code="c">n.d.]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Songs, English. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-Music</subfield>
+            <subfield code="h">M1740.B86</subfield>
+            <subfield code="i">E58 1978</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00693cam a2200217u  4500</leader>
+          <controlfield tag="001">6668772</controlfield>
+          <controlfield tag="005">20110121180620.0</controlfield>
+          <controlfield tag="008">820603s1974    nju           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   74235115</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   74235115 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M1740.B86</subfield>
+            <subfield code="b">E6 1974</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+            <subfield code="e">comp.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">English traditional songs and carols</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Totowa, N.J.</subfield>
+            <subfield code="b">: Rowman &amp; Littlefield,</subfield>
+            <subfield code="c">1974.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xii, 125 p.</subfield>
+            <subfield code="b">;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, English.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Carols, English.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-Music</subfield>
+            <subfield code="h">M1740.B86</subfield>
+            <subfield code="i">E6 1974</subfield>
+            <subfield code="p">00016983299</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00542ccm a2200181u  4500</leader>
+          <controlfield tag="001">10501923</controlfield>
+          <controlfield tag="005">20110121180243.0</controlfield>
+          <controlfield tag="008">841115                                  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)unk84124302</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">unk84124302 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M1740</subfield>
+            <subfield code="b">.B86</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">English traditional songs and carols,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Boosey &amp; Co. [etc]</subfield>
+            <subfield code="c">c1908.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. cm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-Music</subfield>
+            <subfield code="h">M1740</subfield>
+            <subfield code="i">.B86</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00939cam a2200241u  4500</leader>
+          <controlfield tag="001">9663192</controlfield>
+          <controlfield tag="005">20110121180301.0</controlfield>
+          <controlfield tag="008">830419s1921    enkaf         000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   22026023</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   22026023 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">ML89</subfield>
+            <subfield code="b">.B752</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Songs from Alice in Wonderland and Through the looking-glass;</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">A. &amp; C. Black, ltd.</subfield>
+            <subfield code="c">[1921]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">48 p.</subfield>
+            <subfield code="b">incl. col. mounted front., illus., col. mounted plates.</subfield>
+            <subfield code="c">29 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Children's songs, English.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nursery rhymes, English.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Carroll, Lewis,</subfield>
+            <subfield code="d">1832-1898.</subfield>
+            <subfield code="t">Alice's adventures in Wonderland.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Carroll, Lewis,</subfield>
+            <subfield code="d">1832-1898.</subfield>
+            <subfield code="t">Through the looking-glass.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Folkard, Charles James,</subfield>
+            <subfield code="d">1878- [from old catalog]</subfield>
+            <subfield code="e">illus.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-Music</subfield>
+            <subfield code="h">ML89</subfield>
+            <subfield code="i">.B752</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01383cam a22003131  4500</leader>
+          <controlfield tag="001">7276223</controlfield>
+          <controlfield tag="005">20220801163016.0</controlfield>
+          <controlfield tag="008">760903s1907    enkag         000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   07023639</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   07023639 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2412621</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">ViU</subfield>
+            <subfield code="d">ViU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">GR121.J2</subfield>
+            <subfield code="b">J4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Jekyll, Walter.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Jamaican song and story:</subfield>
+            <subfield code="b">Annancy stories, digging sings, ring tunes, and dancing tunes,</subfield>
+            <subfield code="c">collected and edited by Walter Jekyll: with an introduction by Alice Werner, and appendices on traces of African melody in Jamaica by C. S. Myers, and on English airs and motifs in Jamaica, by Lucy E. Broadwood.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Pub. for the Folk-lore Society by D. Nutt,</subfield>
+            <subfield code="c">1907.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxxviii, 288 p.</subfield>
+            <subfield code="b">illus., music.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Publications of the Folk-lore Society,</subfield>
+            <subfield code="v">55</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folklore</subfield>
+            <subfield code="z">Jamaica.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk songs, English</subfield>
+            <subfield code="z">Jamaica.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Folk music</subfield>
+            <subfield code="z">Jamaica.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Anansi</subfield>
+            <subfield code="c">(Legendary character)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Werner, Alice,</subfield>
+            <subfield code="d">1859-1935.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Myers, Charles S.</subfield>
+            <subfield code="q">(Charles Samuel),</subfield>
+            <subfield code="d">1873-1946.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+          </datafield>
+          <datafield tag="810" ind1="2" ind2=" ">
+            <subfield code="a">Folklore Society (Great Britain).</subfield>
+            <subfield code="t">Publications ;</subfield>
+            <subfield code="v">55.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">GR121.J2</subfield>
+            <subfield code="i">J4</subfield>
+            <subfield code="p">00027286434</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00742ccm a2200217u  4500</leader>
+          <controlfield tag="001">5970612</controlfield>
+          <controlfield tag="005">20110121180642.0</controlfield>
+          <controlfield tag="008">810918                                  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   39015448</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   39015448 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M2065.W23</subfield>
+            <subfield code="b">C5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Walter, Lavinia Edna, [from old catalog]</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Christmas carols;</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">A. &amp; C. Black, ltd.</subfield>
+            <subfield code="c">[1922]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">58 p. incl. col. front., illus., col. plates.</subfield>
+            <subfield code="c">28 x 22 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Carols. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Broadwood, Lucy Etheldred,</subfield>
+            <subfield code="d">1858-1929.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hartley, J. H., [from old catalog]</subfield>
+            <subfield code="e">illus.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-Music</subfield>
+            <subfield code="h">M2065.W23</subfield>
+            <subfield code="i">C5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Broadwood, Lucy E." or dc.creator="Broadwood, Lucy Etheldred"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

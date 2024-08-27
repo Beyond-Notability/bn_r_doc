@@ -1,0 +1,2494 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS682</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000121443562</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000121443562</isniURI>
+            <mergedISNI>0000000448516508</mergedISNI>
+            <mergedISNI>0000000491132673</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>dronning av Storbritannia og Irland</nameTitle>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Queen Victoria</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <script>Latn</script>
+                    <surname>Victoria</surname>
+                    <nameTitle>reine de Grande-Bretagne</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Queen Victoria</surname>
+                    <nameTitle>British monarch who reigned 1837–1901</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q9439</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria I</surname>
+                    <nameTitle>Reina del Reino Unido</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                    <subsourceIdentifier>10000000000000000039245</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>Reina de Gran Bretaña</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNE</source>
+                    <subsourceIdentifier>XX979643</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>королева английская</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                    <subsourceIdentifier>RU NLR AUTH 77100151</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Queen of Great Britain</forename>
+                    <surname>Victoria</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                    <subsourceIdentifier>500022428</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Queen of Great Britain</forename>
+                    <surname>Victoria</surname>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>00621601</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>LAC</source>
+                    <subsourceIdentifier>0040K3645E</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000137847</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                    <subsourceIdentifier>LNC10-000102956</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000098075</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>britanska kraljica</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NSK</source>
+                    <subsourceIdentifier>000432838</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>regina di Gran Bretagna e Irlanda</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10197958</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>reine de Grande-Bretagne</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>027448207</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>reine de Grande-Bretagne</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>B2Q</source>
+                    <subsourceIdentifier>0000036456</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>reina de la Gran Bretanya</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                    <subsourceIdentifier>a11252959</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Grossbritannien, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                    <subsourceIdentifier>vtls005635183</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Großbritannien, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>118626876</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Viktoria</surname>
+                    <nameTitle>drottning av Storbritannien</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Viktorie</surname>
+                    <nameTitle>britská královna</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>jn20000701900</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Wiktoria</surname>
+                    <nameTitle>(królowa Wielkiej Brytanii ;</nameTitle>
+                    <marcDate>1819-1901)</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a24623088</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Wiktoria</surname>
+                    <nameTitle>(królowa Wielkiej Brytanii ;</nameTitle>
+                    <marcDate>1819-1901)</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  94207665</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>koningin van Groot-Brittannië en Ierland</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <source>BLSA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">org</creationRole>
+                    <creationRole source="BNF">dte</creationRole>
+                    <creationRole source="BNF">dte</creationRole>
+                    <creationRole source="BNF">org</creationRole>
+                    <creationRole source="BNF">dte</creationRole>
+                    <creationRole source="BNF">org</creationRole>
+                    <creationRole source="VIAF" subsource="DNB">ctb</creationRole>
+                    <creationRole source="BLSA">prf</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="NLS">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNE">am</creationClass>
+                    <creationClass source="VIAF" subsource="NDL">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLR">am</creationClass>
+                    <creationClass source="VIAF" subsource="NKC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLI">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNC">am</creationClass>
+                    <creationClass source="VIAF" subsource="B2Q">am</creationClass>
+                    <creationClass source="VIAF" subsource="LAC">cm</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">em</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">im</creationClass>
+                    <creationClass source="VIAF" subsource="BNC">km</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">mm</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">tc</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">td</creationClass>
+                    <creationClass source="VIAF" subsource="NLI">tm</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="NTA">tm</creationClass>
+                    <creationClass source="BLSA">jm</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">cm</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Bitterzoet</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Letter to the Queen on the state of the monarchy</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @adventures of Alice Lascelles a children's story by Alexandrina Victoria aged 10 3/4</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Pages du journal de la reine Victoria souvenirs d'un séjour à Paris en 1855</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Victoria portrait de la reine en jeune fille triste, en épouse comblée, en souveraine triomphante, en mère castratrice, en veuve abusive, en douairière misanthrope et en grand-mère de l'Europe</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Darling child private correspondance of Queen Victoria and the Crown princess of Prussia, 1871-1878</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Dear and Honoured Lady the correspondence between Queen Victoria and Alfred Tennyson</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Dearest mama, letters between Queen Victoria and the Crown princess of Prussia, 1861-1864</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Victoria in the Highlands the personal journal of Her Majesty Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Dearest child</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Regina v. Palmerston, the correspondence between Queen Victoria and her Foreign and Prime Minister, 1837-1865</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Leaves from a Journal, a record of the visit of the Emperor and Empress of the French to the Queen, and of the visit of the Queen and... the Prince Consort to the Emperor of the French, 1855... Introduction by Raymond Mortimer</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Further letters of Queen Victoria, from the archives of the House of Brandenburg-Prussia, translated from the German by Mrs. J. Pudney and Lord Sudley and edited by Hector Bolitho</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Letters of Queen Victoria from the Archives of the House of Brandenburg-Prussia, translated from the German by Mrs. J. Pudney and Lord Sudley, edited by Hector Bolitho</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @letters of Queen Victoria a selection from Her Majesty's correspondence and Journal between the years 1862 and 1878</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Girlhood of Queen Victoria, a selection from Her Majesty's diaries between the years 1822 and 1840, published by authority of His Majesty the King, edited by Viscount Esher,... in two volumes...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@La Reine Victoria. Pages choisies de sa correspondance, 1837-1861. Traduction française avec une introduction et des notes, par Jacques Bardoux</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Panmure papers, being a selection from the correspondence of Fox Maule, second Baron Panmure, afterwards eleventh Earl of Dalhousie,... edited by Sir George Douglas,... and Sir George Dalhousie Ramsay,... with a supplementary chapter by the late Rev. Principal Rainy,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @letters of Queen Victoria a selection from Her Majesty's correspondence between the years 1837 and 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@La Reine Victoria d'après sa correspondance inédite</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@La schottisch pour piano</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@La schottisch pour piano à 4 mains</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Marche triomphale [pour piano]</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Address to the Queen on behalf of the manufacturing poor.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Advice to a grand-daughter letters</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Appendix to case on behalf of Her Majesty</title>
+                      <subtitle>in the House of Lords (on writs of error from the Queen's Bench in Ireland)</subtitle>
+                      <subtitle>between Daniel O'Connell ... [et al.], plaintiffs in error, and Her Majesty the Queen, defendant in error.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Beloved mama</title>
+                      <subtitle>private correspondence of Queen Victoria and the German Crown Princess, 1878-1885</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Bhikṭoriẏā-rājasūẏa, 1879:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Dear and Honoured Lady the correspondence between Queen Victoria and Alfred Tennyson</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Dear and Honoured Lady the correspondence between Queen Victoria and Alfred Tennyson</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Dear and Honoured Lady the correspondence between Queen Victoria and Alfred Tennyson</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Dear and Honoured Lady the correspondence between Queen Victoria and Alfred Tennyson</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Dziennik osobisty królowej Wiktoryi.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Dziennik osobisty królowej Wiktoryi.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="B2Q">
+                      <title>@Fréchette L. À Sa Majesté Victoria 1ère, reine d'Angleterre et impératrice des Indes, 1897</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>La @jeunesse de S. A. R. le prince Albert.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Königin Victorias Briefwechsel und Tagebuchblätter</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Königin Victorias Briefwechsel und Tagebuchblätter</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Königin Victorias Briefwechsel und Tagebuchblätter</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@Königin Victorias Briefwechsel und Tagebuchblätter</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Leaves from a journal; a record of the visit of the Emperor and Empress of the French to the Queen, and of the visit of the Queen and H. R. H., the Prince consort, to the Emperor of the French, 1855.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Leaves from a journal; a record of the visit of the Emperor and Empress of the French to the Queen, and of the visit of the Queen and H. R. H., the Prince consort, to the Emperor of the French, 1855.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Leaves from a journal; a record of the visit of the Emperor and Empress of the French to the Queen, and of the visit of the Queen and H. R. H., the Prince consort, to the Emperor of the French, 1855.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="B2Q">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Letter to the Queen on the state of the monarchy</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Letter to the Queen on the state of the monarchy</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNE">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLR">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="B2Q">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NSK">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Notes on the Lennox or Darnley jewel</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Pages du journal de la reine Victoria souvenirs d'un séjour à Paris en 1855</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Pianta di Roma</title>
+                      <subtitle>publicata nell'anno MDCCCLIII...</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Programme of the royal procession to St. Paul's Cathedral, June 22nd 1897, on the occasion of the Queen's diamond jubilee ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Queen and Mr. Gladstone</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Queen and Mr. Gladstone</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Queen Victoria ein biographisches Lesebuch aus ihren Briefen und Tagebüchern</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Queen Victoria's Alice in Wonderland.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Queen's literary tribute to the memory of the Prince Consort</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Reine Victoria d'après sa correspondance inédite</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Sammlung</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @secret life of Queen Victoria</title>
+                      <subtitle>her Majesty's missing diaries, being an account of her hitherto unknown travels through the island of Jamaica in the year 1871</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>A @selection from her Majesty's correspondence and journal between the years 1862 and 1878.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Tagebuch aus der Mädchenzeit vom 13. Lebensjahre 1832 bis zur Verheiratung 1840</title>
+                      <subtitle>mit 32 Portraits und Skizzen von der Hand der Königin</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LAC">
+                      <title>@Then raise the song of Empire</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="B2Q">
+                      <title>@[To Her Most Gracious Majesty the Queen, the humble petition of Richard Hall, William John Goepel, Ferdinand Henry Siewerd, Caesar Doring respecting the arrest of the British schooner "Araunah", her officers and crew, by Russia in 1888 Tupper, Peters &amp; Potts, solicitors for the petitioners].</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLR">
+                      <title>@Victoria and Albert life at Osborne House</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Victoria in the Highlands: the personal journal of Her Majesty Queen Victoria; with notes and introductions, and a description of the acquisition and rebuilding of Balmoral Castle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Victoria Regina</title>
+                      <subtitle>a congratulatory national poem, in two cantos, on the auspicious accession of Her Gracious Majesty, [etc.].</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Visit of her Majesty the Queen to Dublin, April 4th, 1900. Official programme of arangements, etc.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LNB">
+                      <title>@Webster's new biographical dictionary, 1988:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LNB">
+                      <title>@Всемирный биографический энциклопедический словарь, 1998:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLR">
+                      <title>@Королева Виктория, 2007:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LNB">
+                      <title>@Королева Виктория, 2007:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@קובץ שירים</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@蘇国巡遊日記</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Beloved mama</title>
+                      <subtitle>private correspondence of Queen Victoria and the German Crown Princess, 1878-1885</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Brief van Victoria, koningin van Groot-Brittannië en Ierland (1819-1901), geschreven aan Steinwarz</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Dear and Honoured Lady the correspondence between Queen Victoria and Alfred Tennyson</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Dearest child</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @early years of His Royal Highness the prince consort</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Königin Victorias Briefwechsel und Tagebuchblätter</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Leaves from a journal; a record of the visit of the Emperor and Empress of the French to the Queen, and of the visit of the Queen and H. R. H., the Prince consort, to the Emperor of the French, 1855.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Letters from the archives of the house of Brandenburg-Prussia</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @letters of Queen Victoria</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@National education</title>
+                      <subtitle>a sermon preached in the church of St. Martin in the Fields, on Sunday, February 18, 1838, in compliance with the Queen's letter on behalf of the National Society for educating the children of the poor in the principles of the established church</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Queen and Mr. Gladstone</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Queen Victoria's Alice in Wonderland.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@queen's letter to the Archbishop of Canterbury</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Reine Victoria d'après sa correspondance inédite</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @secret life of Queen Victoria</title>
+                      <subtitle>her Majesty's missing diaries, being an account of her hitherto unknown travels through the island of Jamaica in the year 1871</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BLSA">
+                      <title>@Leaves from the journal of our life in the Highlands from 1848 to 1861</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Queen's Town Polka</title>
+                      <subtitle>respectfully dedicated to her most gracious majesty Queen Victoria in honor of her visit to Ireland</subtitle>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9789078935582</identifierValue>
+                      <source>KBR</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781909741188</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782070122868</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780237448578</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780862998806</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780862998806</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780862998806</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780237448578</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719541070</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780434348619</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780333271322</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780333271322</identifierValue>
+                      <source>VIAF</source>
+                      <source>NLR</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780333104422</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780333104422</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780237449971</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780197259887</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780197259887</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9785971386919</identifierValue>
+                      <source>VIAF</source>
+                      <source>NLR</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9784895512473</identifierValue>
+                      <source>VIAF</source>
+                      <source>NDL</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783423128469</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781856951555</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781556551871</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780838679227</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780665633218</identifierValue>
+                      <source>VIAF</source>
+                      <source>B2Q</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780470044391</identifierValue>
+                      <source>VIAF</source>
+                      <source>NLR</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780862998806</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780237448578</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719541070</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780434348619</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780237449971</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780283985898</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780237351878</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <source>NLN</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Bhikṭoriẏā</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ויקטוריא</surname>
+                    <nameTitle>מלכת ברטאניא</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <script>Latn</script>
+                    <surname>Victoria</surname>
+                    <nameTitle>impératrice des Indes</nameTitle>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Ban-rìgh Bhictoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>I Viktoriya</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Keybanû Victoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Koningin Victoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Kuninganna Victoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Masiofo Vitoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Reina Victòria del Regne Unit</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria Nṳ̄-uòng</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria a Regatului Unit</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria af Storbritannien</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria av Storbritannia</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria của Anh</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria dari Britania Raya</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria dari United Kingdom</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria del Reino Unido</surname>
+                    <nameTitle>reina del Reino Unido de Gran Bretaña e Irlanda y emperatriz de la India</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria del Reinu Xuníu</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria drotning</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria du Rouoyaume Unni</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria du Royaume-Uni</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria fan it Feriene Keninkryk</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria han Reino Unido</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria na Ríochta Aontaithe</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria ng Nagkakaisang Kaharian</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria saking Britania Raya</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria van die Verenigde Koninkryk</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria van het Verenigd Koninkrijk</surname>
+                    <nameTitle>Brits autobiografe (1819-1901)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria vum Vereengte Kinnekräich</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria vun Grootbritannien</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Chenigi vu Großbritannien un Irland</forename>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>brenhines y Deyrnas Unedig</forename>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Königin des Vereinigten Königreichs</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>reine du Royaume-Uni entre 1837 et 1901</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria I dau Reiaume Unit</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria Erresuma Batukoa</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria av Storbritannien</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria wa Uingereza</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Ison-Britannian ja Irlannin yhdistyneen kuningaskunnan kuningatar 1837–1901</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktorie</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktorija</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktorija Britanska</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>kraljica Ujedinjenog Kraljevstva</forename>
+                    <surname>Viktorija</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktorya</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoría Bretadrottning</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktória brit királynő</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vitoria d'o Reino Unito</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vittoria del Regno Unito</surname>
+                    <nameTitle>regina del Regno Unito</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vittoria dû Regnu Unitu</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vitória do Reino Unido</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vitöia d'Inghiltæra</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vì-tô-li-â Ńg-vòng</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vėktuorėjė</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Wiktoria Hanowerska</surname>
+                    <nameTitle>królowa Wielkiej Brytanii</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Βασίλισσα Βικτωρία</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Виктория</surname>
+                    <nameTitle>королева Великобритании</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Викторија Хановерска</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Вікторыя</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>каралева брытанская</forename>
+                    <surname>Вікторыя</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Вікторія</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Кралица Викторија</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Վիկտորիա թագուհի</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ויקטוריה</surname>
+                    <nameTitle>מלכת הממלכה המאוחדת</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>קעניגין וויקטאריע</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>فيكتوريا ملكة المملكة المتحدة</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>فيكتوريا ملكة المملكه المتحده</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ملکه ویکتوریا</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ملکه وېکټوريا</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ملکہ وکٹوریہ</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ویکتوریای پادشاهی متحده</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ڤیکتۆریا</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>रानी भिक्टोरिया</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>विक्टोरिया</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>व्हिक्टोरिया राणी</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>রাণী ভিক্টোরিয়া</surname>
+                    <nameTitle>Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837, and the first Empress of India from 1 May 1876, until her death on 22 January 1901. The period centred on her reign is known as the Victorian era</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ஐக்கிய இராச்சியத்தின் விக்டோரியா</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>బ్రిటన్‌ రాణి విక్టోరియా</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಂನ ವಿಕ್ಟೋರಿಯಾ</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>വിക്ടോറിയ രാജ്ഞി</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>වික්ටෝරියා රැජින - එක්සත් රාජධානිය</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>สมเด็จพระราชินีนาถวิกตอเรียแห่งสหราชอาณาจักร</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ვიქტორია</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ヴィクトリア</surname>
+                    <nameTitle>イギリス女王（在位：1837 - 1901年）</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>維多利亞女王</surname>
+                    <nameTitle>英國君主</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>維多利亞女王</surname>
+                    <nameTitle>英國女王和印度女皇</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>維多利亞女皇</surname>
+                    <nameTitle>英國君主</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>维多利亚女王</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>维多利亚女王</surname>
+                    <nameTitle>英国君主</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>维多利亚女王</surname>
+                    <nameTitle>英国女王和印度女皇</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>英國維多利亞女皇</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>英王維多利亞</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>빅토리아</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>﻿ਮਲਿਕਾ ਵਿਕਟੋਰੀਆ</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria I</surname>
+                    <nameTitle>Emperatriz de la India</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria I</surname>
+                    <nameTitle>Reina de Inglaterra e Irlanda</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria I</surname>
+                    <nameTitle>Reina del Reino Unido y Emperatriz de la India</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>императрица Индии</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>королева английская</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Виктория</surname>
+                    <nameTitle>императрица Индии</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Виктория</surname>
+                    <nameTitle>королева английская</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>королева английская</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Виктория</surname>
+                    <nameTitle>королева английская</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLR</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Bhikṭoriẏā</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Reina de Gran Bretaña</forename>
+                    <surname>Victoria I</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Queen</forename>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Queen of Great Britain and Empress of India</forename>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>koningin van Groot-Brittannië en Ierland</forename>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>regina di Gran Bretagna e Irlanda</forename>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>reine de Grande-Bretagne</forename>
+                    <surname>Victoria</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Königin</forename>
+                    <surname>Viktoria Großbritannien</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ויקטוריא</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Vikutoria Joou</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ヴィクトリア</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ヴィクトリア ジョオウ</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ヴィクトリア女王</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>reine de Grande-Bretagne</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>LAC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>וויקטאריע</surname>
+                    <nameTitle>קעניגין פון גרויס בריטאניע (אודות)</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>וויקטוריה</surname>
+                    <nameTitle>מלכת אנגליה</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ויקטוריה</surname>
+                    <nameTitle>מלכת בריטניה הגדולה</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ڤيكتوريا</surname>
+                    <nameTitle>(ملكة بريطانيا العظمى)</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktorija</surname>
+                    <nameTitle>Lielbritānijas karaliene</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Виктория</surname>
+                    <nameTitle>королева Великобритании</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>LNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Bhikṭoriẏā</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Queen of Great Britain</surname>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ויקטוריא</surname>
+                    <nameTitle>מלכת ברטאניא</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Queen Victoria</surname>
+                    <marcDate>1819-1901</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>impératrice des Indes</nameTitle>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>Reina d'Anglaterra</nameTitle>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>Reina d'Anglaterra</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>Reina de la Gran Bretanya i Irlanda</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>emperadriu de l'Índia</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>reina de Gran Bretanya i Irlanda</nameTitle>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>reina de la Gran Bretanya i d'Irlanda</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victòria</surname>
+                    <numeration>I</numeration>
+                    <nameTitle>reina del Gran Bretanya</nameTitle>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Anglia, Regina</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Angliae, Regina</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Britannia, Regina</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>England, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Great Britain, Queen</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Grossbritannien, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain, 1819-1901</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>England, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Indien, Kaiserin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>SWNL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <nameTitle>Königin von Grossbritannien</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Anglia, Regina</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Angliae, Regina</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Britannia, Regina</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>England, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Great Britain, Queen</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Grossbritannien ; Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Großbritannien, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Königin von Grossbritannien</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain, 1819-1901</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Reine de Grande-Bretagne</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria Alexandrina</surname>
+                    <nameTitle>Königin von Grossbritannien</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria Alexandrina</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria Alexandrina</surname>
+                    <nameTitle>Reine de Grande-Bretagne</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>England, Königin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Indien, Kaiserin</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Königin von Grossbritannien</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>Reine de Grande-Bretagne</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>Queen of Great Britain</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>drottning av England</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>drottning av Storbritannien och Irland</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Viktoria</surname>
+                    <nameTitle>drottning av England</nameTitle>
+                    <marcDate>1819-1901</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Alexandrina Victoria</surname>
+                    <marcDate>1819-1901</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria I</surname>
+                    <nameTitle>(reine de Grande-Bretagne ;</nameTitle>
+                    <marcDate>1819-1901)</marcDate>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>(Queen of Great Britain ;</nameTitle>
+                    <marcDate>1819-1901). [m]</marcDate>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Wiktorya</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria I</surname>
+                    <nameTitle>(reine de Grande-Bretagne ;</nameTitle>
+                    <marcDate>1819-1901)</marcDate>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria</surname>
+                    <nameTitle>(Queen of Great Britain ;</nameTitle>
+                    <marcDate>1819-1901). [m]</marcDate>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Victoria Alexandrine</surname>
+                    <marcDate>1819-1901</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>LAC</type>
+                <identifier>0040K3645E</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca00251838</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90254862</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1391</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BLSA</codeOfSource>
+                <sourceIdentifier>A82636</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>315674307</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/315674307</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>95738652</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/95738652</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>11928202</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>070185115</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>205997</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  79017983</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14158528</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1391</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q9439</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://af.wikipedia.org/wiki/Victoria_van_die_Verenigde_Koninkryk</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://als.wikipedia.org/wiki/Victoria_(Vereinigtes_Königreich)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://an.wikipedia.org/wiki/Vitoria_d'o_Reino_Unito</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ar.wikipedia.org/wiki/فيكتوريا_ملكة_المملكة_المتحدة</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://arz.wikipedia.org/wiki/فيكتوريا_ملكة_المملكه_المتحده</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ast.wikipedia.org/wiki/Victoria_del_Reinu_Xuníu</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://az.wikipedia.org/wiki/I_Viktoriya</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ba.wikipedia.org/wiki/Виктория_(Бөйөк_Британия_Королеваһы)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://bat_smg.wikipedia.org/wiki/Vėktuorėjė_(karalienė)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://be.wikipedia.org/wiki/Вікторыя,_каралева_брытанская</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://be_x_old.wikipedia.org/wiki/Вікторыя_(каралева_Вялікабрытаніі)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://bg.wikipedia.org/wiki/Виктория</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://bn.wikipedia.org/wiki/রাণী_ভিক্টোরিয়া</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://br.wikipedia.org/wiki/Victoria_(Rouantelezh-Unanet)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://bs.wikipedia.org/wiki/Viktorija,_kraljica_Ujedinjenog_Kraljevstva</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ca.wikipedia.org/wiki/Reina_Victòria_del_Regne_Unit</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://cdo.wikipedia.org/wiki/Victoria_Nṳ̄-uòng</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ckb.wikipedia.org/wiki/ڤیکتۆریا_(شاژن)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://cs.wikipedia.org/wiki/Viktorie_(britská_královna)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://cy.wikipedia.org/wiki/Victoria,_brenhines_y_Deyrnas_Unedig</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://da.wikipedia.org/wiki/Victoria_af_Storbritannien</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Victoria_(Vereinigtes_Königreich)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://el.wikipedia.org/wiki/Βασίλισσα_Βικτωρία</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Queen_Victoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://eo.wikipedia.org/wiki/Viktoria_(Britio)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://es.wikipedia.org/wiki/Victoria_del_Reino_Unido</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://et.wikipedia.org/wiki/Victoria_(Suurbritannia)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://eu.wikipedia.org/wiki/Viktoria_Erresuma_Batukoa</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fa.wikipedia.org/wiki/ملکه_ویکتوریا</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fi.wikipedia.org/wiki/Viktoria_(Iso-Britannia)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fiu_vro.wikipedia.org/wiki/Kuninganna_Victoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fo.wikipedia.org/wiki/Victoria_drotning</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Victoria_(reine)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fy.wikipedia.org/wiki/Victoria_fan_it_Feriene_Keninkryk</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ga.wikipedia.org/wiki/Victoria_na_Ríochta_Aontaithe</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://gd.wikipedia.org/wiki/Bànrigh_Bhictoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://gl.wikipedia.org/wiki/Vitoria_do_Reino_Unido</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://hak.wikipedia.org/wiki/Vì-tô-li-â_Ńg-vòng</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://he.wikipedia.org/wiki/ויקטוריה,_מלכת_הממלכה_המאוחדת</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://hi.wikipedia.org/wiki/विक्टोरिया</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://hr.wikipedia.org/wiki/Viktorija,_kraljica_Ujedinjenog_Kraljevstva</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://hu.wikipedia.org/wiki/Viktória_brit_királynő</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://hy.wikipedia.org/wiki/Վիկտորիա_(Մեծ_Բրիտանիայի_թագուհի)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://id.wikipedia.org/wiki/Victoria_dari_Britania_Raya</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://io.wikipedia.org/wiki/Victoria_(rejino)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://is.wikipedia.org/wiki/Viktoría_Bretadrottning</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://it.wikipedia.org/wiki/Vittoria_del_Regno_Unito</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ja.wikipedia.org/wiki/ヴィクトリア_(イギリス女王)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://jv.wikipedia.org/wiki/Victoria_saking_Britania_Raya</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ka.wikipedia.org/wiki/ვიქტორია_(გაერთიანებული_სამეფო)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://kk.wikipedia.org/wiki/Виктория_(Ұлыбритания_патшайымы)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://kn.wikipedia.org/wiki/ಯುನೈಟೆಡ್_ಕಿಂಗ್ಡಂನ_ವಿಕ್ಟೋರಿಯಾ</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ko.wikipedia.org/wiki/빅토리아_(영국)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ku.wikipedia.org/wiki/Keybanû_Victoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://kw.wikipedia.org/wiki/Viktorya</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ky.wikipedia.org/wiki/Виктория,_Улуу_Британиянын_королевасы</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://la.wikipedia.org/wiki/Victoria_(regina_Britanniarum)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://lb.wikipedia.org/wiki/Victoria_vum_Vereenegte_Kinnekräich</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://lij.wikipedia.org/wiki/Vitöia_d'Inghiltæra</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://lt.wikipedia.org/wiki/Viktorija_(karalienė)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://lv.wikipedia.org/wiki/Viktorija_(Lielbritānija)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://mg.wikipedia.org/wiki/Victoria_du_Royaume-Uni</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://mk.wikipedia.org/wiki/Кралица_Викторија</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ml.wikipedia.org/wiki/വിക്ടോറിയ_രാജ്ഞി</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://mr.wikipedia.org/wiki/व्हिक्टोरिया_राणी</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ms.wikipedia.org/wiki/Victoria_dari_United_Kingdom</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://mzn.wikipedia.org/wiki/ملکه_ویکتوریا</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://nds.wikipedia.org/wiki/Victoria_vun_Grootbritannien</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ne.wikipedia.org/wiki/महारानी_भिक्टोरिया</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://nl.wikipedia.org/wiki/Victoria_van_het_Verenigd_Koninkrijk</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://nn.wikipedia.org/wiki/Victoria_av_Storbritannia</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://no.wikipedia.org/wiki/Victoria_av_Storbritannia</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://nrm.wikipedia.org/wiki/Victoria_du_Rouoyaume_Unni</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://oc.wikipedia.org/wiki/Victòria_dau_Reiaume_Unit</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pa.wikipedia.org/wiki/﻿ਮਲਿਕਾ_ਵਿਕਟੋਰੀਆ</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pl.wikipedia.org/wiki/Wiktoria_Hanowerska</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pnb.wikipedia.org/wiki/ملکہ_وکٹوریہ</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ps.wikipedia.org/wiki/ملکه_وېکټوريا</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pt.wikipedia.org/wiki/Vitória_do_Reino_Unido</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://qu.wikipedia.org/wiki/Victoria_(quya)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ro.wikipedia.org/wiki/Victoria_a_Regatului_Unit</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Виктория_(королева_Великобритании)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sa.wikipedia.org/wiki/विक्टोरिया</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://scn.wikipedia.org/wiki/Vittoria_dû_Regnu_Unitu</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sco.wikipedia.org/wiki/Queen_Victoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sh.wikipedia.org/wiki/Viktorija</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://si.wikipedia.org/wiki/වික්ටෝරියා_අධිරාජිනිය</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://simple.wikipedia.org/wiki/Queen_Victoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sk.wikipedia.org/wiki/Viktória_(Spojené_kráľovstvo)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sl.wikipedia.org/wiki/Viktorija_Britanska</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sm.wikipedia.org/wiki/Masiofo_Vitoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sr.wikipedia.org/wiki/Викторија_Хановерска</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sv.wikipedia.org/wiki/Viktoria_av_Storbritannien</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://sw.wikipedia.org/wiki/Viktoria_wa_Uingereza</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ta.wikipedia.org/wiki/ஐக்கிய_இராச்சியத்தின்_விக்டோரியா</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://te.wikipedia.org/wiki/బ్రిటన్_రాణి_విక్టోరియా</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://th.wikipedia.org/wiki/สมเด็จพระราชินีนาถวิกตอเรียแห่งสหราชอาณาจักร</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://tl.wikipedia.org/wiki/Victoria_ng_Nagkakaisang_Kaharian</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://tr.wikipedia.org/wiki/Victoria_(Britanya)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://tt.wikipedia.org/wiki/Виктория_(Бөекбритания_патшабикәсе)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://uk.wikipedia.org/wiki/Вікторія_(королева_Великої_Британії)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ur.wikipedia.org/wiki/ملکہ_وکٹوریہ</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://vi.wikipedia.org/wiki/Victoria_của_Anh</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://war.wikipedia.org/wiki/Reyna_Victoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://wuu.wikipedia.org/wiki/维多利亚女王</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://xmf.wikipedia.org/wiki/ვიქტორია_(გოართოიანაფილი_ომაფე)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://yi.wikipedia.org/wiki/קעניגין_וויקטאריע</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://zea.wikipedia.org/wiki/Koningin_Victoria</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://zh.wikipedia.org/wiki/维多利亚_(英国君主)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://zh_classical.wikipedia.org/wiki/英王維多利亞</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://zh_min_nan.wikipedia.org/wiki/Victoria_(Liân-ha̍p_Ông-kok)</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://zh_yue.wikipedia.org/wiki/英國維多利亞女皇</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000121443562%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000121443562"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

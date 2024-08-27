@@ -1,0 +1,563 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS491</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000110252496</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000110252496</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Margaret Dickens</forename>
+                    <surname>Whinney</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Whinney</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Margaret Whinney</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q3290527</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Whinney</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11115166</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Dickens</forename>
+                    <surname>Whinney</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001208727</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Dickens</forename>
+                    <surname>Whinney</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Dickens</forename>
+                    <surname>Whinney</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000141401</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Dickens</forename>
+                    <surname>Whinney</surname>
+                    <marcDate>1897-1975</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a24636836</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret Dickens</forename>
+                    <surname>Whinney</surname>
+                    <marcDate>1897-1975</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  98010298</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Whinney</surname>
+                    <marcDate>1897-1975</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>031632831</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Whinney</surname>
+                    <marcDate>1897-1975</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12281102</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Whinney</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLI">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @collection of models by John Flaxman, R.A. at University College London;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @collection of models by John Flaxman, R.A. at University College London;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Early Flemish painting</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@English art, 1625-1714</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@English art, 1625-1714</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@English art, 1625-1714</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@English art, 1625-1714</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@English sculpture, 1720-1830</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@English sculpture, 1720-1830</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@English sculpture, 1720-1830</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Grinling Gibbons in Cambridge</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Home house</title>
+                      <subtitle>no.20 Portman Square</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @interrelation of the fine arts in England in the early Middle Ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @interrelation of the fine arts in England in the early Middle Ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @Nation's pictures</title>
+                      <subtitle>a guide to the chief national and municipal picture galleries of England, Scotland and Wales</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @Nation's pictures</title>
+                      <subtitle>a guide to the chief national and municipal picture galleries of England, Scotland and Wales</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Nation's pictures</title>
+                      <subtitle>a guide to the chief national and municipal picture galleries of England, Scotland and Wales</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Nation's pictures</title>
+                      <subtitle>a guide to the chief national and municipal picture galleries of England, Scotland and Wales</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Renaissance architecture in England, by Margaret Whinney,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Sculpture in Britain</title>
+                      <subtitle>1530 to 1830</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Sculpture in Britain</title>
+                      <subtitle>1530 to 1830</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Sculpture in Britain</title>
+                      <subtitle>1530 to 1830</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Sculpture in Britain</title>
+                      <subtitle>1530 to 1830</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sculpture in Britain</title>
+                      <subtitle>1530 to 1830</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @short description of Home House</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Wren</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Wren</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Wren</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@English art 1625-1714</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@English sculpture 1720-1830</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Nation's pictures</title>
+                      <subtitle>a guide to the chief national and municipal picture galleries of England, Scotland and Wales</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Renaissance architecture in England, by Margaret Whinney,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Sculpture in Britain</title>
+                      <subtitle>1530 to 1830</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Wren</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @collection of models by John Flaxman, R.A. at University College London;</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Early Flemish painting</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English Art 1625-1714</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English sculpture 1720-1830</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Grinling Gibbons in Cambridge</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Home House: no. 20 Portman Square</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @interrelation of the fine arts in England in the early middle ages</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @nation's pictures</title>
+                      <subtitle>a guide to the chief national and municipal picture galleries of England, Scotland and Wales</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Renaissance architecture in England, by Margaret Whinney,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sculpture in Britain, 1530 to 1830</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@St. Paul's Cathedral</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Wren</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500201121</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500201121</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500201121</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140561234</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140561234</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140561234</identifierValue>
+                      <source>VIAF</source>
+                      <source>NLP</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140561234</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560237</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560237</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560237</identifierValue>
+                      <source>VIAF</source>
+                      <source>NLP</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560237</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500181188</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500181188</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780112900832</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780112900832</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571084913</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780600431756</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300053180</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140561234</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560237</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500181188</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500201121</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140561234</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560237</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500181188</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780112900832</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571084913</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Margaret</forename>
+                    <surname>Dickens Whinney</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret</forename>
+                    <surname>Dickens-Whinney</surname>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret</forename>
+                    <surname>Dickens-Whinney</surname>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret</forename>
+                    <surname>Dickens-Whinney</surname>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret</forename>
+                    <surname>Dickens-Whinney</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Margaret Whinney</surname>
+                    <nameTitle>Brits kunsthistorica (1897-1975)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Margaret Whinney</surname>
+                    <nameTitle>English art historian  at the Courtauld Institute</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret Dickins</forename>
+                    <surname>Whinney</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret</forename>
+                    <surname>Whinney</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Margaret</forename>
+                    <surname>Whinney</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>24994</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q805</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>39439181</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/39439181</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12281102</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>069529949</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90143809</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50017898</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q805</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q3290527</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Margaret_Whinney</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Margaret_Whinney</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000110252496%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000110252496"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

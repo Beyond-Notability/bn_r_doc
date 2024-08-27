@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>3</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01733cas a2200409 a 4500</leader>
+          <controlfield tag="001">11462603</controlfield>
+          <controlfield tag="005">20220115065738.0</controlfield>
+          <controlfield tag="007">hd afb---baca</controlfield>
+          <controlfield tag="008">871120d18681877enkqr p a     0   a0eng d</controlfield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">sf 96091326 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm17011314 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">ORY</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">ORY</subfield>
+            <subfield code="d">DLC</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">CGU</subfield>
+            <subfield code="d">CRU</subfield>
+            <subfield code="d">LIBRO</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">msc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 05419</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="4">
+            <subfield code="a">AP4</subfield>
+            <subfield code="b">.A1 reel 350</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The powder magazine.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Printed for private circulation by Taylor and Co.,</subfield>
+            <subfield code="c">[1868-1877]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 volumes :</subfield>
+            <subfield code="b">illustrations ;</subfield>
+            <subfield code="c">24 cm</subfield>
+          </datafield>
+          <datafield tag="310" ind1=" " ind2=" ">
+            <subfield code="a">Quarterly</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">microform</subfield>
+            <subfield code="b">h</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">microfilm reel</subfield>
+            <subfield code="b">hd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="362" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 1, no. 1 (Oct. 1868)-v. 3, no. 35 (Apr. 1877).</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Editors: Oct. 1868-Apr. 1873, Eleanor Lloyd; &lt;June&gt; 1873-Jan. 1876, Henrietta Duff; Jan. 1876-Apr. 1877, Eleanor Duff. Cf. Guide to the Early British periodicals collection on microfilm.</subfield>
+          </datafield>
+          <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm.</subfield>
+            <subfield code="b">Ann Arbor, Mich. :</subfield>
+            <subfield code="c">University Microfilms International.</subfield>
+            <subfield code="e">1 microfilm reel ; 35 mm.</subfield>
+            <subfield code="f">(Early British periodicals).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Welsh periodicals</subfield>
+            <subfield code="y">19th century.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Welsh periodicals.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01173833</subfield>
+          </datafield>
+          <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">1800-1899</subfield>
+            <subfield code="2">fast</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Duff, Eleanor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Duff, Henriette Anne,</subfield>
+            <subfield code="d">1842-1879.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lloyd, Eleanor.</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Online version:</subfield>
+            <subfield code="t">Powder magazine</subfield>
+            <subfield code="w">(OCoLC)213488476</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Early British periodicals.</subfield>
+          </datafield>
+          <datafield tag="850" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+          </datafield>
+          <datafield tag="859" ind1="4" ind2="1">
+            <subfield code="u">http://pao.chadwyck.com/journals/displayItemFromId.do?QueryType=journals&amp;ItemID=e627</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">serials</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">n-oclcserc</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 05419</subfield>
+            <subfield code="w">SERIALS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00955cam a2200289u  4500</leader>
+          <controlfield tag="001">9595930</controlfield>
+          <controlfield tag="005">20050110134611.0</controlfield>
+          <controlfield tag="008">810604s1900    enkach        000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   01002183</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   01002183 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="1" ind2="0">
+            <subfield code="a">QB215</subfield>
+            <subfield code="b">.G2</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 22862 QB</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Gatty, Alfred,</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1809-1873.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The book of sun-dials;</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">[4th ed.]</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">G. Bell and sons,</subfield>
+            <subfield code="c">1900.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xvii, 529, [1] p.</subfield>
+            <subfield code="b">front. (port.) illus., IX pl. (incl. 2 facsim.)</subfield>
+            <subfield code="c">29 cm.</subfield>
+          </datafield>
+          <datafield tag="583" ind1=" " ind2=" ">
+            <subfield code="a">Replace;</subfield>
+            <subfield code="z">LC copy replaced by preservation microfilm</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sundials.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Eden, Horatia K. F. Gatty,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lloyd, Eleanor, [from old catalog]</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Evans, Lewis. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">pmosl</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">mvp</subfield>
+            <subfield code="f">zz01</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 22862 QB</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00923cam a2200253 i 4500</leader>
+          <controlfield tag="001">4158703</controlfield>
+          <controlfield tag="005">19850304000000.0</controlfield>
+          <controlfield tag="008">791212s1889    enkaf         001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   78108303</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">5</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   78108303 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QB215</subfield>
+            <subfield code="b">.G2 1889</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">681/.111</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Gatty, Alfred,</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1809-1873.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The book of sun-dials /</subfield>
+            <subfield code="c">collected by Mrs. Alfred Gatty.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">New and enl. ed. /</subfield>
+            <subfield code="b">edited by H. K. F. Gatty and Eleanor Lloyd ; with an appendix on the construction of dials by W. Richardson.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">G. Bell,</subfield>
+            <subfield code="c">1889.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 519 p., 3 fold. leaves of plates :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes indexes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sundials.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Eden, Horatia K. F. Gatty.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lloyd, Eleanor.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QB215</subfield>
+            <subfield code="i">.G2 1889</subfield>
+            <subfield code="p">00004642028</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Lloyd, Eleanor"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

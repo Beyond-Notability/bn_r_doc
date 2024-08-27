@@ -1,0 +1,230 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS720</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000076941633</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000076941633</isniURI>
+            <mergedISNI>0000000448933803</mergedISNI>
+            <mergedISNI>0000000394391040</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Valerie Susan</forename>
+                    <surname>Meux</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Valerie Suzie</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>-1910</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Valerie Suzie</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>d. 1910</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000308164</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Valerie Susie</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>1856-1910</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Valerie Susie</forename>
+                    <surname>Meux</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                    <subsourceIdentifier>500070159</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @actress and the brewer's wife, 1997:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @actress and the brewer's wife, 1997:</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Val</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>-1910</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Valerie Suzie</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>d. 1910</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Valery</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>-1910</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mr. Theobald</surname>
+                    <marcDate>-1910</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Theobald</surname>
+                    <nameTitle>Mr</nameTitle>
+                    <marcDate>-1910</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Val</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>d. 1910</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Valerie Susie Langdon</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Valery</forename>
+                    <surname>Meux</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>d. 1910</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mr. Theobald</surname>
+                    <marcDate>d. 1910</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Theobald</surname>
+                    <nameTitle>Mr</nameTitle>
+                    <marcDate>d. 1910</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Lady Valerie</forename>
+                    <surname>Meux</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Valerie Susie Meux</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Lady Meux</forename>
+                    <surname>Valerie</surname>
+                    <source>VIAF</source>
+                    <source>JPG</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1158</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>96169929</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/96169929</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>24091371</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/24091371</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nb 98033683</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>26893780X</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1158</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q1435770</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000076941633%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000076941633"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

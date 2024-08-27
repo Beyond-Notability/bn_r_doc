@@ -1,0 +1,322 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS195</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000114399305</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000114399305</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Beatrice M. Irene</forename>
+                    <surname>White</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Beatrice</forename>
+                    <surname>White</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Beatrice White</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q18917288</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Beatrice</forename>
+                    <surname>White</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV12476336</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Beatrice M.I.</forename>
+                    <surname>White</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Beatrice</forename>
+                    <surname>White</surname>
+                    <marcDate>1902-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2007104162</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Beatrice</forename>
+                    <surname>White</surname>
+                    <marcDate>1902-...</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>076299899</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Beatrice</forename>
+                    <surname>White</surname>
+                    <marcDate>1902-1986</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Beatrice</forename>
+                    <surname>White</surname>
+                    <marcDate>1902-1986</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001375410</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="NTA">
+                      <title>@Cast of ravens the strange case of Sir Thomas Overbury</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Cast of ravens the strange case of Sir Thomas Overbury</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Cast of ravens the strange case of Sir Thomas Overbury</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Dance of death</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Dance of death</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Dance of death</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Dance of death</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @dialogue concerning witches and witchcraftes, 1593</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @dialogue concerning witches and witchcraftes, 1593</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>A @dialogue concerning witches and witchcraftes, 1593</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @eclogues of Alexander Barclay from the original edition by John Cawood</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @eclogues of Alexander Barclay from the original edition by John Cawood</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @eclogues of Alexander Barclay from the original edition by John Cawood</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @eclogues of Alexander Barclay from the original edition by John Cawood</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @eclogues of Alexander Barclay from the original edition by John Cawood</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Essays and studies, 1962</title>
+                      <subtitle>being volume fifteen of the new series of essays and studies</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Essays and studies, 1962</title>
+                      <subtitle>being volume fifteen of the new series of essays and studies</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Essays and studies 1972 in honour of Beatrice White</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Fact and fancy in medieval English literature.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Frederick James Furnivall.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Incipit Macrobius</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Indes. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>An @index, compiled by Beatrice White, to "The Elizabethan stage" and "William Shakespeare: a study of facts and problems"</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>An @index, compiled by Beatrice White, to "The Elizabethan stage" and "William Shakespeare: a study of facts and problems"</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>An @index, compiled by Beatrice White, to "The Elizabethan stage" and "William Shakespeare: a study of facts and problems"</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Mary Coleridge: an appreciation.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Mary Tudor</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Mary Tudor</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Medieval beasts.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Philobiblon: the love of books in life and in literature.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Royal nonesuch: a Tudor tapestry</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Sélections</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Ultima Thule: some English travellers to Iceland.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Vulgaria of John Stanbridge. and the Vulgaria of Robert Whittinton</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Vulgaria of John Stanbridge. and the Vulgaria of Robert Whittinton</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Vulgaria of John Stanbridge. and the Vulgaria of Robert Whittinton</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Vulgaria of John Stanbridge. and the Vulgaria of Robert Whittinton</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Vulgaria Roberti Whitintoni Lichfeldiensis</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780859919173</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780859916899</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719540660</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719526961</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780197221754</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Beatrice Mary Irene</forename>
+                    <surname>White</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Beatrice White</surname>
+                    <nameTitle>White, Beatrice Mary Irene (1902–1986), literary scholar</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1709</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>24985741</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/24985741</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>067541461</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90060606</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>no 96037543</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1709</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q18917288</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000114399305%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000114399305"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

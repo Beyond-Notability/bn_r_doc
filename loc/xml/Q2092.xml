@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>7</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02273cas a22004691  4500</leader>
+          <controlfield tag="001">11367914</controlfield>
+          <controlfield tag="005">20231217140033.0</controlfield>
+          <controlfield tag="007">hd afb---baca</controlfield>
+          <controlfield tag="008">900614d15801625miuuu   a     0    0eng  </controlfield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">sf 90091961 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm21834353 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCG</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCL</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 90/6885</subfield>
+          </datafield>
+          <datafield tag="110" ind1="1" ind2=" ">
+            <subfield code="a">Great Britain.</subfield>
+            <subfield code="b">Public Record Office.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Calendar of state papers,</subfield>
+            <subfield code="p">Domestic series</subfield>
+            <subfield code="b">of the reigns of Edward VI, Mary, Elizabeth and James I. 1547-[1625] preserved in the State paper department of Her Majesty's Public Record Office.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Longman, Brown, Green, Longmans &amp; Roberts;,</subfield>
+            <subfield code="c">1856-72.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">12 volumes</subfield>
+            <subfield code="c">27 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">microform</subfield>
+            <subfield code="b">h</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">microfilm reel</subfield>
+            <subfield code="b">hd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="362" ind1="0" ind2=" ">
+            <subfield code="a">v. 1-12; 1547/80-1580/1625.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title varies slightly.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Edited under the direction of the master of rolls, and with the sanction of Her Majesty's secretary of state for the Home Department, by Robert Lemon, v. 1-2; by Mary Anne Everett Green, v. 3-12.</subfield>
+          </datafield>
+          <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm.</subfield>
+            <subfield code="b">Ann Arbor, Mich.,</subfield>
+            <subfield code="c">University Microfilms International.</subfield>
+            <subfield code="e">reels. 35 mm.</subfield>
+          </datafield>
+          <datafield tag="590" ind1=" " ind2=" ">
+            <subfield code="a">SERBIB/SERLOC merged record</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Tudors, 1485-1603</subfield>
+            <subfield code="v">Sources.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">James I, 1603-1625</subfield>
+            <subfield code="v">Sources.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Great Britain.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01204623</subfield>
+            <subfield code="1">https://id.oclc.org/worldcat/entity/E39PBJdmp7p3cx8hpmJ8HvmTpP</subfield>
+          </datafield>
+          <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">1485-1625</subfield>
+            <subfield code="2">fast</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">History.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01411628</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Sources.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01423900</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lemon, Robert,</subfield>
+            <subfield code="d">1800-1867.</subfield>
+            <subfield code="1">https://id.oclc.org/worldcat/entity/E39PBJpjdbBwvmk7QPTXM3JVYP</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Green, Mary Anne Everett.</subfield>
+          </datafield>
+          <datafield tag="850" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+          </datafield>
+          <datafield tag="890" ind1=" " ind2=" ">
+            <subfield code="a">Great Britain. Public Records Office.  Calendar of state papers. Domestic series of the reigns of Edward VI, Mary, Elizabeth and James I [microfilm]</subfield>
+            <subfield code="i">sf90-91961</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">serials</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">n-oclcserc</subfield>
+          </datafield>
+          <datafield tag="920" ind1=" " ind2=" ">
+            <subfield code="a">Keep 1</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="a">srmf</subfield>
+            <subfield code="d">2002-04-29</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 90/6885</subfield>
+            <subfield code="w">SERIALS</subfield>
+          </datafield>
+          <datafield tag="992" ind1=" " ind2=" ">
+            <subfield code="b">MicRR</subfield>
+            <subfield code="w">SERLOC</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01193cam a2200277u  4500</leader>
+          <controlfield tag="001">8310585</controlfield>
+          <controlfield tag="005">20010124142105.0</controlfield>
+          <controlfield tag="008">810825m18561872enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)ac 39001527</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">ac 39001527 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA25</subfield>
+            <subfield code="b">.E3</subfield>
+          </datafield>
+          <datafield tag="110" ind1="1" ind2=" ">
+            <subfield code="a">Great Britain.</subfield>
+            <subfield code="b">Public record office. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Calendar of state papers, Domestic series, of the reigns of Edward VI., Mary, Elizabeth and James I,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Longman, Brown, Green, Longmans, &amp; Roberts; [etc., etc.]</subfield>
+            <subfield code="c">1856-72.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">12 v.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Edward VI, 1547-1553</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Mary I, 1553-1558</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Elizabeth, 1558-1603</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">James I, 1603-1625</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lemon, Robert,</subfield>
+            <subfield code="d">1800-1867, [from old catalog]</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Green, Mary Anne Everett Wood,</subfield>
+            <subfield code="d">1818-1895, [from old catalog]</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA25</subfield>
+            <subfield code="i">.E3</subfield>
+            <subfield code="p">00013530282</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">3 1591-94</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01183cam a22002771  4500</leader>
+          <controlfield tag="001">9161961</controlfield>
+          <controlfield tag="005">20210803105759.0</controlfield>
+          <controlfield tag="008">750127s1909    xx            000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   10035760 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   10035760</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1152675</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DeU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">D244.8.E4</subfield>
+            <subfield code="b">G7</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Green, Mary Anne Everett.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Elizabeth, electress palatine and queen of Bohemia,</subfield>
+            <subfield code="c">by Mary Anne Everett Green; rev. by her niece, S. C. Lomas, with a prefatory note by A. W. Ward, Litt. D.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Methuen &amp; co.,</subfield>
+            <subfield code="c">[1909]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxxvi, 469 p.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First published 1855 in the author's "Lives of the Princesses of England".</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Documents, books and pamphlets consulted by Mrs. Everett Green for this work": p. xxix-xxxvi.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Elizabeth,</subfield>
+            <subfield code="c">Queen, consort of Frederick I, King of Bohemia,</subfield>
+            <subfield code="d">1596-1662.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lomas, S. C.</subfield>
+            <subfield code="q">(Sophia Crawford),</subfield>
+            <subfield code="d">-1929.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ward, Adolphus William,</subfield>
+            <subfield code="c">Sir,</subfield>
+            <subfield code="d">1837-1924.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">D244.8.E4</subfield>
+            <subfield code="i">G7</subfield>
+            <subfield code="p">00034369069</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00762cam a22002291  4500</leader>
+          <controlfield tag="001">9607228</controlfield>
+          <controlfield tag="005">20010924093004.0</controlfield>
+          <controlfield tag="008">790309m18491825enkc          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04035463</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04035463 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)4728119</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NjR</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA28.3</subfield>
+            <subfield code="b">.G8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Green, Mary Anne Everett.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Lives of the princesses of England,</subfield>
+            <subfield code="b">from the Norman conquest.</subfield>
+            <subfield code="c">By Mary Anne Everett Green.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">H. Colburn,</subfield>
+            <subfield code="c">1849-55.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">6 v.</subfield>
+            <subfield code="b">fronts. (ports.)</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Added t.-p., engraved.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Princesses</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="v">Biography.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA28.3</subfield>
+            <subfield code="i">.G8</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00926cam a2200241u  4500</leader>
+          <controlfield tag="001">15294064</controlfield>
+          <controlfield tag="005">20080509065625.0</controlfield>
+          <controlfield tag="008">080508s1846    enkh          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04035293 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04035293</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA28.7</subfield>
+            <subfield code="b">.G8</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">[Green], Mary Anne Everett (Wood),</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1818-1895, [from old catalog]</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Letters of royal and illustrious ladies of Great Britain, from the commencement of the twelfth century to the close of the reign of Queen Mary;</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">H. Colburn,</subfield>
+            <subfield code="c">1846.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 v.</subfield>
+            <subfield code="b">fold. facsims.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Queens</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nobility</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Women</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">English letters.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA28.7</subfield>
+            <subfield code="i">.G8</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01148cam a22002651  4500</leader>
+          <controlfield tag="001">7262157</controlfield>
+          <controlfield tag="005">20040226153047.0</controlfield>
+          <controlfield tag="008">760505t18571856enk           001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   03029889</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   03029889 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2158433</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NCH</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">engfre</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA396.A5</subfield>
+            <subfield code="b">A2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Henrietta Maria,</subfield>
+            <subfield code="c">Queen, consort of Charles I, King of England,</subfield>
+            <subfield code="d">1609-1669.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Letters of Queen Henrietta Maria,</subfield>
+            <subfield code="b">including her private correspondence with Charles the First.</subfield>
+            <subfield code="c">Collected from the public archives and private libraries of France and England.  Ed. by Mary Anne Everett Green.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">R. Bentley,</subfield>
+            <subfield code="c">1857 [1856]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xx p., 1 l., 429, [1] p.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Henrietta Maria,</subfield>
+            <subfield code="c">Queen, consort of Charles I, King of England,</subfield>
+            <subfield code="d">1609-1669</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Charles I, 1625-1649</subfield>
+            <subfield code="v">Sources.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Queens</subfield>
+            <subfield code="z">Great Britain</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Green, Mary Anne Everett,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA396.A5</subfield>
+            <subfield code="i">A2</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01125cam a22002651  4500</leader>
+          <controlfield tag="001">5902475</controlfield>
+          <controlfield tag="005">20120517140756.0</controlfield>
+          <controlfield tag="008">780511s1856    enk           001 0aeng c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  17001238</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  17001238 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3886305</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Univ. of Chicago</subfield>
+            <subfield code="c">OTU</subfield>
+            <subfield code="d">OTU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DA20</subfield>
+            <subfield code="b">.C17 vol. 67</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Rous, John,</subfield>
+            <subfield code="d">1584-1644.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Diary of John Rous,</subfield>
+            <subfield code="b">incumbent of Santon Downham, Suffolk, from 1625 to 1642.</subfield>
+            <subfield code="c">Ed. by Mary Anne Everett Green ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[London]</subfield>
+            <subfield code="b">Printed for the Camden Society,</subfield>
+            <subfield code="c">1856.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xii, 143 p.</subfield>
+            <subfield code="c">23 x 17 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">[Camden Society. Publications,</subfield>
+            <subfield code="v">no. LXVI]</subfield>
+          </datafield>
+          <datafield tag="501" ind1=" " ind2=" ">
+            <subfield code="a">Wtih : Journal of the Very Rev. Rowland Davies, LL.D / Rowland Davies. [London] Printed for the Camden Society, 1857. Bound together subsequent to publication.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Great Britain</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Charles I, 1625-1649</subfield>
+            <subfield code="x">Sources.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Green, Mary Anne Everett,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">DA20</subfield>
+            <subfield code="i">.C17 vol. 67</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Wood, Mary Anne Everett" or dc.creator="Green, Mary Anne Everett" or dc.creator="Green, Mary Anne Everett Wood"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

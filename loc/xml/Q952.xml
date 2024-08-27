@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>3</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00935cam a2200277 a 4500</leader>
+          <controlfield tag="001">4770400</controlfield>
+          <controlfield tag="005">19870921000000.0</controlfield>
+          <controlfield tag="008">860825t19861978enka     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   86021712</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   86021712 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0335002307 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HV713</subfield>
+            <subfield code="b">.C3816 1986</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">362.7/044</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Child abuse :</subfield>
+            <subfield code="b">a reader and sourcebook /</subfield>
+            <subfield code="c">edited by Constance M. Lee.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Milton Keynes ;</subfield>
+            <subfield code="a">Philadelphia :</subfield>
+            <subfield code="b">Open University Press,</subfield>
+            <subfield code="c">1986 printing, c1978.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v, 317 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 311.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Child abuse.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Abused children</subfield>
+            <subfield code="x">Services for.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Social work with children.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Child abuse</subfield>
+            <subfield code="x">Law and legislation.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lee, Constance M.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">HV713</subfield>
+            <subfield code="i">.C3816 1986</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02772cam a2200349 i 4500</leader>
+          <controlfield tag="001">21100254</controlfield>
+          <controlfield tag="005">20201210185429.0</controlfield>
+          <controlfield tag="008">190724s2019    enk           000 0 eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">xd07 2019-07-24</subfield>
+            <subfield code="b">xg31 2019-11-04 z-processor</subfield>
+            <subfield code="c">xg31 2019-11-04 w/out bk to subject</subfield>
+            <subfield code="d">xg08 2020-09-24</subfield>
+            <subfield code="e">xg11 2020-09-29 to LL</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2019946812</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB9G1967</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">019553053</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781788110037</subfield>
+            <subfield code="q">(cased)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781788110044</subfield>
+            <subfield code="q">(eBook)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)on1121104307</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKMGB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">UKMGB</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">K460</subfield>
+            <subfield code="b">.R45 2019</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">340.112</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Research handbook on natural law theory /</subfield>
+            <subfield code="c">edited by Jonathan Crowe, Constance Youngwon Lee.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cheltenham, UK ;</subfield>
+            <subfield code="a">Northampton, MA :</subfield>
+            <subfield code="b">Edward Elgar Publishing,</subfield>
+            <subfield code="c">2019.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ix, 447 pages ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Research handbooks in legal theory series</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">The natural law outlook /</subfield>
+            <subfield code="r">Jonathan Crowe and Constance Youngwon Lee --</subfield>
+            <subfield code="t">Aristotle as natural law theorist /</subfield>
+            <subfield code="r">George Duke --</subfield>
+            <subfield code="t">Stoic natural law as right reason /</subfield>
+            <subfield code="r">Anna Taitslin --</subfield>
+            <subfield code="t">St. Augustine on natural law /</subfield>
+            <subfield code="r">Richard J. Dougherty --</subfield>
+            <subfield code="t">God, Aquinas and natural law theory : the question of natural kinds /</subfield>
+            <subfield code="r">Anthony J. Lisska --</subfield>
+            <subfield code="t">John Calvin's natural law theory /</subfield>
+            <subfield code="r">Constance Youngwon Lee --</subfield>
+            <subfield code="t">Some modern conceptions of natural law /</subfield>
+            <subfield code="r">T.H. Irwin --</subfield>
+            <subfield code="t">Natural law in Judaism /</subfield>
+            <subfield code="r">Jonathan A. Jacobs --</subfield>
+            <subfield code="t">Natural law in Islam from theological and legal perspectives /</subfield>
+            <subfield code="r">Nadirsyah Hosen --</subfield>
+            <subfield code="t">Natural law in Confucianism /</subfield>
+            <subfield code="r">Norman P. Ho --</subfield>
+            <subfield code="t">Natural law and biblical law /</subfield>
+            <subfield code="r">Jonathan Burnside --</subfield>
+            <subfield code="t">Natural law and reformed theology /</subfield>
+            <subfield code="r">David VanDrunen --</subfield>
+            <subfield code="t">Black natural law /</subfield>
+            <subfield code="r">Vincent Lloyd --</subfield>
+            <subfield code="t">Luce Irigaray on women and natural law /</subfield>
+            <subfield code="r">Catherine Carol --</subfield>
+            <subfield code="t">Incommensurable goods /</subfield>
+            <subfield code="r">Gary Chartier and Jere L. Fox --</subfield>
+            <subfield code="t">Virtue and natural law /</subfield>
+            <subfield code="r">Amalia Amaya --</subfield>
+            <subfield code="t">Natural law and imagination /</subfield>
+            <subfield code="r">Yannick Imbert --</subfield>
+            <subfield code="t">Intelligibility, practical reason and the common good /</subfield>
+            <subfield code="r">Jonathan Crowe --</subfield>
+            <subfield code="t">Natural law and natural justice : a Thomistic perspective /</subfield>
+            <subfield code="r">Tim Murphy --</subfield>
+            <subfield code="t">Natural law and physics : the state of nature /</subfield>
+            <subfield code="r">Michael Detmold --</subfield>
+            <subfield code="t">Natural law, the common good and the state /</subfield>
+            <subfield code="r">Gary Chartier and Jere L. Fox --</subfield>
+            <subfield code="t">Natural law and federalism /</subfield>
+            <subfield code="r">Nicholas Aroney --</subfield>
+            <subfield code="t">The principle of subsidiarity /</subfield>
+            <subfield code="r">Augusto Zimmermann --</subfield>
+            <subfield code="t">Natural law and constitutional reasoning /</subfield>
+            <subfield code="r">Eoin Carolan --</subfield>
+            <subfield code="t">The nature of law / Jonathan Crowe.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Natural law.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Crowe, Jonathan,</subfield>
+            <subfield code="d">1979-</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lee, Constance Youngwon,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01421cjm a2200397 i 4500</leader>
+          <controlfield tag="001">21934102</controlfield>
+          <controlfield tag="005">20210310115644.0</controlfield>
+          <controlfield tag="007">sd fsngnnmmned</controlfield>
+          <controlfield tag="008">210310t19961996gauppn|  d        | eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr12 2021-03-10</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2021615238</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDD 43168</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lee, Constance,</subfield>
+            <subfield code="d">1955-</subfield>
+            <subfield code="e">composer,</subfield>
+            <subfield code="e">performer.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Trust in the great I Am /</subfield>
+            <subfield code="c">Constance Lee.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Lithonia, GA] :</subfield>
+            <subfield code="b">Constance Lee,</subfield>
+            <subfield code="c">[1996]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1996</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="b">prm</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="b">s</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="b">sd</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="2">rdatr</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="b">optical</subfield>
+            <subfield code="2">rdarm</subfield>
+          </datafield>
+          <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rdacpc</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">audio file</subfield>
+            <subfield code="2">rdaft</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">CD audio</subfield>
+          </datafield>
+          <datafield tag="382" ind1="1" ind2="1">
+            <subfield code="a">female voice</subfield>
+            <subfield code="n">1</subfield>
+            <subfield code="s">1</subfield>
+            <subfield code="2">lcmpt</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from disc label.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Written or co-written by Lee.</subfield>
+          </datafield>
+          <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Constance Lee ; with accompaniment.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lyrics on insert.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">I pulled a Thomas -- Sow My word -- Change -- Passion -- Armed to the max -- Life Savior -- Spread Your fire -- Trust in the great I Am -- Getting ready for the rapture.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Contemporary Christian music.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Contemporary Christian music.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Lee, Constance"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

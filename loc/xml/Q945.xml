@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>5</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01421cam a2200337 a 4500</leader>
+          <controlfield tag="001">12868861</controlfield>
+          <controlfield tag="005">20080229105040.0</controlfield>
+          <controlfield tag="008">020411s2001    ke ab    b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origode</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">wn02 05-31-2002; to LC 06-26-2002;</subfield>
+            <subfield code="d">jc15 2005-01-23</subfield>
+            <subfield code="e">jc03 2005-02-15 to Dewey</subfield>
+            <subfield code="a">aa29 2005-04-12</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2001314231</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">f-ke---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RJ103.K4</subfield>
+            <subfield code="b">I475 2001</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">613.9/0835/096762</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Improving the reproductive health of adolescents in Kenya :</subfield>
+            <subfield code="b">a report on the baseline study in two districts of western Kenya /</subfield>
+            <subfield code="c">Kenya Adolescent Reproductive Health Project implementation team, Frontiers in Reproductive Health, Charlotte Warren ... [et al.].</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Nairobi, Kenya :</subfield>
+            <subfield code="b">Population Council,</subfield>
+            <subfield code="c">[2001]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">iv, 28 p. :</subfield>
+            <subfield code="b">ill., maps ;</subfield>
+            <subfield code="c">30 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"September 2001."</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical reference (p. 26).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Teenagers</subfield>
+            <subfield code="x">Sexual behavior</subfield>
+            <subfield code="z">Kenya.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Teenagers</subfield>
+            <subfield code="x">Health and hygiene</subfield>
+            <subfield code="z">Kenya.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Birth control</subfield>
+            <subfield code="z">Kenya.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Reproductive health</subfield>
+            <subfield code="z">Kenya.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Warren, Charlotte.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Kenya Adolescent Reproductive Health Project.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Frontiers in Reproductive Health (Project)</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">ODE-nb</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="o">am</subfield>
+            <subfield code="p">0008897279A</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01141cam a22002895a 4500</leader>
+          <controlfield tag="001">14557274</controlfield>
+          <controlfield tag="005">20070516100123.0</controlfield>
+          <controlfield tag="008">060919s2004    ke ab    b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origode</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">wn20 2006-09-19</subfield>
+            <subfield code="c">wn02 2006-11-01 to SSCD</subfield>
+            <subfield code="d">jc15 2007-01-11</subfield>
+            <subfield code="e">jc15 2007-01-11 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2006317141</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">f-ke---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RG966.K4</subfield>
+            <subfield code="b">W3776 2004</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Warren, Charlotte.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Safe motherhood demonstration project, Western Province :</subfield>
+            <subfield code="b">final report /</subfield>
+            <subfield code="c">Charlotte Warren, Wilson Liambila.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Nairobi :</subfield>
+            <subfield code="b">Population Council,</subfield>
+            <subfield code="c">[2004]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 70 p. :</subfield>
+            <subfield code="b">col. ill., col. maps ;</subfield>
+            <subfield code="c">30 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"December 2004."</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Republic of Kenya, Ministry of Health; University of Nairobi"--Cover.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 51).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Maternal health services</subfield>
+            <subfield code="z">Kenya.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Liambila, Wilson N.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents only</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/fy0710/2006317141.html</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">ODE-nb</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02700cam a2200421 i 4500</leader>
+          <controlfield tag="001">22400883</controlfield>
+          <controlfield tag="005">20220210094949.0</controlfield>
+          <controlfield tag="008">220128t20162016txu           000 p eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rn08 2022-01-28 z-processor</subfield>
+            <subfield code="b">xk02 2022-02-02, 1 copy rec'd in dist.</subfield>
+            <subfield code="i">xk02 2022-02-10 to PresSrvs (telework)</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2020300883</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB8D8341</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">018177182</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781622881390</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1622881397</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn951507020</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">BTCTA</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">BTCTA</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">BDX</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">CDX</subfield>
+            <subfield code="d">UAB</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">VYF</subfield>
+            <subfield code="d">UKMGB</subfield>
+            <subfield code="d">TJC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3573.A77126</subfield>
+            <subfield code="b">D36 2016</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">811/.54</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Warren, Charlotte Gould,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Poems.</subfield>
+            <subfield code="k">Selections</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Dangerous bodies :</subfield>
+            <subfield code="b">poems /</subfield>
+            <subfield code="c">by Charlotte Gould Warren.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Nacogdoches, Texas :</subfield>
+            <subfield code="b">Stephen F. Austin State University Press,</subfield>
+            <subfield code="c">[2016]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2016</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">104 pages ;</subfield>
+            <subfield code="c">23 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">A Stretch of Days -- Honeymoon -- Mo to Guzzi -- Recurrence -- Degas Bronzes -- March -- Crossroads -- September -- Canyon Country -- First Tree -- Two Weeks -- After Love Making -- The Sea -- Apache Tears -- Coal and Honey -- Families -- Apache Tears -- The Tree Sways -- Too Close to Home -- What the Tree Knows -- Leaving the Sun -- Thin Ice -- Note -- Morning Glory -- The Critic -- Lilies of the Valley -- Dangerous Bodies -- Wandering Tattler -- Wandering Tattler -- The River Sheenjek -- Mt. Baker -- Alcan -- Life fine -- Rivers -- Trees -- Glaucous -- Spring -- Blue Dragonflies -- Walking In On Colors -- Crows &amp; Raccoons -- To Afghan Families I've Never Met -- Browsing -- Brown Creeper -- The Watercolorist's Wife -- D'Anjou -- The Longer I Watch -- Hills -- Pine Whites -- Summer Pears -- Stepping Stones -- The Blaze of Their Wings -- Pedaling His Bike to a Blur -- Grass Seeds -- Phosphorescence -- Neither Measuring the World Nor Saving It -- "Caution! This table Sand Bluffs Beyond Fence Line" -- Cleaning the Counter -- You Decided to Live -- Stepping Carefully Over the Icy Deck -- Dungeness Bay -- Quotidian -- Sons -- Dark Coming On.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Dysfunctional families</subfield>
+            <subfield code="v">Poetry.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Child abuse</subfield>
+            <subfield code="v">Poetry.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nature</subfield>
+            <subfield code="v">Poetry.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Child abuse.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00854223</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Dysfunctional families.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01728523</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Nature.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01034561</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Poetry.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01423828</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00861cam a2200241 a 4500</leader>
+          <controlfield tag="001">12835679</controlfield>
+          <controlfield tag="005">20141104114958.0</controlfield>
+          <controlfield tag="008">020628s2000    dcuc          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="925" ind1="1" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pv24 2002-06-28 2 copies to HLCD</subfield>
+            <subfield code="c">lh08 2004-07-22 to subj. (2 copies);</subfield>
+            <subfield code="d">lh02 2004-08-10 to SL</subfield>
+            <subfield code="e">lh36 2004-08-16 copies 1 &amp; 2 to Dewey</subfield>
+            <subfield code="a">aa25 2004-08-18</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   00133731 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0915380463 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3573.A77126</subfield>
+            <subfield code="b">G36 2000</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">811/.6</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Warren, Charlotte Gould.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Gandhi's lap /</subfield>
+            <subfield code="c">Charlotte Gould Warren.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington, DC :</subfield>
+            <subfield code="b">Word Works,</subfield>
+            <subfield code="c">c2000.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">78 p. :</subfield>
+            <subfield code="b">port. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Poems.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01625cam a2200421 i 4500</leader>
+          <controlfield tag="001">22419124</controlfield>
+          <controlfield tag="005">20220505165622.0</controlfield>
+          <controlfield tag="008">220210s2012    txuab         000 0aeng c</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">pccadap</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">xk25 2022-02-10 z-processor</subfield>
+            <subfield code="i">xk02 2022-04-22 to PresSrvs (telework)</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2021351650</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB367667</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">016190340</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781936205295</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1936205297</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn768792419</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">BTCTA</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">BTCTA</subfield>
+            <subfield code="d">BDX</subfield>
+            <subfield code="d">IXA</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">BWX</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">GZM</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">UKMGB</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">a-ii---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3573.A77126</subfield>
+            <subfield code="b">Z46 2012</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">892.8</subfield>
+            <subfield code="2">23/eng/20220422</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Warren, Charlotte Gould,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Jumna :</subfield>
+            <subfield code="b">sacred river : an American childhood in India : a memoir /</subfield>
+            <subfield code="c">by Charlotte Gould Warren.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">First editionn.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Nacogdoches, Texas :</subfield>
+            <subfield code="b">Stephen F. Austin University Press,</subfield>
+            <subfield code="c">2012.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">233 pages :</subfield>
+            <subfield code="b">illustrations, map ;</subfield>
+            <subfield code="c">23 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Warren, Charlotte Gould</subfield>
+            <subfield code="v">Biography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Incest victims.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Children</subfield>
+            <subfield code="z">India</subfield>
+            <subfield code="z">Yamuna River.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Children.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00854835</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Incest victims.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00968550</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">India</subfield>
+            <subfield code="z">Yamuna River.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01241399</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Biographies.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01919896</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Biographies.</subfield>
+            <subfield code="2">lcgft</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Latham, Charlotte" or dc.creator="Warren, Charlotte"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

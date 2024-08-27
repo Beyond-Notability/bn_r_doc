@@ -1,0 +1,3522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>34</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02720cam a22004094a 4500</leader>
+          <controlfield tag="001">15014059</controlfield>
+          <controlfield tag="005">20081124100228.0</controlfield>
+          <controlfield tag="008">070917s2008    enka     bf   001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policydefault, Sel/sdb 2008-10-20</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="d">jc18 2007-09-20</subfield>
+            <subfield code="e">jc18 2007-09-20 to Dewey</subfield>
+            <subfield code="a">aa27 2007-09-20</subfield>
+            <subfield code="a">xe10 2008-10-17 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">xj09 2008-11-20 Z-CipVer</subfield>
+            <subfield code="g">xj09 2008-11-20 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2007038358</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">101316690</subfield>
+            <subfield code="2">DNLM</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0727918435</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780727918437</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)173201730</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn173201730</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DNLM/DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">NLM</subfield>
+            <subfield code="d">BAKER</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">BWKUK</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">CDX</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC552.E18</subfield>
+            <subfield code="b">A23 2008</subfield>
+          </datafield>
+          <datafield tag="060" ind1="0" ind2="0">
+            <subfield code="a">2008 J-813</subfield>
+          </datafield>
+          <datafield tag="060" ind1="1" ind2="0">
+            <subfield code="a">WM 175</subfield>
+            <subfield code="b">A134 2008</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">616.85/26</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">ABC of eating disorders /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">Eating disorders</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford ;</subfield>
+            <subfield code="a">Hoboken, NJ :</subfield>
+            <subfield code="b">Wiley-Blackwell/BMJ Books, Blackwell Pub.,</subfield>
+            <subfield code="c">2008.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 70 p. :</subfield>
+            <subfield code="b">ill. (some col.) ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">ABC series</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Diagnosis of eating disorders / Jane Morris -- Causes of eating disorders / Bob Palmer -- Body image disturbance in eating disorders / Glynis Read and Jane Morris -- Compulsive exercise and overactivity in eating disorders / Jane Morris -- Medical and psychological consequences of eating disorders / Geoffrey Wolff and Janet Treasure -- Comorbidity / Alex Yellowlees -- What can a GP do? Management of eating disorders in primary care / Jane Morris and Nadine Harrison -- Psychological support with the general practice / Jane Morris and Nadine Harrison -- Advice, education and self-help / Chris Williams and Ulrike Schmidt -- Specialist referral / Jon Arcelus and Bob Palmer -- Medico-legal and ethical issues in the treatment of eating disorders / Anne Stewart and Jacinta Tan Wellcome -- Children with eating and feeding disorders / Jane Morris and Fiona Forbes -- Eating disorders in the family / Jane Morris and Fiona Forbes -- Eating disorders in boys and men / Brett McDermott -- The sufferers and carers viewpoint / Jane Morris ... [et al.] -- .</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Eating disorders.</subfield>
+          </datafield>
+          <datafield tag="650" ind1="1" ind2="2">
+            <subfield code="a">Eating Disorders.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1951-</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">ABC series (Malden, Mass.)</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Contributor biographical information</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/enhancements/fy0902/2007038358-b.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Publisher description</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/enhancements/fy0902/2007038358-d.html</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents only</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/enhancements/fy0902/2007038358-t.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>05502cam a2200433 i 4500</leader>
+          <controlfield tag="001">19204720</controlfield>
+          <controlfield tag="005">20171016122222.0</controlfield>
+          <controlfield tag="008">160803s2017    enka     b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rm13 2016-08-03</subfield>
+            <subfield code="i">rm13 2016-08-03</subfield>
+            <subfield code="w">xm06 2016-08-04</subfield>
+            <subfield code="a">xn05 2016-10-17 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">rm05 2016-11-22 to CALM</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2016011974</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781138818538 (hardback)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781315745183 (ebook)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e------</subfield>
+            <subfield code="a">f------</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HC240.9.E5</subfield>
+            <subfield code="b">C74 2017</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">338.94/07</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Creating sustainable bioeconomies :</subfield>
+            <subfield code="b">the bioscience revolution in Europe and Africa /</subfield>
+            <subfield code="c">edited by Ivar Virgin and E. Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Routledge Taylor &amp; Francis Group,</subfield>
+            <subfield code="c">2017.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xix, 275 pages :</subfield>
+            <subfield code="b">illustrations ;</subfield>
+            <subfield code="c">24 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Routledge studies in ecological economics</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Introduction: why this book? -- Foreword / Joachim von Braun, Chair of the German Government's Bioeconomy Council -- Background and overview of the book / E Jane Morris, University of Leeds, UK, Ivar Virgin, Stockholm Environment Institute -- Benefits and challenges of a new knowledge based bioeconomy / Ivar Virgin, Matthew Fielding, Melinda Fones Sundell, Holger Hoff and Jakob Granit Stockholm Environment Institute -- The gene revolution : what can and can't be done with modern biosciences? / E. Jane Morris, University of Leeds, UK -- Section 2: Towards sustainable food security -- The European perspective : the case for a highly productive and innovative agriculture in Europe / Harald von Witzke, Humboldt University of Berlin, Steffen Noleppa, Humboldt Forum for Food and Agriculture -- The African perspective : new biosciences making african agriculture more productive and resilient / Jennifer A. Thomson, University of Cape Town, South Africa -- Europe and Africa: addressing the food security challenges / Philipp Aerni, Isabelle Schluep Campo, University of Zurich, Ruth K. Oniango, African Journal of Food, Agriculture, Nutrition and Development -- Towards resource efficient economies broadening the base of agriculture -- The European perspective : potential of crop biosciences to support resource-use efficiency, climate change mitigation and adaptation in European agriculture / Olle Olsson1, Torbjörn Fagerström, Jens Sundström, Thomas Kätterer and Ivar Virgin, Stockholm Environment Institute, Swedish University of Agricultural Sciences -- The European perspective. a renewable resource base for the European chemical industry : getting to a European bioeconomy / Sten Stymne, Swedish University of Agricultural Sciences -- The African perspective : using the new biosciences to support the African development agenda / E Jane Morris, University of Leeds, UK, Corinda Erasmus, STEPS Science Training, South Africa -- Martha M O'Kennedy, Csir, South Africa -- The African perspective : developing an African bio-resource based industry: the case for Cassava / Yona Baguma, Ephraim Nuwamanya, NARO, Uganda , Chrissie Rey, University of the Witwatersrand, South Africa -- Europe and Africa : biofuels for sustainable energy and mobility in the EU and Africa / Francis X. Johnson, SEI and Yacob Mulugetta, University College London -- Broadening the bioscience innovation agenda -- The potential of biosciences for agricultural improvement in Africa and Europe : looking forward to 2050 / Denis J Murphy, University of South Wales, UK -- The need for international bioscience collaboration and a shared agenda / John Komen, bioscience policy advisor, The Netherlands, Julius Ecuru, Uganda National Council for Science and Technology, Uganda -- The social and economic challenges for a bioeconomy / Richard Smart, Technische Universität München, Germany, Justus Wesseler, Wageningen University, The Netherland -- Two decades of European-African bioscience collaboration : from bio-earn to bio-innovate / Ivar Virgin, SEI and Allan Liavoga, ILRI BioInnovate coordinator -- Transitions to a modern bioeconomy : analysis of policies -- European strategies and policies getting towards a bioeconomy / Dirk Carrez, Clever Consult, Belgium -- Getting towards an african bioeconomy / Julius Ecuru, , Uganda National Council for Science and Technology -- Intellectual property challenges for a bioeconomy / Rosemary Wolson, CSIR, South Africa -- Europe and Africa: how European policies influence bioscience adoption in Africa / John Komen, Bioscience policy advisor, The Netherlands -- Way forward-progressing towards European and African bioeconomies -- Conclusions and key messages / Ivar Virgin, Stockholm Environment Institute, E Jane Morris, University of Leeds, UK.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sustainable development</subfield>
+            <subfield code="z">Europe.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sustainable development</subfield>
+            <subfield code="z">Africa.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sustainable agriculture</subfield>
+            <subfield code="z">Europe.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sustainable agriculture</subfield>
+            <subfield code="z">Africa.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Renewable energy sources</subfield>
+            <subfield code="z">Europe.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Renewable energy sources</subfield>
+            <subfield code="z">Africa.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Food supply</subfield>
+            <subfield code="z">Europe.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Food supply</subfield>
+            <subfield code="z">Africa.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Biotechnology</subfield>
+            <subfield code="x">Economic aspects.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Virgin, Ivar,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="c">(Independent life science consultant),</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00898cam a22002657a 4500</leader>
+          <controlfield tag="001">15637093</controlfield>
+          <controlfield tag="005">20110210100234.0</controlfield>
+          <controlfield tag="008">090225s2008    rh            000 p eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">wn18 2009-02-25 z-processor</subfield>
+            <subfield code="c">wn15 2009-03-24 to HLCD</subfield>
+            <subfield code="a">bc00 2009-06-18</subfield>
+            <subfield code="d">bc07 2009-06-24</subfield>
+            <subfield code="a">Barcode 00148909015 returned from bindery 2009-09-01</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2009334076</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780797436459</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0797436456</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn262883554</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">BTCTA</subfield>
+            <subfield code="c">BTCTA</subfield>
+            <subfield code="d">WAU</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">WAU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">f-rh---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR9346</subfield>
+            <subfield code="b">.I58 2008</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Intwasa poetry /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Bulawayo :</subfield>
+            <subfield code="b">'amaBooks,</subfield>
+            <subfield code="c">c2008.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">60 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">African poetry (English)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1953-</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">ODE-nb</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00999cam a22002657a 4500</leader>
+          <controlfield tag="001">15637090</controlfield>
+          <controlfield tag="005">20090914125613.0</controlfield>
+          <controlfield tag="008">090225s2008    rh            000 j eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">wn18 2009-02-25 z-processor</subfield>
+            <subfield code="c">wn15 2009-03-24 to HLCD</subfield>
+            <subfield code="a">bc00 2009-06-18</subfield>
+            <subfield code="d">bc07 2009-07-23</subfield>
+            <subfield code="a">Barcode 00148908989 returned from bindery 2009-09-14</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2009334077</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780797436442</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0797436448</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn269285537</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NUI</subfield>
+            <subfield code="c">NUI</subfield>
+            <subfield code="d">WAU</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">WAU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR9390.5</subfield>
+            <subfield code="b">.L66 2008</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Long time coming :</subfield>
+            <subfield code="b">short writings from Zimbabwe /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Ascot, Bulawayo :</subfield>
+            <subfield code="b">'amaBooks,</subfield>
+            <subfield code="c">c2008.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">153 p. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Zimbabwean literature (English)</subfield>
+            <subfield code="y">20th century.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Zimbabwean literature (English)</subfield>
+            <subfield code="y">21st century.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1953-</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">ODE-nb</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00828cam a22002657i 4500</leader>
+          <controlfield tag="001">20048972</controlfield>
+          <controlfield tag="005">20171017092717.0</controlfield>
+          <controlfield tag="008">171005s2017    rh            000 1 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">lcode</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">wn22 2017-10-05</subfield>
+            <subfield code="h">wn15 2017-10-17 to CALM</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2017319184</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780797488793</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0797488790</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">MLCS 2017/30681 (P)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Moving on and other Zimbabwean stories /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Ascot, Bulawayo :</subfield>
+            <subfield code="b">'amaBooks,</subfield>
+            <subfield code="c">[2017]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">184 pages ;</subfield>
+            <subfield code="c">21 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1953-</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">ODE-nb</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>04580cam a22005415i 4500</leader>
+          <controlfield tag="001">21938334</controlfield>
+          <controlfield tag="005">20210311171408.0</controlfield>
+          <controlfield tag="006">m    |o  d |      </controlfield>
+          <controlfield tag="007">cr |||||||||||</controlfield>
+          <controlfield tag="008">180702s2018    gw |||| o    |||| 0|eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">origres</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="e">pcnspringer</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DE-He213)978-3-319-64131-7</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2019769331</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9783319641317</subfield>
+          </datafield>
+          <datafield tag="024" ind1="7" ind2=" ">
+            <subfield code="a">10.1007/978-3-319-64131-7</subfield>
+            <subfield code="2">doi</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">pn</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">MED031000</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">MJH</subfield>
+            <subfield code="2">bicssc</subfield>
+          </datafield>
+          <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">MJH</subfield>
+            <subfield code="2">thema</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">616.33</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="097" ind1="0" ind2="0">
+            <subfield code="a">RC799-869</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Multidisciplinary Management of Eating Disorders /</subfield>
+            <subfield code="c">edited by Jane Morris, Alastair McKinlay.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st ed. 2018.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cham :</subfield>
+            <subfield code="b">Springer International Publishing :</subfield>
+            <subfield code="b">Imprint: Springer,</subfield>
+            <subfield code="c">2018.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource (VIII, 257 pages 21 illustrations, 19 illustrations in color.)</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">text file</subfield>
+            <subfield code="b">PDF</subfield>
+            <subfield code="2">rda</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Understanding Anorexic Behaviour -- Medical Assessment -- How do medical conditions interact with Eating Disorders? -- The Medical Management of Inpatients with Anorexia Nervosa. Care on the General Medical Ward -- Medicolegal Aspects -- Working with Parents, Partners and Other Carers -- Eating and feeding disorders in children and adolescents -- Management of Over Activity and Compulsive Exercise in the Treatment of People with Eating Disorders -- The Management of Eating Disorders where there is a Comorbid Personality Disorder -- Management of Eating Disorders when there is also substance misuse -- Management of eating disorders in patients with Type 1 (Insulin Dependent) Diabetes -- Perinatal Illness in Eating Disorders -- Managing Transitions in the Treatment of Eating Disorders -- Severe and Enduring Eating Disorders -- The Compassionate Management of a Death.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">This Handbook is an indispensable guide for the multidisciplinary management of eating disorders. It discusses a broad range of issues: managing high-risk patients, the challenges of inserting feeding tubes, addressing nutritional aspects and dealing with additional disorders which might complicate matters, such as diabetes, coeliac disease and cystic fibrosis. It discusses fertility, pregnancy, and eating disorders in children and adolescents, as well as addressing the needs of families. Chapters contain key checklists and flow diagrams. Abundant pictures and conversations, coloured diagrams, charts, maps and boxes, support readers' varying learning styles and assist retention of key points. Vignettes taken from real (but strenuously anonymised) cases appeal to clinicians' preference for case-based learning. The book also functions as a practical manual of 'What to do - and what NOT to do' with practical scenarios. In the acute situation, clinicians will be able to go directly to the relevant chapter to guide the team through the 'when, where, how, why and with whom' of assessing and managing patients with eating disorders. The book is primarily aimed at postgraduate physicians managing patients with Eating disorders on Gastrointestinal, Endocrine or general medical wards, and those who seek to deepen their expertise as they sit higher professional examinations. It is of interest to both medical and psychiatric clinicians, as well as useful to nursing and multidisciplinary staff who want to develop a compassionate understanding of the true pain driving their patients' behaviours.</subfield>
+          </datafield>
+          <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on publisher-supplied MARC data.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Gastroenterology.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nursing.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Psychiatry.</subfield>
+          </datafield>
+          <datafield tag="650" ind1="1" ind2="4">
+            <subfield code="a">Gastroenterology.</subfield>
+            <subfield code="0">https://scigraph.springernature.com/ontologies/product-market-codes/H33061</subfield>
+          </datafield>
+          <datafield tag="650" ind1="2" ind2="4">
+            <subfield code="a">Nursing.</subfield>
+            <subfield code="0">https://scigraph.springernature.com/ontologies/product-market-codes/H41005</subfield>
+          </datafield>
+          <datafield tag="650" ind1="2" ind2="4">
+            <subfield code="a">Psychiatry.</subfield>
+            <subfield code="0">https://scigraph.springernature.com/ontologies/product-market-codes/H53003</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">McKinlay, Alastair,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Print version:</subfield>
+            <subfield code="t">Multidisciplinary management of eating disorders</subfield>
+            <subfield code="z">9783319641300</subfield>
+            <subfield code="w">(DLC)  2017964379</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Printed edition:</subfield>
+            <subfield code="z">9783030097080</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Printed edition:</subfield>
+            <subfield code="z">9783319641300</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Printed edition:</subfield>
+            <subfield code="z">9783319641324</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">Medicine (R0) (SpringerNature-43714)</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">Medicine (SpringerNature-11650)</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">springerpcn</subfield>
+            <subfield code="e">batch8</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00726nam a22002417a 4500</leader>
+          <controlfield tag="001">13667351</controlfield>
+          <controlfield tag="005">20040726190947.0</controlfield>
+          <controlfield tag="008">040615s2003    rh            000 1 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DLC)  2003407900</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origode</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">wn06 07-01-2004; to LC 07-09-2004</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2003407900</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0797425403</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">MLCS 2004/00713 (P)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Short writings from Bulawayo /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Hillside, Bulawayo :</subfield>
+            <subfield code="b">'amaBooks,</subfield>
+            <subfield code="c">2003.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">134 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1953-</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">ODE-nb</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="o">am</subfield>
+            <subfield code="p">00102698149</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00979cam a2200265 a 4500</leader>
+          <controlfield tag="001">14302589</controlfield>
+          <controlfield tag="005">20060316155738.0</controlfield>
+          <controlfield tag="008">060316s2005    rh            000 m eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">lh45 2006-03-16</subfield>
+            <subfield code="i">lh45 2006-03-16</subfield>
+            <subfield code="e">lh45 2006-03-16 to Dewey</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2006540555</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0797428968 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR9390.85.B82</subfield>
+            <subfield code="b">S56 2005</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Short writings from Bulawayo, II /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Short writings from Bulawayo, 2</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Short writings from Bulawayo, two</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Ascot, Bulawayo :</subfield>
+            <subfield code="b">'amaBooks,</subfield>
+            <subfield code="c">c2005.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">116 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Poems and short stories.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Zimbabwean literature (English)</subfield>
+            <subfield code="y">21st century.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Zimbabwean literature (English)</subfield>
+            <subfield code="z">Zimbabwe</subfield>
+            <subfield code="z">Bulawayo.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Bulawayo (Zimbabwe)</subfield>
+            <subfield code="v">Literary collections.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1953-</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00925cam a2200265 a 4500</leader>
+          <controlfield tag="001">14548915</controlfield>
+          <controlfield tag="005">20061205091834.0</controlfield>
+          <controlfield tag="008">060913s2006    rh            000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origode</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">wn18 2006-09-13</subfield>
+            <subfield code="c">wn17 2006-09-14 to HLCD</subfield>
+            <subfield code="i">lh44 2006-12-01</subfield>
+            <subfield code="e">lh44 2006-12-01</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2006318563</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0797431314</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR9390.85.B82</subfield>
+            <subfield code="b">S57 2006</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Short writings from Bulawayo, III /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Short writings from Bulawayo, 3</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Short writings from Bulawayo, three</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Ascot, Bulawayo :</subfield>
+            <subfield code="b">'amaBooks,</subfield>
+            <subfield code="c">c2006.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">149 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Bulawayo (Zimbabwe)</subfield>
+            <subfield code="v">Literary collections.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Zimbabwean literature (English)</subfield>
+            <subfield code="z">Zimbabwe</subfield>
+            <subfield code="z">Bulawayo.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1953-</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">ODE-nb</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01639cam a2200325 i 4500</leader>
+          <controlfield tag="001">17597473</controlfield>
+          <controlfield tag="005">20130124135711.0</controlfield>
+          <controlfield tag="008">130122s2012    wlk           000 1 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origres</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">hf04 2013-01-22 z-processor to USAN/UKI</subfield>
+            <subfield code="i">hf11 2013-01-24 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2012517088</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781906998592 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1906998590 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">f-rh---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR9390.8</subfield>
+            <subfield code="b">.W44 2012</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Where to now? /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cardigan :</subfield>
+            <subfield code="b">Parthian,</subfield>
+            <subfield code="c">2012.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">216 pages ;</subfield>
+            <subfield code="c">21 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Short stories from Zimbabwe"--Cover.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">A beast and a Jete / Mapfumo Clement Chihota -- Christina the colourful / Babara Mhangami-Ruwende -- I am an African, am I? / Mzana Mthimkhulu -- Making a woman / Thabisani Ndlovu -- Snapshots / NoViolet Bulawayo -- Her skin is a map / Raisedon Baya -- Crossroads / Novuyo Rosa Tshuma -- The piano tuner / Bryony Rheam -- The poetry Slammer / Omen Nyevero Muza -- Alone / Fungai Rufaro Machirori -- They are coming / Christopher Mlalazi -- Mr Pothole / Diana Charsley -- The accidental hero / Murenga Joseph Chikowero -- Sudden death / Blessing Musariri -- Tomato stakes / John Eppel -- The need / Sandisile Tshuma.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Short stories, Zimbabwean (English)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Zimbabwe</subfield>
+            <subfield code="v">Fiction.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1953-</subfield>
+            <subfield code="e">editor of compilation.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="a">purchase</subfield>
+            <subfield code="s">Coutts</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00673cam a22002177a 4500</leader>
+          <controlfield tag="001">16938581</controlfield>
+          <controlfield tag="005">20110915041151.0</controlfield>
+          <controlfield tag="008">110829s2011    rh            000 j eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origode</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">wn23 2011-08-29</subfield>
+            <subfield code="h">wn15 2011-09-15 to ALAWE/A</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2011349456</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780797446489</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lcode</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">MLCS 2011/01010 (P)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Where to now? :</subfield>
+            <subfield code="b">short stories from Zimbabwe /</subfield>
+            <subfield code="c">edited by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Bulawayo [Zimbabwe] :</subfield>
+            <subfield code="b">'amaBooks,</subfield>
+            <subfield code="c">c2011.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">152 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">ODE-nb</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>11</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02472cam a2200553 a 4500</leader>
+          <controlfield tag="001">7891172</controlfield>
+          <controlfield tag="005">20220511095740.0</controlfield>
+          <controlfield tag="008">781129s1896    enk           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premver</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-genrareb</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vj00</subfield>
+            <subfield code="i">vj15 2005-06-09 NEW INPUT</subfield>
+            <subfield code="e">vj05 2005-12-19</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   49034241</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   49034241 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR4478.A35</subfield>
+            <subfield code="b">E4</subfield>
+          </datafield>
+          <datafield tag="051" ind1=" " ind2=" ">
+            <subfield code="a">PR4478.A35</subfield>
+            <subfield code="b">E4 Copy 2</subfield>
+            <subfield code="c">Rosenwald collection item 2039. Printed on vellum. Original limp vellum binding. Presentation copy of Jane Morris to S.C. Cockerell.</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Coleridge, Samuel Taylor,</subfield>
+            <subfield code="d">1772-1834.</subfield>
+          </datafield>
+          <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Poems.</subfield>
+            <subfield code="k">Selections</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Poems chosen out of the works of Samuel Taylor Coleridge.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Hammersmith :</subfield>
+            <subfield code="b">Kelmscott Press,</subfield>
+            <subfield code="c">1896.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ii, 100 p. ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Edited by F.S. Ellis, and printed by me William Morris"--Colophon.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Limited edition of 300 copies printed on paper, 8 on vellum. Cf. Peterson.</subfield>
+          </datafield>
+          <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Library of Congress. Lessing J. Rosenwald collection,</subfield>
+            <subfield code="c">2039</subfield>
+          </datafield>
+          <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Peterson, W.S. Bibliography of the Kelmscott Press,</subfield>
+            <subfield code="c">A38</subfield>
+          </datafield>
+          <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Morris, Wiliam and S.C. Cockerell, Kelmscott Press, 1898,</subfield>
+            <subfield code="c">38</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form on the Library of Congress Web site.</subfield>
+          </datafield>
+          <datafield tag="563" ind1=" " ind2=" ">
+            <subfield code="a">LC copy bound by Riviere.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Bookbinding (Binding)</subfield>
+            <subfield code="2">rbbin</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Presentation copies (Provenance)</subfield>
+            <subfield code="2">rbprov</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ellis, Frederick Startridge,</subfield>
+            <subfield code="d">1830-1901,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, William,</subfield>
+            <subfield code="d">1834-1896,</subfield>
+            <subfield code="e">printer.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cockerell, Sydney Carlyle,</subfield>
+            <subfield code="c">Sir,</subfield>
+            <subfield code="d">1867-1962,</subfield>
+            <subfield code="e">former owner.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1839-1914,</subfield>
+            <subfield code="e">associated name.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Kelmscott Press.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Riviere &amp; Son,</subfield>
+            <subfield code="e">binder.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">William Morris and Kelmscott Press Collection (Library of Congress)</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Lessing J. Rosenwald Collection (Library of Congress)</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="d">rbc0001</subfield>
+            <subfield code="f">2022rosen2039</subfield>
+            <subfield code="u">https://hdl.loc.gov/loc.rbc/Rosenwald.2039</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">LAC ael 2019-12-17 no edits (1 card)</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">LAC ael 2022-02-24 update (1 card)</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">LAC ddw 2022-05-02 update (1 card)</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="a">gsl</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="a">rsl</subfield>
+            <subfield code="d">2019-12-17</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">rbc/scd</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">rbc/rosendgt</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">rbc/digital/rosen</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">rblacfederal</subfield>
+            <subfield code="d">20191217</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-RareBook</subfield>
+            <subfield code="h">PR4478.A35</subfield>
+            <subfield code="i">E4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>12</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01139nam a2200313 a 4500</leader>
+          <controlfield tag="001">2936194</controlfield>
+          <controlfield tag="005">19900104093658.9</controlfield>
+          <controlfield tag="008">891102s1989    maua          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   89202417</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">by34 to bc00 11-02-89; bc27 to SCD 12-07-89; fe 07 12-08-89; fm39 01-04-90</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   89202417 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0914470485</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HD39.4</subfield>
+            <subfield code="b">.M56 1989</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">332/.0415/0973</subfield>
+            <subfield code="2">20</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Mintz, Lloyd J.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Venture leasing /</subfield>
+            <subfield code="c">[project manager and author, Lloyd J. Mintz ; editor, Susan Isenstein ; contributors, Jane K. Morris, William Yue].</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Needham, Mass. :</subfield>
+            <subfield code="b">Venture Economics,</subfield>
+            <subfield code="c">[1989]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">50, [10] leaves :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="2">
+            <subfield code="a">A Venture Economics research report</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Industrial equipment leases</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="x">Finance.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Venture capital</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Isenstein, Susan.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane K.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Yue, William.</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">co</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">HD39.4</subfield>
+            <subfield code="i">.M56 1989</subfield>
+            <subfield code="p">00017619779</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>13</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00997cam a2200277 i 4500</leader>
+          <controlfield tag="001">836077</controlfield>
+          <controlfield tag="005">20020506110010.0</controlfield>
+          <controlfield tag="008">770623s1975    enkabc   cr   001 0beng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   77358505</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   77358505 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB76-29079</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0950514101 :</subfield>
+            <subfield code="c">£2.00</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">N6768</subfield>
+            <subfield code="b">.M67</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">709/.2/2</subfield>
+            <subfield code="a">B</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Directory of artists :</subfield>
+            <subfield code="b">Space open studios, London, 1975 /</subfield>
+            <subfield code="c">compiled by Jane Morris ; designed by Brian Stevens.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">[Space Ltd],</subfield>
+            <subfield code="c">1975.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ix, 179 p. :</subfield>
+            <subfield code="b">ill., map, ports. ;</subfield>
+            <subfield code="c">30 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Catalog of an exhibition held Sept. 22-Oct. 12, 1975 in studios managed by Space Ltd.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes indexes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Art, English</subfield>
+            <subfield code="y">20th century</subfield>
+            <subfield code="v">Exhibitions.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Artists' studios</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">London</subfield>
+            <subfield code="v">Directories.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Space Ltd.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">N6768</subfield>
+            <subfield code="i">.M67</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>14</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01184cam a22003257a 4500</leader>
+          <controlfield tag="001">17657924</controlfield>
+          <controlfield tag="005">20130319102902.0</controlfield>
+          <controlfield tag="008">130313s2012    enka     b    001 0deng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">hh15 2013-03-13 z-processor</subfield>
+            <subfield code="i">hh15 2013-03-13 to BCCD c.1</subfield>
+            <subfield code="t">hf07 2013-03-19 copy 2 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2012515364</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB175539</subfield>
+            <subfield code="2">bnb</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">015830783</subfield>
+            <subfield code="2">Uk</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781843836766 (hbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1843836769 (hbk.)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn808802753</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NLE</subfield>
+            <subfield code="c">NLE</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">NDD</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">BWX</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">ERASA</subfield>
+            <subfield code="d">UKMGB</subfield>
+            <subfield code="d">YNK</subfield>
+            <subfield code="d">CDX</subfield>
+            <subfield code="d">CUD</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">GZM</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">N7574.M677</subfield>
+            <subfield code="b">A4 2012</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">826.8</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1839-1914.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The collected letters of Jane Morris /</subfield>
+            <subfield code="c">edited by Frank C. Sharp &amp; Jan Marsh.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Woodbridge :</subfield>
+            <subfield code="b">Boydell Press,</subfield>
+            <subfield code="c">2012.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxiii, 487 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1839-1914</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Artists' models</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Sharp, Frank C.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Marsh, Jan,</subfield>
+            <subfield code="d">1942-</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="a">mcun copy FY13</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>15</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00820cam a22002413  4500</leader>
+          <controlfield tag="001">6586865</controlfield>
+          <controlfield tag="005">20220502082540.0</controlfield>
+          <controlfield tag="008">821223s1965    ctu           000 0aeng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   65006785</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   65006785 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR5246</subfield>
+            <subfield code="b">.M6</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1839-1914.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The letters of Jane Burden Morris to Dante Gabriel Rossetti.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[New Haven?</subfield>
+            <subfield code="c">1965]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">17 l.</subfield>
+            <subfield code="c">30 cm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Rossetti, Dante Gabriel,</subfield>
+            <subfield code="d">1828-1882</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1839-1914</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rossetti, Dante Gabriel,</subfield>
+            <subfield code="d">1828-1882.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Troxell, Janet Camp,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">LAC ddw 2022-05-02 update (1 card)</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PR5246</subfield>
+            <subfield code="i">.M6</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>16</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01742cam a22003498i 4500</leader>
+          <controlfield tag="001">23155050</controlfield>
+          <controlfield tag="005">20230623095744.0</controlfield>
+          <controlfield tag="008">230531s2023    enk      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rl15 2023-05-31</subfield>
+            <subfield code="i">rl15 2023-05-31 (telework) to Dewey</subfield>
+            <subfield code="w">xm08 2023-06-23 Telework</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023016937</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781911623830</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781911623847</subfield>
+            <subfield code="q">(epub)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC451.4.S7</subfield>
+            <subfield code="b">M678 2023</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">362.1968900835</subfield>
+            <subfield code="2">23/eng/20230623</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1951-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Improving university mental health /</subfield>
+            <subfield code="c">Jane Morris, University of Aberdeen.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">2309</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cambridge, United Kingdom ;</subfield>
+            <subfield code="a">New York, NY :</subfield>
+            <subfield code="b">Cambridge University Press,</subfield>
+            <subfield code="c">2023.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">pages cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"An exploration of the key issues impacting the mental health of university students, and what can be done with regards to support and improvement. This book will appeal to mental health professionals, GPs, support workers and counsellors, as well as parents, academic staff, and students"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">College students</subfield>
+            <subfield code="x">Mental health</subfield>
+            <subfield code="z">Great Britain.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">College students</subfield>
+            <subfield code="x">Mental health services</subfield>
+            <subfield code="z">Great Britain.</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Online version:</subfield>
+            <subfield code="a">Morris, Jane, 1951-</subfield>
+            <subfield code="t">Improving university mental health</subfield>
+            <subfield code="d">Cambridge, United Kingdom ; New York, NY : Cambridge University Press, 2023</subfield>
+            <subfield code="z">9781911623847</subfield>
+            <subfield code="w">(DLC) 2023016938</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>17</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01901cam a22003978i 4500</leader>
+          <controlfield tag="001">23197421</controlfield>
+          <controlfield tag="005">20230623102701.0</controlfield>
+          <controlfield tag="008">230531s2023    enk     ob    001 0 eng  </controlfield>
+          <controlfield tag="006">m    |o  d |     </controlfield>
+          <controlfield tag="007">cr_|||||||||||</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="e">ecip ebook</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">ecip ebook 2023-06-23</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2023016938</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781911623847</subfield>
+            <subfield code="q">(epub)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781911623830</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC451.4.S7</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">362.1968900835</subfield>
+            <subfield code="2">23/eng/20230623</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1951-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Improving university mental health /</subfield>
+            <subfield code="c">Jane Morris, University of Aberdeen.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">2309</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cambridge, United Kingdom ;</subfield>
+            <subfield code="a">New York, NY :</subfield>
+            <subfield code="b">Cambridge University Press,</subfield>
+            <subfield code="c">2023.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"An exploration of the key issues impacting the mental health of university students, and what can be done with regards to support and improvement. This book will appeal to mental health professionals, GPs, support workers and counsellors, as well as parents, academic staff, and students"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on print version record and CIP data provided by publisher; resource not viewed.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">College students</subfield>
+            <subfield code="x">Mental health</subfield>
+            <subfield code="z">Great Britain.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">College students</subfield>
+            <subfield code="x">Mental health services</subfield>
+            <subfield code="z">Great Britain.</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Print version:</subfield>
+            <subfield code="a">Morris, Jane, 1951-</subfield>
+            <subfield code="t">Improving university mental health</subfield>
+            <subfield code="d">Cambridge, United Kingdom ; New York, NY : Cambridge University Press, 2023</subfield>
+            <subfield code="z">9781911623830</subfield>
+            <subfield code="w">(DLC) 2023016937</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">LC online resource</subfield>
+            <subfield code="d">2023-06-23</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>18</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01906cam a22003858i 4500</leader>
+          <controlfield tag="001">21454260</controlfield>
+          <controlfield tag="005">20210629183200.0</controlfield>
+          <controlfield tag="006">m    |o  d |      </controlfield>
+          <controlfield tag="007">cr |||||||||||</controlfield>
+          <controlfield tag="008">200302s2020    enk     ob    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="e">ecip ebook</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">ecip ebook 2020-03-03</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2019052584</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781911623588</subfield>
+            <subfield code="q">(ebook)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781911623571</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC552.E18</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">616.85/26</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1951-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">New to eating disorders /</subfield>
+            <subfield code="c">Jane Morris, Royal Cornhill Hospital, Caz Nahman, Nottinghamshire Healthcare NHS Trust.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">2006</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cambridge, United Kingdom ;</subfield>
+            <subfield code="a">New York, NY, USA :</subfield>
+            <subfield code="b">Cambridge University Press,</subfield>
+            <subfield code="c">2020.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"An important item on the Workplan of FED (the Faculty of Eating Disorders Section of the Royal College of Psychiatrists) is the provision of high-quality training in the speciality. The New to Eating Disorders project has been based on two pioneering Scottish projects which had similar aims in different specialities: New to Forensic and New to CAMHS"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on print version record and CIP data provided by publisher; resource not viewed.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Eating disorders.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nahman, Caz,</subfield>
+            <subfield code="d">1967-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Print version:</subfield>
+            <subfield code="a">Morris, Jane, 1951-</subfield>
+            <subfield code="t">New to eating disorders</subfield>
+            <subfield code="d">Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press, 2020.</subfield>
+            <subfield code="z">9781911623571</subfield>
+            <subfield code="w">(DLC) 2019052583</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">LC online resource</subfield>
+            <subfield code="d">2020-03-03</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>19</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01698cam a22003378i 4500</leader>
+          <controlfield tag="001">21453416</controlfield>
+          <controlfield tag="005">20200319090646.0</controlfield>
+          <controlfield tag="008">200302s2020    enk      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">rip</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rl11 2020-03-02</subfield>
+            <subfield code="i">rl11 2020-03-02 to Dewey</subfield>
+            <subfield code="w">xm08 2020-03-02 (telework)</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2019052583</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781911623571</subfield>
+            <subfield code="q">(paperback)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781911623588</subfield>
+            <subfield code="q">(ebook)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC552.E18</subfield>
+            <subfield code="b">M68 2020</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">616.85/26</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1951-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">New to eating disorders /</subfield>
+            <subfield code="c">Jane Morris, Royal Cornhill Hospital, Caz Nahman, Nottinghamshire Healthcare NHS Trust.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">2006</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Cambridge, United Kingdom ;</subfield>
+            <subfield code="a">New York, NY, USA :</subfield>
+            <subfield code="b">Cambridge University Press,</subfield>
+            <subfield code="c">2020.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">pages cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"An important item on the Workplan of FED (the Faculty of Eating Disorders Section of the Royal College of Psychiatrists) is the provision of high-quality training in the speciality. The New to Eating Disorders project has been based on two pioneering Scottish projects which had similar aims in different specialities: New to Forensic and New to CAMHS"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Eating disorders.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nahman, Caz,</subfield>
+            <subfield code="d">1967-</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Online version:</subfield>
+            <subfield code="a">Morris, Jane, 1951-</subfield>
+            <subfield code="t">New to eating disorders</subfield>
+            <subfield code="d">New York : Cambridge University Press, 2020</subfield>
+            <subfield code="z">9781911623588</subfield>
+            <subfield code="w">(DLC) 2019052584</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>20</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01749cam a2200337 a 4500</leader>
+          <controlfield tag="001">14976799</controlfield>
+          <controlfield tag="005">20110414134007.0</controlfield>
+          <controlfield tag="008">070823s2008    nyu      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+            <subfield code="e">claim1  2010-02-16</subfield>
+            <subfield code="e">claim2  2010-06-18</subfield>
+            <subfield code="e">to CAD  2010-10-19</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">sg29 2007-08-23</subfield>
+            <subfield code="i">sg29 2007-08-23</subfield>
+            <subfield code="e">sg29 2007-08-23 to Dewey</subfield>
+            <subfield code="a">aa04 2007-08-27</subfield>
+            <subfield code="a">xe08 2011-04-12 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">xg11 2011-04-14 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2007035128</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781891843396 (alk. paper)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">KF4606</subfield>
+            <subfield code="b">.M67 2008</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">343.73/0815</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Anne,</subfield>
+            <subfield code="d">1953-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Gaveling down the rabble :</subfield>
+            <subfield code="b">how "free trade" is stealing our democracy /</subfield>
+            <subfield code="c">by Jane Anne Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Apex Press,</subfield>
+            <subfield code="c">c2008.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, 182 p. cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">"Free trade" is -- A trip down "free trade's" memory lane -- Singer Company sets the pattern -- Farmer Filburn and the distended definition of commerce -- Environment finds refuge in commerce : the hey-whatever clause -- Strange fruit : civil rights and the commerce clause -- Fellow travelers : labor and the commerce clause -- Acts of self-preservation.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Interstate commerce</subfield>
+            <subfield code="x">Law and legislation</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Trade regulation</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="x">States.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Free trade</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Protectionism</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">United States</subfield>
+            <subfield code="x">Commercial treaties.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">World Trade Organization.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Table of contents only</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/toc/ecip0725/2007035128.html</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>21</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01093pam a2200277 a 4500</leader>
+          <controlfield tag="001">4905060</controlfield>
+          <controlfield tag="005">20170925125715.0</controlfield>
+          <controlfield tag="008">940309s1994    cau      bf   001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc05 to sa00 03-09-94; sc18 03-12-94; sc17 03-15-94; sc02 to 03-17-94; aa00 03-18-94; CIP ver. pv07 06-28-94</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   94008052 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0962494577 (recycled paper)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   94008052</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HD205</subfield>
+            <subfield code="b">.M67 1994</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">333.73/13/0973</subfield>
+            <subfield code="2">20</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Anne,</subfield>
+            <subfield code="d">1953-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Not in my back yard :</subfield>
+            <subfield code="b">the handbook /</subfield>
+            <subfield code="c">by Jane Anne Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">San Diego, Calif. :</subfield>
+            <subfield code="b">Silvercat Publications,</subfield>
+            <subfield code="c">c1994.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">305 p. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 287-300) and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Land use</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="x">Planning</subfield>
+            <subfield code="x">Citizen participation</subfield>
+            <subfield code="x">Handbooks, manuals, etc.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">NIMBY syndrome</subfield>
+            <subfield code="z">United States.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">HD205</subfield>
+            <subfield code="i">.M67 1994</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>22</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00990nam a2200277 a 4500</leader>
+          <controlfield tag="001">4400975</controlfield>
+          <controlfield tag="005">19920617080940.9</controlfield>
+          <controlfield tag="008">920227s1991    scua     d    001 0beng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   92123383</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">by34 to bd00 02-27-92; bd01 to SCD 05-04-92; fc18 05-05-92; aa21 06-17-92</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   92123383 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us-sc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">F279.P5</subfield>
+            <subfield code="b">M67 1991</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">975.7/23</subfield>
+            <subfield code="2">20</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Boroughs.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Pickens, the town and the first Baptist church /</subfield>
+            <subfield code="c">Jane Boroughs Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Pickens, S.C. :</subfield>
+            <subfield code="b">The Church,</subfield>
+            <subfield code="c">1991.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 380 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 306-353) and index.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Pickens (S.C.)</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Pickens (S.C.)</subfield>
+            <subfield code="x">Church history.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Pickens First Baptist Church (Pickens, S.C.)</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">co</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">F279.P5</subfield>
+            <subfield code="i">M67 1991</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>23</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00635cam a22002171a 4500</leader>
+          <controlfield tag="001">7905754</controlfield>
+          <controlfield tag="005">20020308154915.0</controlfield>
+          <controlfield tag="008">950803s1952    nyu           000 1 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   52006011</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   52006011 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)32916234</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OrCb</subfield>
+            <subfield code="d">FM</subfield>
+            <subfield code="d">ODaU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ3.A677</subfield>
+            <subfield code="b">Ju</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Kesner.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Julie /</subfield>
+            <subfield code="c">by Jane Kesner Morris</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">McGraw-Hill,</subfield>
+            <subfield code="c">c1952</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">287 p.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="a">gsl</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ3.A677</subfield>
+            <subfield code="i">Ju</subfield>
+            <subfield code="p">00022357037</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>24</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00700cam a22002291  4500</leader>
+          <controlfield tag="001">10216202</controlfield>
+          <controlfield tag="005">20050415192733.0</controlfield>
+          <controlfield tag="008">750818s1946    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   46006772</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   46006772 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1558043</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">FM</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ3.A677</subfield>
+            <subfield code="b">Wo</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Kesner.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Women, inc.</subfield>
+            <subfield code="c">[by] Jane Kesner Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">H. Holt and company</subfield>
+            <subfield code="c">[1946]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">5 p. l., 277 p.</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"First printing."</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ3.A677</subfield>
+            <subfield code="i">Wo</subfield>
+            <subfield code="p">00022357128</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>25</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00956nam a22002895i 4500</leader>
+          <controlfield tag="001">19999954</controlfield>
+          <controlfield tag="005">20170918074702.0</controlfield>
+          <controlfield tag="008">170914s2017    miu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc28 2017-09-14</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2017955107</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698499 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698505 (pdf)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698512 (epub)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698529 (kindle)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane L.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Amelia and Emma and their springtime friends /</subfield>
+            <subfield code="c">Jane .L Morris.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">1709</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Ishpeming, MI :</subfield>
+            <subfield code="b">BookVenture,</subfield>
+            <subfield code="c">2017.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">pages cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="963" ind1=" " ind2=" ">
+            <subfield code="a">Laura Tan; phone: (877) 2769751; fax: (877) 6841686; email: ltan@bookventure.com; bc: ltan@bookventure.com</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>26</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00929nam a22002895i 4500</leader>
+          <controlfield tag="001">19999998</controlfield>
+          <controlfield tag="005">20170918074807.0</controlfield>
+          <controlfield tag="008">170914s2017    miu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc28 2017-09-14</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2017955142</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698574 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698581 (pdf)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698598 (epub)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640698604 (kindle)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane L.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Bella's tea party /</subfield>
+            <subfield code="c">Jane .L Morris.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">1709</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Ishpeming, MI :</subfield>
+            <subfield code="b">BookVenture,</subfield>
+            <subfield code="c">2017.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">pages cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="963" ind1=" " ind2=" ">
+            <subfield code="a">Laura Tan; phone: (877) 2769751; fax: (877) 6841686; email: ltan@bookventure.com; bc: ltan@bookventure.com</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>27</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00932nam a22002895i 4500</leader>
+          <controlfield tag="001">19869187</controlfield>
+          <controlfield tag="005">20170808111038.0</controlfield>
+          <controlfield tag="008">170808s2017    miu           000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc28 2017-08-08</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2017951757</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640696389 (pbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640696396 (pdf)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640696402 (epub)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781640696419 (kindle)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane L.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">I love you even more /</subfield>
+            <subfield code="c">Jane .L Morris.</subfield>
+          </datafield>
+          <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">1708</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Ishpeming, MI :</subfield>
+            <subfield code="b">BookVenture,</subfield>
+            <subfield code="c">2017.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">pages cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="963" ind1=" " ind2=" ">
+            <subfield code="a">Laura Tan; phone: (877) 2769751; fax: (877) 6841686; email: ltan@bookventure.com; bc: ltan@bookventure.com</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>28</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00750cam a2200241u  4500</leader>
+          <controlfield tag="001">8308514</controlfield>
+          <controlfield tag="005">20170621111330.0</controlfield>
+          <controlfield tag="008">810211s1938    pau           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   38019807</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   38019807 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS71</subfield>
+            <subfield code="b">.S614 1938</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 86/6166</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Sims Davison,</subfield>
+            <subfield code="d">1878-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Adam Symes and his descendants,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia,</subfield>
+            <subfield code="b">Dorrance and company</subfield>
+            <subfield code="c">[1938]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">403 p.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">LC copy replaced by microfilm.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Symes, Adam,</subfield>
+            <subfield code="d">approximately 1689-1733</subfield>
+            <subfield code="x">Family.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Sims family.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">fcd</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 86/6166</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>29</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00891nam a22002417i 4500</leader>
+          <controlfield tag="001">522353</controlfield>
+          <controlfield tag="005">19860421000000.0</controlfield>
+          <controlfield tag="007">hdrafa---baca</controlfield>
+          <controlfield tag="007">hdrbfa---baaa</controlfield>
+          <controlfield tag="008">860411|1938    |||           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   86144538</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">5</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-genmicro</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   86144538 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Microfilm 86/6166 (C) &lt;MicRR&gt;</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Sims Davison,</subfield>
+            <subfield code="d">1878- </subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Adam Symes and his descendants [microform] /</subfield>
+            <subfield code="c">by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia :</subfield>
+            <subfield code="b">Dorrance and Co.,</subfield>
+            <subfield code="c">c1938.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">403 p. ; 23 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Call number of original: CS71.S614 1938.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Master microform held by: DLC.</subfield>
+          </datafield>
+          <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Microfilm. Washington, D.C. : Library of Congress Photoduplication Service, 1986. 1 microfilm reel ; 35 mm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-MicRR</subfield>
+            <subfield code="h">Microfilm 86/6166 (C) &lt;MicRR&gt;</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>30</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00827cam a22002651  4500</leader>
+          <controlfield tag="001">9253200</controlfield>
+          <controlfield tag="005">20181105072353.0</controlfield>
+          <controlfield tag="008">790705s1940    pau           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   40033920</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   40033920 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)5138431</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">Vi</subfield>
+            <subfield code="d">Vi</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS71</subfield>
+            <subfield code="b">.D877 1940</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane Sims Davison,</subfield>
+            <subfield code="d">1878-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Duke-Symes family,</subfield>
+            <subfield code="c">by Jane Morris.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Philadelphia,</subfield>
+            <subfield code="b">Dorrance,</subfield>
+            <subfield code="c">[c1940]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">264 p.</subfield>
+            <subfield code="b">front., plates, facsims.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliographical references in preface.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Duke family.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="3" ind2="0">
+            <subfield code="a">Symmes family.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">fcd cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CS71.D877</subfield>
+            <subfield code="i">1940</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>31</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02294ccm a2200397 a 4500</leader>
+          <controlfield tag="001">15736227</controlfield>
+          <controlfield tag="005">20090709161629.0</controlfield>
+          <controlfield tag="008">090513s2007    nmusgz|  bdez  n  | eng d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-genmusic</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">vk37 2009-05-13 z-client</subfield>
+            <subfield code="i">vk37 2009-05-13</subfield>
+            <subfield code="e">vl34 2009-05-15 c. 1 &amp; 2 to Music Division</subfield>
+            <subfield code="a">Barcode 00226788487 returned from bindery 2009-07-09</subfield>
+            <subfield code="a">Barcode 00226788475 returned from bindery 2009-07-09</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2009536640</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn227180382</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)227180382</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">INT</subfield>
+            <subfield code="c">INT</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="048" ind1=" " ind2=" ">
+            <subfield code="a">vn01</subfield>
+            <subfield code="a">ka01</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">M1621.4</subfield>
+            <subfield code="b">.M</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Valarie.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Becoming a butterfly :</subfield>
+            <subfield code="b">how to raise monarch butterflies /</subfield>
+            <subfield code="c">[music and words by Valarie Morris ; story by Jane Morris and Pat Rahmann].</subfield>
+          </datafield>
+          <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">How to raise monarch butterflies</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Santa Fe, NM :</subfield>
+            <subfield code="b">Sandscape Publications,</subfield>
+            <subfield code="c">c2007.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">33 p. of music :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="546" ind1=" " ind2=" ">
+            <subfield code="a">English words; also printed as text at end of score.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes interlinear words.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"An expansion of the ... booklet How to Raise Monarch Butterflies, written by Jane Morris and Pat Rahmann ... drawings from the booklet decorate the pages of this new book, which also includes music for voice and piano"--Foreword.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes glossary of terms and list of internet resources.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">What's in this book? -- Searching for eggs -- Migrate with me (song) -- Where to look -- Perpetual picnic (song) -- What to look for -- Life on a leaf (song) -- How to check the leaf for eggs -- Treasure hunt (song) -- Creating an observation room -- A butterfly bed and breakfast (song) -- The watch -- Eating machine (song) -- The caterpillar -- Fifth skin fandango (song) -- The chrysalis or pupa -- Dreams of a chrysalis (song) -- The butterfly -- Adult articulations (song) -- The launch -- Sky dances (song).</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Song cycles.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Songs with piano.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Monarch butterfly</subfield>
+            <subfield code="v">Songs and music.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Monarch butterfly</subfield>
+            <subfield code="x">Life cycles.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Valarie.</subfield>
+            <subfield code="4">lyr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane.</subfield>
+            <subfield code="t">How to raise monarch butterflies.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rahmann, Pat.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>32</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03373cam a2200397 i 4500</leader>
+          <controlfield tag="001">20746332</controlfield>
+          <controlfield tag="005">20191005110413.0</controlfield>
+          <controlfield tag="008">181116t20192019nyu      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default (ex.)</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rm13 2018-11-16</subfield>
+            <subfield code="i">rm13 2018-11-16 ONIX (telework)</subfield>
+            <subfield code="w">xm06 2018-11-19</subfield>
+            <subfield code="a">xn13 2019-01-30 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="f">rm14 2019-02-05</subfield>
+            <subfield code="t">rm08 2019-10-05 copy 2 to CALM</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2018053136</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780143133216 (paperback)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780525504993 (ebook)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HF5387</subfield>
+            <subfield code="b">.M68 2019</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">658.7/2</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">BUS008000</subfield>
+            <subfield code="a">POL043000</subfield>
+            <subfield code="a">SEL021000</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Mosbacher Morris, Jane,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Buy the change you want to see :</subfield>
+            <subfield code="b">use your purchasing power to make the world a better place /</subfield>
+            <subfield code="c">Jane Mosbacher Morris with Wendy Paris.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[New York] :</subfield>
+            <subfield code="b">TarcherPerigee,</subfield>
+            <subfield code="c">[2019]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2019</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 262 pages ;</subfield>
+            <subfield code="c">21 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (pages 243-251) and index.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"Eager to change the world? Learn how you can have a greater social impact through your everyday purchases.  The money we routinely spend on food, clothes, gifts, and even indulgences is an untapped superpower. What would happen if we slowed down to make more thoughtful decisions about what we buy? For "mom and pop" stores across the country, and artisan and agricultural communities around the world, every purchase matters.  Consumers--whether individuals, small businesses, or corporations--are paying more attention than ever to how their goods are made; and retailers--large and small--are responding by investing in ethical and eco-friendly production. Yet figuring out which brands to support can feel overwhelming. Jane Mosbacher Morris has devoted her career to creating economic opportunities for vulnerable communities around the world, and in this valuable book, she shares her passion and insights on how we, as consumers, can create positive change too.  Covering topics that range from why not all factories are evil, to how our morning coffee can be the easiest way for us to use our purchasing power for good, Buy the Change You Want to See makes us better informed consumers. Morris tells inspiring stories about how victims of human trafficking and natural disasters have been empowered by economic opportunity, and she offers practical ideas about how we can support these communities through our purchases--whether it comes to jewelry made from recycled materials in Haiti, sustainably grown and ethically sourced coffee and chocolate from farmers in some of the poorest regions of the world, or mass-produced jeans and shoes made in factories where workers are guaranteed decent working conditions and a fair wage"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Business ethics.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Purchasing.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Consumption (Economics)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">BUSINESS &amp; ECONOMICS / Business Ethics.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">POLITICAL SCIENCE / Political Process / Political Advocacy.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">SELF-HELP / Motivational &amp; Inspirational.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Paris, Wendy</subfield>
+            <subfield code="c">(Journalist),</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>33</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01065cam a2200289 i 4500</leader>
+          <controlfield tag="001">823464</controlfield>
+          <controlfield tag="005">20220502081747.0</controlfield>
+          <controlfield tag="008">761214s1976    enka          001 0ceng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76378435</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76378435 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB***</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0198124643 :</subfield>
+            <subfield code="c">$16.50 (U.S.)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR5246</subfield>
+            <subfield code="b">.A45</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">759.2</subfield>
+            <subfield code="a">B</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Rossetti, Dante Gabriel,</subfield>
+            <subfield code="d">1828-1882.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Dante Gabriel Rossetti and Jane Morris :</subfield>
+            <subfield code="b">their correspondence /</subfield>
+            <subfield code="c">edited with an introd. by John Bryson, in association with Janet Camp Troxell.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford [Eng.] :</subfield>
+            <subfield code="b">Clarendon Press,</subfield>
+            <subfield code="c">1976.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xx, 219 p. ;</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Rossetti, Dante Gabriel,</subfield>
+            <subfield code="d">1828-1882</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1839-1914.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Poets, English</subfield>
+            <subfield code="y">19th century</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Morris, Jane,</subfield>
+            <subfield code="d">1839-1914.</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">LAC ddw 2022-05-02 update (1 card)</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PR5246</subfield>
+            <subfield code="i">.A45</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>34</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Burden, Jane" or dc.creator="Morris, Jane" or dc.creator="Morris, Jane Burden"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

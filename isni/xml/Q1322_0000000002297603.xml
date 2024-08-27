@@ -1,0 +1,214 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS456</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000002297603</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000002297603</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>L. Margaret</forename>
+                    <surname>Midgley</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>L. Margaret</forename>
+                    <surname>Midgley</surname>
+                    <source>BAnQ</source>
+                  </personalName>
+                  <personalName>
+                    <forename>L. Margaret</forename>
+                    <surname>Midgley</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>12191156X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>L. Margaret</forename>
+                    <surname>Midgley</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>B2Q</source>
+                    <subsourceIdentifier>0000067374</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>L. Margaret</forename>
+                    <surname>Midgley</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>L. Margaret</forename>
+                    <surname>Midgley</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV12658606</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Laura Margaret</forename>
+                    <surname>Midgley</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000021988</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Laura Margaret</forename>
+                    <surname>Midgley</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Laura Margaret</forename>
+                    <surname>Midgley</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2012245964</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="BAnQ">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="BAnQ">as</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="B2Q">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="NTA">
+                      <title>@History of the county of Stafford</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@History of the county of Stafford</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@History of the county of Stafford</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Ministers' accounts of the earldom of Cornwall 1296-1297.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Ministers' accounts of the earldom of Cornwall 1296-1297.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Ministers' accounts of the earldom of Cornwall 1296-1297.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Ministers' accounts of the earldom of Cornwall 1296-1297.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Ministers' accounts of the earldom of Cornwall 1296-1297.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="B2Q">
+                      <title>@Ministers' accounts of the earldom of Cornwall 1296-1297.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Staffordshire Domesday and the west Cuttlestone hundred</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Laura Margaret</forename>
+                    <surname>Midgley</surname>
+                    <source>BAnQ</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>L. Margaret</forename>
+                    <surname>Midgley</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Laura M.</forename>
+                    <surname>Midgley</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Laura Margaret</forename>
+                    <surname>Midgley</surname>
+                    <source>VIAF</source>
+                    <source>B2Q</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>56972374</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/56972374</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1322</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>07124560X</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BAnQ</codeOfSource>
+                <sourceIdentifier>0000067374</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>2077981</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/entity/Q1322</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000002297603%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000002297603"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

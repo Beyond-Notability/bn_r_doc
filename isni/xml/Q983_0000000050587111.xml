@@ -1,0 +1,253 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS179</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000050587111</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000050587111</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Annette Mary Budgett</forename>
+                    <surname>Meakin</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Annette Mary Budgett Meakin</surname>
+                    <nameTitle>Travel author</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q21978340</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Annette M. B</forename>
+                    <surname>Meakin</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>00471462</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Annette M. B.</forename>
+                    <surname>Meakin</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Annette M. B.</forename>
+                    <surname>Meakin</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>104364629</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Annette M. B.</forename>
+                    <surname>Meakin</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000539267</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Annette M. B.</forename>
+                    <surname>Meakin</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001398233</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Annette M.B.</forename>
+                    <surname>Meakin</surname>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationClass source="VIAF" subsource="NDL">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>@Enlistment or conscription?. - [1915]</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Enlistment or conscription?. - [1915]</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Galicia, the Switzerland of Spain</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Galicia, the Switzerland of Spain</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Goethe and Schiller, 1785-1805; the story of a friendship</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Hannah More, a biographical study</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@In Russian Turkestan; a garden of Asia and its people</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@Kato jidai no fujin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@nr00013755</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @ribbon of iron</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Russia: travels and studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Russia: travels and studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@What America is doing; letters from the New world</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Woman in transition</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@Woman in transition</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Woman in transition</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Woman in transition</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@過渡時代の婦人</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Hannah More, a biographical study</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@In Russian Turkestan; a garden of Asia and its people</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @ribbon of iron</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Russia: travels and studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Woman in transition</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780405030864</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780405303500</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780405030864</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Annette M. B.</forename>
+                    <surname>Meakin</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Annette M.</forename>
+                    <surname>Meakin</surname>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>55539</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q983</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>10282032</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/10282032</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>130819239</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nr 00013755</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q983</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q21978340</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Annette_Meakin</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000050587111%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000050587111"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

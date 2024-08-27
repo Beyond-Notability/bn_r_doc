@@ -1,0 +1,208 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS281</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000036959353</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000036959353</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Ella Constance</forename>
+                    <surname>Sykes</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <script>Latn</script>
+                    <forename>Ella Constance</forename>
+                    <surname>Sykes</surname>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Ella</forename>
+                    <surname>Sykes</surname>
+                    <marcDate>1863-1939</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Ella</forename>
+                    <surname>Sykes</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Ella Sykes</surname>
+                    <nameTitle>Sykes, Ella Constance (1863–1939), traveller and writer</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q18922205</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Ella Constance</forename>
+                    <surname>Sykes</surname>
+                    <marcDate>-1939</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="BNF">
+                      <title>@Persia and its people by Ella C. Sykes</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Through deserts and oases of Central Asia, by miss Ella Sykes,... and... Percy Sykes,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @Homehelp in Canada, by Ella C. Sykes,... 2d edition</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Through Persia on a side saddle, by Ella C. Sykes...</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Through Persia on a side-saddle</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Home-help in Canada</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Through deserts and oases of Central Asia, 2006:</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781402193477</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Ella, Miss</forename>
+                    <surname>Sykes</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Ella</forename>
+                    <surname>Sykes</surname>
+                    <marcDate>d. 1939</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Ella C</forename>
+                    <surname>Sykes</surname>
+                    <marcDate>1863-1939</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>48796</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca06869439</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1059</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>75737939</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/75737939</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>15518508</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>244163987</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>2047076</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n 2006015044</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1059</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q18922205</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>(Sykes, Ella Constance, born Stoke Damerel, Devon, England, 11 November 1863; died London, 23 March 1939, traveler and writer who wrote about Iran)</information>
+                <URI>http://www.iranicaonline.org/articles/sykes-ella-constance</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000036959353%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000036959353"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

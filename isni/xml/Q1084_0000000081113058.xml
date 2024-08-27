@@ -1,0 +1,603 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS161</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000081113058</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000081113058</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>A.</forename>
+                    <surname>Werner</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <script>Latn</script>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Alice Werner</surname>
+                    <nameTitle>German writer</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q646517</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2013173404</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>101708203</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>00550074</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001324331</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000488099</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>034024158</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>n. 1859</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11207200</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Alice</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">trl</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">trl</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="VIAF" subsource="DNB">ctb</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">cm</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="NDL">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>An @introduction to the study of African languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>The @language-families of Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Introductory sketch of the Bantu languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Myths and legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Jamaican song and story Annancy stories, digging songs, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Introduction to the phonology of the Bantu languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Introduction to the phonology of the Bantu languages being the English version of "Grundriss einer Lautlehre der Bantusprachen", by Carl Meinhof. Translated, revised and enlarged in collaboration with the author and... Alice Werner by N. J. Van Warmelo...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Structure and relationship of African languages, by Alice Werner,... With preface by Hanns Visher</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Introductory sketch of the Bantu languages, by Alice Werner,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Language-families of Africa, by A. Werner,... [Introductory note on phonetics in relation to African languages, by Daniel Jones,...]</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@An Introduction to the study of African languages ["Die moderne Sprachforschung in Afrika"]... [Note to the "Sketch map of African language-families", by Bernhard Struck.]</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Jamaican song and story</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Natives of British Central Africa, by A. Werner...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @natives of British Central Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Native question in South Africa, by A. Werner</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@African stories</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@Afurika shogengo no kōzō to kankei</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>An @alphabetical acrostic in a Northern dialect of Swahili</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Armenian [mythology]</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Armenian [mythology]</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Autobiography of Giuseppe Garibaldi.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Chapenga's white man. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Chapenga's white man. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Chapenga's white man. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Chapenga's white man. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Elementary lessons in Cape Dutch (Afrikander Taal)</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Grundriss einer Lautlehre der Bantusprachen.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Hadithi ya Mikidadi na Mayasa.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Hadithi ya Mikidadi na Mayasa.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @humour of Italy</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @humour of Italy</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Introductory sketch of the Bantu languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Introductory sketch of the Bantu languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Introductory sketch of the Bantu languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Introductory sketch of the Bantu languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Jamaican song and story: Annancy stories, digging sings, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Jamaican song and story: Annancy stories, digging sings, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Language and folklore in West Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Memorie autobiografiche.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Moderne Sprachforschung in Afrika.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Moderne Sprachforschung in Afrika.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Native life in East Africa; the results of an ethnological research expedition</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Native life in East Africa; the results of an ethnological research expedition</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@natives of British Central Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@natives of British Central Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@natives of British Central Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@natives of British Central Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@natives of British Central Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @story of Miqdad &amp; Mayasa</title>
+                      <subtitle>from the Swahili-Arabic text</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @story of Miqdad &amp; Mayasa</title>
+                      <subtitle>from the Swahili-Arabic text</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @story of Miqdad &amp; Mayasa</title>
+                      <subtitle>from the Swahili-Arabic text</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Structure and relationship of African languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Structure and relationship of African languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Structure and relationship of African languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Structure and relationship of African languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>A @Swahili history of Pate. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @Swahili saga of Liongo Fumo. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Swahili tales. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Swahili tales. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @time and times ballads and lyrics of East and West</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Utendi wa Mwana Kupona</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Utendi wa Mwana Kupona</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @Wahadimu of Zanzibar ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@アフリカ諸言語の構造と関係</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Bantu-phonology</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Elementary lessons in Cape Dutch (Afrikander Taal)</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @first Swahili book</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Grundriss einer Lautlehre der Bantusprachen.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Hadithi ya Mikidadi na Mayasa.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @humour of Italy</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Introductory sketch of the Bantu languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Jamaican song and story: Annancy stories, digging sings, ring tunes, and dancing tunes</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @mythology of all races</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Myths &amp; legends of the Bantu</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@natives of British Central Africa</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @story of Miqdad &amp; Mayasa</title>
+                      <subtitle>from the Swahili-Arabic text</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Structure and relationship of African languages</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Swahili tales. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Utendi wa Mwana Kupona</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783862900398</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783862900398</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783496007555</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780837117676</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404079550</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780486437200</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <surname>Alice Werner</surname>
+                    <nameTitle>anthropologue</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A.</forename>
+                    <surname>Werner</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A.</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A.</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A.</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Еліс Вернер</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>アリス</forename>
+                    <surname>ワーナー</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>A.</forename>
+                    <surname>Werner</surname>
+                    <marcDate>1859-1935</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>8051</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1084</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>32099140</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/32099140</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12482202</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>07002426X</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90577136</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  87817865</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14420514</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1084</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q646517</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Alice_Werner</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://uk.wikipedia.org/wiki/Еліс_Вернер</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000081113058%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000081113058"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

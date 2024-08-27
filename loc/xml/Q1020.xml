@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>2</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01508cam a22002291  4500</leader>
+          <controlfield tag="001">272588</controlfield>
+          <controlfield tag="005">20190329081426.0</controlfield>
+          <controlfield tag="008">861114s1903    enkaf         100 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04000528 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04000528</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC/ICU</subfield>
+            <subfield code="c">ICU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QB16</subfield>
+            <subfield code="b">.P73</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Plunket, Emmeline M.</subfield>
+            <subfield code="q">(Emmeline Mary),</subfield>
+            <subfield code="d">1835-</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Ancient calendars and constellations,</subfield>
+            <subfield code="c">by the Hon. Emmeline M. Plunket.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">J. Murray,</subfield>
+            <subfield code="c">1903.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xvi, 263 p.</subfield>
+            <subfield code="b">illus., 23 pl. (10 fold.)</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">I. The Accadian calendar (Proceedings of the Society of biblical archæology, January 1892)--II. The constellation Aries. (Proc. of the Soc. of biblical arch., March 1893)--III. Gu, eleventh constellation of the zodiac. (Proc. of the Soc. of biblical arch., Feb. 1896)--IV. The Median calendar and the constellation Taurus. (Proc. of the Soc. of biblical arch., June 1897).--V. Astronomy in the Rig veda. (Report of the Acts of the Twelfth Oriental congress held at Rome)--VI. Notes.--Ahura Mazda, etc. (Proc. of the Soc. of biblical arch., Feb. 1900)--VII. Ancient Indian astronomy (Proc. of the Soc. of biblical arch., Feb. 1900)--VIII. The Chinese calendar, with some remarks with reference to that of the Chaldeans. (Proc. of the Soc. of biblical arch., Dec. 1901)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Astronomy, Ancient.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Calendar.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Constellations.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QB16</subfield>
+            <subfield code="i">.P73</subfield>
+            <subfield code="p">00018761142</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01131cam a22002897a 4500</leader>
+          <controlfield tag="001">14412216</controlfield>
+          <controlfield tag="005">20130531105031.0</controlfield>
+          <controlfield tag="008">060613r20051903enka          001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pv03 2006-06-13 z-processor to ASCD</subfield>
+            <subfield code="a">jp00 2006-06-19</subfield>
+            <subfield code="a">jp43 2006-07-13 to</subfield>
+            <subfield code="a">jp43 2007-02-28 z-processor</subfield>
+            <subfield code="i">jp43 2007-02-28</subfield>
+            <subfield code="e">jp43 2007-02-28 to Dewey</subfield>
+            <subfield code="a">aa07 2007-03-14</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2006275651</subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB97-71616</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1859584888 (pbk)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocm38519134</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKM</subfield>
+            <subfield code="c">UKM</subfield>
+            <subfield code="d">NRM</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QB16</subfield>
+            <subfield code="b">.P58 2005</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">133.5093</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Plunket, Emmeline M.</subfield>
+            <subfield code="q">(Emmeline Mary),</subfield>
+            <subfield code="d">1835-</subfield>
+          </datafield>
+          <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Ancient calendars and constellations</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Calendars and constellations of the ancient world /</subfield>
+            <subfield code="c">Emmeline Plunket.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Senate,</subfield>
+            <subfield code="c">c2005.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">255 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published as: Ancient calendars and constellations. London : John Murray, 1903.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Astrology</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Plunket, Emmeline" or dc.creator="Plunket, Emmeline M." or dc.creator="Plunket, Emmeline Mary"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

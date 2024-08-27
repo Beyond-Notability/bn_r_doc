@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>27</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00815cam a2200229u  4500</leader>
+          <controlfield tag="001">7172983</controlfield>
+          <controlfield tag="005">20151029124907.0</controlfield>
+          <controlfield tag="008">831210m19659999oncabc j      000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   78211814</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   78211814 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">F1026</subfield>
+            <subfield code="b">.C52</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Charles,</subfield>
+            <subfield code="c">frère, E. C.,</subfield>
+            <subfield code="d">1910- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Notre héritage canadien</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Toronto,</subfield>
+            <subfield code="b">Éditions Nelson</subfield>
+            <subfield code="c">[1965?-]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v.</subfield>
+            <subfield code="b">illus. (part col.), maps (part col.), ports.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Canada</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="v">Juvenile literature.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Léon,</subfield>
+            <subfield code="c">frère, E. C., [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Haché, Louis, [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">F1026</subfield>
+            <subfield code="i">.C52</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00720cam a2200193u  4500</leader>
+          <controlfield tag="001">7340691</controlfield>
+          <controlfield tag="005">20170724161832.0</controlfield>
+          <controlfield tag="008">801219s1929    nyu           000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr30000949</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr30000949 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 15</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Additions aux cypéracées de l'Amérique du nord,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">H. G. Fiedler;</subfield>
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Laboratoire de botanique, Université de Montréal; [etc., etc.]</subfield>
+            <subfield code="c">1929.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cyperaceae. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 15</subfield>
+            <subfield code="p">0005323754A</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">15</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01035nam a2200313 a 4500</leader>
+          <controlfield tag="001">1984462</controlfield>
+          <controlfield tag="005">19900430172606.6</controlfield>
+          <controlfield tag="008">890130s1987    qucc          000 0dfre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   89108539</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">ep03 01-30-89; fc14 02-16-89; ff05 03-1-89</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   89108539 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">2890150518</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK31.M27</subfield>
+            <subfield code="b">A25 1987</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">581</subfield>
+            <subfield code="2">20</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="3">
+            <subfield code="a">Le choix d'Auray Blain dans l'oeuvre de Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Charlesbourg, Québec :</subfield>
+            <subfield code="b">Presses laurentiennes,</subfield>
+            <subfield code="c">1987.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">79 p. :</subfield>
+            <subfield code="b">port. ;</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Collection "Le Choix de--". Série B</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E. C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Trees.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nature.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botanists</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+            <subfield code="x">Biography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Balin, Auray.</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">ap</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK31.M27</subfield>
+            <subfield code="i">A25 1987</subfield>
+            <subfield code="p">00053292975</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00829cam a22002411  4500</leader>
+          <controlfield tag="001">8976504</controlfield>
+          <controlfield tag="005">20050610175941.0</controlfield>
+          <controlfield tag="008">750604s1969    quc           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   71504976</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   71504976 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1371321</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NPlaU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK31.M27</subfield>
+            <subfield code="b">A4 1969</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Confidence et combat:</subfield>
+            <subfield code="b">lettres, 1924-1944.</subfield>
+            <subfield code="c">Présentation et notes: Gilles Beaudet.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Lidec,</subfield>
+            <subfield code="c">1969.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">251 p.</subfield>
+            <subfield code="b">ports.</subfield>
+            <subfield code="c">19 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botanists</subfield>
+            <subfield code="x">Correspondence, reminiscences, etc.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Beaudet, Gilles,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK31.M27</subfield>
+            <subfield code="i">A4 1969</subfield>
+            <subfield code="p">00053292896</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01069nam a2200301 a 4500</leader>
+          <controlfield tag="001">3758844</controlfield>
+          <controlfield tag="005">19830802000000.0</controlfield>
+          <controlfield tag="008">830801s1982    quc      b    000 0afre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   82170730</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   82170730 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">2762111625 :</subfield>
+            <subfield code="c">$13.50</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">F1054.S3</subfield>
+            <subfield code="b">M37 1982</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">971.4</subfield>
+            <subfield code="2">19</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Croquis laurentiens /</subfield>
+            <subfield code="c">frère Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Ed. présentée et préparée par André Gaulin avec la collaboration d'Aurélien Boivin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal :</subfield>
+            <subfield code="b">Fides,</subfield>
+            <subfield code="c">c1982.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">262 p. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Collection du nénuphar ;</subfield>
+            <subfield code="v">60</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 23-27.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Laurentian Mountains Region (Québec)</subfield>
+            <subfield code="x">Description and travel.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Gaulin, André.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Boivin, Aurélien.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">F1054.S3</subfield>
+            <subfield code="i">M37 1982</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01247cam a22003011  4500</leader>
+          <controlfield tag="001">9679430</controlfield>
+          <controlfield tag="005">20080123162809.0</controlfield>
+          <controlfield tag="008">851219r1928uuuunyubf    b    000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr29001143</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr29001143 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12936103</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">U.S. Dept. of Agr. Library</subfield>
+            <subfield code="c">NRU</subfield>
+            <subfield code="d">NRU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 12</subfield>
+          </datafield>
+          <datafield tag="070" ind1="0" ind2=" ">
+            <subfield code="a">451</subfield>
+            <subfield code="b">M763 no.12</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Deux épibiotes remarquables de la Minganie,</subfield>
+            <subfield code="c">par frère Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Henry G. Fiedler;</subfield>
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Laboratoire de botanique, Université de Montréal,</subfield>
+            <subfield code="c">1928.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., p. 163-176.</subfield>
+            <subfield code="b">iv pl., maps.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Contributions du Laboratoire de botanique de l'Université de Montréal.</subfield>
+            <subfield code="v">no. 12</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Extrait des Transactions of the Royal society of Canada, sér. 3, t. xxii (section v)</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Références": p. 176.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sparrowegg lady's slipper.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Draba luteola.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Canada</subfield>
+            <subfield code="z">Mingan Islands.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 12</subfield>
+            <subfield code="p">00053237216</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">12</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00937cam a22002531  4500</leader>
+          <controlfield tag="001">8326799</controlfield>
+          <controlfield tag="005">20050720194354.0</controlfield>
+          <controlfield tag="008">851120s1942    quca     b    000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  43001207</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  43001207 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12825891</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">N.Y. St. Coll. Agr., Cornell Univ. Library</subfield>
+            <subfield code="c">NRU</subfield>
+            <subfield code="d">NRU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK495.D75</subfield>
+            <subfield code="b">M3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Dracaena cubensis,</subfield>
+            <subfield code="c">par frère Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal, Can.,</subfield>
+            <subfield code="b">Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="c">1942.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 p. l., 16 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Contributions de l'Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="v">no. 43</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliographical foot-notes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Liliales.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK495.D75</subfield>
+            <subfield code="i">M3</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01194cam a22002771  4500</leader>
+          <controlfield tag="001">6869326</controlfield>
+          <controlfield tag="005">20050819191807.0</controlfield>
+          <controlfield tag="008">851219s1929    nyuab         000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr29001144</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr29001144 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12936097</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">U.S. Dept. of Agr. Library</subfield>
+            <subfield code="c">NRU</subfield>
+            <subfield code="d">NRU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 13</subfield>
+          </datafield>
+          <datafield tag="070" ind1="0" ind2=" ">
+            <subfield code="a">451</subfield>
+            <subfield code="b">M763 no.13</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="3">
+            <subfield code="a">Le dynamisme dans la flore du Québec;</subfield>
+            <subfield code="b">essai sur les forces d'évolution et d'élimination en œuvre dans certaines populations végétales.</subfield>
+            <subfield code="c">Par frère Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">H. G. Fiedler;</subfield>
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Laboratoire de botanique, Université de Montréal,</subfield>
+            <subfield code="c">1929.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, [11]-89 p.</subfield>
+            <subfield code="b">illus. (incl. maps)</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Contributions du Laboratoire de botanique de l'Université de Montréal.</subfield>
+            <subfield code="v">no. 13</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Plants</subfield>
+            <subfield code="x">Evolution.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Plant ecology.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 13</subfield>
+            <subfield code="p">00053237587</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">13</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01158cam a22003131  4500</leader>
+          <controlfield tag="001">10131853</controlfield>
+          <controlfield tag="005">20101203115747.0</controlfield>
+          <controlfield tag="008">860829s1923    quc      b    000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr23001372</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr23001372 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)14160163</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Library, U.S. Dept. of Agriculture</subfield>
+            <subfield code="c">NhD</subfield>
+            <subfield code="d">NhD</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 2</subfield>
+          </datafield>
+          <datafield tag="070" ind1="0" ind2=" ">
+            <subfield code="a">451M763</subfield>
+            <subfield code="b">no. 2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">Les filicinées du Québec ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal</subfield>
+            <subfield code="b">[Imprimerie populaire, limitée]</subfield>
+            <subfield code="c">1923.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">98 p.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Montréal. Université. Laboratoire de botanique. Contributions</subfield>
+            <subfield code="v">no. 2</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Supplément de la Revue trimestrielle canadienne, mars 1923, tome IX.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Errata slip laid in.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Bound with no. 3-no. 8 subsequent to publication.</subfield>
+          </datafield>
+          <datafield tag="502" ind1=" " ind2=" ">
+            <subfield code="a">Thèse--Unvi. de Montréal.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Bibliographie": p. 89-93.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Ferns</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 2</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00940cam a22002651  4500</leader>
+          <controlfield tag="001">9985970</controlfield>
+          <controlfield tag="005">20170724162055.0</controlfield>
+          <controlfield tag="008">731003s1969    quc           000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   78487583</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   78487583 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)709172</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">VtU</subfield>
+            <subfield code="d">UPB</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK946</subfield>
+            <subfield code="b">.M37 1969</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Flore de l'Anticosti-Minganie.</subfield>
+            <subfield code="c">Par Frère Marie-Victorin et Frère Rolland-Germain.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montreal,</subfield>
+            <subfield code="b">Les Presses de l'Université de Montreal,</subfield>
+            <subfield code="c">1969.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">527 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">24 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Bibliographie:" p. [499]-505.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+            <subfield code="z">Anticosti Island.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rolland-Germain, Frère.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK946</subfield>
+            <subfield code="i">.M37 1969</subfield>
+            <subfield code="p">00053824559</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00998cam a22002771  4500</leader>
+          <controlfield tag="001">9233920</controlfield>
+          <controlfield tag="005">20010213105245.0</controlfield>
+          <controlfield tag="008">780428s1935    qucab         001 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   35020520</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   35020520 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3836560</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">MeB</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK201</subfield>
+            <subfield code="b">.M375</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">581.9714</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Flore laurentiene;</subfield>
+            <subfield code="c">illustrée de 22 cartes et de 2800 dessins par frère Alexandre.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Imprimerie de La Salle,</subfield>
+            <subfield code="c">1935.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">917 p., 1 l.</subfield>
+            <subfield code="b">illus., double map.</subfield>
+            <subfield code="c">29 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Blank page for "Additions et corrections" at end.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Principales publications intéresant la flore du Quebec": p. 17-18.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rouleau, Ernest,</subfield>
+            <subfield code="d">1916-1991.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK201</subfield>
+            <subfield code="i">.M375</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>11</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00997cam a22002531  4500</leader>
+          <controlfield tag="001">8935390</controlfield>
+          <controlfield tag="005">20010213105227.0</controlfield>
+          <controlfield tag="008">780610s1964    qucab         000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   65089416</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   65089416 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3964346</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">UU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK203.Q4</subfield>
+            <subfield code="b">M3 1964</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Flore laurentienne,</subfield>
+            <subfield code="c">par Frère Marie-Victorin. Illustrée par Frère Alexandre.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2. éd.</subfield>
+            <subfield code="b">entièrement rev. et mise à jour, par Ernest Rouleau.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Presses de l'Université de Montréal,</subfield>
+            <subfield code="c">1964.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">925p.</subfield>
+            <subfield code="b">illus.,maps.</subfield>
+            <subfield code="c">25cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Principales publications intéressant la flore du Québec": p. 17-18.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rouleau, Ernest,</subfield>
+            <subfield code="d">1916-1991.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK203.Q4</subfield>
+            <subfield code="i">M3 1964</subfield>
+            <subfield code="p">00053474809</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>12</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01024cam a22002531  4500</leader>
+          <controlfield tag="001">6444606</controlfield>
+          <controlfield tag="005">20050826182130.0</controlfield>
+          <controlfield tag="008">851120s1939    nyua          000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  41004215</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  41004215 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12825906</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Dartmouth College. Libr.</subfield>
+            <subfield code="c">NRU</subfield>
+            <subfield code="d">NRU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 34</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="3">
+            <subfield code="a">La florule de la Grosse-ile,</subfield>
+            <subfield code="c">par frère Marie-Victorin et René Meilleur.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">H. G. Fiedler;</subfield>
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="c">1939.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., [5]-20 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Contributions de l'Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="v">no. 34</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Canada</subfield>
+            <subfield code="z">Grosse Isle.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Meilleur, René,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 34</subfield>
+            <subfield code="p">00053236996</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">34</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>13</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01036cam a22002411  4500</leader>
+          <controlfield tag="001">6921751</controlfield>
+          <controlfield tag="005">20050820183414.0</controlfield>
+          <controlfield tag="008">851120s1941    qucac         000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  43001204</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  43001204 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12825901</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">N.Y. St. Coll. Agr., Cornell Univ. Library</subfield>
+            <subfield code="c">NRU</subfield>
+            <subfield code="d">NRU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 40</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Histoire de l'Institut botanique de l'Université de Montréal, 1920-1940,</subfield>
+            <subfield code="c">par frère Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal, Can.,</subfield>
+            <subfield code="b">Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="c">1941.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 p. l., [9]-70 p.</subfield>
+            <subfield code="b">illus. (incl. ports.)</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Contributions de l'Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="v">no. 40</subfield>
+          </datafield>
+          <datafield tag="610" ind1="2" ind2="0">
+            <subfield code="a">Université de Montréal.</subfield>
+            <subfield code="b">Institut botanique.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 40</subfield>
+            <subfield code="p">00053236807</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">40</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>14</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01390cam a22002891  4500</leader>
+          <controlfield tag="001">6453570</controlfield>
+          <controlfield tag="005">20050826190817.0</controlfield>
+          <controlfield tag="008">750227m19421956qucabc   b    001 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  43001205</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  43001205 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1192377</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">New York St. Coll. of Agr. and Home Econ. Library</subfield>
+            <subfield code="c">MBU</subfield>
+            <subfield code="d">MH-A</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 41, etc.</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Itinéraires botaniques dans l'île de Cuba,</subfield>
+            <subfield code="c">par Frère Marie-Victorin et Frère Léon.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="c">1942-56.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 pts.</subfield>
+            <subfield code="b">illus., ports., maps (part fold.) diagrs.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Contributions de l'Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="v">no 41, 50, 68</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Pts. 1-2, "Publication subventionnée par The Atkins Institution of the Arnold Arboretum, Université Harvard"; pt. 3, "Publication subventionnée par le Gouvernement cubain."</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliographical footnotes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Cuba.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">León,</subfield>
+            <subfield code="c">Brother,</subfield>
+            <subfield code="d">1871-1955.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Contributions de l'Institute botanique de l'Université de Montréal ;</subfield>
+            <subfield code="v">no. 41, etc.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 41, etc.</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>15</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01351cam a2200373 i 4500</leader>
+          <controlfield tag="001">20509309</controlfield>
+          <controlfield tag="005">20190308150049.0</controlfield>
+          <controlfield tag="008">180524t20182018quc      b    000 0 fre d</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">hc15 2018-05-24 z-processor</subfield>
+            <subfield code="i">hc11 2018-06-04 to BCCD</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2018379045</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9782764625194 ((pbk.)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9782764635193 (pdf)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9782764641592 (epub)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">CDX</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">CDX</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">UAB</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">HQ21</subfield>
+            <subfield code="b">.M4537 2018</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">306.7</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944,</subfield>
+            <subfield code="e">author.</subfield>
+          </datafield>
+          <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Correspondence.</subfield>
+            <subfield code="k">Selections</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Lettres biologiques :</subfield>
+            <subfield code="b">recherches sur la sexualité humaine /</subfield>
+            <subfield code="c">Frère Marie-Victorin ; présentées par Yves Gingras.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Montréal (Québec) :</subfield>
+            <subfield code="b">Boréal,</subfield>
+            <subfield code="c">[2018]</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2018</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 pages  ;</subfield>
+            <subfield code="c">23 cm</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944</subfield>
+            <subfield code="v">Correspondence.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sex.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Sex customs.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Gingras, Yves,</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="a">Purchase</subfield>
+            <subfield code="d">2018-05-24</subfield>
+            <subfield code="n">I-20110093</subfield>
+            <subfield code="s">ProQuest</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>16</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01098cam a22002771  4500</leader>
+          <controlfield tag="001">9213936</controlfield>
+          <controlfield tag="005">20170724161941.0</controlfield>
+          <controlfield tag="008">840808s1929    nyua          000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr30000950</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr30000950 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)11031552</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">U.S. Dept. of Agr. Library</subfield>
+            <subfield code="c">ODaU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 14</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">Les liliiflores du Québec &lt;liliacées, pontédériacées, iridiacées, joncacées&gt;</subfield>
+            <subfield code="c">Par Frère Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">H.G. Fiedler;</subfield>
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Laboratoire de Botanique, Université  de Montréal,</subfield>
+            <subfield code="c">1929.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">202 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="0">
+            <subfield code="a">Contributions du Laboratoire de Botanique de l'Université de Montréal,</subfield>
+            <subfield code="v">no. 14</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Liliales.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Pontederiaceae.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 14</subfield>
+            <subfield code="p">00053237502</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">14</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>17</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00845cam a2200229u  4500</leader>
+          <controlfield tag="001">7329115</controlfield>
+          <controlfield tag="005">20170724161741.0</controlfield>
+          <controlfield tag="008">831122s1925    qucab         000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   25025359</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   25025359 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">Les lycopodinées du Québec et leurs formes mineures,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="c">1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">117, [2] p., 1 l.</subfield>
+            <subfield code="b">incl. front. (map) illus. pl.</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="501" ind1=" " ind2=" ">
+            <subfield code="a">With : Les filicinées du Québec. Montreal, 1923. Bound together subsequent to publication.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Lycopodineae. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 3</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>18</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01160cam a22002891  4500</leader>
+          <controlfield tag="001">8785759</controlfield>
+          <controlfield tag="005">20170724161913.0</controlfield>
+          <controlfield tag="008">770712s1940    qucab         001 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  41004216</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  41004216 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3109268</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Dartmouth college. Libr.</subfield>
+            <subfield code="c">GU</subfield>
+            <subfield code="d">GU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 36</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Nouvelles entités de la flore phanérogamique du Canada oriental,</subfield>
+            <subfield code="c">par frère Marie-Vietorin et Jacques Rousseau.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="b">Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="c">1940.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">74 p.</subfield>
+            <subfield code="b">illus. (incl. map)</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Contributions de l'Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="v">no. 36</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Canada.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Phanerogams.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rousseau, Jacques,</subfield>
+            <subfield code="d">1905-1970.</subfield>
+          </datafield>
+          <datafield tag="810" ind1="1" ind2=" ">
+            <subfield code="a">Montreal.</subfield>
+            <subfield code="b">Université.</subfield>
+            <subfield code="b">Institut botanique.</subfield>
+            <subfield code="t">Contributions ;</subfield>
+            <subfield code="v">no. 36.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 36</subfield>
+            <subfield code="p">00053236911</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">36</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>19</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00955cam a22002891  4500</leader>
+          <controlfield tag="001">8997894</controlfield>
+          <controlfield tag="005">20050610194027.0</controlfield>
+          <controlfield tag="008">761004s1971    quc      b    000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   73323836</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   73323836 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">C71-5792</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0888401531</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2479703</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NBrockU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK31.M27</subfield>
+            <subfield code="b">A27 1971</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Pour l'amour du Québec.</subfield>
+            <subfield code="c">Introd. par Hermas Bastien.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Sherbrooke, Québec]</subfield>
+            <subfield code="b">Éditions Paulines</subfield>
+            <subfield code="c">[c1971]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">198 p.</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. [14]-[17]</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK31.M27</subfield>
+            <subfield code="i">A27 1971</subfield>
+            <subfield code="p">00053293013</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>20</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01168cam a22002651  4500</leader>
+          <controlfield tag="001">8794691</controlfield>
+          <controlfield tag="005">20050718185509.0</controlfield>
+          <controlfield tag="008">851120s1942    qucab    b    000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  43001206</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  43001206 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12825898</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">N.Y. St. Coll. Agr., Cornell Univ. Library</subfield>
+            <subfield code="c">NRU</subfield>
+            <subfield code="d">NRU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 42</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Premières observations botaniques sur la nouvelle route de l'Abitibi &lt;Mont-Laurier-Senneterre&gt;</subfield>
+            <subfield code="c">par frère Marie-Victorin ... et frère Rolland-Germain.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal, Can.,</subfield>
+            <subfield code="b">Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="c">1942.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 p. l., 48 p., 1 l.</subfield>
+            <subfield code="b">illus. (incl. maps)</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Contributions de l'Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="v">no. 42</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliographical foot-notes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Rolland-Germain,</subfield>
+            <subfield code="c">frère,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 42</subfield>
+            <subfield code="p">00053237046</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">42</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>21</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00835cam a2200229u  4500</leader>
+          <controlfield tag="001">8266371</controlfield>
+          <controlfield tag="005">20170724161844.0</controlfield>
+          <controlfield tag="008">840512s1925    qucabf        000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr26000987</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr26000987 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 5</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Sur quelques composées nouvelles, rares ou critiques du Queébec oriental,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal,</subfield>
+            <subfield code="c">1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.l., 79-96.</subfield>
+            <subfield code="b">illus., 4 plates, maps</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="501" ind1=" " ind2=" ">
+            <subfield code="a">With : Les filicinées du Québec. Montreal, 1923. Bound together subsequent to publication.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Botany</subfield>
+            <subfield code="z">Québec (Province)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Compositae.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>22</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01022cam a22002651  4500</leader>
+          <controlfield tag="001">8331818</controlfield>
+          <controlfield tag="005">20050721100656.0</controlfield>
+          <controlfield tag="008">851120s1943    qucab    b    000 0 fre c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)a  44002377</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">a  44002377 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12825886</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">N.Y. St. Coll. Agr., Cornell Univ. Library</subfield>
+            <subfield code="c">NRU</subfield>
+            <subfield code="d">NRU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QK1</subfield>
+            <subfield code="b">.M8527 no. 46</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">584.11</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Marie-Victorin,</subfield>
+            <subfield code="c">frère, E.C.,</subfield>
+            <subfield code="d">1885-1944.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">Les vallisnéries américaines,</subfield>
+            <subfield code="c">par frère Marie-Victorin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Montréal, Can.,</subfield>
+            <subfield code="b">Institut botanique de l'Université de Montréal,</subfield>
+            <subfield code="c">1943.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 p. l., [7]-38 p.</subfield>
+            <subfield code="b">illus. (incl. maps)</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Contributions de l'Institut botanique de l'université de Montréal,</subfield>
+            <subfield code="v">no. 46</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliographical foot-notes.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Vallisneria.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QK1</subfield>
+            <subfield code="i">.M8527 no. 46</subfield>
+            <subfield code="p">00053237162</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">46</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>23</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00962nam a2200241u  4500</leader>
+          <controlfield tag="001">7641155</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">840411s1962    quc           000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   78225179</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   78225179 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS88.S2143</subfield>
+            <subfield code="b">R6</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Robert-Edmond,</subfield>
+            <subfield code="c">frère, E. C.,</subfield>
+            <subfield code="d">1901- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Répertoire des mariages de Beaupré comté Montmorency (1927-1961) </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Ste Foy, Qué.]</subfield>
+            <subfield code="c">1962.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">71 l.</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Registers of births, etc.</subfield>
+            <subfield code="z">Sainte-Anne-de-Beaupré. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Registers of births, etc.</subfield>
+            <subfield code="z">Saint-Jean-de-Boischâtel. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="740" ind1=" " ind2=" ">
+            <subfield code="a">Répertoire des mariages de Boischatel.</subfield>
+          </datafield>
+          <datafield tag="810" ind1="2" ind2=" ">
+            <subfield code="a">Société canadienne de généalogie (Québec).</subfield>
+            <subfield code="t">Contribution</subfield>
+            <subfield code="v">no 3. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">fcd</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CS88.S2143</subfield>
+            <subfield code="i">R6</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>24</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00909nam a2200217u  4500</leader>
+          <controlfield tag="001">9967023</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">840713s1967    xx            000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   76491633</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76491633 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">F1054.5.R56</subfield>
+            <subfield code="b">S6 no. 2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Robert-Edmond,</subfield>
+            <subfield code="c">frère, E. C.,</subfield>
+            <subfield code="d">1901- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Répertoire des mariages de Saint-Georges de Cacouna, 1813-1966. </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Rivière-du-Loup,</subfield>
+            <subfield code="a">Québec]</subfield>
+            <subfield code="b">Société d'histoire et de généalogie de Rivière-du-Loup,</subfield>
+            <subfield code="c">1967.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">175 p.</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Registers of births, etc.</subfield>
+            <subfield code="z">Cacouna, Que. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Société d'histoire et de généalogie de Rivière-du-Loup. Contribution</subfield>
+            <subfield code="v">no 2. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">F1054.5.R56</subfield>
+            <subfield code="i">S6 no. 2</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>25</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00795nam a2200217u  4500</leader>
+          <controlfield tag="001">8043577</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">840703s1962    quc           000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   72220681</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   72220681 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS80</subfield>
+            <subfield code="b">.S58 no. 4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Robert-Edmond,</subfield>
+            <subfield code="c">frère, E. C.,</subfield>
+            <subfield code="d">1901- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Répertoire des mariages de Saint-Tite-des-Caps, </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Ste Foy, Qué,]</subfield>
+            <subfield code="c">1962.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">112 l.</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Registers of births, etc.</subfield>
+            <subfield code="z">Saint-Tite-des-Caps. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="810" ind1="2" ind2=" ">
+            <subfield code="a">Société canadienne de généalogie (Québec).</subfield>
+            <subfield code="t">Contribution</subfield>
+            <subfield code="v">no. 4. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">fcd</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CS80</subfield>
+            <subfield code="i">.S58 no. 4</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>26</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00901nam a2200217u  4500</leader>
+          <controlfield tag="001">10360099</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">840418s1967    quc           000 0 fre  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   67111372</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   67111372 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-cn-qu</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CS80</subfield>
+            <subfield code="b">.S58 no. 22</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Robert-Edmond,</subfield>
+            <subfield code="c">frère, E. C.,</subfield>
+            <subfield code="d">1901- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Répertoire des mariages de Sainte-Anne-de-Beaupré (Comté de Montmorency) (1657-1965) </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Québec]</subfield>
+            <subfield code="b">Société canadienne de généalogie (Québec),</subfield>
+            <subfield code="c">1967.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 316 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Registers of births, etc.</subfield>
+            <subfield code="z">Ste. Anne de Beaupré, Que. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Société canadienne de généalogie (Québec) Contribution</subfield>
+            <subfield code="v">no 22. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CS80</subfield>
+            <subfield code="i">.S58 no. 22</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>27</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Frere, E. C." or dc.creator="Frere, Edith Conyngham" or dc.creator="Chawner, Edith Conyngham"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

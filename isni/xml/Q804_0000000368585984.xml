@@ -1,0 +1,271 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS680</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000368585984</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000368585984</isniURI>
+            <mergedISNI>0000000114382845</mergedISNI>
+            <dataConfidence>99</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Peggy</forename>
+                    <surname>Piggott</surname>
+                    <relationInfo>Frueherer Name</relationInfo>
+                    <marcDate>1912-1994</marcDate>
+                    <source>ISNI</source>
+                    <subsourceIdentifier>VIAF DNB 143410180</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Peggy</forename>
+                    <surname>Piggott</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Guido</surname>
+                    <marcDate>1912-1994</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>mub2011662822</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Guido</surname>
+                    <marcDate>1912-1994</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>052461750</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Guido</surname>
+                    <marcDate>1912-1994</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Guido</surname>
+                    <marcDate>1912-1994</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>143410180</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Margaret</forename>
+                    <surname>Guido</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="VIAF" subsource="DNB">aut</creationRole>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>@Southern Italy</title>
+                      <subtitle>an archaeological guide</subtitle>
+                      <subtitle>the main prehistoric, Greek and Roman sites</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sicily</title>
+                      <subtitle>an archaeological guide</subtitle>
+                      <subtitle>the prehistoric and Roman remains and the Greek cities</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>the @glass beads of anglo saxon england</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>the @glass beads of anglo saxon england</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @glass beads of the prehistoric and Roman periods in Britain and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Syracuse</title>
+                      <subtitle>a handbook to its history and principal monuments</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sardinia</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @glass beads of Anglo-Saxon England c. AD 400-700a preliminary visual classification of the more definitive and diagnostic types</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Glass beads of the Prehistoric and Roman periods in Britain and Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>the @glass beads of anglo saxon england c ad 400 700 a preliminary visual classification of the more definitive and diagnostic types</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@syracuse 1961</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@syracuse</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Südliches Italien Studienreiseführer zu d. antiken Stätten</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Südliches Italien Kampanien, Kalabrien, Apulien; ein Kunst- u. Reiseführer zu d. antiken Stätten</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Sizilien Studienreiseführer zu d. klass. Stätten</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Sicily: an archaeological guide: and prehistoric and Roman remains and the Greek cities.</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500990261</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500990261</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780851157184</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780815550112</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571084968</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783774601000</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783170025714</identifierValue>
+                      <source>VIAF</source>
+                      <source>DNB</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780571108817</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>M.</forename>
+                    <surname>Guido</surname>
+                    <marcDate>1912-1994</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Peggy Margaret</forename>
+                    <surname>Guido</surname>
+                    <marcDate>1912-1994</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Cecily Margaret</forename>
+                    <surname>Preston</surname>
+                    <marcDate>1912-1994</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>25187</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>ISNI</codeOfSource>
+                <sourceIdentifier>VIAF 14894746</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q804</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>14894746</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/14894746</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12686172</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50018329</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q804</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q20988956</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000368585984%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000368585984"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

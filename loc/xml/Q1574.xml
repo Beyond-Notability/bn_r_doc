@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>6</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00917cam a22002531  4500</leader>
+          <controlfield tag="001">9201936</controlfield>
+          <controlfield tag="005">20020613151132.0</controlfield>
+          <controlfield tag="008">790205s1925    enkb     b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   25020960</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   25020960 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)4617488</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CoDU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">BL2600</subfield>
+            <subfield code="b">.M6</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Moss, Rosalind L. B.</subfield>
+            <subfield code="q">(Rosalind Louisa Beaufort)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The life after death in Oceania and the Malay Archipelago,</subfield>
+            <subfield code="c">by Rosalind Moss ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[London,</subfield>
+            <subfield code="a">New York, etc.]</subfield>
+            <subfield code="b">Oxford University Press, H. Milford,</subfield>
+            <subfield code="c">1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xii, 247, [1] p.</subfield>
+            <subfield code="b">2 maps (1 fold.)</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. [219]-224.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Oceania</subfield>
+            <subfield code="x">Religion.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Funeral rites and ceremonies</subfield>
+            <subfield code="z">Oceania.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Future life.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">BL2600</subfield>
+            <subfield code="i">.M6</subfield>
+            <subfield code="p">00019407718</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01374cam a22003375a 4500</leader>
+          <controlfield tag="001">189088</controlfield>
+          <controlfield tag="005">20060928134353.0</controlfield>
+          <controlfield tag="008">981214r19911930enke          001 0 eng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   98230690</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nb00 12-14-1998</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   98230690 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB98-48707</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0900416300 (pbk)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)39443381</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKM</subfield>
+            <subfield code="c">UKM</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">ACQUISITION IN PROCESS  (COPIED)   (lccopycat)</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Porter, Bertha,</subfield>
+            <subfield code="d">1852-1941.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Topographical bibliography of ancient Egyptian hieroglyphic texts, reliefs and paintings.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford :</subfield>
+            <subfield code="b">The Griffith Institute, Ashmolean Museum,</subfield>
+            <subfield code="c">1991.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xix, 264 p. :</subfield>
+            <subfield code="b">plans ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="1" ind2=" ">
+            <subfield code="a">VI. Upper Egypt, chief temples (excluding Thebes) : Abydos, Dendera, Esna, Edfu, Kôm, Ombo and Philae / Bertha Porter and Rosalind L. B. Moss.  1991.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Egyptian language</subfield>
+            <subfield code="x">Writing, Hieroglyphic</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Inscriptions, Egyptian</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Painting, Egyptian</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Painting, Ancient</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Moss, Rosalind L. B.</subfield>
+            <subfield code="q">(Rosalind Louisa Beaufort)</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Griffith Institute.</subfield>
+          </datafield>
+          <datafield tag="886" ind1="2" ind2=" ">
+            <subfield code="2">ukmarc</subfield>
+            <subfield code="a">910</subfield>
+            <subfield code="b">20</subfield>
+            <subfield code="a">Ashmolean Museum</subfield>
+            <subfield code="c">Griffith Institute</subfield>
+            <subfield code="x">See</subfield>
+            <subfield code="a">Griffith Institute</subfield>
+            <subfield code="z">710</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">ap</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01623cam a22003011  4500</leader>
+          <controlfield tag="001">10146966</controlfield>
+          <controlfield tag="005">20040708101024.0</controlfield>
+          <controlfield tag="008">760809m1927    xx            000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   28025172</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   28025172 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB52-203</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)2362202</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NmLcU</subfield>
+            <subfield code="d">NmLcU</subfield>
+            <subfield code="d">Uk</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z7064</subfield>
+            <subfield code="b">.P84</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Porter, Bertha,</subfield>
+            <subfield code="d">1852-1941.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Topographical bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings,</subfield>
+            <subfield code="c">by Bertha Porter and Rosalind L. B. Moss.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford,</subfield>
+            <subfield code="b">Clarendon Press,</subfield>
+            <subfield code="c">1927-</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v.</subfield>
+            <subfield code="b">maps, plans.</subfield>
+            <subfield code="c">29 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"List of abbreviations" and "List of collections of manuscripts" in each volume.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">I. The Theban necropolis.--II. The Theban temples.--III. Memphis (Abû Rawâsh to Dahshûr--IV. Lower and middle Egypt (Delta and Cairo to Asyût.--V. Upper Egypt: sites (Deir Rîfa to Aswân, excluding Thebes and the temples of Abydos, Dendera, Esna, Edfu, Kôm Ombo and Philae).--VI. Upper Egypt: chief temples (excluding Thebes) Abydos, Dendera, Esna, Edfu, Kôm Ombo, and Philae.--Nubia, the deserts, and outside Egypt.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Egyptian language</subfield>
+            <subfield code="x">Writing, Hieroglyphic</subfield>
+            <subfield code="x">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Egypt</subfield>
+            <subfield code="x">Antiquities</subfield>
+            <subfield code="x">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Thebes (Egypt : Extinct city)</subfield>
+            <subfield code="x">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Tombs</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Thebes (Extinct city)</subfield>
+            <subfield code="x">Bibliography</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Moss, Rosalind L. B.</subfield>
+            <subfield code="q">(Rosalind Louisa Beaufort),</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z7064</subfield>
+            <subfield code="i">.P84</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02531cam a2200397 a 4500</leader>
+          <controlfield tag="001">189090</controlfield>
+          <controlfield tag="005">20030708094027.0</controlfield>
+          <controlfield tag="008">981214s19781995enkabe   b    000 0 eng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   98230695</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nb00 12-14-1998; nb11 07-14-1999; yk07 10-08-99; yk02 10-08-99; yk10 to Dewey 10-21-99; aa01 11-10-99</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   98230695 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">090041667X (v. 8)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)07301583</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">CLE</subfield>
+            <subfield code="c">CLE</subfield>
+            <subfield code="d">UMC</subfield>
+            <subfield code="d">TXX</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">f-ua---</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z7064</subfield>
+            <subfield code="b">.P85 1978</subfield>
+            <subfield code="a">PJ1521</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">016.493/111</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Porter, Bertha,</subfield>
+            <subfield code="d">1852-1941.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Topographical bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings /</subfield>
+            <subfield code="c">by Bertha Porter and Rosalind L.B. Moss, assisted by Ethel W. Burney.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd. ed., rev. and augm. / by Jaromír Málek.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford :</subfield>
+            <subfield code="b">Griffith Institute, Ashmolean Museum,</subfield>
+            <subfield code="c">&lt;1978-1999   &gt;</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">&lt; v. 1, pts. 1-2; v. 2, pts. 1-2; v. 4-7; v. 8, pts. 1-3; in 14&gt; :</subfield>
+            <subfield code="b">maps, diagrs., plans ;</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Vol. &lt;8   &gt; has title: Topographical bibliography of ancient Egyptian hieroglyphic texts, statues, reliefs, and paintings.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Vol. &lt;8, pts. 1-3   &gt;: by Jaromir Malik, assisted by Diane Magee and Elizabeth Miles</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Vols. 4-5: issued in microfiche; each volume has 4 microfiches.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Previously  vol. 4 published in 1934 and vol. 5 published in 1937.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">1. The Theban necropolis. pt. 1. Private tombs. pt. 2. Royal tombs and smaller cemeteries (2 v.) -- 2. Theban temples -- 3. Memphis: pt. 1. Abû Rawâsh to Abûsir. pt. 2. Sạqqâra to Dashûr: Fascicle I (III² 393-574); Fascile 2 (III² 575-776); Fascicle 3 (III² 777-1014) (5 v.) -- 4. Lower and Middle Egypt (Delta and Cairo to Asyut) -- 5. Upper Egypt -- 6. Upper Egypt, chief temples (excluding Thebes) -- 7. Nubia, the deserts, and outside Egypt -- 8. Objects of provenance not known: pt. 1. Royal statues, private statues (Predynastic to Dynasty XVII. pt. 2. Private statues (Dynasty XVIII to the Roman period), statues of deities. pt. [3]. Indices to pts. 1 and 2. Statues.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Egyptian language</subfield>
+            <subfield code="x">Writing, Hieroglyphic</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Egypt</subfield>
+            <subfield code="x">Antiquities</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Moss, Rosalind L. B.</subfield>
+            <subfield code="q">(Rosalind Louisa Beaufort)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Málek, Jaromír.</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">Assign to MicRR per J. Sweany, vb27 10-12-99</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">ap</subfield>
+          </datafield>
+          <datafield tag="923" ind1=" " ind2=" ">
+            <subfield code="d">20000426</subfield>
+            <subfield code="n">224075</subfield>
+            <subfield code="s">Everetts</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01690cam a22003255a 4500</leader>
+          <controlfield tag="001">190021</controlfield>
+          <controlfield tag="005">20041019114416.0</controlfield>
+          <controlfield tag="008">981218m19729999enka     b    000 0 eng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   98232953</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">ibc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nb00 12-18-1998</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   98232953 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)10954935</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">CSF</subfield>
+            <subfield code="c">CSF</subfield>
+            <subfield code="d">PIT</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">ACQUISITION IN PROCESS  (COPIED)   (lccopycat)</subfield>
+          </datafield>
+          <datafield tag="097" ind1="0" ind2="0">
+            <subfield code="a">Z7064</subfield>
+            <subfield code="b">.P84 1972x</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Porter, Bertha,</subfield>
+            <subfield code="d">1852-1941.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Topographical bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings /</subfield>
+            <subfield code="c">by Bertha Porter and Rosalind L.B. Moss ; assisted by Ethel W. Burney.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2d ed., rev. and augmented.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford [Eng.] :</subfield>
+            <subfield code="b">Clarendon Press,</subfield>
+            <subfield code="c">1972-</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographies references.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">1. The Theban nectopolis. pt. 1. Private tombs. pt. 2 Royal tombs and smaller cemeteries -- 2. The Theban temples -- 3. Memphis (Abu Rawash to Dahshur) -- 4. Lower and Middle Egypt (Delta and Cairo to Asyut) -- 5. Upper Egypt: sites (Deir Rifa to Aswan, excluding Thebes and the temples of Abydos, Dendera, Esna, Edfu, Kom Ombo and Philae) -- 6. Upper Egypt: chief temples (excluding Thebes) Abydos, Dendera, Esna, Edfu, Kom Ombo, and Philae -- 7. Nubia, the deserts, and outside, Egypt.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Egyptian language</subfield>
+            <subfield code="x">Writing, Hieroglyphic</subfield>
+            <subfield code="x">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Egypt</subfield>
+            <subfield code="x">Antiquities</subfield>
+            <subfield code="x">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Thebes (Egypt : Extinct city)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Tombs</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Thebes (Extinct city)</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Moss, Rosalind L. B.</subfield>
+            <subfield code="q">(Rosalind Louisa Beaufort)</subfield>
+          </datafield>
+          <datafield tag="922" ind1=" " ind2=" ">
+            <subfield code="a">ap</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01332cam a22003371  4500</leader>
+          <controlfield tag="001">7488295</controlfield>
+          <controlfield tag="005">20041019114433.0</controlfield>
+          <controlfield tag="008">720814m19609999enkabe   b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   60002989</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   60002989 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB60-8071</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)381827</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">ODaWU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">Uk</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z7064</subfield>
+            <subfield code="b">.P85</subfield>
+          </datafield>
+          <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">016.493117</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Porter, Bertha,</subfield>
+            <subfield code="d">1852-1941.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Topographical bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings,</subfield>
+            <subfield code="c">by Bertha Porter and Rosalind L. B. Moss, assisted by Ethel W. Burney.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2d ed.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford,</subfield>
+            <subfield code="b">Clarendon Press,</subfield>
+            <subfield code="c">1960-</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v.</subfield>
+            <subfield code="b">maps, diagrs., plans.</subfield>
+            <subfield code="c">28 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">I. The Theban necropolis. pt. 1. Private tombs. pt. 2. Royal tombs and smaller cemeteries.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Egyptian language</subfield>
+            <subfield code="x">Writing, Hieroglyphic</subfield>
+            <subfield code="x">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Thebes (Egypt : Extinct city)</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Tombs</subfield>
+            <subfield code="z">Egypt</subfield>
+            <subfield code="z">Thebes (Extinct city)</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Egypt</subfield>
+            <subfield code="x">Antiquities</subfield>
+            <subfield code="x">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Moss, Rosalind L. B.</subfield>
+            <subfield code="q">(Rosalind Louisa Beaufort),</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">fcd</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z7064</subfield>
+            <subfield code="i">.P85</subfield>
+            <subfield code="p">00019716442</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="v">4</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Moss, Rosalind L. B." or dc.creator="Moss, Rosalind Louisa Beaufort"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

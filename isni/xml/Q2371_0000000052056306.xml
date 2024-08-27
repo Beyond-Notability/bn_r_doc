@@ -1,0 +1,253 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS709</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000052056306</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000052056306</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Susan</forename>
+                    <surname>Minet</surname>
+                    <marcDate>1884-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Susan</forename>
+                    <surname>Minet</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Susan</forename>
+                    <surname>Minet</surname>
+                    <marcDate>1884-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Susan</forename>
+                    <surname>Minet</surname>
+                    <marcDate>1884-...</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>127147969</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Susan</forename>
+                    <surname>Minet</surname>
+                    <marcDate>b. 1884</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001378569</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Church of Hungerford Market, later Castle Street</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Livre des conversions et des reconnoissances faites à l'Église françoise de la Savoye 1684-1702</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Livre des conversions et des reconnoissances faites à l'Église françoise de la Savoye 1684-1702</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Livre des conversions et des reconnoissances faites à l'Église françoise de la Savoye 1684-1702</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Livre des témoignages, 1669-1719.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Register of the Church of Rider Court, 1700-1738</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Register of the Church of Rider Court, 1700-1738</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Register of the Church of Rider Court, 1700-1738</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Register of the church of Saint Jean Spitalfields, 1687-1827</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Register of the church of Saint Jean Spitalfields, 1687-1827</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Register of the church of Saint Jean Spitalfields, 1687-1827</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Register of the church of Saint Jean Spitalfields, 1687-1827</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Register of the church of Saint Martin Orgars with its history and that of Swallow street</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Register of the church of Saint Martin Orgars with its history and that of Swallow street</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Register of the church of Saint Martin Orgars with its history and that of Swallow street</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Registers of the churches of La Patente de Soho, Wheeler Street, Swanfields, and Hoxton also the repertoire general</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Registers of the churches of La Patente de Soho, Wheeler Street, Swanfields, and Hoxton also the repertoire general</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Registers of the churches of La Patente de Soho, Wheeler Street, Swanfields, and Hoxton also the repertoire general</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Registers of the churches of the Tabernacle Glasshouse street and Leicester Fields 1688-1783</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Registers of the churches of the Tabernacle Glasshouse street and Leicester Fields 1688-1783</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Registers of the churches of the Tabernacle Glasshouse street and Leicester Fields 1688-1783</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Registers of the churches of the Tabernacle Glasshouse street and Leicester Fields 1688-1783</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Registre de l'église de Rider Court</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Registres des églises de la Chapelle royale de Saint James 1700-1756 et de Swallow street 1690-1709</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Registres des églises de la Chapelle royale de Saint James 1700-1756 et de Swallow street 1690-1709</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Registres des églises de la Chapelle royale de Saint James 1700-1756 et de Swallow street 1690-1709</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Registres des églises de la Savoye, de Spring Gardens, et des Grecs 1684-1900</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Registres des églises de la Savoye, de Spring Gardens, et des Grecs 1684-1900</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Registres des églises de la Savoye, de Spring Gardens, et des Grecs 1684-1900</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Registres des quatres eglises du Petit Charenton, de West street, de Pearl street et de Crispin street</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Registres des quatres eglises du Petit Charenton, de West street, de Pearl street et de Crispin street</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Registres des quatres eglises du Petit Charenton, de West street, de Pearl street et de Crispin street</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Supplement to Dr. W. A. Shaw's Letters of denization and acts of naturalization</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Supplement to Dr. W. A. Shaw's Letters of denization and acts of naturalization</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Tesmoignages de l'Église de Threadneedle street</title>
+                      <subtitle>1669-1789</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Tesmoignages de l'Église de Threadneedle street</title>
+                      <subtitle>1669-1789</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Tesmoignages de l'Église de Threadneedle street</title>
+                      <subtitle>1669-1789</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Tesmoignages de l'Église de Threadneedle street</title>
+                      <subtitle>1669-1789</subtitle>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Susan</forename>
+                    <surname>Minet</surname>
+                    <marcDate>b. 1884</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>2083784</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/2083784</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>074929046</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>no 98062917</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q2371</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/entity/Q2371</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.worldcat.org/identities/lccn-no98062917/</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000052056306%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000052056306"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

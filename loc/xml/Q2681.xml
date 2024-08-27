@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>7</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01116cam a22002891  4500</leader>
+          <controlfield tag="001">7263723</controlfield>
+          <controlfield tag="005">20101103102548.0</controlfield>
+          <controlfield tag="008">801028s1903    enk           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   04014539</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   04014539 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)6874179</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NcGU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">eng</subfield>
+            <subfield code="a">fre</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PQ1441.C56</subfield>
+            <subfield code="b">A39</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Chastelaine de Vergi.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The chatelaine of Vergi;</subfield>
+            <subfield code="b">a 13th century French romance,</subfield>
+            <subfield code="c">done into English by Alice Kemp-Welch, edited with introduction by L. Brandin, PH. D.  With contemporary illustrations.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">D. Nutt,</subfield>
+            <subfield code="c">1903.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxiii, 95, [1] p.</subfield>
+            <subfield code="b">plates.</subfield>
+            <subfield code="c">18 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">English prose translation is followed by the French text, as edited by Gaston Raynaud in Romania, v. 21 (1892)</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Added t.-p. in French.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kemp-Welch, Alice,</subfield>
+            <subfield code="e">tr.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brandin, Louis,</subfield>
+            <subfield code="d">1874-1940,</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Raynaud, Gaston,</subfield>
+            <subfield code="d">1850-1911.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PQ1441.C56</subfield>
+            <subfield code="i">A39</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01009cam a22002651  4500</leader>
+          <controlfield tag="001">2169675</controlfield>
+          <controlfield tag="005">20001215171016.0</controlfield>
+          <controlfield tag="008">731212s1966    nyuf          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   66025701</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   66025701 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">engfre</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PQ1441</subfield>
+            <subfield code="b">.C56 1966</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">841/.1</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Châtelaine de Vergi.</subfield>
+            <subfield code="l">English &amp; French.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The Chatelaine of Vergi;</subfield>
+            <subfield code="b">a romance of the XIIIth century,</subfield>
+            <subfield code="c">translated by Alice Kemp-Welch. The French text from the edition Raynaud. Introd. by L. Brandin.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Cooper Square Publishers,</subfield>
+            <subfield code="c">1966.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vii, 111 p.</subfield>
+            <subfield code="b">5 plates.</subfield>
+            <subfield code="c">17 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The Medieval library</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">The English translation is in prose, the French text in poetry.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Romances</subfield>
+            <subfield code="x">Translations into English.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kemp-Welch, Alice,</subfield>
+            <subfield code="e">tr.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brandin, Louis,</subfield>
+            <subfield code="d">1874-1940.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PQ1441</subfield>
+            <subfield code="i">.C56 1966</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01225cam a22002891  4500</leader>
+          <controlfield tag="001">8691423</controlfield>
+          <controlfield tag="005">20101103102520.0</controlfield>
+          <controlfield tag="008">791130s1907    enkf          000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   10009536</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   10009536 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)5746346</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OCl</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">eng</subfield>
+            <subfield code="h">fre</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PN665</subfield>
+            <subfield code="b">.N4 vol. 3.</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Chastelaine de Vergi.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The chatelaine of Vergi:</subfield>
+            <subfield code="b">a romance of the XIIIth century;</subfield>
+            <subfield code="c">translated by Alice Kemp-Welch: the French text from the edition Raynaud: introduction by L. Brandin, PH. D.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Chatto and Windus,</subfield>
+            <subfield code="c">1907.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., vi, 111, [1] p.</subfield>
+            <subfield code="b">fold. front., 4 pl. (2 fold.)</subfield>
+            <subfield code="c">17 x 13 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The new medieval library</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Added t.-p. (dated 1908) within ornamental border.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">From the French text published by Gaston Raynaud in Romania, v. 21 (1892) but does not accept that scholar's view as to the historical basis of the poem.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kemp-Welch, Alice,</subfield>
+            <subfield code="e">tr.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brandin, Louis,</subfield>
+            <subfield code="d">1874-1940.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PN665</subfield>
+            <subfield code="i">.N4 vol. 3.</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01305cam a22003131  4500</leader>
+          <controlfield tag="001">4060659</controlfield>
+          <controlfield tag="005">20221207130434.0</controlfield>
+          <controlfield tag="008">731212s1966    nyua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="u">ma02 2022-12-07</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   66023313 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   66023313</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">eng</subfield>
+            <subfield code="h">frm</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PQ1575</subfield>
+            <subfield code="b">.B6 1966</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">841/.2</subfield>
+            <subfield code="2">20</subfield>
+          </datafield>
+          <datafield tag="100" ind1="0" ind2=" ">
+            <subfield code="a">Christine,</subfield>
+            <subfield code="c">de Pisan,</subfield>
+            <subfield code="d">approximately 1364-approximately 1431.</subfield>
+          </datafield>
+          <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Livre du duc des vrais amants.</subfield>
+            <subfield code="l">English</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The book of the duke of true lovers.</subfield>
+            <subfield code="c">Now first translated from the Middle French of Christine de Pisan, with an introd., by Alice Kemp-Welch. The ballads rendered into the original metres by Laurence Binyon &amp; Eric R. D. Maclagan.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Cooper Square Publishers,</subfield>
+            <subfield code="c">1966.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xv, 137 p.</subfield>
+            <subfield code="b">illus.</subfield>
+            <subfield code="c">17 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The Medieval library</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Translation of: Le livre du duc des vrais amants.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Love poetry, French</subfield>
+            <subfield code="x">Translations into English.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kemp-Welch, Alice,</subfield>
+            <subfield code="e">editor,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Binyon, Laurence,</subfield>
+            <subfield code="d">1869-1943.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Maclagan, Eric Robert Dalrymple,</subfield>
+            <subfield code="d">1879-1951.</subfield>
+          </datafield>
+          <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Duke of true lovers.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PQ1575</subfield>
+            <subfield code="i">.B6 1966</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01623cam a22003251  4500</leader>
+          <controlfield tag="001">6360805</controlfield>
+          <controlfield tag="005">20130503131235.0</controlfield>
+          <controlfield tag="008">760114s1913    xx a          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   13010675 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   13010675</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1926628</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">MNS</subfield>
+            <subfield code="d">MNS</subfield>
+            <subfield code="d">FTaSU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">CT3220</subfield>
+            <subfield code="b">.W4</subfield>
+          </datafield>
+          <datafield tag="100" ind1="2" ind2=" ">
+            <subfield code="a">Kemp-Welch, Alice.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Of six mediaeval women;</subfield>
+            <subfield code="b">to which is added A note on mediaeval gardens,</subfield>
+            <subfield code="c">by Alice Kemp-Welch.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">MacMillan,</subfield>
+            <subfield code="c">1913.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxix, 188 p.</subfield>
+            <subfield code="b">plates.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Partly reprinted from the review, Nineteenth century and after.  cf. Author's note.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Introduction.--A tenth-century dramatist, Roswitha the nun.--A twelfth-century romance-writer, Marie de France.--A thirteenth-century mystic and beguine, Mechthild of Magdeburg.--A fourteenth-century art-patron and philanthropist, Mahaut, Countess of Artois.--A fifteenth-century feministe, Christine de Pisan.--Agnes Sorel.--A note on mediaeval gardens.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Hrotsvitha,</subfield>
+            <subfield code="d">approximately 935-approximately 975.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Marie,</subfield>
+            <subfield code="c">de France,</subfield>
+            <subfield code="d">active 12th century.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Mechthild,</subfield>
+            <subfield code="c">of Magdeburg,</subfield>
+            <subfield code="d">approximately 1212-approximately 1282.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Mahaut,</subfield>
+            <subfield code="c">d'Artois,</subfield>
+            <subfield code="d">1302-1329.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Christine,</subfield>
+            <subfield code="c">de Pisan,</subfield>
+            <subfield code="d">approximately 1364-approximately 1431.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Sorel, Agnès,</subfield>
+            <subfield code="d">approximately 1422-1450.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Gardens.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Women</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="y">Middle Ages, 500-1500.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">CT3220</subfield>
+            <subfield code="i">.W4</subfield>
+            <subfield code="p">0002555050A</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01732cam a22003131  4500</leader>
+          <controlfield tag="001">1697498</controlfield>
+          <controlfield tag="005">20230112124414.0</controlfield>
+          <controlfield tag="008">731212s1966    nyuh          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="u">ma02 2023-01-12 telework</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   66023319</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   66023319 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">eng</subfield>
+            <subfield code="h">frm</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PQ1534.T4</subfield>
+            <subfield code="b">E5 1966</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">841/.1</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Kemp-Welch, Alice,</subfield>
+            <subfield code="e">editor,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Of the tumbler of Our Lady &amp; other miracles,</subfield>
+            <subfield code="c">now translated from the Middle French. Introd. and notes by Alice Kemp-Welch.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Cooper Square Publishers,</subfield>
+            <subfield code="c">1966.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xix, 137 p.</subfield>
+            <subfield code="b">7 facsims.</subfield>
+            <subfield code="c">17 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The Medieval library</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"The miracles here done into English are for the most part from the collection made in the thirteenth century by Gautier de Coinci, a monk of St. Médard, near Soissons."</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Of the tumbler of Our Lady.--Of a knight to whom Our Lady appeared whilst he prayed.--Of the Knight whose place at the tournament was taken by Our Lady.--Of the clerk and the ring.--Of the monk and the five roses.--Of the holy shift of Chartres.--Of the drowning man delivered.--Of a Jew who took in pledge the image of Our Lady.--Our Lady of Roc-Amadour.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">French literature</subfield>
+            <subfield code="y">To 1500</subfield>
+            <subfield code="x">Translations into English.</subfield>
+          </datafield>
+          <datafield tag="600" ind1="0" ind2="0">
+            <subfield code="a">Mary,</subfield>
+            <subfield code="c">Blessed Virgin, Saint</subfield>
+            <subfield code="x">Apparitions and miracles</subfield>
+            <subfield code="x">Literary collections.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Miracles</subfield>
+            <subfield code="x">History of doctrines</subfield>
+            <subfield code="y">Middle Ages, 600-1500</subfield>
+            <subfield code="x">Literary collections.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Gautier,</subfield>
+            <subfield code="c">de Coinci,</subfield>
+            <subfield code="d">1177?-1236.</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2=" ">
+            <subfield code="a">Tombeor Nostre Dame.</subfield>
+            <subfield code="l">English.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PQ1534.T4</subfield>
+            <subfield code="i">E5 1966</subfield>
+            <subfield code="p">00033844712</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01067cam a22002891  4500</leader>
+          <controlfield tag="001">9156416</controlfield>
+          <controlfield tag="005">20230112124345.0</controlfield>
+          <controlfield tag="008">741113s1908    xx            000 0 engs </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="u">ma02 2023-01-12 telework</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   09014150 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   09014150</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)1073442</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">OGK</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">engfrm</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PN665</subfield>
+            <subfield code="b">.N4 vol. 2</subfield>
+          </datafield>
+          <datafield tag="100" ind1="2" ind2=" ">
+            <subfield code="a">Kemp-Welch, Alice,</subfield>
+            <subfield code="e">editor,</subfield>
+            <subfield code="e">translator.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Of the tumbler of Our Lady</subfield>
+            <subfield code="b">&amp; other miracles,</subfield>
+            <subfield code="c">now translated from the Middle French: introduction and notes by Alice Kemp-Welch.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">Chatto and Windus,</subfield>
+            <subfield code="c">1908.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xix, 137 p., 1 l.</subfield>
+            <subfield code="b">7 pl. (facsims.; incl. front.)</subfield>
+            <subfield code="c">16 x 12 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The new medieval library</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Illumination of books and manuscripts</subfield>
+            <subfield code="v">Specimens</subfield>
+          </datafield>
+          <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Gautier,</subfield>
+            <subfield code="c">de Coinci,</subfield>
+            <subfield code="d">1177?-1236.</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2=" ">
+            <subfield code="a">Tombeor Nostre Dame.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PN665</subfield>
+            <subfield code="i">.N4 vol. 2</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Leckie, Alice" or dc.creator="Kemp-Welch, Alice"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

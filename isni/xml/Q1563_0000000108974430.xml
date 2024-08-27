@@ -1,0 +1,537 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS540</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000108974430</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000108974430</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>M.D.</forename>
+                    <surname>Anderson</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <script>Latn</script>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <personalName>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10231224</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  01044064</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001209884</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Desiree</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>119057808</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Deśirée</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>1055470697</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Désirée</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Désireé</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Deśirée</forename>
+                    <surname>Anderson</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary Désirée</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000405060</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">clb</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="BNF">cre</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="BNF">
+                      <title>A @catalogue of misericords in Great Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @Catalogue of misericords in Great Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @Saint at stake</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Drama and imagery in English medieval churches</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Drama and imagery in English medieval churches, by M. D. Anderson</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Imagery of British churches, by M. D. Anderson,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Misericords, medieval life in English woodcarving, by M. D. Anderson</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Medieval carver</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Bow bells are silent</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>... @British women at war</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @catalogue of misericords in Great Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @changeling Niobid</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @choir stalls of Lincoln Minster</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Design for a journey</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Grey Sisters</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@History and imagery in British churches</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@History and imagery in British churches</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@History and imagery in British churches</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@History and imagery in British churches</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@History by the highway</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @medieval carver ... 1935.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @medieval carver ... 1935.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @medieval carver ... 1935.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @medieval carver ... 1935.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Misericords, medieval life in English woodcarving.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Misericords, medieval life in English woodcarving.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Misericords, medieval life in English woodcarving.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>A @saint at stake, 1964:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @saint at take; the strange death of William of Norwich, 1144</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @catalogue of misericords in Great Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @choir stalls of Lincoln Minster</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Grey Sisters</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@History and imagery in British churches</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@History by the highway</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Misericords, medieval life in English woodcarving.</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198171645</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719522321</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719522321</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780701118006</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198171645</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780701115258</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521180627</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719522321</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780701118006</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198171645</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780719554148</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <script>Latn</script>
+                    <forename>Mary Désirée</forename>
+                    <surname>Anderson</surname>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Désirée</forename>
+                    <surname>Anderson Cox</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>M. D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Maisie</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Maisie</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Maisie</forename>
+                    <surname>Anderson</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary D.</forename>
+                    <surname>Anderson</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Désirée</forename>
+                    <surname>Anderson</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Désirée</forename>
+                    <surname>Anderson</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Désirée Anderson</forename>
+                    <surname>Cox</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Désirée Anderson</forename>
+                    <surname>Cox</surname>
+                    <marcDate>1902-</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Désirée Anderson</forename>
+                    <surname>Cox</surname>
+                    <marcDate>1902-1973</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Mary Désirée Anderson</forename>
+                    <surname>Cox</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Trenchard Mrs</forename>
+                    <surname>Cox</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Trenchard</forename>
+                    <surname>Cox</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1902</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Trenchard</forename>
+                    <surname>Cox</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1902-</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Trenchard</forename>
+                    <surname>Cox</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1902-1973</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Trenchard</forename>
+                    <surname>Cox</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1902-1973</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>mary Désireé</forename>
+                    <surname>Cox</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>1902-</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>35515</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>48004939</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/48004939</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1563</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>080577954</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12971738</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90860988</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>296826</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50021936</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/entity/Q1563</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000108974430%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000108974430"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

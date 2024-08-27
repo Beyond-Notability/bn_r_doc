@@ -1,0 +1,509 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS233</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000122843322</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000122843322</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Dorothy Annie Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy A.E.</forename>
+                    <surname>Garrod</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Dorothy Garrod</surname>
+                    <nameTitle>First female Professor at Cambridge</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q275622</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>D. A. E.</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001236525</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>D. A. E.</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>D. A. E.</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>D. A. E.</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000394032</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy A.</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>121885844</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy Anne Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2009015678</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>082953252</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy Annie Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy Anne Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>11572353</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="NLS">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLI">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Bulletin de Musée de Beyrouth</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Dorothy Garrod and the progress of the palaeolithic</title>
+                      <subtitle>studies in the prehistoric archaeology of the near east and Europe</subtitle>
+                      <statementOfResponsibility>ed. by William Davies and Ruth Charles. - Oxford, 1999.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Dorothy Garrod and the progress of the palaeolithic</title>
+                      <subtitle>studies in the prehistoric archaeology of the near east and Europe</subtitle>
+                      <statementOfResponsibility>ed. by William Davies and Ruth Charles. - Oxford, 1999.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Environment, tools &amp; man; an inaugural lecture</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Excavation of a Mousterian rock-shelter at Devil's Tower, Gibraltar</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Excavation of the Abri Zumoffen, a poleolithic rock-shelter near Adlun, South Lebanon, 1958</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Excavation of the Abri Zumoffen, a poleolithic rock-shelter near Adlun, South Lebanon, 1958</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Middle Palaeolithic of the Near East and the problem of Mount Carmel man</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Middle Palaeolithic of the Near East and the problem of Mount Carmel man</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Natufian culture: the life and economy of a mesolithic people in the Near East.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Natufian culture: the life and economy of a mesolithic people in the Near East.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Notes on the chalcolithic and early bronze age pottery of Megiddo</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Primitive man in Egypt, western Asia and Europe Vol. I, ch. 3</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Primitive man in Egypt, western Asia and Europe Vol. I, ch. 3</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Rapport préliminaire sur la fouille d'une grotte au Ras El-Kelb</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Rapport préliminaire sur la fouille d'une grotte au Ras El-Kelb</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @stone age of Mount Carmel ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @stone age of Mount Carmel ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @Upper Palaeolithic Age in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Upper Palaeolithic Age in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Upper Palaeolithic Age in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Upper Palaeolithic Age in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Excavation of a Mousterian rock-shelter at Devil's Tower, Gibraltar</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Excavations at the Wady el-Mughara</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@In mesolithic times</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Natufian culture: the life and economy of a mesolithic people in the Near East.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@North Arabian desert archaeological survey, 1925-50</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Primitive man in Egypt, western Asia and Europe Vol. I, ch. 3</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @stone age of Mount Carmel ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Upper Palaeolithic Age in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Cambridge ancient history</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@North Arabian desert archaeological survey, 1925-50</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Primitive man in Egypt, western Asia and Europe Vol. I, ch. 3</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @stone age of Mount Carmel ...</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781900188876</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781153558952</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780860541905</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404166526</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404166519</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404159269</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <surname>Dorothy Annie Elizabeth Garrod</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Dorothy Garrodová</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Dorothy Garrod</surname>
+                    <nameTitle>Brits antropologe (1892-1968)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Dorothy Garrod</surname>
+                    <nameTitle>britische Prähistorikerin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>D. A. E.</forename>
+                    <surname>Garrod</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>D. A. E.</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy Anne Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy Anne Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy Anne Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy Annie Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy Annie Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy Annie Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy</forename>
+                    <surname>Garrod</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Дороти</forename>
+                    <surname>Гаррод</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>דורותי גארוד</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>دورتی گارود</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ドロシー・ギャロッド</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy Annie Elizabeth</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Dorothy</forename>
+                    <surname>Garrod</surname>
+                    <marcDate>1892-1968</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>43087</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q863</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>116134642</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/116134642</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>11572353</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>069683603</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>1048520</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>311680</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  79110938</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q863</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q275622</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://cs.wikipedia.org/wiki/Dorothy_Garrodová</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://es.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fa.wikipedia.org/wiki/دورتی_گارود</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://he.wikipedia.org/wiki/דורותי_גארוד</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ja.wikipedia.org/wiki/ドロシー・ギャロッド</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pl.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pt.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ro.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Гаррод,_Дороти</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://tl.wikipedia.org/wiki/Dorothy_Garrod</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000122843322%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000122843322"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

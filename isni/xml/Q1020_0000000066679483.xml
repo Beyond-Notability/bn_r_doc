@@ -1,0 +1,241 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS317</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000066679483</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000066679483</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Emmeline M.</forename>
+                    <surname>Plunket</surname>
+                    <nameUse>public</nameUse>
+                    <source>KOREA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Emmeline Mary</forename>
+                    <surname>Plunket</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Emmeline</forename>
+                    <surname>Plunket</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Emmeline M.</forename>
+                    <surname>Plunket</surname>
+                    <marcDate>1835-</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Emmeline M.</forename>
+                    <surname>Plunket</surname>
+                    <marcDate>b. 1835</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001319844</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Emmeline Mary</forename>
+                    <surname>Plunket</surname>
+                    <nameTitle>Hon</nameTitle>
+                    <marcDate>1835-?</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>162367554</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KOREA">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="KOREA">cre</creationClass>
+                    <creationClass source="KOREA">text</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="KOREA">
+                      <title>@古代의 달력과 별자리</title>
+                    </titleOfWork>
+                    <titleOfWork source="KOREA">
+                      <title>@古代의 달력과 별자리</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Ancient calendars and constellations, 1903</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Ancient calendars and constellations, 1903</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @judgment of Paris and some other legends astronomically considered.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @judgment of Paris and some other legends astronomically considered.</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9788971419212</identifierValue>
+                      <source>KOREA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781859584880</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>에멀린 M.</forename>
+                    <surname>플렁켓</surname>
+                    <nameUse>public</nameUse>
+                    <source>KOREA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>에멀린 메리</forename>
+                    <surname>플렁켓</surname>
+                    <nameUse>public</nameUse>
+                    <source>KOREA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E. M.</forename>
+                    <surname>Plunket</surname>
+                    <nameUse>public</nameUse>
+                    <source>KOREA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E. M.</forename>
+                    <surname>플렁켓</surname>
+                    <nameUse>public</nameUse>
+                    <source>KOREA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Emmeline Mary</forename>
+                    <surname>Plunket</surname>
+                    <nameUse>public</nameUse>
+                    <source>KOREA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Emmeline M.</forename>
+                    <surname>Plunket</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Emmeline M.</forename>
+                    <surname>Plunket</surname>
+                    <marcDate>b. 1835</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Emmeline Mary</forename>
+                    <surname>Plunket</surname>
+                    <nameTitle>Hon</nameTitle>
+                    <marcDate>1835-</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Emmeline Mary</forename>
+                    <surname>Plunket</surname>
+                    <nameTitle>Hon</nameTitle>
+                    <marcDate>1835-</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Emmeline Mary</forename>
+                    <surname>Plunket</surname>
+                    <nameTitle>Hon</nameTitle>
+                    <marcDate>b. 1835</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>48030</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>59464494</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/59464494</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1020</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KOREA</codeOfSource>
+                <sourceIdentifier>KAC201103215</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>4041267</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  86865044</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <information>Korea Authority File</information>
+                <URI>https://librarian.nl.go.kr/LI/contents/L20101000000.do?id=KAC201103215</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/entity/Q1020</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000066679483%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000066679483"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

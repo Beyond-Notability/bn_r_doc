@@ -1,0 +1,396 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS518</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000114215983</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000114215983</isniURI>
+            <mergedISNI>0000000397857766</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Marie </forename>
+                    <surname>Brown</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>John B. Mrs</forename>
+                    <surname>Shipley</surname>
+                    <nameUse>public</nameUse>
+                    <source>NLFIN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Marie A.</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                    <subsourceIdentifier>10000000000000000122862</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Marie A.</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>LAC</source>
+                    <subsourceIdentifier>0040B3308</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Marie A.</forename>
+                    <surname>Shipley</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Marie A.</forename>
+                    <surname>Shipley</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000536653</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Marie A.</forename>
+                    <surname>Shipley</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Marie Adelaide Brown</forename>
+                    <surname>Shipley</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>1055240187</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Marie Adelaide</forename>
+                    <surname>Shipley</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLFIN">aut</creationRole>
+                    <creationRole source="NLS">trl</creationRole>
+                    <creationClass source="NLFIN">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="NLS">am</creationClass>
+                    <titleOfWork source="NLFIN">
+                      <title>@Fältskärns berättelser</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLFIN">
+                      <title>@Nadeschda</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Arbetets barn.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @bandit</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Birth and education</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Birth and education</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Börd och bildning.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @English rediscovery and colonization of America, 1891:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @English rediscovery and colonization of America, 1891:</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @English rediscovery and colonization of America, 1891:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Gerda, or the children of work</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Gerda, or the children of work</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Gold and name</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Gold and name</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Guilt and innocence</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Guld och namn.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Gustave Adolf, and the thirty years' war</title>
+                      <subtitle>an historical novel.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Gustave Adolf, and the thirty years' war</title>
+                      <subtitle>an historical novel.</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Icelandic discoverers of America; or, honour to whom honour is due</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="LAC">
+                      <title>The @Icelandic discoverers of America; or, honour to whom honour is due</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @Icelandic discoverers of America; or, honour to whom honour is due</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Leif Erikson.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Nadeschda</title>
+                      <subtitle>a poem in nine cantos</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Nadeschda</title>
+                      <subtitle>a poem in nine cantos</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Norse colonization in America by the light of the Vatican finds.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Norse colonization in America by the light of the Vatican finds.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @Norse colonization in America by the light of the Vatican finds.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Northern lights. Stories from Swedish and Finnish authors.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Positivspelarens son.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Den rätta.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @right one</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @right one</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Skuld och oskuld.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @son of the organ-grinder</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @true author of Looking backward</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Tvenne familjemödrar.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Two family mothers</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Two family mothers</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @wife of a vain man.</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Marie Adelaide</forename>
+                    <surname>Shipley</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie A.</forename>
+                    <surname>Brown</surname>
+                    <nameUse>public</nameUse>
+                    <source>NLFIN</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie A.</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie A.</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie A.</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie A.</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie Adelaide</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie Adelaide</forename>
+                    <surname>Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>John B.</forename>
+                    <surname>Shipley</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1843-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>John B.</forename>
+                    <surname>Shipley</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1843-1900</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>John B.</forename>
+                    <surname>Shipley</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <source>VIAF</source>
+                    <source>LAC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>John B.</forename>
+                    <surname>Shipley</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1843-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie A</forename>
+                    <surname>Shipley</surname>
+                    <source>VIAF</source>
+                    <source>LAC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie Adelaide de Brown</forename>
+                    <surname>Shipley</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>VIAF</source>
+                    <source>BNCHL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie Adelaide</forename>
+                    <surname>Shipley</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Marie A.</forename>
+                    <surname>Shipley-Brown</surname>
+                    <marcDate>1843-1900</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1369</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>61926480</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/61926480</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>254984312</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLFIN</codeOfSource>
+                <sourceIdentifier>(FI-ASTERI-N)000100187</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>254460</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>no 99009200</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1369</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q52155296</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000114215983%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000114215983"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>3</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>03001cam a2200433 i 4500</leader>
+          <controlfield tag="001">18616341</controlfield>
+          <controlfield tag="005">20160719103108.0</controlfield>
+          <controlfield tag="008">150513t20152015enk      b    001 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+            <subfield code="e">claim1  2015-12-02</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">rl11 2015-05-13</subfield>
+            <subfield code="i">rl11 2015-05-13 ONIX</subfield>
+            <subfield code="a">rl11 2015-05-14 to Dewey</subfield>
+            <subfield code="w">xl05 2015-05-15 (telework)</subfield>
+            <subfield code="a">xn12 2016-03-25 1 copy rec'd., to CIP ver.</subfield>
+            <subfield code="a">rl06 2016-04-07 to SMA</subfield>
+            <subfield code="f">rl46 2016-04-22 (telework) to CALM</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2015012940</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781137490919 (hardback)</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e------</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">RC339.E85</subfield>
+            <subfield code="b">P79 2015</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">616.89</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">HIS010010</subfield>
+            <subfield code="a">HIS014000</subfield>
+            <subfield code="a">HIS032000</subfield>
+            <subfield code="a">HIS037070</subfield>
+            <subfield code="a">MED102000</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Psychiatry in communist Europe /</subfield>
+            <subfield code="c">edited by Mat Savelli, Research Fellow, McMaster University, Canada and Sarah Marks, Research Fellow, Murray Edwards College, University of Cambridge, UK.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Houndmills, Basingstoke Hampshire ;</subfield>
+            <subfield code="a">New York, NY :</subfield>
+            <subfield code="b">Palgrave Macmillan,</subfield>
+            <subfield code="c">2015.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xi, 222 pages ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Mental health in historical perspective</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"This is the first book to address the history of psychiatry under Communism in Central and Eastern Europe, from the Soviet Union to East Germany. It brings together new research addressing understandings of mental health and disorder, treatments and therapies, and the interplay between politics, ideology and psychiatry. It challenges assumptions about the extent of political control, exploring beyond the instances of punitive abuse of psychiatry, and recognizing the international exchanges which informed the development of research and practice in the region.The authors discuss:[bullet] Treatments such as work therapy, insulin shock therapy, antipsychotic medications[bullet] International exchanges between the USA, Western Europe, USSR and Central Asia[bullet] Environmental, social and biological explanations of mental health and illness[bullet] The relationship between psychiatry, ideology and the Communist state[bullet] Soviet reponses to antipsychiatry and 'One Flew Over the Cuckoo's Nest'"--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Psychiatry</subfield>
+            <subfield code="z">Europe</subfield>
+            <subfield code="x">History</subfield>
+            <subfield code="z">20th century.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Mental health</subfield>
+            <subfield code="z">Europe</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Psychiatric hospitals</subfield>
+            <subfield code="z">Europe</subfield>
+            <subfield code="x">History.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">HISTORY / Europe / Eastern.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">HISTORY / Europe / Germany.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">HISTORY / Europe / Russia &amp; the Former Soviet Union.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">HISTORY / Modern / 20th Century.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">MEDICAL / Mental Health.</subfield>
+            <subfield code="2">bisacsh</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Marks, Sarah,</subfield>
+            <subfield code="d">1984-</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Savelli, Mat,</subfield>
+            <subfield code="d">1982-</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Book review (H-Net)</subfield>
+            <subfield code="u">http://www.h-net.org/reviews/showrev.php?id=45676</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02562cam a22004933a 4500</leader>
+          <controlfield tag="001">16483593</controlfield>
+          <controlfield tag="005">20101126113407.0</controlfield>
+          <controlfield tag="008">100930s1947    xx            000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-genrareb</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">he11 2010-09-30</subfield>
+            <subfield code="h">he11 2010-09-30</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2010515284</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PN2093</subfield>
+            <subfield code="b">.C64 1995 no. B193</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Summer day.</subfield>
+          </datafield>
+          <datafield tag="246" ind1="1" ind2="4">
+            <subfield code="a">Ballet Theatre</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="c">1947.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 v. (theater program).</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">New York City Center of Music and Drama, season 1947-1948, Lucia Chase and Oliver Smith present "Ballet Theatre," artistic administrator Antony Tudor, musical director Max Goberman, associate regisseur Dimitri Romanoff, associate conductor Ben Steinberg, ballet mistress Margaret Craske, "Summer Day," a pas de deux by Jerome Robbins, music by Serge Prokofieff, costumes and properties by John Boyt, at the piano: Ray Lev (Tuesday), Sarah Marks (Friday, Saturday, Sunday).</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">New York City Center of Music and Drama, Tuesday December 2, 1947, at 8:30 p.m., Friday, December 5, 1947, at 8:30 p.m., Saturday, December 6, 1947, at 8:30 p.m., Sunday, December 7, 1947, at 2:30 p.m.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title devised by Library staff.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"The Program-Magazine of New York City Center, Vol. 5, No. 13, week of November 30, 1947"--p. 3.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Cast (Tuesday): Ruth Ann Koesun, Jerome Robbins.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Cast: (Friday, Saturday, Sunday): Ruth Ann Koesun, John Kriza.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"The Program Magazine of New York City Center of Music and Drama"--Cover.</subfield>
+          </datafield>
+          <datafield tag="501" ind1=" " ind2=" ">
+            <subfield code="a">With: Swan lake. Issued together.</subfield>
+          </datafield>
+          <datafield tag="580" ind1=" " ind2=" ">
+            <subfield code="a">In: Richard L. Coe Theater Programs Collection (Library of Congress).</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">LC copy shelved under: Ballet Theatre.</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Ballet programs</subfield>
+            <subfield code="z">New York (State)</subfield>
+            <subfield code="z">New York.</subfield>
+            <subfield code="2">lcsh</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Ballet programs</subfield>
+            <subfield code="y">1947.</subfield>
+            <subfield code="2">lcsh</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Theater programs</subfield>
+            <subfield code="z">New York (State)</subfield>
+            <subfield code="z">New York.</subfield>
+            <subfield code="2">rbgenr</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Theater programs</subfield>
+            <subfield code="y">1947.</subfield>
+            <subfield code="2">rbgenr</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Robbins, Jerome.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Koesun, Ruth Ann.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kriza, John.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lev, Ray,</subfield>
+            <subfield code="d">1912-1968.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Marks, Sarah.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Boyt, John.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Prokofiev, Sergey,</subfield>
+            <subfield code="d">1891-1953.</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Ballet Theatre (New York, N.Y.)</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">City Center of Music and Drama (New York, N. Y.)</subfield>
+          </datafield>
+          <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Richard L. Coe Theater Programs Collection (Library of Congress)</subfield>
+            <subfield code="5">DLC</subfield>
+          </datafield>
+          <datafield tag="730" ind1="0" ind2=" ">
+            <subfield code="a">Summer day (Choreographic work : Robbins)</subfield>
+          </datafield>
+          <datafield tag="752" ind1=" " ind2=" ">
+            <subfield code="a">United States</subfield>
+            <subfield code="b">New York</subfield>
+            <subfield code="d">New York.</subfield>
+          </datafield>
+          <datafield tag="952" ind1=" " ind2=" ">
+            <subfield code="a">Coe Programs B193</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00954cam a22002531  4500</leader>
+          <controlfield tag="001">6322582</controlfield>
+          <controlfield tag="005">20050903162253.0</controlfield>
+          <controlfield tag="008">781127s1902    enkaf         001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   02024865</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   02024865 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)4400779</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">TxDW</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QC705</subfield>
+            <subfield code="b">.A98</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ayrton, Hertha (Marks)</subfield>
+            <subfield code="c">Mrs.,</subfield>
+            <subfield code="d">1854-1923.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The electric arc.</subfield>
+            <subfield code="c">By Hertha Ayrton ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London,</subfield>
+            <subfield code="b">"The Electrician" printing and publishing company, limited</subfield>
+            <subfield code="c">[1902]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p. l., xxv, [1], 479 p.</subfield>
+            <subfield code="b">illus., plates, tables, diagrs.</subfield>
+            <subfield code="c">22 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Lettered on cover: "The Electrician" series</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">The book had its origin in a series of articles published in the Electrician, 1895-96.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Electric arc.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">QC705</subfield>
+            <subfield code="i">.A98</subfield>
+            <subfield code="p">0003733828A</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Marks, Sarah" or dc.creator="Ayrton, Sarah" or dc.creator="Ayrton, Hertha"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

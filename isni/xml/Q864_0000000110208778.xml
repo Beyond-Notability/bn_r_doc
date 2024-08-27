@@ -1,0 +1,947 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS431</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000110208778</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000110208778</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Jocelyn Mary Catherine</forename>
+                    <surname>Toynbee</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Jocelyn M.C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>J.M.C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Jocelyn Toynbee</surname>
+                    <nameTitle>British archaeologist and art historian</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q1307310</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>d. 1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000403168</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>d. 1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000063521</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>m. 1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                    <subsourceIdentifier>a10455152</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11487281</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jocelyn M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a11436062</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jocelyn Mary Catherine</forename>
+                    <surname>Toynbee</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NSK</source>
+                    <subsourceIdentifier>000114574</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jocelyn Mary Catherine</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  97070806</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jocelyn Mary Catherine</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>029318017</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Jocelyn Mary Catherine</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12096988</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>J.M.C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>-1985</marcDate>
+                    <source>OCLCT</source>
+                    <subsourceIdentifier>839401471</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="OCLCT">aut</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="NLS">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="BNC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="NSK">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Roman Medallions</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Roman medallions</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Some notes on artists in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>A Chapter in the History of Greek Art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Animals in Roman life and art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Animals in Roman life and art</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Animals in Roman life and art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Animals in Roman life and art</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Animals in Roman life and art</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Ara Pacis reconsidered and historical art in Roman Italy.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Catalogue of the Romano-British sculptures in the Gloucester City Museum</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Catalogue of the Romano-British sculptures in the Gloucester City Museum</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Etudes préliminaires aux religions orientales dans l'Empire romain</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Flavian reliefs from the Palazzo della Cancelleria in Rome.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @guide to the Roman remains in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>A @guide to the Roman remains in Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @hunting baths at Lepcis Magna</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Image and mystery in the Roman world</title>
+                      <subtitle>papers given in memory of Jocelyn Toynbee</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Morte e sepoltura nel mondo romano</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Peopled scrolls: a Hellenistic motif in imperial art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Roman historical portraits</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Roman historical portraits</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Roman historical portraits</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Roman historical portraits</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Roman medallions</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Roman medallions</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Roman medallions</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Roman medallions</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Roman portrait busts [exhibition], the Arts Council Gallery, London, 30 October-28 November</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>The @shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>The @shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @silver casket and strainer from the Walbrook mithraeum in the city of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>A @silver casket and strainer from the Walbrook mithraeum in the city of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>A @silver casket and strainer from the Walbrook mithraeum in the city of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>A @silver casket and strainer from the Walbrook mithraeum in the city of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>A @silver casket and strainer from the Walbrook mithraeum in the city of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @silver casket and strainer from the Walbrook mithraeum in the city of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Some notes on artists in the roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Some notes on artists in the roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Some notes on artists in the roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Tierwelt der Antike</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Tierwelt der Antike</title>
+                    </titleOfWork>
+                    <titleOfWork source="NLS">
+                      <title>@Tierwelt der Antike</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NSK">
+                      <title>@Tierwelt der Antike</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Trajan's column and the Dacian wars</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Animals in Roman life and art</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Ara Pacis reconsidered and historical art in Roman Italy.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Art in Roman Britain with 230 illustrations from original photographs by Otto Fein</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Art of the romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Britannia on Roman coins of the second century A.D.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Hadrianic School</title>
+                      <subtitle>a chapter in the history of Greek art</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Roman historical portraits</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Roman medallions</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @silver casket and strainer from the Walbrook mithraeum in the city of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Some notes on artists in the roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Animals in Roman life and art</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Ara Pacis reconsidered, and historical art in Roman Italy</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Art in Britain under the Romans</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Death and burial in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Flavian reliefs from the Palazzo della Cancelleria in Rome</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Hadrianic school a chapter in the history of greek art</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Roman art treasures from the Temple of Mithras, 1986:</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Roman historical portraits</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Shrine of St. Peter and the Vatican excavations</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Silver casket and strainer from the walbrook mithraeum in the city of london</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Some notes on artists in the Roman world</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Tierwelt der Antike</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Trajan's column and the Dacian wars</title>
+                    </titleOfWork>
+                    <titleOfWork source="OCLCT">
+                      <title>The @Hadrianic school</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780897222129</identifierValue>
+                      <source>KBR</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801407857</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801407857</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801407857</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801407857</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801407857</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783805304818</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783805304818</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783805304818</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855337</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855337</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855337</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855337</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855078</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855078</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855078</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801405938</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801405938</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801405938</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400241</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400241</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400241</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400159</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400159</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400159</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780897222129</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780897222129</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232774</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232774</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560398</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560398</identifierValue>
+                      <source>NLS</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9788870627282</identifierValue>
+                      <source>VIAF</source>
+                      <source>BNC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781781590911</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801407857</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780897222129</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801407857</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9783805304818</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855337</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801855078</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780801405938</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400159</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500400241</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232774</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140560398</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Jocelyn</forename>
+                    <surname>Toynbee</surname>
+                    <source>NLN</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M.C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>NLN</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Jocelyn Toynbee</surname>
+                    <nameTitle>Brits antropologe (1897-1985)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Jocelyn Toynbee</surname>
+                    <nameTitle>archeologa, storica dell'arte e numismatica inglese</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Jocelyn Toynbee</surname>
+                    <nameTitle>archéologue et historienne d'art</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Jocelyn Toynbee</surname>
+                    <nameTitle>britische Klassische Archäologin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>m. 1985</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>J. M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>d. 1985</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn</forename>
+                    <surname>Toynbee</surname>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>d. 1985</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>d. 1985</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M. C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>m. 1985</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn Mary Catherine</forename>
+                    <surname>Toynbee</surname>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>乔斯琳·汤因比</surname>
+                    <nameTitle>英国考古学家和艺术史学家</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Jocelyn M.C.</forename>
+                    <surname>Toynbee</surname>
+                    <marcDate>1897-1985</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>21574</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>VIAF</type>
+                <identifier>9876120</identifier>
+                <source>OCLCT</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q864</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>OCLCT</codeOfSource>
+                <sourceIdentifier>839401471</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>9876120</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/9876120</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12096988</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>068996047</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90379882</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>97520</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50014641</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14737073</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q864</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q1307310</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Jocelyn_Toynbee</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Jocelyn_Toynbee</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://it.wikipedia.org/wiki/Jocelyn_Toynbee</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000110208778%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000110208778"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

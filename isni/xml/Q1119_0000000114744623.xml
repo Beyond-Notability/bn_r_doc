@@ -1,0 +1,308 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS147</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000114744623</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000114744623</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Aileen</forename>
+                    <surname>Fox</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Aileen</forename>
+                    <surname>Fox</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Aileen Fox</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q4697025</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Aileen</forename>
+                    <surname>Fox</surname>
+                    <marcDate>1907-...</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>067052363</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Aileen</forename>
+                    <surname>Fox</surname>
+                    <marcDate>1907-2005</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Aileen</forename>
+                    <surname>Fox</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>893936</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Aileen</forename>
+                    <surname>Fox</surname>
+                    <marcDate>1907-2005</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12438295</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Aileen</forename>
+                    <surname>Fox</surname>
+                    <marcDate>1907-2005</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>@Aileen, a pionnering archaeologist</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Archaeological site reports for Awhitu Regional Park, Shakespear Regional Park, Tawharanui Regional Reserve, Waharau Regional Reserve.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Carved Maori burial chests</title>
+                      <subtitle>a commentary and a catalogue</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Prehistoric Maori fortifications in the North Island of New Zealand</title>
+                      <statementOfResponsibility>Aileen Fox, 1976</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Prehistoric Maori fortifications in the North Island of New Zealand</title>
+                      <statementOfResponsibility>Aileen Fox, 1976</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@Roman Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Roman Britain</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Roman Exeter (Isca Dumnoniorum)</title>
+                      <subtitle>excavations in the war-damaged areas, 1945-1947</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Roman Exeter (Isca Dumnoniorum)</title>
+                      <subtitle>excavations in the war-damaged areas, 1945-1947</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@South west England</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@South west England</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Tiromoana Pa, Te Awanga, Hawke's Bay</title>
+                      <subtitle>excavations, 1974-5</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Aileen, a pionnering archaeologist</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Prehistoric Maori fortifications in the North Island of New Zealand</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Roman Exeter (Isca Dumnoniorum)</title>
+                      <subtitle>excavations in the war-damaged areas, 1945-1947</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@South west England</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Carved Maori burial chests</title>
+                      <subtitle>a commentary and a catalogue</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Exeter in Roman times</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Prehistoric Maori fortifications in the North Island of New Zealand</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@South west England</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780582717466</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780852445235</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780582717473</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780900771262</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780715362099</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780582717466</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780852445235</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780582717466</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780582717473</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780900771798</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Lady</forename>
+                    <surname>Fox</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Aileen Fox</surname>
+                    <nameTitle>Brits antropologe (1907-2005)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Aileen Fox</surname>
+                    <nameTitle>English archaeologist</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Aileen Mary</forename>
+                    <surname>Henderson</surname>
+                    <marcDate>1907-2005</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1119</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>69859904</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/69859904</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12438295</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>069033536</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90761528</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50023143</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1119</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q4697025</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Aileen_Fox</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://no.wikipedia.org/wiki/Aileen_Fox</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000114744623%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000114744623"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

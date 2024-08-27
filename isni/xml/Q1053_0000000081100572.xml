@@ -1,0 +1,402 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS210</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000081100572</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000081100572</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Charlotte Carmichael Stopes</surname>
+                    <nameTitle>Suffragette britannique</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q5085871</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>C. C.</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>mub2014830346</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>C. C.</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>C. C.</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000525190</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>C. C.</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000027935</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Charlotte C.</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>11767379X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2014096579</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>105956902</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1840-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>10656014</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>C.C.</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Bacon-Shakspere question answered</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@British freewomen; their historical privilege</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@British freewomen; their historical privilege</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@British freewomen; their historical privilege</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Burbage and Shakespeare's stage. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Burbage and Shakespeare's stage. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Burbage and Shakespeare's stage. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Burbage and Shakespeare's stage. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Burbage and Shakespeare's stage. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Burbages, founders of the modern stage.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Life of Henry, third earl of Southampton, Shakespeare's patron, by Charlotte Carmichael Stopes,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @seventeenth century accounts of the masters of the revels</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Shakespeare's Environment. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Shakespeare's Environment. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Shakespeare's Environment. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Shakespeare's Environment. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Shakespeare's family, 1901:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Shakespeare's family, 1901:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Shakespeare's family, 1901:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Shakespeare's Warwickshire contemporaries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Shakespeare's Warwickshire contemporaries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @sphere of "man" in relation to that of woman in the constitution</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @sphere of "man" in relation to that of woman in the constitution</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Stopes, Richard (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Bacon-Shakspere question answered</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Life of Henry, third earl of Southampton, Shakespeare's patron, by Charlotte Carmichael Stopes,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Shakespeare's family, 1901:</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@William Hunnis and the revels of the Chapel Royal, a study of his period and the influences which affected Shakespeare, by Mrs. C. C. Stopes,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@British freewomen; their historical privilege</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Shakespeare's Environment. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @sphere of "man" in relation to that of woman in the constitution</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @true story of the Stratford bust</title>
+                      <subtitle>a contemporary likeness of Shakespeare</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@William Hunnis and the revels of the Chapel Royal, a study of his period and the influences which affected Shakespeare, by Mrs. C. C. Stopes,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @women's protest</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780838310205</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404062880</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780404062859</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Charlotte</forename>
+                    <surname>Carmichael Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Charlotte Carmichael Stopes</surname>
+                    <nameTitle>British suffragist</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Charlotte Carmichael Stopes</surname>
+                    <nameTitle>Britisk kvinnesaksforkjemper</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Charlotte Carmichael Stopes</surname>
+                    <nameTitle>Brits feminist (1840-1929)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>C. C.</forename>
+                    <surname>Stopes</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>C. C.</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Charlotte Carmichael</forename>
+                    <surname>Stopes</surname>
+                    <marcDate>1841-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>42556</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>51610</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1053</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>30319769</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/30319769</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>10656014</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>191380911</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90658365</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nr 91015766</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1053</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q110132814</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Charlotte_Carmichael_Stopes</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000081100572%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000081100572"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

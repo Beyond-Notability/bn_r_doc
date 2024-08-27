@@ -1,0 +1,534 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS535</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000081031765</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000081031765</isniURI>
+            <mergedISNI>000000013963763X</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a17864355</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2012164584</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>174101929</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000523417</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10173502</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001400131</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>031315151</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Mary Bateson</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q6779021</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12255380</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Mary</forename>
+                    <surname>Bateson</surname>
+                    <marcDate>1865-1906</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="VIAF" subsource="NUKAT">red</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">aa</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">aa</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Borough customs</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Borough customs</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Borough customs</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Borough customs</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Cambridge Gild records</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Catalogue of the library of Syon monastery, Isleworth.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Catalogue of the library of Syon monastery, Isleworth.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Catalogue of the library of Syon monastery, Isleworth.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Catalogue of the library of Syon monastery, Isleworth.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @charters of the borough of Cambridge</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @charters of the borough of Cambridge</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @charters of the borough of Cambridge</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Collection of original letters from the bishops to the Privy Council, 1564, with returns of the justices of the peace and others within their respective dioceses, classified according to their religious convictions, edited by Mary Bateson</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@English Historical Review</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@George Ashby's poems.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@George Ashby's poems.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@George Ashby's poems.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Grace book B ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Grace book B ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Index britanniae scriptorum</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@John Bale's index of British and other writers</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@John Bale's index of British and other writers</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@John Bale's index of British and other writers</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@John Bale's index of British and other writers</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @laws of Breteuil</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Mediaeval England 1066-1350</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Mediaeval England 1066-1350</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Mediaeval England 1066-1350</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Mediaeval England 1066-1350</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Mediaeval England 1066-1350</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Mediaeval England; English feudal society from the Norman conquest to the middle of the fourteenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @mediaeval stage</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Micro-organisms in agriculture</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Moinenno (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>A @narrative of the changes in the ministry, 1765-1767, told by the Duke of Newcastle in a series of letters to John White, M.P.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @narrative of the changes in the ministry, 1765-1767, told by the Duke of Newcastle in a series of letters to John White, M.P.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @narrative of the changes in the ministry, 1765-1767, told by the Duke of Newcastle in a series of letters to John White, M.P.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>A @narrative of the changes in the ministry, 1765-1767, told by the Duke of Newcastle in a series of letters to John White, M.P.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Necton, Humphrey (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Origin and early history of double monasteries</title>
+                      <subtitle>earliest examples</subtitle>
+                      <subtitle>double monasteries in Gaul in the seventh century, in Ireland, in England, in Germany, Italy, and Spain</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Osbern, Claudianus (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Oskytel (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Papilon, Ralph (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Paul (d.573) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Pectwin (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Pyncebeck, Walter (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Records of the borough of Leicester being a series of extracts from the archives of the corporation of Leicester, 1103-1127</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Records of the borough of Leicester being a series of extracts from the archives of the corporation of Leicester, 1103-1127</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Reginald of Coldingham (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Robert of Swaffham (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Samson (d.1112) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @scottish King's household</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Senatus (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Shepesheved, William de (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Simon du Fresne (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Slade</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Somercote, Lawrence (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Somerset, John (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@St. Faith's, John of (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Suidbert (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Thomas of Newmarket (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Thorpe, William (d.1407?) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Walburga (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Wallensis, John (fl.1283) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Walter, John (d.1412?) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Warner (fl.1106) (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Wighard (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@William of St. Albans (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@William the Trouvère (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Winefride (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Winterton, Thomas (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Wulfstan of Winchester (DNB00)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="WKP">
+                      <title>@Ральф</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Borough customs</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Collection of original letters from the bishops to the Privy Council, 1564, with returns of the justices of the peace and others within their respective dioceses, classified according to their religious convictions, edited by Mary Bateson</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Index britanniae scriptorum</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@John Bale's index of British and other writers</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Mediaeval England 1066-1350</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @narrative of the changes in the ministry, 1765-1767, told by the Duke of Newcastle in a series of letters to John White, M.P.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Borough Customs.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Cambridge Gild Records</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Catalogue of the library of Syon monastery, Isleworth.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@George Ashby's poems</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Index britanniae scriptorum</title>
+                      <statementOfResponsibility>ed. by Reginald Lane Poole and Mary Bateson, 1990</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Index Britanniae scriptorum quos ex variis bibliothecis non parvo labore collegit Ioannes Balcus cum aliis</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@John Bale's Index of British and other writers</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Mediaeval England, 1066-1350</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Mediaeval England English feudal society from the Norman conquest to the middle of the fourteenth century</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @narrative of the changes in the ministry, 1765-1767 told by the duke of Newcastle in a series of letters to John White, M.P.</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780859912976</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780859912976</identifierValue>
+                      <source>VIAF</source>
+                      <source>BAV</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780836957259</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780859912976</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780836957259</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780859912976</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <surname>Mary Bateson</surname>
+                    <nameTitle>Britische Historikerin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Mary Bateson</surname>
+                    <nameTitle>British historian</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>50832</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q735</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>24658823</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/24658823</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12255380</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>067958109</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>1450248439750</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nr 89006835</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q735</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q6779021</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Mary_Bateson_(historian)</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000081031765%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000081031765"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

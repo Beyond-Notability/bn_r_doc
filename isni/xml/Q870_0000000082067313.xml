@@ -1,0 +1,401 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS364</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000082067313</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000082067313</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton-Thompson</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton-Thompson</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton-Thompson</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton-Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001295650</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton-Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton-Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000467736</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton-Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>126646880</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Gertrude Caton–Thompson</surname>
+                    <nameTitle>British archaeologist</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q276177</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Gertrude</forename>
+                    <surname>Caton Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>11264404</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>G.</forename>
+                    <surname>Caton-Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>The @Zimbabwe culture</title>
+                      <subtitle>ruins and reactions</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Badarian civilisation and predynastic remains near Badari</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Badarian civilisation and predynastic remains near Badari</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Badarian civilisation and predynastic remains near Badari</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @desert Fayum. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @desert Fayum. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Kharga Oasis in prehistory</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Kharga Oasis in prehistory</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Lake Moeris reinvestigations and some comments</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Mixed memoirs, c1983:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Mixed memoirs, c1983:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Mixed memoirs, c1983:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Tombs and Moon temple of Hureidha Hadhra maut</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Tombs and Moon temple of Hureidha Hadhra maut</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @Zimbabwe culture: ruins and reactions</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Zimbabwe culture: ruins and reactions</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Badarian civilisation and predynastic remains near Badari</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Climate, irrigation and early man in Hadhramaut</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Excavations in Malta, by M. A. Murray, with a chapter by G. Caton Thompson...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Kharga Oasis in prehistory</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Some archaeological results of the Lord Wakefield expedition to the Hadramaut, 1937-38</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Tombs and Moon temple of Hureidha Hadhra maut</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Badarian civilisation and predynastic remains near Badari</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @desert Fayum</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Excavations in Malta, by M. A. Murray, with a chapter by G. Caton Thompson...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Kharga Oasis in prehistory</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Tombs and Moon temple of Hureidha Hadhra maut</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Zimbabwe culture</title>
+                      <subtitle>ruins and reactions</subtitle>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780837129365</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714618869</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780950610429</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780837129365</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780714618869</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>G.</forename>
+                    <surname>Caton-Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>G.</forename>
+                    <surname>Caton-Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Gertrude Caton-Thompson</surname>
+                    <nameTitle>archéologue</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Gertrude Caton-Thompson</surname>
+                    <nameTitle>englische Prähistorikerin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Gertrude Caton–Thompson</surname>
+                    <nameTitle>Arqueologa británica</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Gertrude Caton–Thompson</surname>
+                    <nameTitle>Arquèologa britànica</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Gertrude Caton–Thompson</surname>
+                    <nameTitle>Brits antropologe (1888-1985)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Gertrude Caton</forename>
+                    <surname>Thompson</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Gertrude Caton-</forename>
+                    <surname>Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Gertrude Caton-</forename>
+                    <surname>Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Gertrude Caton-</forename>
+                    <surname>Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Гертруда</forename>
+                    <surname>Катон-Томпсон</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Gertrude Caton</forename>
+                    <surname>Thompson</surname>
+                    <marcDate>1888-1985</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q870</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>24594943</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/24594943</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>11264404</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>104708409</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>3030741</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  85040900</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>21098104</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q870</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q276177</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ca.wikipedia.org/wiki/Gertrude_Caton-Thompson</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Gertrude_Caton-Thompson</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Gertrude_Caton_Thompson</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://es.wikipedia.org/wiki/Gertrude_Caton_Thompson</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fi.wikipedia.org/wiki/Gertrude_Caton-Thompson</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Gertrude_Caton-Thompson</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Катон-Томпсон,_Гертруда</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000082067313%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000082067313"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

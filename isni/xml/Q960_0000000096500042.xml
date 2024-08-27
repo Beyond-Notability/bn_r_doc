@@ -1,0 +1,316 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS703</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000096500042</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000096500042</isniURI>
+            <mergedISNI>000000038273355X</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Sophia Crawford</forename>
+                    <surname>Lomas</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>S. C.</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>S. C.</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>d. 1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls002016280</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>S. C.</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>m. 1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV12080208</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia C.</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>102169004</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia Crawford</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Sophia Crawford</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>18..?-1929</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>114975329</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationClass source="VIAF" subsource="BAV">aa</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Addenda 1625-1649. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Calendar of State papers, foreign series, of the reign of Elizabeth. preserved in the public record office</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Calendar of State papers, foreign series, of the reign of Elizabeth. preserved in the public record office</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @Calendar of the manuscripts of the Marquis of Bath, preserved at Longleat, Wiltshire...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>... @Calendar of the manuscripts of the Marquis of Bath, preserved at Longleat, Wiltshire...</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>... @Calendar of the manuscripts of the Marquis of Bath, preserved at Longleat, Wiltshire...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Elizabeth, electress Palatine and queen of Bohemia</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Jan. - June, 1583 and addenda. -</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @letters and speeches of Thomas Cromwell</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @letters and speeches of Thomas Cromwell</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @manuscripts of His Grace the Duke of Portland, preserved at Welbeck Abbey</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @The manuscripts of J.M. Heathcote, esq., Conington castle ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>... @The manuscripts of J.M. Heathcote, esq., Conington castle ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @memoirs of Sir George Courthop, 1616-1685</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @Report on manuscripts in various collections ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @Report on the manuscripts of Allan George Finch, esq., of Burley-on-the-Hill, Rutland ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>... @Report on the manuscripts of Allan George Finch, esq., of Burley-on-the-Hill, Rutland ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @Report on the manuscripts of F.W. Leyborne-Popham, esq., of Littlecote, co. Wilts ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>... @Report on the manuscripts of F.W. Leyborne-Popham, esq., of Littlecote, co. Wilts ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Report on the manuscripts of Mrs. Stopford-Sackville of Drayton House, Northamptonshire ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Report on the manuscripts of Mrs. Stopford-Sackville of Drayton House, Northamptonshire ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Report on the manuscripts of Mrs. Stopford-Sackville of Drayton House, Northamptonshire ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>... @Report on the manuscripts of the Earl of Ancaster, preserved at Grimsthorpe...</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>... @Report on the manuscripts of the Earl of Ancaster, preserved at Grimsthorpe...</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Sophia Crawford</forename>
+                    <surname>Williamson</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Crawford Lomas</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia</forename>
+                    <surname>Crawford Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie</forename>
+                    <surname>Crawford Lomas</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia Lomas</forename>
+                    <surname>Crawford</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie Lomas</forename>
+                    <surname>Crowford</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. C.</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>d. 1929</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>S. C.</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia Crawford</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia Crawford</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>d. 1929</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophia Crawford</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie C.</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie Crawford</forename>
+                    <surname>Lomas</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Sophie Crawford</forename>
+                    <surname>Lomas</surname>
+                    <marcDate>-1929</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>45058</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q960</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>79257952</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/79257952</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>071427074</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>no 95051920</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q960</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q63283404</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000096500042%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000096500042"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

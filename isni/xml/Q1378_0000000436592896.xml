@@ -1,0 +1,416 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS162</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000436592896</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000436592896</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Alicia</forename>
+                    <surname>Tyssen-Amherst</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <script>Latn</script>
+                    <forename>Alicia</forename>
+                    <surname>Amherst</surname>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>1865-1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Alicia Margaret Amherst Cecil Rockley</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q21607295</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000472787</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001303034</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11354152</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Cecil</surname>
+                    <marcDate>-1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>01179681</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn,‏ ‎</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Mrs.,‏ ‎</nameTitle>
+                    <marcDate>d. 1941‏</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NLS</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Rockley</surname>
+                    <nameTitle>Lady</nameTitle>
+                    <marcDate>1865-1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="NDL">am</creationClass>
+                    <titleOfWork source="BNF">
+                      <title>A @history of gardening in England</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>A @History of gardening in England, by the hon. Alicia Amherst</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@London parks and gardens</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Second edition</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Substance and shadow</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Third and enlarged edition</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>A @history of gardening in England</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@London parks and gardens</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@London parks and gardens</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@London parks and gardens</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Wild flowers of the great dominions of the British empire.</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781504253581</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9784863400283</identifierValue>
+                      <source>VIAF</source>
+                      <source>NDL</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9784863400245</identifierValue>
+                      <source>VIAF</source>
+                      <source>NDL</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Evelyn, Mrs.</forename>
+                    <surname>Cecil</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia</forename>
+                    <surname>Amherst</surname>
+                    <marcDate>1865-1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Baroness Rockley</nameTitle>
+                    <marcDate>1865-1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret Cecil</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness</nameTitle>
+                    <marcDate>1865-1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>-1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Mrs</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia</forename>
+                    <surname>Amherst</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia</forename>
+                    <surname>Amherst</surname>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia</forename>
+                    <surname>Amherst</surname>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia</forename>
+                    <surname>Amherst</surname>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia,‏ ‎</forename>
+                    <surname>Amherst</surname>
+                    <marcDate>d. 1941‏</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Baroness Rockley</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Baroness Rockley</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Baroness Rockley</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret,‏ ‎</forename>
+                    <surname>Cecil</surname>
+                    <nameTitle>Baroness Rockley,‏ ‎</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Mrs</forename>
+                    <surname>Cecil</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia Margaret</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia Margaret</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia Margaret</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia Margaret</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness,‏ ‎</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret Ceciel</forename>
+                    <surname>Rockley</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret Cecil</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret Cecil</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Alicia-Margaret Cecil,‏ ‎</forename>
+                    <surname>Rockley</surname>
+                    <nameTitle>Baroness,‏ ‎</nameTitle>
+                    <marcDate>d. 1941</marcDate>
+                    <source>NLS</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca01418041</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1378</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>310508985</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/310508985</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>17007989</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>310288576</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLS</codeOfSource>
+                <sourceIdentifier>352599</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  85225123</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1378</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q19324976</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000436592896%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000436592896"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

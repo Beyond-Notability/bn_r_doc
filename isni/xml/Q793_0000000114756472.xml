@@ -1,0 +1,681 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS240</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000114756472</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000114756472</isniURI>
+            <mergedISNI>000000038546296X</mergedISNI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Dorothy Whitelock</surname>
+                    <nameTitle>historienne britannique</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q5298683</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10068662</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>057975647</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NSK</source>
+                    <subsourceIdentifier>000567703</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000077427</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000404511</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <marcDate>1901-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a17128286</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <marcDate>1901-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  96610089</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <marcDate>1901-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>12879274</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <marcDate>1901-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Dorothy</forename>
+                    <surname>Whitelock</surname>
+                    <source>ALCS</source>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="KBR">pbd</creationRole>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="VIAF" subsource="NUKAT">red</creationRole>
+                    <creationRole source="VIAF" subsource="NLP">red</creationRole>
+                    <creationRole source="ALCS">edt</creationRole>
+                    <creationRole source="ALCS">aut</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="NSK">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="ALCS">Text</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@English Historical Documents</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>The @Peterborough Chronicle</title>
+                      <subtitle>the Bodleian Manuscript Laud Misc. 636</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>The @beginnings of English society</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@After Bede</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@After Bede</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Anglo-saxon chronicle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Anglo-saxon chronicle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Anglo-saxon chronicle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Anglo-saxon chronicle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Anglo-saxon chronicle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Anglo-saxon chronicle</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Asser's Life of King Alfred</title>
+                      <subtitle>together with the Annals of Saint Neots, erroneously ascribed to Asser</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Asser's Life of King Alfred</title>
+                      <subtitle>together with the Annals of Saint Neots, erroneously ascribed to Asser</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Asser's Life of King Alfred</title>
+                      <subtitle>together with the Annals of Saint Neots, erroneously ascribed to Asser</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @audience of Beowulf ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @audience of Beowulf ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @audience of Beowulf ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@beginnings of English society</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@beginnings of English society</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Changing currents in Anglo-Saxon studies, an inaugural lecture.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Councils &amp; synods with other documents relating to the English church.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Councils &amp; synods with other documents relating to the English church.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Early English manuscripts in facsimile.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@English historical documents</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@English historical documents</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@English historical documents</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@From Bede to Alfred studies in early Anglo-Saxon literature and history</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @genuine Asser.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@History, law, and literature in 10th-11th century England</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Ireland in early mediaeval Europe</title>
+                      <subtitle>studies in memory of Kathleen Hughes</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Ireland in early mediaeval Europe</title>
+                      <subtitle>studies in memory of Kathleen Hughes</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>The @Norman Conquest, its setting and impact</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Norman Conquest, its setting and impact</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Pelican history of England</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @Peterborough chronicle (The Bodleian manuscript Laud misc. 636)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @Peterborough chronicle (The Bodleian manuscript Laud misc. 636)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @Peterborough chronicle (The Bodleian manuscript Laud misc. 636)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @Peterborough chronicle (The Bodleian manuscript Laud misc. 636)</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>De @Rebus gestis Aelfredi.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>De @Rebus gestis Aelfredi.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>De @Rebus gestis Aelfredi.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Sermo Lupi ad Anglos.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Sermo Lupi ad Anglos.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Some Anglo-Saxon bishops of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NSK">
+                      <title>@Sweet's Anglo-Saxon reader in prose and verse.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Sweet's Anglo-Saxon reader in prose and verse.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Sweet's Anglo-Saxon reader in prose and verse.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Two of the Saxon Chronicles, Parallel with supplementary extracts from the others</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Anglo-saxon chronicle</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @audience of Beowulf ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@beginnings of English society</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@c. 500-1042</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@English historical documents</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@From Bede to Alfred studies in early Anglo-Saxon literature and history</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@History, law, and literature in 10th-11th century England</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Ireland in early mediaeval Europe</title>
+                      <subtitle>studies in memory of Kathleen Hughes</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Peterborough chronicle (The Bodleian manuscript Laud misc. 636)</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Will of Aethelgifu a 10th century anglo-saxon manuscript</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Anglo-Saxon chronicle.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Audience of Beowulf</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Beginnings of english society</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Changing currents in Anglo-Saxon studies, an inaugural lecture.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Councils and synods with other documents relating to The English Church</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @critical bibliography of English language studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@England before the conquest; studies in primary sources presented to Dorothy Whitelock.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@English historical documents</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@From Bede to Alfred</title>
+                      <subtitle>studies in early Anglo-Saxon literature and history</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @genuine Asser.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@History, law, and literature in 10th-11th century England</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Ireland in early mediaeval Europe</title>
+                      <subtitle>studies in memory of Kathleen Hughes</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Norman Conquest, its setting and impact</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Old English Bede.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @Peterborough chronicle (the Bodleian manuscript Laud misc. 636)</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sermo Lupi ad Anglos.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Some Anglo-Saxon bishops of London</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Sweet's Anglo-Saxon reader in prose and verse.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @will of Aethelgifu: a tenth century Anglo-Saxon manuscript;</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781280099472</identifierValue>
+                      <source>KBR</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140202458</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140202458</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198111696</identifierValue>
+                      <source>VIAF</source>
+                      <source>NSK</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198111696</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198111696</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780860780663</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521235471</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521235471</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780860780748</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198223948</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140137644</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140137644</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780413324900</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198212010</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198212010</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198212010</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780860780663</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780860780748</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780413324900</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781107402218</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140202458</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198111696</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780860780663</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521235471</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780860780748</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780198223948</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780140137644</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780413324900</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780521081917</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <surname>Dorothy Whitelock</surname>
+                    <nameTitle>Brits historica (1901-1982)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Dorothy Whitelock</surname>
+                    <nameTitle>English historian</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>D.</forename>
+                    <surname>Whitelock</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>D.</forename>
+                    <surname>Whitelock</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>22651</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca00055284</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q793</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>ALCS</codeOfSource>
+                <sourceIdentifier>1052558</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>79132850</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/79132850</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>12879274</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>068566069</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90086468</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50019852</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14349576</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q793</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q5298683</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Dorothy_Whitelock</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Dorothy_Whitelock</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000114756472%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000114756472"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

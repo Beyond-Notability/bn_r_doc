@@ -1,0 +1,467 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS448</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000109110116</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000109110116</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <surname>Murray Katherine Maud Elisabeth</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>13487194</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Elisabeth Murray</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q18671109</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n  01716022</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>utb2009546674</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000536254</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>08859405X</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>K.M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Katharine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000086258</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Katharine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                    <subsourceIdentifier>00450862</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Katharine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV11031107</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Katherine M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>129650978</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Katherine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NSK</source>
+                    <subsourceIdentifier>000319912</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Katherine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                    <subsourceIdentifier>a31101707</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">aa</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="NLP">am</creationClass>
+                    <creationClass source="VIAF" subsource="NSK">am</creationClass>
+                    <creationClass source="VIAF" subsource="NDL">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <titleOfWork source="BNF">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLP">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NSK">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Caught in the web of words; James A.H. Murray and the Oxford English dictionary</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>The @constitutional history of the Cinque ports</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @constitutional history of the Cinque ports</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>The @constitutional history of the Cinque ports</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Faversham and the Cinque ports</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NLI">
+                      <title>@Flints ports otters and threads, 1998:</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Flints ports otters and threads, 1998:</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@Kotoba eno jōnetsu</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Register of Daniel Rough, common clerk of Romney, 1353-1380.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Registrum cartarum monasterii b. v. Mariae de Tristernagh in commitatu occidentalis midiae, fundati et dotati a Galfredo de Constintine.  Register of the priory of the Blessed Virgin Mary at Tristernagh</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Registrum cartarum monasterii b. v. Mariae de Tristernagh in commitatu occidentalis midiae, fundati et dotati a Galfredo de Constintine.  Register of the priory of the Blessed Virgin Mary at Tristernagh</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NDL">
+                      <title>@ことばへの情熱</title>
+                      <subtitle>ジェイムズ・マレーとオクスフォード英語大辞典</subtitle>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300063103</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300021318</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300021318</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300021318</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300021318</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300021318</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780192812650</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780192812650</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780192812650</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300063103</identifierValue>
+                      <source>VIAF</source>
+                      <source>NSK</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9784385431048</identifierValue>
+                      <source>VIAF</source>
+                      <source>NDL</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780300089196</identifierValue>
+                      <source>VIAF</source>
+                      <source>NSK</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>K. M. E., Miss</forename>
+                    <surname>Murray</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Elisabeth Murray</surname>
+                    <nameTitle>Murray, (Katharine Maud) Elisabeth (1909–1998), educationist</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Betty</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Betty</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Betty</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>NTA</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <source>VIAF</source>
+                    <source>NSK</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <source>VIAF</source>
+                    <source>NLP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>K. M. Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Katharine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Katherine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Katherine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Katherine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Katherine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Katherine Maud Elisabeth</forename>
+                    <surname>Murray</surname>
+                    <marcDate>1909-1998</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>K. M. エリザベス</forename>
+                    <surname>マレー</surname>
+                    <source>VIAF</source>
+                    <source>NDL</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>38857</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q109</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>66618876</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/66618876</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>13487194</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>075219085</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90346813</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>nb 90951713</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q109</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q18671109</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000109110116%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000109110116"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

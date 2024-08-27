@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>12</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>06551cam a2200529 i 4500</leader>
+          <controlfield tag="001">19454254</controlfield>
+          <controlfield tag="005">20180904152036.0</controlfield>
+          <controlfield tag="008">170113s2017    nyua     b    001 0 eng c</controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">pccadap</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">epcn</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc17 2017-01-13</subfield>
+            <subfield code="b">rl09 2017-09-05 z-processor</subfield>
+            <subfield code="i">rl09 2017-09-13 ; to Dewey</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2017931076</subfield>
+          </datafield>
+          <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">101704873</subfield>
+            <subfield code="2">DNLM</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781493968381</subfield>
+            <subfield code="q">(alk. paper)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1493968386</subfield>
+            <subfield code="q">(alk. paper)</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781493968404 (eBook)</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn962005585</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NLM</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NLM</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">SEA</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">STF</subfield>
+            <subfield code="d">YDX</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">NLM</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">T174.7</subfield>
+            <subfield code="b">.B558 2017</subfield>
+          </datafield>
+          <datafield tag="060" ind1="0" ind2="0">
+            <subfield code="a">W1</subfield>
+            <subfield code="b">ME9616J v.1570 2017</subfield>
+          </datafield>
+          <datafield tag="060" ind1="1" ind2="0">
+            <subfield code="a">QT 25</subfield>
+          </datafield>
+          <datafield tag="130" ind1="0" ind2=" ">
+            <subfield code="a">Biomedical nanotechnology (Hurst Petrosko)</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Biomedical nanotechnology :</subfield>
+            <subfield code="b">methods and protocols /</subfield>
+            <subfield code="c">edited by Sarah Hurst Petrosko, Department of Chemistry and International Institute for Nanotechnology, Northwestern University, Evanston, IL, USA, Emily S. Day, Department of Biomedical Engineering, University of Delaware, Newark, DE, USA.</subfield>
+          </datafield>
+          <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Second edition.</subfield>
+          </datafield>
+          <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Humana Press,</subfield>
+            <subfield code="c">[2017]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiv, 341 pages :</subfield>
+            <subfield code="b">illustrations ;</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Methods in molecular biology,</subfield>
+            <subfield code="x">1064-3745 ;</subfield>
+            <subfield code="v">1570</subfield>
+          </datafield>
+          <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Springer protocols</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+          </datafield>
+          <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"This second edition volume provides an overview of some of the types of nanostructures commonly used in nanobiomedicine. The chapters in this book discuss practical information on the synthesis and characterization of a variety of solution-phase and surface-bound nanomaterials, with examples of how they can be used in sensing, imaging, and therapeutics. Specific topics include the synthesis and characterization of molecule and biomolecule-functionalized nanoconjugates with gold, iron oxide, or polymeric cores; the development of biosensing, imaging, and therapeutic applications of multicomponent/multifunctional nanostructures; and the application of flow cytometry in nanobiomedicine. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls" --</subfield>
+            <subfield code="c">Cover.</subfield>
+          </datafield>
+          <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Quantification of siRNA duplexes bound to gold nanoparticle surfaces /</subfield>
+            <subfield code="r">Jilian R. Melamed, Rachel S. Riley, Danielle M. Valcourt, Margaret M. Billingsley, Nicole L. Kreuzberger, and Emily S. Day --</subfield>
+            <subfield code="t">Ligand exchange and 1H NMR quantification of singleand mixed-moiety thiolated ligand shells on gold nanoparticles /</subfield>
+            <subfield code="r">Ashley M. Smith and Jill E. Millstone --</subfield>
+            <subfield code="t">Nanoparticle tracking analysis for determination of hydrodynamic diameter, concentration, and zeta-potential of polyplex nanoparticles /</subfield>
+            <subfield code="r">David R. Wilson and Jordan J. Green --</subfield>
+            <subfield code="t">Magnetic characterization of iron oxide nanoparticles for biomedical applications /</subfield>
+            <subfield code="r">Lorena Maldonado-Camargo, Mythreyi Unni, and Carlos Rinaldi --</subfield>
+            <subfield code="t">Preparation of magnetic nanoparticles for biomedical applications /</subfield>
+            <subfield code="r">Xiaolian Sun and Shouheng Sun --</subfield>
+            <subfield code="t">Brain-penetrating nanoparticles for analysis of the brain microenvironment /</subfield>
+            <subfield code="r">Elizabeth Nance --</subfield>
+            <subfield code="t">Volumetric bar-chart chips for biosensing /</subfield>
+            <subfield code="r">Yujun Song, Ying Li, and Lidong Qin --</subfield>
+            <subfield code="t">qFlow cytometry-based receptoromic screening : a high-throughput quantification approach informing biomarker selection and nanosensor development /</subfield>
+            <subfield code="r">Si Chen, Jared Weddell, Pavan Gupta, Grace Conard, James Parkin, and Princess I. Imoukhuede --</subfield>
+            <subfield code="t">Evaluating nanoparticle binding to blood compartment immune cells in high-throughput with flow cytometry /</subfield>
+            <subfield code="r">Shann S. Yu --</subfield>
+            <subfield code="t">Gold@polydopamine core-shell nanoprobe for long-term intracellular detection of MicroRNAs in differentiating stem cells /</subfield>
+            <subfield code="r">Chun Kit K. Choi, Chung Hang J. Choi, and Liming Bian --</subfield>
+            <subfield code="t">Antibody-conjugated single quantum dot tracking of membrane neurotransmitter transporters in primary neuronal cultures /</subfield>
+            <subfield code="r">Danielle M. Bailey, Oleg Kovtun, and Sandra J. Rosenthal --</subfield>
+            <subfield code="t">Spectroscopic photoacoustic imaging of gold nanorods /</subfield>
+            <subfield code="r">Austin Van Namen and Geoffrey P. Luke --</subfield>
+            <subfield code="t">Dual wavelength-triggered gold nanorods for anticancer treatment /</subfield>
+            <subfield code="r">Dennis B. Pacardo, Frances S. Ligler, and Zhen Gu --</subfield>
+            <subfield code="t">Photolabile self-immolative DNA-drug nanostructures /</subfield>
+            <subfield code="r">Xuyu Tan and Ke Zhang --</subfield>
+            <subfield code="t">Enzyme-responsive nanoparticles for the treatment of disease /</subfield>
+            <subfield code="r">Cassandra E. Callmann and Nathan C. Gianneschi --</subfield>
+            <subfield code="t">NanoScript : a versatile nanoparticle-based synthetic transcription factor for innovative gene manipulation /</subfield>
+            <subfield code="r">Kholud Dardir, Christopher Rathnam, and KiBum Lee --</subfield>
+            <subfield code="t">Glucose-responsive insulin delivery by microneedle-array patches loaded with hypoxia-sensitive vesicles /</subfield>
+            <subfield code="r">Jicheng Yu, Yuqi Zhang, and Zhen Gu --</subfield>
+            <subfield code="t">Electrospun nanofiber scaffolds and their hydrogel composites for the engineering and regeneration of soft tissues /</subfield>
+            <subfield code="r">Ohan S. Manoukian, Rita Matta, Justin Letendre, Paige Collins, Augustus D. Mazzocca, and Sangamesh G. Kumbar --</subfield>
+            <subfield code="t">Application of hydrogel template strategy in ocular drug delivery /</subfield>
+            <subfield code="r">Crystal S. Shin, Daniela C. Marcano, Kinam Park, and Ghanashyam Acharya --</subfield>
+            <subfield code="t">High-accuracy determination of cytotoxic responses from graphene oxide exposure using imaging flow cytometry /</subfield>
+            <subfield code="r">Sandra Vranic and Kostas Kostarelos --</subfield>
+            <subfield code="t">Air-liquid interface Cell exposures to nanoparticle aerosols /</subfield>
+            <subfield code="r">Nastassja A. Lewinski, Nathan J. Liu, Akrivi Asimakopoulou, Eleni Papaioannou, Athanasios Konstandopoulos, and Michael Riediker --</subfield>
+            <subfield code="t">Returning to the patent landscapes for nanotechnology : assessing the garden that it has grown into /</subfield>
+            <subfield code="r">Diana M. Bowman, Douglas J. Sylvester, and Anthony D. Marino.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Nanotechnology.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Biomedical engineering.</subfield>
+          </datafield>
+          <datafield tag="650" ind1="1" ind2="2">
+            <subfield code="a">Nanotechnology.</subfield>
+          </datafield>
+          <datafield tag="650" ind1="2" ind2="2">
+            <subfield code="a">Biomedical Engineering.</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2="2">
+            <subfield code="a">Laboratory Manuals.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Biomedical engineering.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00832568</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Nanotechnology.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01032639</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hurst Petrosko, Sarah,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily S.,</subfield>
+            <subfield code="e">editor.</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Springer protocols (Series)</subfield>
+          </datafield>
+          <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Methods in molecular biology (Clifton, N.J.) ;</subfield>
+            <subfield code="v">1570.</subfield>
+            <subfield code="x">1064-3745</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="z">Available to Stanford-affiliated users at:</subfield>
+            <subfield code="u">http://www.springerprotocols.com/BookToc/doi/10.1007/978-1-4939-6840-4</subfield>
+            <subfield code="x">purchased</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00800cam a22002531  4500</leader>
+          <controlfield tag="001">16652933</controlfield>
+          <controlfield tag="005">20181228121415.0</controlfield>
+          <controlfield tag="007">cr_|||||||||||</controlfield>
+          <controlfield tag="008">110215s1905    caua          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">bi00 2011-02-15</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">tmp96026211 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us-hi</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">GR385.H3</subfield>
+            <subfield code="b">D3</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Foster.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Menehunes /</subfield>
+            <subfield code="c">Emily Foster Day ; illustrations by Spencer Wright.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">San Francisco :</subfield>
+            <subfield code="b">Paul Elder and Co.,</subfield>
+            <subfield code="c">c1905.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 v. (unpaged) :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">18 cm.</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Legends</subfield>
+            <subfield code="z">Hawaii.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00199537490</subfield>
+          </datafield>
+          <datafield tag="984" ind1=" " ind2=" ">
+            <subfield code="b">Record input for RHIP</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">massdig</subfield>
+            <subfield code="e">sloan</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01118cam a22003011  4500</leader>
+          <controlfield tag="001">9615028</controlfield>
+          <controlfield tag="005">20190221103933.0</controlfield>
+          <controlfield tag="007">cr_|||||||||||</controlfield>
+          <controlfield tag="008">780413s1906    cauf          000 1 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   06045043 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   06045043</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)3800374</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">NhD</subfield>
+            <subfield code="d">NhD</subfield>
+            <subfield code="d">HU</subfield>
+            <subfield code="d">NcCU</subfield>
+            <subfield code="d">CoD</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">GR385.H3</subfield>
+            <subfield code="b">D35</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Foster.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Princess of Manoa,</subfield>
+            <subfield code="b">and other romantic tales from the folk-lore of old Hawaii,</subfield>
+            <subfield code="c">by Mrs. Frank R. Day; illustrated by D. Howard Hitchcock.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">San Francisco and New York,</subfield>
+            <subfield code="b">P. Elder and company</subfield>
+            <subfield code="c">[1906]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 p. l., v-vii, 83 p., 1 l.</subfield>
+            <subfield code="b">front., 9 pl.</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"The typographical arrangement designed by J.H. Nash."</subfield>
+          </datafield>
+          <datafield tag="530" ind1=" " ind2=" ">
+            <subfield code="a">Also available in digital form.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Legends</subfield>
+            <subfield code="z">Hawaii.</subfield>
+          </datafield>
+          <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00297140681</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="g">fcd cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">GR385.H3</subfield>
+            <subfield code="i">D35</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">massdig</subfield>
+            <subfield code="e">sloan</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01443cam a22003131  4500</leader>
+          <controlfield tag="001">10133745</controlfield>
+          <controlfield tag="005">20050501171135.0</controlfield>
+          <controlfield tag="008">890327s1924    dcu      bc   000 0 eng c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr24000682</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr24000682 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)19464072</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">U.S. Dept. of Agriculture</subfield>
+            <subfield code="c">ViW</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z5073</subfield>
+            <subfield code="b">.U57 no. 7</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Bibliography on the marketing of agricultural products.</subfield>
+            <subfield code="c">Comp. by Emily L. Day, Katharine Jacobs, and Margaret T. Olcott ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="c">1924.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">v numb. l., 133 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">U.S. Dept. of Agriculture. Library. Bibliographical contributions.</subfield>
+            <subfield code="v">no. 7</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Contribution from Bureau of Agriculturual Economics, Library.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Mimeographed.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Also issued as U.S. Dept. of Agriculture. Miscellaneous circular no. 35.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Supersedes the "Selected list of publications on the marketing of farm products", compiled in the Library of the Bureau of markets by Mary E. Griffith in 1918, and two supplements, 1919 and 1922. cf. Introd.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Farm produce</subfield>
+            <subfield code="x">Marketing</subfield>
+            <subfield code="x">Bibliography</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Jacobs, Katharine,</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Olcott, Margaret T.</subfield>
+            <subfield code="q">(Margaret Thompson),</subfield>
+            <subfield code="d">1892-</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z5073</subfield>
+            <subfield code="i">.U57 no. 7</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01053cam a22002771  4500</leader>
+          <controlfield tag="001">7808750</controlfield>
+          <controlfield tag="005">20050731175610.0</controlfield>
+          <controlfield tag="008">940502s1929    dcu      b    000 0 eng c</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr30000361</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">oclcrpl</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr30000361 </subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)30369480</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">LIBRARY, U.S. DEPT. OF AGRICULTURE</subfield>
+            <subfield code="c">WaU</subfield>
+            <subfield code="d">WaU</subfield>
+            <subfield code="d">OCoLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">premarc</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z5074.E3</subfield>
+            <subfield code="b">U35 no. 29</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Valuation of real estate</subfield>
+            <subfield code="b">with special reference to farm real estate.</subfield>
+            <subfield code="c">Comp. by Emily L. Day ...</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington, D.C.,</subfield>
+            <subfield code="c">1929.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vi, 87 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">United States. Dept. of Agriculture. Bureau of Agricultural Economics. [Library] Agricultural economics bibliography</subfield>
+            <subfield code="v">no. 29</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Mimeographed.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">"Sources consulted": p. v-vi.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Farms</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Real property</subfield>
+            <subfield code="x">Valuation</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="e">OCLC REPLACEMENT cdsdistr</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z5074.E3</subfield>
+            <subfield code="i">U35 no. 29</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">OCLCREP</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>5</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00540nam a2200181u  4500</leader>
+          <controlfield tag="001">7331972</controlfield>
+          <controlfield tag="005">00000000000000.0</controlfield>
+          <controlfield tag="008">801223s1925    dcu           000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr27000119</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr27000119 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z5074.E3</subfield>
+            <subfield code="b">U35 no. 6</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise, [from old catalog]</subfield>
+            <subfield code="e">comp.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Aids to writers and editors: </subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="c">1925.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">p. cm.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z5074.E3</subfield>
+            <subfield code="i">U35 no. 6</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>6</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00571cam a2200193u  4500</leader>
+          <controlfield tag="001">8313702</controlfield>
+          <controlfield tag="005">20120705082151.0</controlfield>
+          <controlfield tag="008">820115s1940    dcu      b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr40000507</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr40000507 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z5074.E3</subfield>
+            <subfield code="b">U35 no. 88</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Cotton linters;</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="c">1940.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">vi, 39 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Linters</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z5074.E3</subfield>
+            <subfield code="i">U35 no. 88</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>7</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00795cam a2200217u  4500</leader>
+          <controlfield tag="001">8763556</controlfield>
+          <controlfield tag="005">20240122153022.0</controlfield>
+          <controlfield tag="008">820504s1935    dcu      b    000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="u">ma02 2024-01-22 telework</subfield>
+          </datafield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr35000796</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr35000796 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z5074.L3</subfield>
+            <subfield code="b">U35 no. 57</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise, [from old catalog]</subfield>
+            <subfield code="e">compiler.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Economic development of the cotton-textile industry in the United States.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="c">1935.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 p.</subfield>
+            <subfield code="b">l., iv, 137 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cotton textile industry</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lane, Rachel Penn,</subfield>
+            <subfield code="d">1907- [from old catalog]</subfield>
+            <subfield code="e">compiler.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z5074.L3</subfield>
+            <subfield code="i">U35 no. 57</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>8</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00897cam a2200241u  4500</leader>
+          <controlfield tag="001">6962957</controlfield>
+          <controlfield tag="005">20070806144232.0</controlfield>
+          <controlfield tag="008">820625s1951    dcu      b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr51000254</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr51000254 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z881.U4</subfield>
+            <subfield code="b">L5 no. 54</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Farm,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">U. S. Govt. Print. Off.,</subfield>
+            <subfield code="c">1951.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">iv, 30 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Rural electrification</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Electricity in agriculture</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Electric apparatus and appliances</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bien, Corabel,</subfield>
+            <subfield code="d">1889- [from old catalog]</subfield>
+            <subfield code="e">joint author.</subfield>
+          </datafield>
+          <datafield tag="810" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">National Agricultural Library.</subfield>
+            <subfield code="t">Library list</subfield>
+            <subfield code="v">no. 54. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z881.U4</subfield>
+            <subfield code="i">L5 no. 54</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>9</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00645cam a2200193u  4500</leader>
+          <controlfield tag="001">8299154</controlfield>
+          <controlfield tag="005">20040722071747.0</controlfield>
+          <controlfield tag="008">821217s1936    dcu      b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr36000117</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr36000117 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z5074.E3</subfield>
+            <subfield code="b">U35 no. 63</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise, [from old catalog]</subfield>
+            <subfield code="e">comp.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Government control of cotton production in the United States 1933-1935;</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="c">1936.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 p.l., 59 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cotton growing</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z5074.E3</subfield>
+            <subfield code="i">U35 no. 63</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>10</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00794cam a2200217u  4500</leader>
+          <controlfield tag="001">6951240</controlfield>
+          <controlfield tag="005">20120313072533.0</controlfield>
+          <controlfield tag="008">830331s1949    dcu      b    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr49000644</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr49000644 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z881.U4</subfield>
+            <subfield code="b">L5 no. 49</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Physical risks in farm production;</subfield>
+            <subfield code="b">selected references, 1930-1948,</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Washington,</subfield>
+            <subfield code="c">1949]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">29 p.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Farm risks</subfield>
+            <subfield code="v">Bibliography.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Barber, Edward Lloyd Lyons,</subfield>
+            <subfield code="d">1915- [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="810" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">National Agricultural Library.</subfield>
+            <subfield code="t">Library list</subfield>
+            <subfield code="v">no. 49. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z881.U4</subfield>
+            <subfield code="i">L5 no. 49</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>11</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01101cas a2200277u| 4500</leader>
+          <controlfield tag="001">7862911</controlfield>
+          <controlfield tag="005">20050624101446.0</controlfield>
+          <controlfield tag="008">811210n        dcu  |||||||||||| ||eng| </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)agr44000041</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">0</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">premunv</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">agr44000041 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">CarP</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z5701</subfield>
+            <subfield code="b">.U5</subfield>
+          </datafield>
+          <datafield tag="110" ind1="1" ind2=" ">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">National Agricultural Library. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Cotton literature: selected references.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Washington,</subfield>
+            <subfield code="b">[n. d.]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">12 v.</subfield>
+            <subfield code="c">27 cm.</subfield>
+          </datafield>
+          <datafield tag="310" ind1=" " ind2=" ">
+            <subfield code="a">Unknown</subfield>
+          </datafield>
+          <datafield tag="590" ind1=" " ind2=" ">
+            <subfield code="a">PREMARC/SERLOC merged record</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Cotton</subfield>
+            <subfield code="x">Bibliography</subfield>
+            <subfield code="x">Periodicals. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Day, Emily Louise. [from old catalog]</subfield>
+          </datafield>
+          <datafield tag="780" ind1="0" ind2="0">
+            <subfield code="n">SERLOC preceding entry</subfield>
+            <subfield code="t">United States. Bureau of Agricultural Economics. Division of Cotton Marketing.  Current literature on cotton; selected references</subfield>
+          </datafield>
+          <datafield tag="890" ind1=" " ind2=" ">
+            <subfield code="a">United States. National Agricultural Library.  Cotton literature; selected references.</subfield>
+            <subfield code="i">sv97-10409</subfield>
+          </datafield>
+          <datafield tag="920" ind1=" " ind2=" ">
+            <subfield code="a">Keep 1</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z5701</subfield>
+            <subfield code="i">.U5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">PREM</subfield>
+          </datafield>
+          <datafield tag="992" ind1=" " ind2=" ">
+            <subfield code="b">Unk</subfield>
+            <subfield code="h">Z5701.U5</subfield>
+            <subfield code="w">SERLOC</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>12</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Day, Emily" or dc.creator="Holgate, Emily"</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

@@ -1,0 +1,314 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS699</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000139569075</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000139569075</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Sarah</forename>
+                    <surname>Marks</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Hertha</forename>
+                    <surname>Ayrton</surname>
+                    <marcDate>1854-1923</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Hertha</forename>
+                    <surname>Ayrton</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Hertha</forename>
+                    <surname>Ayrton</surname>
+                    <marcDate>1854-1923</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2015051120</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Hertha</forename>
+                    <surname>Ayrton</surname>
+                    <marcDate>1854-1923</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>1053393512</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Hertha</forename>
+                    <surname>Ayrton</surname>
+                    <nameTitle>Mrs Marks</nameTitle>
+                    <marcDate>1854-1923</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>139267107</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>English engineer, mathematician and inventor</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q17522</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="LCNACO">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="LCNACO">am</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">aa</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <titleOfWork source="LCNACO">
+                      <title>@Hertha Ayrton, 1854-1923, a memoir</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @electric arc</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>The @electric arc.</title>
+                      <statementOfResponsibility>Hertha Ayrton. - London, 1902.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @electric arc.</title>
+                      <statementOfResponsibility>Hertha Ayrton. - London, 1902.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @mechanism of the electric arc</title>
+                    </titleOfWork>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Phoebe Sarah</forename>
+                    <surname>Marks</surname>
+                    <marcDate>1854-1923</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Phoebe Sarah Hertha</forename>
+                    <surname>Ayrton</surname>
+                    <marcDate>1854-1923</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>Brits wiskundige</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>britisk ingeniør og matematikar</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>britisk ingeniør og matematiker</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>englische Mathematikerin, Elektroingenieurin und Erfinderin</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>ingegnere, matematica e inventrice inglese</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>matemática, ingeniera e inventora inglesa</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Hertha Marks Ayrton</surname>
+                    <nameTitle>mathématicienne, inventeur et ingénieur anglaise</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Hertha</forename>
+                    <surname>Marks</surname>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Герта Маркс Айртон</surname>
+                    <nameTitle>английский инженер, математик и изобретатель</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>هرثا ماركس أيرتون</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ჰერთა აირტონი</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>ハータ・エアトン</surname>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>OCoLC</type>
+                <identifier>oca10461747</identifier>
+                <source>LCNACO</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q2377</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>190851991</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/190851991</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>3017185</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>no2016059206</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q2377</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q17522</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>(Phoebe Sarah Hertha Ayrton; born 28 April 1854 in Portsea, Portsmouth, Hampshire, United Kingdom; died 23 August 1923 in Bexhill-on-sea, Sussex; engineer, mathematician, physicist, and inventor. Known in adult life as Hertha Ayrton, born Phoebe Sarah Marks, she was awarded the Hughes Medal by the Royal Society for her work on electric arcs and ripples in sand and water. Ayrton attended Girton College, University of Cambridge, where she studied mathematics. In 1880, Ayrton passed the Mathematical Tripos, but Cambridge did not grant her an academic degree because, at the time, Cambridge gave only certificates and not full degrees to women. Ayrton passed an external examination at the University of London, which awarded her a Bachelor of Science degree in 1881. In 1884 Ayrton began attending evening classes on electricity at Finsbury Technical College. In the late nineteenth century, electric arc lighting was in wide use for public lighting. The tendency of electric arcs to flicker and hiss was a major problem. In 1895, Ayrton wrote a series of articles, explaining that these phenomena were the result of oxygen coming into contact with the carbon rods used to create the arc In 1884 Ayrton patented a line-divider, an engineering drawing instrument for dividing a line into any number of equal parts and for enlarging and reducing figures, the patent was the first of many; from 1884 until her death, she registered 26 patents. Her daughter, Barbara Bodichon Ayrton, became a Member of Parliament for the Labour Party. Her grandson was the artist, Michael Ayrton)</information>
+                <URI>https://en.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ar.wikipedia.org/wiki/هرثا_ماركس_أيرتون</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ca.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://de.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://fr.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ht.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ja.wikipedia.org/wiki/ハータ・エアトン</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ka.wikipedia.org/wiki/ჰერთა_აირტონი</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://mg.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://no.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://oc.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pl.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://pt.wikipedia.org/wiki/Hertha_Marks_Ayrton</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://ru.wikipedia.org/wiki/Айртон,_Герта_Маркс</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000139569075%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000139569075"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

@@ -1,0 +1,557 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS328</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000111087779</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000111087779</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Countess</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Martinengo</forename>
+                    <surname>Cesaresco</surname>
+                    <nameTitle>contess</nameTitle>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>PTBNP</source>
+                    <subsourceIdentifier>182340</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <surname>Evelyn Martinengo-Cesaresco</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q18911138</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>ICCU</source>
+                    <subsourceIdentifier>RAVV080936</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>kv2013748245</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>RERO</source>
+                    <subsourceIdentifier>vtls000111030</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2012041827</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>123286220</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <nameTitle>contessa</nameTitle>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls001224280</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <nameTitle>contessa</nameTitle>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <nameTitle>contessa</nameTitle>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                    <subsourceIdentifier>000413271</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <nameTitle>contessa</nameTitle>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                    <subsourceIdentifier>a1066970x</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>179491288</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Evelyn</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                    <subsourceIdentifier>13012846</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="VIAF" subsource="ICCU">a</creationClass>
+                    <creationClass source="VIAF" subsource="BNC">am</creationClass>
+                    <creationClass source="VIAF" subsource="PTBNP">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NKC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="RERO">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="BNF">am</creationClass>
+                    <titleOfWork source="KBR">
+                      <title>@Essays in the study of folk-songs</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Anthology of French poetry, 10th to 19th centuries.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>@Aspromonte e Roma</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Cavour.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>@Cavour.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Cavour.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Cavour.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Cavour.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Cavour.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>@Duca Sigismondo Castromediano</title>
+                      <subtitle>cenni biografici</subtitle>
+                      <statementOfResponsibility>Evelina Martinengo</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Essays in the study of folk-songs</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Essays in the study of folk-songs</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>@Essays in the study of folk-songs</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Essays in the study of folk-songs</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Glimpses of Italian society in the eighteenth century.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BNC">
+                      <title>@Glimpses of Italian society in the eighteenth century.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Italian characters in the epoch of unification</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Italian characters in the epoch of unification</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @liberation of Italy, 1815-1870;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>The @liberation of Italy, 1815-1870;</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>The @liberation of Italy, 1815-1870;</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @liberation of Italy, 1815-1870;</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Lombard studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Lombard studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @outdoor life in Greek and Roman Poets, and kindred studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>The @outdoor life in Greek and Roman Poets, and kindred studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="PTBNP">
+                      <title>The @outdoor life in Greek and Roman Poets, and kindred studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @outdoor life in Greek and Roman Poets, and kindred studies</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>@Parole profetiche, comunicate da Evelina Martinengo Cesaresco. - Torino</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Patriotti italiani</title>
+                      <subtitle>ritratti</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NKC">
+                      <title>@Patriotti italiani</title>
+                      <subtitle>ritratti</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>The @place of animals in human thought</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>The @place of animals in human thought</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>The @place of animals in human thought</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>La @poésie populaire</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>La @poésie populaire</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>Il @posto degli animali nel pensiero umano</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>A @sheaf of Greek folk songs gleaned by an old Philhellene</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Translations from the poems of Victor Hugo</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="ICCU">
+                      <title>La @vita all'aria aperta nei poeti greci e latini</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Cavour.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @liberation of Italy, 1815-1870</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @place of animals in human thought</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>La @poésie populaire</title>
+                      <statementOfResponsibility>par E. Martinengo-Cesaresco. - Paris, 1893.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>Il @posto degli animali nel pensiero umano</title>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780836968507</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780836956870</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780804610650</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Countess</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Martinengo</forename>
+                    <surname>Cesaresco</surname>
+                    <source>NLN</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina</forename>
+                    <surname>Carrington Martinengo Cesaresco</surname>
+                    <source>VIAF</source>
+                    <source>ICCU</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Lilian Hazeldine</forename>
+                    <surname>Carrington Martinengo-Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn</forename>
+                    <surname>Carrington</surname>
+                    <source>VIAF</source>
+                    <source>ICCU</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E. Martinengo</forename>
+                    <surname>Cesaresco</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina Martinengo</forename>
+                    <surname>Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Lilian Hazeldine Carrington Martinengo-</forename>
+                    <surname>Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Cesaresco</surname>
+                    <nameTitle>contessa, Martinengo-</nameTitle>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Cesaresco</surname>
+                    <nameTitle>contessa, Martinengo-</nameTitle>
+                    <source>LCNACO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Cesaresco</surname>
+                    <nameTitle>contessa, Martinengo-</nameTitle>
+                    <source>VIAF</source>
+                    <source>NLI</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Martinengo-</forename>
+                    <surname>Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo</surname>
+                    <source>VIAF</source>
+                    <source>RERO</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>BNC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>E.</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <nameTitle>contessa</nameTitle>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn</forename>
+                    <surname>Martinengo-Cesaresco</surname>
+                    <marcDate>1852-1931</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <relationInfo>married name</relationInfo>
+                    <marcDate>1852-1931</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelyn Lilian Hazeldine Carrington</forename>
+                    <surname>Martinengo Cesaresco</surname>
+                    <relationInfo>married name</relationInfo>
+                    <marcDate>1852-1931</marcDate>
+                    <nameTitle>comtesse</nameTitle>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>Evelina</forename>
+                    <surname>Martinengo</surname>
+                    <relationInfo>married name</relationInfo>
+                    <marcDate>1852-1931</marcDate>
+                    <source>BNF</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>49046</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q979</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>23045407</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/23045407</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>13012846</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>145443493</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>1046487</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50077534</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14076643</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q979</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q18911138</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000111087779%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000111087779"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

@@ -1,0 +1,949 @@
+<?xml-stylesheet type="text/xsl" href="http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse" ?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xcql="http://www.loc.gov/zing/cql/xcql/">
+  <srw:version>1.1</srw:version>
+  <srw:numberOfRecords>1</srw:numberOfRecords>
+  <srw:resultSetId>SID3cee1a92-cdS356</srw:resultSetId>
+  <srw:records>
+    <srw:record>
+      <srw:recordSchema>isni-b</srw:recordSchema>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <responseRecord>
+          <ISNIAssigned>
+            <isniUnformatted>0000000107799693</isniUnformatted>
+            <isniURI>https://isni.org/isni/0000000107799693</isniURI>
+            <dataConfidence>60</dataConfidence>
+            <ISNIMetadata>
+              <identity>
+                <personOrFiction>
+                  <personalName>
+                    <script>Latn</script>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <nameUse>public</nameUse>
+                    <source>BNF</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <source>BL</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise E.E.</forename>
+                    <surname>Henry</surname>
+                    <source>KBR</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Franc̦oise</forename>
+                    <surname>Henry</surname>
+                    <source>NLN</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <source>BAnQ</source>
+                  </personalName>
+                  <personalName>
+                    <surname>Françoise Henry</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                    <subsourceIdentifier>Q3425971</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>BAV</source>
+                    <subsourceIdentifier>ADV10308686</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                    <subsourceIdentifier>142034088</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>LCNACO</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>SUDOC</source>
+                    <subsourceIdentifier>027963551</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>François</forename>
+                    <surname>Henry</surname>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NUKAT</source>
+                    <subsourceIdentifier>n 2004002051</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>N6I</source>
+                    <subsourceIdentifier>vtls000062466</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>RERO</source>
+                    <subsourceIdentifier>vtls012352037</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>NKC</source>
+                    <subsourceIdentifier>mzk2013789268</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>VIAF</source>
+                    <source>B2Q</source>
+                    <subsourceIdentifier>0000056992</subsourceIdentifier>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise E.E.</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <nameUse>public</nameUse>
+                    <source>NTA</source>
+                  </personalName>
+                  <personalName>
+                    <forename>Françoise</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <source>OCLCT</source>
+                    <subsourceIdentifier>490286462</subsourceIdentifier>
+                  </personalName>
+                  <creativeActivity>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">edt</creationRole>
+                    <creationRole source="BNF">edt</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="BNF">aut</creationRole>
+                    <creationRole source="KBR">aut</creationRole>
+                    <creationRole source="NLN">cre</creationRole>
+                    <creationRole source="BAnQ">cre</creationRole>
+                    <creationRole source="VIAF" subsource="DNB">edt</creationRole>
+                    <creationRole source="OCLCT">aut</creationRole>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="BNF">as</creationClass>
+                    <creationClass source="KBR">as</creationClass>
+                    <creationClass source="NLN">am</creationClass>
+                    <creationClass source="BAnQ">as</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">aa</creationClass>
+                    <creationClass source="VIAF" subsource="BAV">am</creationClass>
+                    <creationClass source="VIAF" subsource="RERO">am</creationClass>
+                    <creationClass source="VIAF" subsource="N6I">am</creationClass>
+                    <creationClass source="VIAF" subsource="B2Q">am</creationClass>
+                    <creationClass source="VIAF" subsource="SUDOC">am</creationClass>
+                    <creationClass source="VIAF" subsource="NUKAT">am</creationClass>
+                    <creationClass source="VIAF" subsource="DNB">am</creationClass>
+                    <creationClass source="NTA">aa</creationClass>
+                    <creationClass source="NTA">am</creationClass>
+                    <creationClass source="NTA">tm</creationClass>
+                    <titleOfWork source="BNF">
+                      <title>Les @îles d'Inishkea carnets personnels</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>Les @îles d'Inishkea carnets personnels</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Architecture and sculpture</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Manuscrit illumination</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Enamels and metalwork</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Studies in early Christian and medieval Irish art</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>The @Book of Kells reproductions from the manuscript in Trinity college, Dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>Het @Book of Kells</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Irish art in the Romanesque period, 1020-1170 A.D</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Irish art in the Romanesque period (1020-1170 A.D.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Irish art during the Viking Invasions 800-1020 A.D.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>L'@art irlandais...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>L'@art irlandais...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>L'@art irlandais...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Remarks on the decoration of three Irish Psalters (British Museum), Cotton Ms. Vitellius F. XI, St. John's College, Cambridge, Ms. C. 9 (I. 59), Rouen, Bibliothèque municipale, Ms. 24 (A. 41)</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>An @Irish manuscript in the British Museum</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Early Christian Irish art,...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Irish art in the early Christian period, by Françoise Henry. 2nd ed.</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Pour et contre l'art abstrait... Olivier Le Corneur... Françoise Henry... Léon Degand... Charles Estienne... Gaston Diehl...</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Irish art in the early Christian period</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>@Emailleurs d'Occident</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>Les @Tumulus du Département de la Côte-d'Or</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>La @sculpture irlandaise pendant les douze premiers siècles de l'ère chrétienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>Les @Tumulus du Département de la Côte-d'Or</title>
+                    </titleOfWork>
+                    <titleOfWork source="BNF">
+                      <title>Les @Tumulus du département de la Côte-d'Or. Thèse présentée à la Faculté des lettres de Paris</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>L'@art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="KBR">
+                      <title>@Saint-Leger Leger, traducteur de Pindare</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Architecture and sculpture</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Bible</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Book of kells reproductions from the manuscript in trinity college dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Book of kells reproductions from the manuscript in trinity college dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Book of kells reproductions from the manuscript in trinity college dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Book of kells reproductions from the manuscript in trinity college dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>@Book of kells reproductions from the manuscript in trinity college dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="DNB">
+                      <title>@Book of kells reproductions from the manuscript in trinity college dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Catalogue raisonné de l'œuvre de Jean Lasne</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @century of Irish illumination (1070-1170).</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>A @century of Irish illumination (1070-1170).</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Croix sculptées irlandaises</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Croix sculptées irlandaises</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Croix sculptées irlandaises</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>A @Cross at Durrow Coffaly</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>Les @Crosses pré-romanes à propos de quelques articles récents</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>Les @débuts de la miniature irlandaise</title>
+                      <subtitle>[extrait de la gazette des Beaux-Arts]</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Deux objets de bronze irlandais au Musée des Antiquités nationales</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Ealaí Éireannach den tSeanré Chríostaí</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Early christian slabs and pillar stones in the west of Ireland</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Early monasteries, beehive huts, and dry-stone houses in the neighbourhood of Caherciveen and Waterville (Co. Kerry).</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Early monasteries, beehive huts, and dry-stone houses in the neighbourhood of Caherciveen and Waterville (Co. Kerry).</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Émailleurs d'occident</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Enamels and metalwork...</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Françoise Henry in Co. Mayo.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Gobnait Naomhtha Bhaile Mhúirne</title>
+                      <parallelTitle>St Gobnait of Ballyvourney</parallelTitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Hanging bowls</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Hanging bowls</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Henri Focillon</title>
+                      <subtitle>professeur d'archeologie et du moyen age</subtitle>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@îles d'Inishkea carnets personnels</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@îles d'Inishkea carnets personnels</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@îles d'Inishkea carnets personnels</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Inishkea journals</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Inishkea journals</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Inishkea journals</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Irish art during the Viking Invasions 800-1020 A.D.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Irish art during the Viking Invasions 800-1020 A.D.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Irish art during the Viking Invasions 800-1020 A.D.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Irish art during the Viking Invasions 800-1020 A.D.</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Irish art in the Romanesque period, 1020-1170 A.D</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Irish art in the Romanesque period, 1020-1170 A.D</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Irish art in the Romanesque period, 1020-1170 A.D</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Irish art in the Romanesque period, 1020-1170 A.D</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Irish Enamels of the Dark Ages and their Relation to the Cloisonné Techniques</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Irish high crosses</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Irish high crosses</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Irish high crosses</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Irish manuscript in the British Museum</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="B2Q">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>L'@inscription de Bealin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>L'@inscription de Bealin</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>Les @Origines de l'iconographie irlandaise</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Préhistoire</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Remains of the early Christian period on Irishkea North, Co. Mayo by ...</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Remarks on the decoration of three Irish psalters.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Remarks on the decoration of three Irish psalters.</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Romanesque arches decorated with human and animal heads</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>La @sculpture irlandaise pendant les douze premiers siècles de l'ère chrétienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>La @sculpture irlandaise pendant les douze premiers siècles de l'ère chrétienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>La @sculpture irlandaise pendant les douze premiers siècles de l'ère chrétienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>La @sculpture irlandaise pendant les douze premiers siècles de l'ère chrétienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>La @sculpture irlandaise pendant les douze premiers siècles de l'ère chrétienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="LCNACO">
+                      <title>@Studies in early christian and medieval Irish art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="BAV">
+                      <title>@Studies in early christian and medieval Irish art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>@Studies in early christian and medieval Irish art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="N6I">
+                      <title>@Studies in early christian and medieval Irish art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>@Studies in early christian and medieval Irish art</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="NUKAT">
+                      <title>Le @travail et l'homme</title>
+                      <statementOfResponsibility>Étienne Borne et François Henry. - Paris, 1937.</statementOfResponsibility>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="RERO">
+                      <title>Les @tumulus du département de la Côte-d'Or</title>
+                    </titleOfWork>
+                    <titleOfWork source="VIAF" subsource="SUDOC">
+                      <title>Les @tumulus du département de la Côte-d'Or</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Árdchroiseanna Éireann</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Book of kells; reproductions from the manuscript in trinity college, dublin</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>A @century of Irish illumination (1070-1170).</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Ealaí Éireannach den tSeanré Chríostaí</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Émailleurs d'occident</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Ierse kunst</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Irish art during the Viking Invasions 800-1020 A.D.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Irish art in the Romanesque period (1020-1170 A.D.)</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Irish high crosses</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>L'@Art irlandais</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Remarks on the decoration of three Irish psalters.</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Saint-Leger Leger, traducteur de Pindare</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>La @sculpture irlandaise pendant les douze premiers siècles de l'ère chrétienne</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>@Studies in early christian and medieval Irish art</title>
+                    </titleOfWork>
+                    <titleOfWork source="NTA">
+                      <title>Les @tumulus du département de la Côte-d'Or</title>
+                    </titleOfWork>
+                    <titleOfWork source="OCLCT">
+                      <title>Les @tumulus du Département de la Côte d'Or</title>
+                      <statementOfResponsibility>[Texte imprimé]</statementOfResponsibility>
+                    </titleOfWork>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782757403723</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132233</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132226</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132127</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780394494753</identifierValue>
+                      <source>BNF</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132127</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132127</identifierValue>
+                      <source>VIAF</source>
+                      <source>BAV</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132127</identifierValue>
+                      <source>VIAF</source>
+                      <source>RERO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132127</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132127</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232132</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232132</identifierValue>
+                      <source>VIAF</source>
+                      <source>RERO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232132</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232132</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232132</identifierValue>
+                      <source>VIAF</source>
+                      <source>NUKAT</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132233</identifierValue>
+                      <source>VIAF</source>
+                      <source>RERO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132233</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132233</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780394494753</identifierValue>
+                      <source>VIAF</source>
+                      <source>RERO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780394494753</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780394494753</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782757403723</identifierValue>
+                      <source>VIAF</source>
+                      <source>RERO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782757403723</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9782757403723</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781846823749</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781846823749</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781846823749</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781846823244</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781846823244</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9781846823244</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132226</identifierValue>
+                      <source>VIAF</source>
+                      <source>RERO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780416442601</identifierValue>
+                      <source>LCNACO</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780416442601</identifierValue>
+                      <source>VIAF</source>
+                      <source>N6I</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780853424628</identifierValue>
+                      <source>VIAF</source>
+                      <source>SUDOC</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132127</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780500232132</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132233</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780394494753</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780907132226</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780416442601</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9780853424628</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                    <identifier>
+                      <identifierType>ISBN</identifierType>
+                      <identifierValue>9789027482785</identifierValue>
+                      <source>NTA</source>
+                    </identifier>
+                  </creativeActivity>
+                  <personalNameVariant>
+                    <forename>Des Lettres, Chevalier de Legion D’Honneur</forename>
+                    <surname>Francoise Henry</surname>
+                    <source>BL</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Françoise Henry</surname>
+                    <nameTitle>Art historian</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <surname>Françoise Henry</surname>
+                    <nameTitle>Frans antropoloog (-)</nameTitle>
+                    <source>VIAF</source>
+                    <source>WKP</source>
+                  </personalNameVariant>
+                  <personalNameVariant>
+                    <forename>F.</forename>
+                    <surname>Henry</surname>
+                    <marcDate>1902-1982</marcDate>
+                    <source>VIAF</source>
+                    <source>DNB</source>
+                  </personalNameVariant>
+                </personOrFiction>
+              </identity>
+              <otherIdentifierOfIdentity>
+                <type>Archaeology Data Service</type>
+                <identifier>22224</identifier>
+                <source>BL</source>
+              </otherIdentifierOfIdentity>
+              <otherIdentifierOfIdentity>
+                <type>VIAF</type>
+                <identifier>39386390</identifier>
+                <source>OCLCT</source>
+              </otherIdentifierOfIdentity>
+              <sources>
+                <codeOfSource>BL</codeOfSource>
+                <sourceIdentifier>Beyond Notability Q1691</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>OCLCT</codeOfSource>
+                <sourceIdentifier>803837344</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>OCLCT</codeOfSource>
+                <sourceIdentifier>490286462</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>VIAF</codeOfSource>
+                <sourceIdentifier>39386390</sourceIdentifier>
+                <reference>
+                  <class>ALL</class>
+                  <role>CRE</role>
+                  <URI>http://viaf.org/viaf/39386390</URI>
+                </reference>
+              </sources>
+              <sources>
+                <codeOfSource>BNF</codeOfSource>
+                <sourceIdentifier>11989368</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NTA</codeOfSource>
+                <sourceIdentifier>074600753</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>BAnQ</codeOfSource>
+                <sourceIdentifier>0000056992</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>NLN</codeOfSource>
+                <sourceIdentifier>90409763</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>LCNACO</codeOfSource>
+                <sourceIdentifier>n  50029565</sourceIdentifier>
+              </sources>
+              <sources>
+                <codeOfSource>KBR</codeOfSource>
+                <sourceIdentifier>14306682</sourceIdentifier>
+              </sources>
+              <externalInformation>
+                <URI>https://beyond-notability.wikibase.cloud/wiki/Item:Q1691</URI>
+              </externalInformation>
+              <externalInformation>
+                <URI>https://www.wikidata.org/wiki/Q3425971</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://da.wikipedia.org/wiki/Françoise_Henry</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://en.wikipedia.org/wiki/Françoise_Henry</URI>
+              </externalInformation>
+              <externalInformation>
+                <information>Wikipedia</information>
+                <URI>https://no.wikipedia.org/wiki/Françoise_Henry</URI>
+              </externalInformation>
+            </ISNIMetadata>
+          </ISNIAssigned>
+        </responseRecord>
+      </srw:recordData>
+      <srw:recordPosition>1</srw:recordPosition>
+    </srw:record>
+  </srw:records>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.1</srw:version>
+    <srw:query>pica.isn+%3D+%220000000107799693%22</srw:query>
+    <srw:xQuery>
+      <xcql:searchClause>
+        <xcql:index>pica.isn</xcql:index>
+        <xcql:relation>
+          <xcql:value>=</xcql:value>
+        </xcql:relation>
+        <xcql:term>"0000000107799693"</xcql:term>
+      </xcql:searchClause>
+    </srw:xQuery>
+    <startRecord>1</startRecord>
+    <maximumRecords>10</maximumRecords>
+    <srw:recordPacking>xml</srw:recordPacking>
+    <srw:recordSchema>isni-b</srw:recordSchema>
+    <srw:stylesheet>http://isni.oclc.org/sru/DB=1.2/?xsl=searchRetrieveResponse</srw:stylesheet>
+  </srw:echoedSearchRetrieveRequest>
+  <diag:diagnostics>
+    <diag:uri>info:srw/diagnostic/1/0</diag:uri>
+  </diag:diagnostics>
+  <srw:extraResponseData>
+    <rob:authenticationToken xmlns:rob="info:srw/extension/2/auth-1.0">U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E3cee1a92-cd,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R86.149.100.20,FY</rob:authenticationToken>
+    <mg:resultGrouping xmlns:mg="info:srw/extension/5/metadata-grouping-v1.0">
+      <mg:grouping key="9021" description="ISNI status (ST:)"/>
+      <mg:grouping key="9001" description="Material Code (MTC:)"/>
+      <mg:grouping key="9000" description="Year of Birth (YOB:)"/>
+      <mg:grouping key="9029" description="Source Count (SC:)"/>
+      <mg:grouping key="9022" description="Creation class (CC:)"/>
+      <mg:grouping key="9028" description="Creation Role (CR:)"/>
+    </mg:resultGrouping>
+  </srw:extraResponseData>
+</srw:searchRetrieveResponse>

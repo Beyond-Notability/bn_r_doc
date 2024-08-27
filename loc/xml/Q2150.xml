@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/">
+  <zs:version>1.1</zs:version>
+  <zs:numberOfRecords>4</zs:numberOfRecords>
+  <zs:records>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01797cam a22003131  4500</leader>
+          <controlfield tag="001">3581883</controlfield>
+          <controlfield tag="005">20100719124304.0</controlfield>
+          <controlfield tag="008">830920s1943    ilu      d    000 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   43051260</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="e">CatRefProj bd08 2009-09-15</subfield>
+            <subfield code="e">CatRefProj he09 2010-01-06</subfield>
+            <subfield code="e">CatRefProj hh14 2010-05-25</subfield>
+            <subfield code="g">ff05 2010-07-14 CatRefProj updated</subfield>
+            <subfield code="e">CatRefProj he09 2010-07-19</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   43051260 </subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC/ICU</subfield>
+            <subfield code="c">ICU</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z1006</subfield>
+            <subfield code="b">.A5</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">020.3</subfield>
+          </datafield>
+          <datafield tag="110" ind1="2" ind2=" ">
+            <subfield code="a">American Library Association.</subfield>
+            <subfield code="b">Committee on library terminology.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">A.L.A. glossary of library terms,</subfield>
+            <subfield code="b">with a selection of terms in related fields,</subfield>
+            <subfield code="c">prepared under the direction of the Committee on library terminology of the American Library Association by Elizabeth H. Thompson.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Chicago, Ill.,</subfield>
+            <subfield code="b">American library association,</subfield>
+            <subfield code="c">1943.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">viii, 159, [1] p.</subfield>
+            <subfield code="c">25 cm.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Library science</subfield>
+            <subfield code="x">Dictionaries.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Thompson, Elizabeth H.</subfield>
+            <subfield code="q">(Elizabeth Hardy),</subfield>
+            <subfield code="d">1885-</subfield>
+            <subfield code="e">ed.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5</subfield>
+            <subfield code="p">00002052763</subfield>
+            <subfield code="t">Copy 24</subfield>
+            <subfield code="w">CCF</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5</subfield>
+            <subfield code="p">00002052751</subfield>
+            <subfield code="t">Copy 50</subfield>
+            <subfield code="w">CCF</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">r-CatRef</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5 c. 54</subfield>
+            <subfield code="t">Copy C</subfield>
+            <subfield code="m">GenIntl (LM533)</subfield>
+            <subfield code="z">CatRef has: c. 32 assgd to Serials</subfield>
+            <subfield code="w">GenBib bi 95-007107</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">r-CatRef</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5 c. 55</subfield>
+            <subfield code="t">Copy C</subfield>
+            <subfield code="m">ChiefRCCD (LM535)</subfield>
+            <subfield code="z">Item missing from coll 10/7/82</subfield>
+            <subfield code="w">GenBib bi 95-022882</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">r-CatRef</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5 c. 56</subfield>
+            <subfield code="t">Copy C</subfield>
+            <subfield code="m">GenIntl (LM533)</subfield>
+            <subfield code="z">CatRef has: x-copy in U.S. (in Misc. lang. sect)</subfield>
+            <subfield code="w">GenBib bi 95-007108</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">r-CatRef</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5</subfield>
+            <subfield code="t">Copy 57</subfield>
+            <subfield code="m">USAN Rare</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">r-CatRef</subfield>
+            <subfield code="h">Z1006</subfield>
+            <subfield code="i">.A5</subfield>
+            <subfield code="m">ChiRCCD (LM534)</subfield>
+            <subfield code="z">Cat Ref has: Copy 42, C. 28, Chief DCD; C. 41, Bibl.; C. 2 OF.</subfield>
+            <subfield code="w">GenBib bi 95-023717</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>1</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01494cam a22003377a 4500</leader>
+          <controlfield tag="001">11974193</controlfield>
+          <controlfield tag="005">20010806140249.0</controlfield>
+          <controlfield tag="008">000413s2000    vtua          001 0 eng d</controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DLC)11974193</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">3</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">marcadia import</subfield>
+            <subfield code="i">jv08 2001-07-30</subfield>
+            <subfield code="e">jv05 2001-07-30 to Dewey</subfield>
+            <subfield code="a">aa03 2001-08-06</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   00103493 </subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">158465077X</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NNF</subfield>
+            <subfield code="c">NNF</subfield>
+            <subfield code="d">*BOH*</subfield>
+            <subfield code="d">CStRLIN</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">n-us-vt</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">QH105.V7</subfield>
+            <subfield code="b">T38 2000</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">508.743</subfield>
+            <subfield code="2">21</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Thompson, Elizabeth H.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Wetland, woodland, wildland :</subfield>
+            <subfield code="b">a guide to the natural communities of Vermont /</subfield>
+            <subfield code="c">Elizabeth H. Thompson and Eric R. Sorenson ; illustrated by Libby Davidson, Betsy Brigham, and Darien McElwain.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Montpelier, Vt.] :</subfield>
+            <subfield code="b">Vermont Dept. of Fish and Wildlife and the Nature Conservancy ;</subfield>
+            <subfield code="a">Hanover, NH :</subfield>
+            <subfield code="b">Distributed by University Press of New England,</subfield>
+            <subfield code="c">c2000.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xi, 456 p. :</subfield>
+            <subfield code="b">ill. (some col.), maps ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+          </datafield>
+          <datafield tag="440" ind1=" " ind2="0">
+            <subfield code="a">Middlebury bicentennial series in environmental studies</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. 387-394) and index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Biotic communities</subfield>
+            <subfield code="z">Vermont.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Natural history</subfield>
+            <subfield code="z">Vermont.</subfield>
+          </datafield>
+          <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Vermont</subfield>
+            <subfield code="x">Environmental conditions.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Sorenson, Eric R.</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">pc16 04-13-00; 2 copies to ASCD pb08 12-15-00; jb00 12-19-00</subfield>
+          </datafield>
+          <datafield tag="985" ind1=" " ind2=" ">
+            <subfield code="a">rlin</subfield>
+            <subfield code="c">rlin</subfield>
+            <subfield code="e">marcadia</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>2</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00619cam a22001817a 4500</leader>
+          <controlfield tag="001">13663505</controlfield>
+          <controlfield tag="005">20050808065620.0</controlfield>
+          <controlfield tag="008">040723s1923    onca          000 0 eng  </controlfield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">4</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+          </datafield>
+          <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">nh07, 7-23-04 to SSCD</subfield>
+            <subfield code="h">sc19 2005-08-05 to shelf</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2004366766</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">MLCS 2005/04824 (G)</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Thompson, W. J.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Common sense golf /</subfield>
+            <subfield code="c">W.J. Thompson ; illustrated with drawings of the author in action.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Toronto :</subfield>
+            <subfield code="b">Thomas Allen,</subfield>
+            <subfield code="c">1923.</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">147 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>3</zs:recordPosition>
+    </zs:record>
+    <zs:record>
+      <zs:recordSchema/>
+      <zs:recordPacking>xml</zs:recordPacking>
+      <zs:recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00829nam a2200265 i 4500</leader>
+          <controlfield tag="001">1275913</controlfield>
+          <controlfield tag="005">19760605000000.0</controlfield>
+          <controlfield tag="008">760515s1974    enkab    b    001 0 eng  </controlfield>
+          <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   75307004</subfield>
+          </datafield>
+          <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">u</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+          </datafield>
+          <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   75307004 </subfield>
+          </datafield>
+          <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB74-30382</subfield>
+          </datafield>
+          <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">090348515X :</subfield>
+            <subfield code="c">£2.40</subfield>
+          </datafield>
+          <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+          </datafield>
+          <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+          </datafield>
+          <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">T26.G72</subfield>
+            <subfield code="b">S77</subfield>
+          </datafield>
+          <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">609/.424/6</subfield>
+          </datafield>
+          <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Thompson, W. J.</subfield>
+          </datafield>
+          <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Industrial archaeology of North Staffordshire /</subfield>
+            <subfield code="c">W. J. Thompson.</subfield>
+          </datafield>
+          <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Buxton :</subfield>
+            <subfield code="b">Moorland Publishing Co.,</subfield>
+            <subfield code="c">[1974]</subfield>
+          </datafield>
+          <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">168 p. :</subfield>
+            <subfield code="b">ill., maps ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+          </datafield>
+          <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 160.</subfield>
+          </datafield>
+          <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+          </datafield>
+          <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Industrial archaeology</subfield>
+            <subfield code="z">England</subfield>
+            <subfield code="z">Staffordshire.</subfield>
+          </datafield>
+          <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">T26.G72</subfield>
+            <subfield code="i">S77</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+          </datafield>
+        </record>
+      </zs:recordData>
+      <zs:recordPosition>4</zs:recordPosition>
+    </zs:record>
+  </zs:records>
+  <zs:echoedSearchRetrieveRequest>
+    <zs:version>1.1</zs:version>
+    <zs:query>dc.creator="Thompson, W. J." or dc.creator="Gadesden, Elizabeth H." or dc.creator="Thompson, Elizabeth H."</zs:query>
+    <zs:maximumRecords>100</zs:maximumRecords>
+    <zs:recordPacking>xml</zs:recordPacking>
+  </zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>
