@@ -1,4 +1,4 @@
-- # A bibliographic dataset for Beyond Notability
+# A bibliographic dataset for Beyond Notability
 
 ## Introduction
 
