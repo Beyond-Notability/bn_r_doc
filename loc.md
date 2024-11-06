@@ -331,7 +331,7 @@ There are three `name` types: author, editor and translator
 ### versions
 
 
-1. JSON (per work)
+#### 1. JSON (per work)
 
 `loc/outputs/loc_bn_records.json`
 
@@ -356,7 +356,7 @@ This aims to preserve as much information as possible, so it contains nested fie
 
 
 
-2. BibTex (per work)
+#### 2. BibTex (per work)
 
 `loc/outputs/loc_bn_records.bib`
 
@@ -387,7 +387,7 @@ notes:
 - `libraryCatalog` and `callNumber` may not import into Zotero quite as expected (this was not for want of trying!)
 
 
-3. CSV (per BN person-per work)
+#### 3. CSV (per BN person-per work)
 
 `loc/outputs/loc_bn_names_records.csv`
 
