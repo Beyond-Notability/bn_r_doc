@@ -1,0 +1,460 @@
+---
+title: "SAL spreadsheet"
+author: "Sharon"
+date: "2024-08-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Notes on the data
+
+### information included
+
+- ID in BN wikibase 
+- full name label in wikibase
+- year of birth if known
+- year of death if known
+- family surname at birth (if present)
+- married surname(s) (if present) (pipe separated list) 
+- educated at (pipe separated list of institutions) 
+- resided at (pipe separated list of placenames (not precise addresses)) 
+- was an FSA (yes/no/failed)
+- was an RAI member (yes/no) 
+- external IDs
+  - ISNI 
+  - VIAF
+  - ADS
+  - Wikidata
+- BN URL
+
+### comments
+
+Several columns contain multiple pieces of information; these are separated with a | symbol.
+
+FSAs: "no" means that BN has no record of any attempt at election to SAL; "failed" means that BN has at least one record of standing for election but not successfully. The BN cutoff date for recording elections is ?1950?: most unsuccessful candidates seem to have tried again, and usually succeeded, so it's likely that at least some of the "failed" did become FSAs at some point after ?1950?.
+
+
+## Notes on running the code
+
+The easiest way to run this is Run All chunks in RStudio. 
+
+(Check that you have the various packages listed under set up installed; not all are standard tidyverse.)
+
+NB:
+
+1. The last but one section of code provides some quick checks of problems that are liable to occur with this process. 
+
+2. The final code chunk to actually write to an XLSX file is deliberately commented out so it won't run automatically. 
+
+
+
+
+## set up
+
+
+```{r libraries-etc}
+
+# packages that need to be installed
+library(readxl) 
+library(writexl)
+library(janitor)
+library(glue)
+library(tidytext)
+library(tidyverse)
+
+# this is the only package not available on CRAN.
+# remotes::install_github("aourednik/SPARQLchunks", build_vignettes = TRUE)
+library(SPARQLchunks) 
+
+
+# functions and stuff
+
+# for single column named date; needs to be in wikibase format. won't work on edtf.
+make_date_year <-function(data){
+  data  |>
+    mutate(date = if_else(str_detect(date, "^_:t"), NA, date))  |>
+    mutate(date = parse_date_time(date, "ymdHMS"))  |>
+    mutate(year = year(date))
+}
+
+# today's date as a string, for filenames
+today_date_ymd <- function(){
+  format(Sys.time(), "%Y%m%d") 
+}
+
+# a standard query using bn_prefixes and bn_endpoint. sparql= 'query string *without prefixes*'
+bn_std_query <- function(sparql){
+  c(paste(
+    bn_prefixes,
+    sparql
+  )) |>
+    sparql2df(endpoint=bn_endpoint) 
+}
+
+#mutate(across(c(a, b), ~str_extract(., "([^/]*$)") )) 
+# make an ID out of a wikibase item URL. v is often but not always person. could be eg item, place, woman, etc.
+make_bn_item_id <- function(df, v) {
+  df |>
+    mutate(bn_id = str_extract({{v}}, "([^/]*$)")) |>
+    relocate(bn_id)
+}
+
+# use across to extract IDs from URLs for 1 or more cols, no renaming or relocating
+# across_cols can be any tidy-select kind of thing
+make_bn_ids <- function(data, across_cols=NULL, ...) {
+  data |>
+    mutate(across({{across_cols}}, ~str_extract(., "([^/]*$)")))
+}
+
+
+## turn <uv> into NA.
+uv_to_na_across <- function(data, across_cols=NULL, ...) {
+  data |>
+    mutate(across({{across_cols}}, ~if_else(str_detect(., "^(_:)?t\\d+$"), NA, . ) ))
+}
+
+
+## endpoint URL
+
+bn_endpoint <- "https://beyond-notability.wikibase.cloud/query/sparql"
+
+## prefixes 
+
+bn_prefixes <- 
+"PREFIX bnwd: <https://beyond-notability.wikibase.cloud/entity/>
+PREFIX bnwds: <https://beyond-notability.wikibase.cloud/entity/statement/>
+PREFIX bnwdv: <https://beyond-notability.wikibase.cloud/value/>
+PREFIX bnwdt: <https://beyond-notability.wikibase.cloud/prop/direct/>
+PREFIX bnp: <https://beyond-notability.wikibase.cloud/prop/>
+PREFIX bnps: <https://beyond-notability.wikibase.cloud/prop/statement/>
+PREFIX bnpq: <https://beyond-notability.wikibase.cloud/prop/qualifier/> 
+PREFIX bnpsv: <https://beyond-notability.wikibase.cloud/prop/statement/value/>
+PREFIX bnpqv: <https://beyond-notability.wikibase.cloud/prop/qualifier/value/>
+PREFIX bnwdref: <https://beyond-notability.wikibase.cloud/reference/>
+PREFIX bnpr: <https://beyond-notability.wikibase.cloud/prop/reference/>
+PREFIX bnprv: <https://beyond-notability.wikibase.cloud/prop/reference/value/>
+"
+
+
+
+```
+
+## initial query
+
+
+```{r}
+
+# initial query to get (nearly) all the desired variables
+# separated out fsa election
+
+for_sal_sparql <-
+'SELECT ?person ?personLabel ?statements
+?is_RAI 
+?dob ?dod 
+?birth_name ?married_name 
+?educatedLabel
+?residedLabel
+?fellow_ofLabel
+?wikidata_ID ?viaf_str ?ads_ID ?isni_ID
+
+WHERE {
+  ?person bnwdt:P3 bnwd:Q3 ;
+         wikibase:statements ?statements .
+   FILTER NOT EXISTS {?person bnwdt:P4 bnwd:Q12 .} 
+  
+  optional {
+  ?person bnp:P7 ?RAIstatement .
+  ?RAIstatement bnpq:P22 ?RAIelected .
+    ?RAIstatement bnpq:P22 bnwd:Q36 .
+    BIND(BOUND(?RAIelected) AS ?is_RAI).
+  }
+  
+   optional { ?person bnwdt:P26 ?dob .  }
+   optional { ?person bnwdt:P15 ?dod .  }
+  
+  # birth name P140 married name P141
+  optional { ?person bnwdt:P140 ?birth_name . }
+  optional { ?person bnwdt:P141 ?married_name .}
+  
+  # P94 educated at
+  optional { ?person bnwdt:P94 ?educated . }
+  
+  # P29 resided at
+  optional { ?person bnwdt:P29 ?resided . }
+  
+  # P75 was fellow of
+  optional { ?person bnwdt:P75 ?fellow_of . }
+  
+    OPTIONAL {?person bnwdt:P117 ?wikidata_ID .}          # wikidata ID
+    OPTIONAL 
+      {?person bnwdt:P119 ?viaf_ID .
+        BIND(concat("idstr:", ?viaf_ID) as ?viaf_str )    # VIAF ID. a hack because R mucks up some very long strings
+      }                 
+    OPTIONAL {?person bnwdt:P34 ?ads_ID .}                   # Archaeological Data Service ID(s)
+    OPTIONAL {?person bnwdt:P125 ?isni_ID .}             # ISNI ID
+
+  SERVICE wikibase:label {
+      bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en,en-gb".
+    }
+}'
+
+# ads_ID is integer... i'm sure it wasnt before... 
+for_sal_query <-
+  bn_std_query(for_sal_sparql) |>
+  make_bn_item_id(person) |>
+  # replace borked viaf ids
+  mutate(viaf_ID = str_remove(viaf_str, "idstr:"))  |>
+  # turn blanks into NAs
+  mutate(across(where(is.character), ~na_if(., ""))) |>
+  uv_to_na_across(c(educatedLabel, residedLabel, fellow_ofLabel)) |>
+  select(-person)
+
+
+## FSA election needs a separate query
+
+# optional shouldn't be needed for date or elected
+fsa_sparql <-
+  'SELECT distinct ?person ?date ?electedLabel
+WHERE {  
+  ?person bnp:P16 ?SALstatement .
+  ?SALstatement bnps:P16 ?SALproposed .
+      ?SALstatement bnpq:P1 ?date .
+      ?SALstatement bnpq:P22 ?elected .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en,en-gb". } 
+}'
+
+fsa_query <-
+  bn_std_query(fsa_sparql) |>
+  make_bn_ids(person) |>
+  make_date_year()
+
+
+
+## get the list started
+for_sal_person <-
+  for_sal_query |> 
+  distinct(bn_id, personLabel, statements, is_RAI, birth_name, isni_ID, viaf_ID) |>
+  mutate(bn_url = glue("https://beyond-notability.wikibase.cloud/wiki/Item:{bn_id}")) |>
+  left_join(
+    fsa_query |>
+      group_by(person) |>
+      top_n(1, date) |>
+      ungroup() |> select(person, electedLabel), by=c("bn_id"="person")
+  ) |>
+  # "failed" for a handful of women who didn't succeed in bid for election
+  # most of them were very late in BN records so may have been successful at a later attempt
+  mutate(is_FSA = case_when(
+    electedLabel=="successful" ~ "yes",
+    electedLabel=="not successful" ~ "failed",
+    .default = "no"
+  )) |>
+  mutate(is_RAI = case_when(
+    is_RAI=="true" ~ "yes",
+    .default = "no"
+  )) |>
+  relocate(is_FSA, .before = is_RAI) |>
+  select(-electedLabel)
+
+```
+
+
+
+
+## resided at 
+
+```{r}
+for_sal_resided <-
+for_sal_query |>
+  distinct(bn_id, residedLabel) |>
+  filter(!is.na(residedLabel)) |>
+  group_by(bn_id) |>
+  arrange(residedLabel, .by_group = T) |>
+  summarise(resided = glue_collapse(residedLabel, sep=" || ")) |>
+  ungroup()
+```
+
+
+
+## educated at
+
+
+```{r}
+for_sal_educated <-
+for_sal_query |>
+  distinct(bn_id, educatedLabel) |>
+  filter(!is.na(educatedLabel)) |>
+  group_by(bn_id) |>
+  arrange(educatedLabel, .by_group = T) |>
+  summarise(educated = glue_collapse(educatedLabel, sep=" || ")) |>
+  ungroup()
+```
+
+
+
+## fellows
+
+```{r}
+for_sal_fellow <-
+for_sal_query |>
+  distinct(bn_id, fellow_ofLabel)  |>
+  filter(!is.na(fellow_ofLabel)) |>
+  group_by(bn_id) |>
+  arrange(fellow_ofLabel, .by_group = T) |>
+  summarise(fellow = glue_collapse(fellow_ofLabel, sep=" || ")) |>
+  ungroup()
+```
+
+
+
+
+
+## married names
+
+```{r}
+for_sal_married <-
+for_sal_query |>
+  distinct(bn_id, married_name) |>
+  filter(!is.na(married_name)) |>
+  group_by(bn_id) |>
+  arrange(married_name, .by_group = T) |>
+  summarise(married_names= glue_collapse(married_name, sep=" || ")) |>
+  ungroup()
+```
+
+
+
+
+## birth/death
+
+
+```{r}
+for_sal_death <-
+for_sal_query |>
+  mutate(death = year(parse_date_time(dod, "ymdHMS"))) |>
+  distinct(bn_id, death)
+
+
+for_sal_birth <-
+for_sal_query |>
+  mutate(birth = year(parse_date_time(dob, "ymdHMS"))) |>
+  distinct(bn_id, birth) |>
+  group_by(bn_id) |>
+  top_n(-1, birth) |>
+  ungroup()
+```
+
+
+
+
+
+
+## IDs
+
+
+```{r}
+for_sal_wd <-
+for_sal_query |>
+  distinct(bn_id, wikidata_ID) |>
+  filter(!is.na(wikidata_ID)) |>
+  group_by(bn_id) |>
+  top_n(1, row_number()) |>
+  ungroup()
+
+
+for_sal_ads <-
+for_sal_query |>
+  distinct(bn_id, ads_ID) |>
+  filter(!is.na(ads_ID)) |>
+  group_by(bn_id) |>
+  arrange(ads_ID, .by_group = T) |>
+  summarise(ads_IDs = paste(unique(ads_ID), collapse = " || ")) |>
+  ungroup()
+```
+
+
+
+## put them together
+
+
+```{r}
+for_sal_everything <-
+for_sal_person |>
+  left_join(for_sal_ads, by="bn_id") |>
+  left_join(for_sal_wd, by="bn_id") |>
+  left_join(for_sal_birth, by="bn_id") |>
+  left_join(for_sal_death, by="bn_id") |>
+  left_join(for_sal_educated, by="bn_id") |>
+  left_join(for_sal_resided, by="bn_id") |>
+  left_join(for_sal_fellow, by="bn_id") |>
+  left_join(for_sal_married, by="bn_id") |>
+  relocate(contains("_ID", ignore.case=FALSE), bn_url, .after = last_col()) |>
+  relocate(birth, death, birth_name, married_names, .after = statements) |>
+  rename(name=personLabel) |>
+  arrange(name)
+```
+
+
+## checks before writing xlsx
+
+if any of these produce unexpected results send an email to SH (or raise a Github issue and @ me).
+
+- no more than one row per Q id [should be 0 results]
+
+```{r}
+for_sal_everything |>
+  add_count(bn_id) |> 
+  filter(n>1)
+```
+
+
+- no one has gone missing [should be 0 results]
+
+```{r}
+bn_all_women_sparql <-
+  'SELECT distinct ?person ?personLabel
+WHERE {
+   ?person bnwdt:P3 bnwd:Q3 .
+   FILTER NOT EXISTS {?person bnwdt:P4 bnwd:Q12 .}
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en,en-gb". } 
+}'
+
+# minimal processing to use as a basic list of all women or for dob/dod
+# this has some dups because a few women have more than one date
+bn_all_women_query <-
+  bn_std_query(bn_all_women_sparql) |>
+  make_bn_item_id(person) |>
+  select(bn_id, personLabel) 
+
+
+bn_all_women_query |>
+  anti_join(for_sal_everything, by="bn_id")
+```
+
+- check that glueing hasn't introduced any rogue "NA" strings [should be 0 results]
+
+```{r}
+for_sal_everything |>
+  filter(if_any(c(married_names, educated, resided, fellow, bn_url), ~str_detect(., "\\bNA\\b")))
+```
+
+
+
+## write xlsx [COMMENTED OUT]
+
+uncomment to run when ready
+
+saves datestamped XLSX *in the same folder as this rmd*.
+
+requires {writexl} package
+
+```{r}
+ 
+# for_sal_everything |>
+#   write_xlsx(paste0("bn_women_for_sal_v", today_date_ymd(), ".xlsx"), format_headers = F)
+```
+
+
+
