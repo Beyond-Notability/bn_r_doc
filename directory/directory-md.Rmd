@@ -1,0 +1,72 @@
+---
+title: "Beyond Notability: An Alphabetical Directory of Women"
+author:
+  - Katherine Harloe
+  - Amara Thornton
+  - Sharon Howard
+date: "`r format(Sys.time(), '%d %B %Y')`"
+---
+
+# Beyond Notability: An Alphabetical Directory of Women
+
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+
+```{r about-this-rmd}
+
+## see readme.md for more general info.
+
+## prerequisites ##
+
+## There are two required files (which should be located in the same folder as this file):
+## 'child' file: introduction.md
+## R script: directory.R
+
+
+## this Rmd file (*directory-md.Rmd*) is designed to produce the Directory in a simple .markdown format
+## See *directory-pdf.Rmd* for an alternative version optimised to create a .pdf.
+
+
+
+## example rmarkdown::render() to execute in the RStudio console. 
+
+## This example creates a dated markdown file in the output/ folder, using Github-flavour markdown and retaining the yaml metadata.
+## I recommend restarting R before using Knit or render() to ensure a clean session.
+
+## rmarkdown::render(here::here("directory/directory-md.Rmd"), output_dir= here::here("directory/output/"), output_file=paste0("directory_", format(Sys.time(), "%Y%m%d") ), rmarkdown::md_document(variant = "gfm", preserve_yaml = TRUE))
+
+## see https://pkgs.rstudio.com/rmarkdown/reference/md_document.html
+```
+
+
+## Introduction
+
+*By Katherine Harloe and Amara Thornton*
+
+
+```{r introduction-text, child='introduction.md'}
+```
+
+
+
+## The Directory 
+
+*Code by Sharon Howard*
+
+
+```{r code-and-output, results='asis'}
+
+source(here::here("directory/directory.R"))
+
+# results=asis chunk option enables Markdown formatting in output
+# https://bookdown.org/yihui/rmarkdown/r-code.html
+
+#bn_output
+
+```
+
+

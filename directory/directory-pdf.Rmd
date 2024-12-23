@@ -1,0 +1,89 @@
+---
+title: Beyond Notability  
+subtitle: "An Alphabetical Directory of Women"
+author:
+  - Katherine Harloe
+  - Amara Thornton
+  - Sharon Howard
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  pdf_document: default
+documentclass: book
+classoption: oneside
+geometry: margin=3.5cm
+linestretch: 1.15
+header-includes:
+  - \usepackage{titling}
+  - \pretitle{\begin{center}
+    \includegraphics[width=2in,height=2in]{bnlogo.png}\LARGE\\}
+  - \posttitle{\end{center}}
+---
+
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+
+```{r about-this-rmd}
+
+## see readme.md for more info
+
+## prerequisites ##
+
+## there are three required files (which should be located in the same folder as this one):
+## logo image file: bnlogo.png
+## 'child' file: introduction.md
+## R script: directory.R
+
+## this Rmd (*directory-pdf.Rmd*) is designed to create a .pdf version of the Directory.
+## see *directory-md.Rmd* for an alternative to make the Directory in a simple .markdown format
+
+
+## example rmarkdown::render() to execute in the RStudio console for greater control over output than the Knit button. This example creates a dated pdf file in the output/ folder.
+
+## rmarkdown::render(here::here("directory/directory-pdf.Rmd"), output_dir = here::here("directory/output/"), output_file=paste0("directory_", format(Sys.time(), "%Y%m%d")), rmarkdown::pdf_document())  
+
+## see https://pkgs.rstudio.com/rmarkdown/reference/pdf_document.html
+
+## NB the logo image is inserted via header-includes in the YAML metadata chunk at the top of the file. 
+# If you have problems compiling the PDF and you can see LaTeX error messages about the 'titling' package try googling the error message to see if you get a solution, or simply delete these five lines to drop the image.
+
+# header-includes:
+#   - \usepackage{titling}
+#   - \pretitle{\begin{center}
+#     \includegraphics[width=2in,height=2in]{bnlogo.png}\LARGE\\}
+#   - \posttitle{\end{center}}
+```
+
+
+
+
+
+## Introduction
+
+*By Katherine Harloe and Amara Thornton*
+
+```{r introduction-text, child='introduction.md'}
+```
+
+
+\newpage
+
+## The Directory 
+
+*Code by Sharon Howard*
+
+
+```{r code-and-output, results='asis'}
+
+source(here::here("directory/directory.R"))
+
+# results=asis chunk option enables Markdown formatting in output
+# https://bookdown.org/yihui/rmarkdown/r-code.html
+
+bn_output
+
+```
+
